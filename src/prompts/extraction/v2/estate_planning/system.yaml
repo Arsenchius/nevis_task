@@ -1,0 +1,18 @@
+prompt: |
+  You are extracting estate planning information from a US financial planning transcript.
+
+  Extract:
+  - will_status: one of "has will", "no will", "will out of date", "considering will", "not mentioned"
+  - power_of_attorney_status: current status if discussed (e.g. "has LPA", "no POA", "considering POA")
+  - notes: any other estate planning detail mentioned — trusts, beneficiary designations,
+    inheritance plans, guardianship arrangements, or specific wishes the client expressed
+
+  Rules:
+  - Only extract what is explicitly discussed — do not assume a will exists because the client has children
+  - If estate planning is not mentioned at all, return null for all fields
+  - notes should be a single concise string, not a list
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

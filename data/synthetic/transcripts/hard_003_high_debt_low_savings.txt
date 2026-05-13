@@ -1,0 +1,232 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Caroline Henderson
+  - id: client
+    name: Kwame Bailey
+---
+ADVISOR: [00:00:03] Hi both, it’s Megan Carter here. Can you hear me okay?
+
+CLIENT1: [00:00:07] Yep, loud and clear.
+
+CLIENT2: [00:00:09] Yeah, all good.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got the right people, I’ve got Caroline Henderson and Kwame Bailey?
+
+CLIENT1: [00:00:18] That’s us, yeah.
+
+CLIENT2: [00:00:20] Right.
+
+ADVISOR: [00:00:23] Perfect. Caroline, can I start with you? What’s your date of birth?
+
+CLIENT1: [00:00:29] Uh, 17th of April, 1981.
+
+ADVISOR: [00:00:34] Thanks. And Kwame?
+
+CLIENT2: [00:00:37] Third of September, 1979.
+
+ADVISOR: [00:00:41] Brilliant. And you’re living together, is that right?
+
+CLIENT1: [00:00:45] Yeah, cohabiting.
+
+CLIENT2: [00:00:47] Yeah.
+
+ADVISOR: [00:00:50] Okay. And just for the file, are you both US tax residents?
+
+CLIENT1: [00:00:55] Yes.
+
+CLIENT2: [00:00:56] Yeah, both of us.
+
+ADVISOR: [00:01:00] Good. Caroline, what do you do at the moment?
+
+CLIENT1: [00:01:04] I’m a project manager. I work for a regional healthcare company.
+
+ADVISOR: [00:01:10] Healthcare company, okay. And how long have you been there?
+
+CLIENT1: [00:01:14] Since 2017. I think… yes, 2017.
+
+ADVISOR: [00:01:18] Great. And Kwame?
+
+CLIENT2: [00:01:21] I’m a warehouse supervisor at a logistics firm.
+
+ADVISOR: [00:01:26] Got it. And you started there when?
+
+CLIENT2: [00:01:29] 2019.
+
+ADVISOR: [00:01:31] Perfect. Roughly what are your salaries before tax? Caroline, you first.
+
+CLIENT1: [00:01:37] About 62k.
+
+ADVISOR: [00:01:40] And Kwame?
+
+CLIENT2: [00:01:42] 48k.
+
+ADVISOR: [00:01:44] Okay. Any other regular income that we should count as household income? Overtime, bonuses, anything like that?
+
+CLIENT2: [00:01:52] There’s a bit of overtime, and sometimes a bonus. It’s not steady though.
+
+CLIENT1: [00:01:57] Yeah, not every month.
+
+ADVISOR: [00:01:59] No, that’s fine — just an annual rough figure is helpful.
+
+CLIENT2: [00:02:03] Maybe about 3k a year. Give or take.
+
+ADVISOR: [00:02:07] Great. Let’s talk through your monthly spending. What’s the rent at the moment?
+
+CLIENT1: [00:02:14] 1,850.
+
+ADVISOR: [00:02:17] Okay. Utilities?
+
+CLIENT2: [00:02:20] Around 260, maybe a little under some months.
+
+ADVISOR: [00:02:24] And groceries?
+
+CLIENT1: [00:02:27] Seven hundred.
+
+ADVISOR: [00:02:30] Transportation, gas, commuting?
+
+CLIENT2: [00:02:34] About 320.
+
+ADVISOR: [00:02:37] Car insurance?
+
+CLIENT1: [00:02:40] 145.
+
+ADVISOR: [00:02:42] And then I’m seeing debt payments are a big one. Roughly what are you paying each month across minimums?
+
+CLIENT2: [00:02:49] Um… roughly 780 altogether.
+
+CLIENT1: [00:02:53] Yeah, that sounds right.
+
+ADVISOR: [00:02:56] Okay. And for non-essentials, eating out, streaming, that kind of thing?
+
+CLIENT1: [00:03:03] Not much, maybe 180.
+
+CLIENT2: [00:03:06] Yeah, we try to keep that down.
+
+ADVISOR: [00:03:09] Understood. I’ll come back to the debts in a second. Before that, do either of you have savings accounts or anything similar?
+
+CLIENT1: [00:03:18] I’ve got a savings account at my local credit union. It’s only about 2.2k.
+
+ADVISOR: [00:03:24] Okay.
+
+CLIENT2: [00:03:25] I’ve got one too, with an online bank. Not much in it though — 800.
+
+ADVISOR: [00:03:31] Right, thanks. Any brokerage or investment account at all?
+
+CLIENT1: [00:03:36] No, none.
+
+CLIENT2: [00:03:38] Yeah, none.
+
+ADVISOR: [00:03:41] Okay. That’s helpful. And I’m not going to go into retirement accounts unless you already have something in place — do you have any 401(k)s or IRAs or anything like that?
+
+CLIENT1: [00:03:50] No, nothing like that.
+
+CLIENT2: [00:03:52] No.
+
+ADVISOR: [00:03:55] Okay. Let’s go to the debt side, because that sounds like the main pressure point. Caroline, do you have any credit cards or loans in your name?
+
+CLIENT1: [00:04:03] Yeah, a Visa card. It’s… kind of ugly right now.
+
+ADVISOR: [00:04:07] Okay, tell me a bit more.
+
+CLIENT1: [00:04:09] Balance is about 8.4k. I think the payment is 220 a month.
+
+ADVISOR: [00:04:14] And do you know the rate on that card?
+
+CLIENT1: [00:04:17] Yeah, 24.9.
+
+ADVISOR: [00:04:20] Oof, okay. Kwame, anything in your name?
+
+CLIENT2: [00:04:24] I’ve got a personal loan through the credit union.
+
+ADVISOR: [00:04:28] Okay. Monthly payment?
+
+CLIENT2: [00:04:30] 310.
+
+ADVISOR: [00:04:32] And the balance?
+
+CLIENT2: [00:04:35] About 12.6k.
+
+ADVISOR: [00:04:37] And interest rate on that one?
+
+CLIENT2: [00:04:40] 11.5%.
+
+ADVISOR: [00:04:43] Got it. Any joint debt between you?
+
+CLIENT1: [00:04:47] Yeah, the car loan is both of us.
+
+ADVISOR: [00:04:50] Okay — monthly payment and balance?
+
+CLIENT2: [00:04:53] 415 a month.
+
+CLIENT1: [00:04:55] Balance is 16.8k.
+
+ADVISOR: [00:04:57] And the rate?
+
+CLIENT2: [00:04:59] 7.2%.
+
+ADVISOR: [00:05:01] Right. So you’re carrying a fair bit of debt, and cash flow sounds tight. What’s the main thing you both want help with first?
+
+CLIENT1: [00:05:10] Honestly, the credit card. We can’t keep carrying that.
+
+CLIENT2: [00:05:14] Yeah, that one first. Then the personal loan.
+
+ADVISOR: [00:05:17] Okay. So if we were setting priorities, the card first, then the loan, and at the same time trying to build a bit of a buffer?
+
+CLIENT1: [00:05:24] Exactly. We need some kind of emergency fund because every time the car needs something or a bill pops up, it goes on the card again.
+
+CLIENT2: [00:05:31] Yeah, that’s the problem.
+
+ADVISOR: [00:05:33] What would “a bit of a buffer” mean to you? What number would make you feel less on edge?
+
+CLIENT1: [00:05:39] I’d like 5k. That feels like… not huge, but enough that we’re not panicking.
+
+CLIENT2: [00:05:45] Yeah, about 5k sounds right.
+
+ADVISOR: [00:05:48] Okay. And is the main goal just to get debt under control, or are you also trying to free up money for something else later on?
+
+CLIENT2: [00:05:56] Mostly just get the monthly pressure down. We’re not trying to take on anything new.
+
+CLIENT1: [00:06:00] Right, and we want a plan we can actually stick to. I don’t want to be guessing every month.
+
+ADVISOR: [00:06:05] That makes sense. When you say you don’t want to take on anything new, is that because you want to stay very safe with money for now?
+
+CLIENT1: [00:06:12] Yeah. Very safe. I’d rather keep things in cash until the debt’s gone down.
+
+CLIENT2: [00:06:16] Same. I don’t like the idea of putting money somewhere and then not being able to touch it.
+
+ADVISOR: [00:06:21] Understood. And just so I’m clear on retirement planning — at what age would you ideally like to stop working, or at least slow down?
+
+CLIENT1: [00:06:30] I keep saying 67.
+
+CLIENT2: [00:06:32] I’d say 65 for me.
+
+ADVISOR: [00:06:35] Okay, Caroline 67 and Kwame 65. Good. Any other big money worries I should know about? Job security, health costs, helping family, anything like that?
+
+CLIENT1: [00:06:46] Mostly just making sure we don’t miss payments. That’s the thing that keeps me up.
+
+CLIENT2: [00:06:50] And not getting stuck using cards for normal stuff.
+
+ADVISOR: [00:06:54] Right. That’s really helpful. One quick check — no mortgage, correct? You’re renting?
+
+CLIENT1: [00:06:59] Yeah, renting.
+
+CLIENT2: [00:07:01] No mortgage.
+
+ADVISOR: [00:07:03] Okay. And just to make sure I’ve got the money picture right, Caroline, your savings at the credit union are about 2.2k, Kwame’s online bank savings are 800, and there isn’t any brokerage account in the background?
+
+CLIENT1: [00:07:14] Correct.
+
+CLIENT2: [00:07:15] Yeah, that’s right.
+
+ADVISOR: [00:07:18] Great. I think I’ve got enough to sketch out a debt-first plan and a small emergency cushion. Anything you want to add before we finish?
+
+CLIENT1: [00:07:27] No, that’s… that’s basically it. Just need help making it less messy.
+
+CLIENT2: [00:07:31] Yeah, if we can get a clear order of attack, that’d be good.
+
+ADVISOR: [00:07:35] Perfect. We’ll work from the card, then the personal loan, and keep some cash aside so you’re not constantly back on the card.

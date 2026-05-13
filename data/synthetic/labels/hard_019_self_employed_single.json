@@ -1,0 +1,338 @@
+{
+  "example_id": "hard_019_self_employed_single",
+  "difficulty": "hard",
+  "archetype_id": "self_employed_single",
+  "challenge_tags": [
+    "advisor_noise",
+    "correction",
+    "date_normalization",
+    "missing_fields",
+    "negation",
+    "numeric_approximate",
+    "numeric_exact",
+    "numeric_range",
+    "objectives_free_form",
+    "owner_attribution"
+  ],
+  "section_targets": [
+    "employment",
+    "expenses",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "other_assets",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/hard_019_self_employed_single.txt",
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Robert",
+        "last_name": "Watts",
+        "date_of_birth": "1990-04-18",
+        "marital_or_relationship_status": "single",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "self_employed",
+        "occupation": "self-employed financial consultant",
+        "employer": "self-employed",
+        "start_date": "2018",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": false,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "business income after expenses",
+        "amount": {
+          "normalized_amount": 95000.0,
+          "lower_bound": 85000.0,
+          "upper_bound": 105000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $85k to $105k a year after business expenses"
+        },
+        "frequency": "annual",
+        "net_or_gross": "net"
+      },
+      {
+        "owner": "client1",
+        "source_name": "occasional consulting bonus work",
+        "amount": {
+          "normalized_amount": 5000.0,
+          "lower_bound": 3000.0,
+          "upper_bound": 7000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $3k-$7k some years"
+        },
+        "frequency": "annual",
+        "net_or_gross": "net"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "business expenses",
+        "owner": "client1",
+        "name": "software, licensing, and office costs",
+        "amount": {
+          "normalized_amount": 1200.0,
+          "lower_bound": 1000.0,
+          "upper_bound": 1400.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $1,200 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "taxes",
+        "owner": "client1",
+        "name": "quarterly estimated tax payments",
+        "amount": {
+          "normalized_amount": 18000.0,
+          "lower_bound": 16000.0,
+          "upper_bound": 20000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $16k to $20k a year"
+        },
+        "frequency": "annual",
+        "is_essential": true
+      },
+      {
+        "category": "housing",
+        "owner": "client1",
+        "name": "rent",
+        "amount": {
+          "normalized_amount": 2200.0,
+          "lower_bound": 2200.0,
+          "upper_bound": 2200.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,200"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": 240.0,
+          "upper_bound": 280.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $240-$280 monthly"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "client1",
+        "name": "travel and dining out",
+        "amount": {
+          "normalized_amount": 450.0,
+          "lower_bound": 400.0,
+          "upper_bound": 500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $400 to $500 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 32000.0,
+          "lower_bound": 30000.0,
+          "upper_bound": 35000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $30k to $35k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Charles Schwab",
+        "current_value": {
+          "normalized_amount": 18000.0,
+          "lower_bound": 18000.0,
+          "upper_bound": 18000.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$18,000"
+        },
+        "cash_value": {
+          "normalized_amount": 2000.0,
+          "lower_bound": 2000.0,
+          "upper_bound": 2000.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,000 cash"
+        },
+        "invested_value": {
+          "normalized_amount": 16000.0,
+          "lower_bound": 16000.0,
+          "upper_bound": 16000.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$16,000 invested"
+        }
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "student loan",
+        "provider": "Nelnet",
+        "monthly_cost": {
+          "normalized_amount": 310.0,
+          "lower_bound": 300.0,
+          "upper_bound": 320.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $300-$320 a month"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 28000.0,
+          "lower_bound": 28000.0,
+          "upper_bound": 28000.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$28,000"
+        },
+        "interest_rate": 4.8,
+        "no_debt": false
+      },
+      {
+        "owner": "client1",
+        "debt_type": "credit card",
+        "provider": null,
+        "monthly_cost": null,
+        "outstanding_balance": {
+          "normalized_amount": 0.0,
+          "lower_bound": 0.0,
+          "upper_bound": 0.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "paid off"
+        },
+        "interest_rate": null,
+        "no_debt": true
+      }
+    ],
+    "other_assets": [
+      {
+        "owner": "client1",
+        "description": "business equipment and laptop",
+        "current_value": {
+          "normalized_amount": 7000.0,
+          "lower_bound": 6000.0,
+          "upper_bound": 8000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "maybe $6k to $8k"
+        },
+        "ownership_share": 100.0
+      }
+    ],
+    "objectives": [
+      {
+        "category": "retirement planning",
+        "description": "Wants to know if current savings are enough to retire comfortably, but is unsure about the right retirement age.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "67",
+        "priority": "high",
+        "status_or_uncertainty": "Uncertain whether retirement contributions are sufficient given variable income."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Wants help reducing tax bills and making estimated tax payments more predictable.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Concerned about quarterly taxes and deductible business expenses."
+      },
+      {
+        "category": "cash flow",
+        "description": "Build a larger emergency fund because income varies month to month.",
+        "target_amount_or_income": {
+          "normalized_amount": 50000.0,
+          "lower_bound": 40000.0,
+          "upper_bound": 60000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $40k-$60k"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Currently has some savings but wants a bigger buffer."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some market volatility for long-term growth, but wants to avoid taking unnecessary risks with money needed for taxes and emergencies.",
+      "preferred_strategy": "Keep tax and emergency cash in savings, invest long-term retirement money in diversified low-cost funds.",
+      "key_concerns": [
+        "Variable self-employed income",
+        "Quarterly tax payments",
+        "Whether retirement savings are on track",
+        "Keeping enough cash available for emergencies"
+      ]
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

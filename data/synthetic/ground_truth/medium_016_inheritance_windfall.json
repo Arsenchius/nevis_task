@@ -1,0 +1,218 @@
+{
+  "example_id": "medium_016_inheritance_windfall",
+  "difficulty": "medium",
+  "archetype_id": "inheritance_windfall",
+  "challenge_tags": [
+    "client2_present",
+    "estate_planning",
+    "missing_fields",
+    "numeric_approximate",
+    "objectives_free_form",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "savings_investments",
+    "other_assets",
+    "objectives",
+    "risk_profile_preferences",
+    "estate_planning"
+  ],
+  "age_band": "mid_career_1976_1985",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Violet",
+        "last_name": "Morgan",
+        "date_of_birth": "1981-04-17",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "Regional logistics company",
+        "start_date": "2016",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Hazel",
+        "last_name": "Ellis",
+        "date_of_birth": "1979-09-03",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Elementary school teacher",
+        "employer": "Public school district",
+        "start_date": "2012",
+        "desired_retirement_age": 63,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Hazel Ellis",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": 90000.0,
+          "upper_bound": 95000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $92k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 68000.0,
+          "lower_bound": 65000.0,
+          "upper_bound": 70000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $68,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "household",
+        "source_name": "inheritance windfall",
+        "amount": {
+          "normalized_amount": 350000.0,
+          "lower_bound": 300000.0,
+          "upper_bound": 400000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $300k to $400k"
+        },
+        "frequency": "one_off",
+        "net_or_gross": "unknown"
+      }
+    ],
+    "expenses": [],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Local credit union",
+        "current_value": {
+          "normalized_amount": 48000.0,
+          "lower_bound": 45000.0,
+          "upper_bound": 50000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $48,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "brokerage account",
+        "provider": "Online brokerage",
+        "current_value": {
+          "normalized_amount": 62000.0,
+          "lower_bound": 60000.0,
+          "upper_bound": 65000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $62k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [
+      {
+        "owner": "household",
+        "description": "Primary residence",
+        "current_value": {
+          "normalized_amount": 540000.0,
+          "lower_bound": 520000.0,
+          "upper_bound": 560000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $540,000"
+        },
+        "ownership_share": 100.0
+      }
+    ],
+    "objectives": [
+      {
+        "category": "tax efficiency",
+        "description": "Invest the inheritance in a tax-efficient way and avoid an unnecessary tax bill.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants guidance on whether to use taxable, retirement, or other tax-advantaged accounts."
+      },
+      {
+        "category": "investing",
+        "description": "Build a balanced long-term portfolio for the inheritance rather than leaving it all in cash.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Comfortable investing some of the windfall but wants to keep a portion accessible."
+      },
+      {
+        "category": "savings",
+        "description": "Keep an emergency reserve and set aside money for near-term home repairs and travel.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "No exact reserve amount agreed yet."
+      },
+      {
+        "category": "estate planning",
+        "description": "Update wills and beneficiary arrangements after the inheritance.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to make sure assets pass efficiently to each other and then to family."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Willing to take some investment risk for long-term growth, but prefers not to put the full inheritance into volatile assets.",
+      "preferred_strategy": "Keep a cash buffer, invest the remainder with a diversified moderate-risk portfolio, and review annually.",
+      "key_concerns": [
+        "Protecting the inheritance from unnecessary tax",
+        "Not losing capital in a market downturn",
+        "Making sure money is available for short-term needs",
+        "Coordinating the plan with estate planning"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Both clients have wills, but they want them reviewed after the inheritance. No trust mentioned. Beneficiaries should be checked and updated."
+    }
+  }
+}

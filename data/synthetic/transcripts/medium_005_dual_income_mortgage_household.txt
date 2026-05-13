@@ -1,0 +1,258 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Rebecca West
+  - id: client
+    name: Dennis Gibson
+---
+ADVISOR: [00:00:03] Hi both, thanks for making the time today. I’m Megan Carter. Before we dive in, I just want to make sure I’ve got the right people — is this Rebecca West and Dennis Gibson?
+
+CLIENT1: [00:00:12] Yep, that’s us.
+
+CLIENT2: [00:00:14] Hi.
+
+ADVISOR: [00:00:16] Great. And Rebecca, can I start with your date of birth?
+
+CLIENT1: [00:00:20] Yeah, it’s the 18th of April, 1990.
+
+ADVISOR: [00:00:25] Perfect, thanks. And Dennis, yours?
+
+CLIENT2: [00:00:29] September 2nd, 1988.
+
+ADVISOR: [00:00:33] Lovely. And just to confirm, you’re married, living together as a household?
+
+CLIENT1: [00:00:38] Yes, married.
+
+CLIENT2: [00:00:39] Yep.
+
+ADVISOR: [00:00:42] Brilliant. And are you both US tax residents?
+
+CLIENT1: [00:00:46] Yes.
+
+CLIENT2: [00:00:47] Yeah, US.
+
+ADVISOR: [00:00:50] Okay. Rebecca, what do you do day to day?
+
+CLIENT1: [00:00:55] I’m a marketing manager.
+
+ADVISOR: [00:00:57] And who’s that with?
+
+CLIENT1: [00:00:59] Northstar Retail Group.
+
+ADVISOR: [00:01:01] Nice. How long have you been there?
+
+CLIENT1: [00:01:04] Since 2018.
+
+ADVISOR: [00:01:06] Okay. Full-time?
+
+CLIENT1: [00:01:08] Yes, full-time.
+
+ADVISOR: [00:01:10] And Dennis?
+
+CLIENT2: [00:01:12] I’m a project engineer at Midwest Utilities.
+
+ADVISOR: [00:01:16] Great. And you’ve been there since...?
+
+CLIENT2: [00:01:18] 2016.
+
+ADVISOR: [00:01:20] Full-time as well?
+
+CLIENT2: [00:01:22] Yep, full-time.
+
+ADVISOR: [00:01:24] Do you get any bonus on top of salary, Dennis?
+
+CLIENT2: [00:01:28] Yeah, there’s an annual bonus. It’s usually about eight thousand.
+
+ADVISOR: [00:01:33] About eight thousand, okay. And Rebecca, what’s your gross salary at the moment?
+
+CLIENT1: [00:01:39] Seventy-two thousand.
+
+ADVISOR: [00:01:41] Seventy-two, got it. Dennis, and your base salary?
+
+CLIENT2: [00:01:45] Ninety-four thousand.
+
+ADVISOR: [00:01:47] Okay, thanks. And the bonus on top, you said around eight thousand annually?
+
+CLIENT2: [00:01:51] Yeah, exactly eight.
+
+ADVISOR: [00:01:54] Right. Any other income streams between you — rental, self-employed, anything like that?
+
+CLIENT1: [00:01:59] No, nothing like that.
+
+CLIENT2: [00:02:01] No.
+
+ADVISOR: [00:02:04] Okay. Kids at home?
+
+CLIENT1: [00:02:06] Two, yeah. Lily and Noah.
+
+ADVISOR: [00:02:09] Can you remind me of their ages?
+
+CLIENT1: [00:02:12] Lily is six, Noah is four. Well, Noah just turned four this year.
+
+ADVISOR: [00:02:18] Got it. And they’re both financially dependent on you at the moment?
+
+CLIENT2: [00:02:22] Yeah, definitely.
+
+ADVISOR: [00:02:24] Okay. Let’s talk through monthly spending a bit. Roughly what are your fixed household costs looking like?
+
+CLIENT1: [00:02:31] Mortgage is two, one fifty a month.
+
+CLIENT2: [00:02:34] Yeah, that’s the big one.
+
+ADVISOR: [00:02:36] Okay. Any childcare costs?
+
+CLIENT1: [00:02:39] Daycare is about twelve hundred a month.
+
+ADVISOR: [00:02:43] Right. Utilities and internet?
+
+CLIENT2: [00:02:46] Around three forty.
+
+ADVISOR: [00:02:49] Groceries?
+
+CLIENT1: [00:02:50] Nine hundred, give or take.
+
+ADVISOR: [00:02:53] Fuel and commuting?
+
+CLIENT2: [00:02:55] About two sixty.
+
+ADVISOR: [00:02:57] Auto and home insurance?
+
+CLIENT1: [00:02:59] One eighty a month.
+
+ADVISOR: [00:03:02] And then the fun stuff — eating out, family activities, that sort of thing?
+
+CLIENT2: [00:03:06] Probably two fifty.
+
+ADVISOR: [00:03:08] Okay, that helps. So the mortgage, just so I’m clear, is with HomeFirst Mortgage?
+
+CLIENT1: [00:03:13] Yes.
+
+ADVISOR: [00:03:15] And the current outstanding balance is about three hundred and eighteen thousand, at 6.1%?
+
+CLIENT2: [00:03:21] Yeah, that sounds right.
+
+ADVISOR: [00:03:23] Great. Any other debts — car finance, credit cards, personal loans?
+
+CLIENT2: [00:03:28] I have an auto loan.
+
+ADVISOR: [00:03:31] Okay. What’s that with?
+
+CLIENT2: [00:03:33] Auto Finance Co.
+
+ADVISOR: [00:03:35] And roughly what’s left on it?
+
+CLIENT2: [00:03:38] Fourteen two, I think — yeah, $14,200.
+
+ADVISOR: [00:03:42] And the payment on that is about three ninety a month?
+
+CLIENT2: [00:03:45] Yep.
+
+ADVISOR: [00:03:47] And the rate on that loan?
+
+CLIENT2: [00:03:49] Five point four percent.
+
+ADVISOR: [00:03:52] Perfect. On the savings side, do you keep some cash set aside?
+
+CLIENT1: [00:03:57] We do. There’s a joint high-yield savings account at Cedar Bank.
+
+ADVISOR: [00:04:02] Okay, how much is in there roughly?
+
+CLIENT1: [00:04:05] Twenty-eight thousand.
+
+ADVISOR: [00:04:07] Great. And anything in your own name, Rebecca?
+
+CLIENT1: [00:04:11] I’ve got a brokerage account with Vanguard.
+
+ADVISOR: [00:04:15] Okay, and what’s that worth today?
+
+CLIENT1: [00:04:18] Fifteen thousand.
+
+ADVISOR: [00:04:20] Got it. Dennis, anything separate for you?
+
+CLIENT2: [00:04:24] Just a savings account at Cedar Bank. About six thousand.
+
+ADVISOR: [00:04:29] Okay, thanks. And retirement accounts — do you both have workplace plans?
+
+CLIENT1: [00:04:34] Yes, I have a 401(k) through Northstar Retail Group.
+
+ADVISOR: [00:04:38] Great. What’s that sitting at currently?
+
+CLIENT1: [00:04:41] Around eighty-six thousand.
+
+ADVISOR: [00:04:43] And you’re putting in what, about six percent of salary?
+
+CLIENT1: [00:04:47] Yeah, six percent.
+
+ADVISOR: [00:04:49] And Dennis, yours is with Midwest Utilities?
+
+CLIENT2: [00:04:52] Yes, their 401(k).
+
+ADVISOR: [00:04:54] Current value?
+
+CLIENT2: [00:04:56] One twelve, so about $112,000.
+
+ADVISOR: [00:05:00] And your contribution level?
+
+CLIENT2: [00:05:02] Eight percent of salary.
+
+ADVISOR: [00:05:05] Okay. And when are you both hoping to stop work, or at least slow down a bit?
+
+CLIENT1: [00:05:10] I think sixty-five for me.
+
+CLIENT2: [00:05:12] I’d say sixty-seven for me.
+
+ADVISOR: [00:05:15] Okay, that’s helpful. So Rebecca at 65 and Dennis at 67. What’s driving the planning at the moment — what are you trying to make room for?
+
+CLIENT1: [00:05:25] Honestly, just breathing space. We want a bigger emergency buffer first.
+
+CLIENT2: [00:05:30] Yeah, we’ve started saving, but it doesn’t feel like enough yet.
+
+ADVISOR: [00:05:34] Right. How much would feel like a proper buffer to you?
+
+CLIENT1: [00:05:38] Thirty thousand would feel better.
+
+ADVISOR: [00:05:41] Okay, so build emergency savings to around thirty thousand, and you’d like to do that within about two years?
+
+CLIENT2: [00:05:46] Yes, that sounds right.
+
+ADVISOR: [00:05:49] And beyond that, are there other goals you’re thinking about?
+
+CLIENT1: [00:05:52] The kids’ education, definitely. We don’t have a number yet, just want to start putting something aside.
+
+CLIENT2: [00:05:58] And we’d like to redo the kitchen and the downstairs bathroom at some point.
+
+ADVISOR: [00:06:03] Okay. When are you thinking for the home improvements?
+
+CLIENT1: [00:06:06] Maybe in the next three to five years.
+
+ADVISOR: [00:06:09] And roughly what kind of budget would you want to stay around?
+
+CLIENT2: [00:06:13] About twenty-five thousand, if we can.
+
+ADVISOR: [00:06:16] And you’d prefer not to take on new debt for that?
+
+CLIENT1: [00:06:19] Exactly, yeah. We’d rather save for it.
+
+ADVISOR: [00:06:23] Fair enough. Just thinking out loud, because you’ve got young kids, a mortgage, and a couple of different savings goals — it sounds like the main thing is balancing short-term flexibility with long-term retirement saving. Does that feel right?
+
+CLIENT2: [00:06:35] Yeah, that’s pretty much it.
+
+CLIENT1: [00:06:37] We just don’t want to feel squeezed all the time.
+
+ADVISOR: [00:06:41] Makes sense. And Rebecca, I’ve got your email as rebecca.west@example.com — is that the best one to use?
+
+CLIENT1: [00:06:47] Yes, that’s the one.
+
+ADVISOR: [00:06:49] Perfect. Dennis, I don’t have an email for you — is that okay for now?
+
+CLIENT2: [00:06:53] Yeah, that’s fine. Rebecca can get anything for both of us.
+
+ADVISOR: [00:06:57] Great. Okay, I’ve got enough to start mapping things out. We can look at the emergency fund first, then how to keep the college savings and home project in view without over-stretching cash flow.
+
+CLIENT1: [00:07:07] That would be really helpful.
+
+CLIENT2: [00:07:09] Yeah, thank you.

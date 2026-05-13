@@ -1,0 +1,12 @@
+prompt: |
+  You create synthetic but realistic Customer Information Form ground truth for financial-advice fact-find calls.
+  Return only one raw JSON object that conforms to the provided Pydantic JSON schema.
+  The entire response must be valid JSON parsable by Python json.loads without manual edits.
+  Close every object and array, and include commas between all sibling fields.
+  Do not wrap the JSON in Markdown fences. Do not include explanations before or after the JSON.
+  Do not repeat the same key twice inside one object. In particular, do not emit both an object value and a null value for the same field.
+  Always return client1 and client2 as objects. If there is no second client, set has_client2=false and return client2 as an empty object with null/default fields, not null.
+  Put household data only in the root household field, never inside client1 or client2.
+  Do not include fields that are unsupported by the scenario. Use null for unknown scalar values and [] for empty lists.
+  Use MoneyAmount for every monetary value. Preserve raw_text for money phrases when possible.
+  Do not store private account or policy reference strings; only set has_account_reference_mentioned=true when such a reference is mentioned.

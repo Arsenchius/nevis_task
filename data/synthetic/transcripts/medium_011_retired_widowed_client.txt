@@ -1,0 +1,144 @@
+---
+title: N/A
+date: 2026-02-14
+participants:
+  - id: advisor
+    name: Megan Ellis
+  - id: client
+    name: Carlos Howard
+  - id: client
+    name: Arthur Torres
+---
+ADVISOR: [00:00:03] Hi Carlos, hi Arthur — Megan Ellis here. Thanks for making the time. Can you hear me okay?
+
+CLIENT1: [00:00:09] Yeah, loud and clear.
+
+CLIENT2: [00:00:11] Yep, we can hear you.
+
+ADVISOR: [00:00:13] Great. And just so I’ve got the basics right, Carlos Howard is the main client, and Arthur Torres is joining us today as your partner?
+
+CLIENT1: [00:00:21] That's right. Arthur's here with me.
+
+CLIENT2: [00:00:24] Hi.
+
+ADVISOR: [00:00:26] Hi Arthur. Carlos, before we get into the money side, can I just confirm your date of birth?
+
+CLIENT1: [00:00:33] Sure — it's April 18th, 1956.
+
+ADVISOR: [00:00:38] Perfect, thank you. And I have your email as carlos dot howard at example dot com — is that the best one for you?
+
+CLIENT1: [00:00:46] Yes, that's the one.
+
+ADVISOR: [00:00:48] Okay. And your relationship status, you're widowed, correct?
+
+CLIENT1: [00:00:53] Yeah. Widowed.
+
+ADVISOR: [00:00:56] I'm sorry for your loss. And Arthur, you're Carlos's partner?
+
+CLIENT2: [00:01:00] Yes, partner.
+
+ADVISOR: [00:01:02] Thanks. All right — tell me a little bit about what you want help with today. What's most important?
+
+CLIENT1: [00:01:11] Mostly... just making sure things are set up right. I don't want a mess later. I want the money to keep coming in steadily, and I want Arthur to be okay if something happens to me.
+
+CLIENT2: [00:01:23] Yeah, that's really what we're worried about.
+
+ADVISOR: [00:01:25] Got it. So dependable income and making sure the handoff is smooth. That makes sense. Roughly, what are you living on each month right now?
+
+CLIENT1: [00:01:36] Social Security is $2,400 a month.
+
+ADVISOR: [00:01:42] Okay.
+
+CLIENT1: [00:01:43] And I get a pension too — it's about, uh, $1.7k to $1.9k a month. It moves a little, but around there.
+
+ADVISOR: [00:01:52] Around seventeen to nineteen hundred, got it. Gross amounts?
+
+CLIENT1: [00:01:56] Yes, gross.
+
+ADVISOR: [00:01:58] And Arthur, do you have anything coming in as well?
+
+CLIENT2: [00:02:03] Yeah, Social Security. It's $1,600 a month.
+
+ADVISOR: [00:02:08] Thank you. That helps. And what are your main monthly expenses looking like together? Just the big fixed ones.
+
+CLIENT1: [00:02:16] Rent is $1,650.
+
+CLIENT2: [00:02:19] Plus utilities and internet, about $260.
+
+ADVISOR: [00:02:24] Okay. Anything else that really stands out every month — healthcare, prescriptions, that sort of thing?
+
+CLIENT1: [00:02:31] Yeah, my Medicare supplement and prescriptions... around four hundred to four-fifty. It kind of floats.
+
+ADVISOR: [00:02:39] Around $400 to $450, understood. And do you set anything aside for travel or fun, or is it pretty much essentials only?
+
+CLIENT2: [00:02:47] We try to do a little. Not huge trips, just occasional ones.
+
+CLIENT1: [00:02:52] Maybe about $3k a year, if that. Sometimes less.
+
+ADVISOR: [00:02:57] Okay, so a modest travel budget. That’s helpful. Do you have a mortgage or any housing debt?
+
+CLIENT1: [00:03:04] No mortgage.
+
+ADVISOR: [00:03:06] All right, no mortgage. Let me ask about savings and investments. Do you keep much in cash for emergencies?
+
+CLIENT1: [00:03:14] Yeah, we keep a decent buffer. About $68,000 in a high-yield savings account.
+
+ADVISOR: [00:03:22] Great. And is that with Ally?
+
+CLIENT1: [00:03:25] Yes, Ally.
+
+ADVISOR: [00:03:27] Okay. Any brokerage money besides that?
+
+CLIENT1: [00:03:31] Yes, Fidelity. I think it's around $140k to $150k total — maybe $145k-ish.
+
+ADVISOR: [00:03:39] And is that all invested, or is some of it sitting in cash?
+
+CLIENT1: [00:03:43] Some cash. About $25,000 is cash, and $120,000 is invested.
+
+ADVISOR: [00:03:50] Got it. Thanks. Now, retirement accounts — I see a Vanguard IRA on your side, Carlos. Do you have a rough value on that?
+
+CLIENT1: [00:03:59] Yeah, roughly... somewhere between $375k and $395k. Let's call it about $385k.
+
+ADVISOR: [00:04:08] Perfect. And you mentioned a pension earlier — is that from a former employer plan?
+
+CLIENT1: [00:04:13] Yeah, former employer plan.
+
+ADVISOR: [00:04:16] Okay. Arthur, do you have any retirement account from a previous employer?
+
+CLIENT2: [00:04:21] Yeah, a 401(k). It's about $92,000.
+
+ADVISOR: [00:04:27] Okay, thank you. And just so I’m not assuming anything — any other debts besides regular living expenses? Credit cards, loans, anything like that?
+
+CLIENT1: [00:04:36] No, none.
+
+ADVISOR: [00:04:38] Good. That keeps things simpler. Carlos, you said you want things to pass smoothly to Arthur. Have you reviewed beneficiaries recently, or is that something you want to look at?
+
+CLIENT1: [00:04:50] We need to look at it. I mean, after my wife passed, a lot of that just... didn't get updated the way it should have. So yes, I want to make sure that gets cleaned up.
+
+CLIENT2: [00:05:01] Yeah, we both want that sorted out.
+
+ADVISOR: [00:05:04] Understood. And you've got a will in place, right? I don't need the details, just whether there is one.
+
+CLIENT1: [00:05:11] Yes, there is a will. It was updated a few years ago.
+
+ADVISOR: [00:05:16] Okay, thanks. That’s useful. When you think about the next few years, what matters most — more certainty, keeping money easy to access, or trying to grow it a bit more?
+
+CLIENT1: [00:05:28] Honestly? Certainty. I don't want big swings. I want to know the bills are covered and I can get to the money if we need it.
+
+CLIENT2: [00:05:36] Same here. We’re not trying to chase anything.
+
+ADVISOR: [00:05:39] Right, so a very cautious approach, with cash available and limited market exposure. That fits with what you’re saying. And just to check, do you have a target for how much cash you'd like to keep on hand?
+
+CLIENT1: [00:05:51] Around $50,000 would feel comfortable. Maybe a little more if healthcare costs keep creeping up.
+
+ADVISOR: [00:05:58] Okay, about fifty thousand as a comfort level. Makes sense. Anything else on your mind — worries about healthcare, or just making sure the income doesn't drop off?
+
+CLIENT1: [00:06:08] Both, really. Healthcare costs scare me, and I don't want to outlive the money. I know that sounds dramatic.
+
+CLIENT2: [00:06:16] It doesn't. It's just real.
+
+ADVISOR: [00:06:18] No, that's a very normal concern. All right — I think I’ve got the main picture. We can go through next steps and I’ll help you organize the beneficiary review and the income plan.
+
+CLIENT1: [00:06:28] Okay. That sounds good.
+
+CLIENT2: [00:06:30] Yeah, thank you.

@@ -1,0 +1,4 @@
+prompt: |
+  Extract {key} from this transcript:
+
+  {transcript}

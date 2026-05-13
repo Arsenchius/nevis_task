@@ -1,0 +1,281 @@
+{
+  "example_id": "easy_001_retired_widowed_client",
+  "difficulty": "easy",
+  "archetype_id": "retired_widowed_client",
+  "challenge_tags": [
+    "negation",
+    "numeric_approximate",
+    "numeric_exact"
+  ],
+  "section_targets": [
+    "estate_planning",
+    "expenses",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "retired_1948_1962",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/easy_001_retired_widowed_client.txt",
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Leila",
+        "last_name": "Delgado",
+        "date_of_birth": "1956-04-18",
+        "marital_or_relationship_status": "widowed",
+        "mobile_phone": "(415) 555-0198",
+        "email": null
+      },
+      "employment": {
+        "status": "retired",
+        "occupation": "Retired school administrator",
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": false,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Social Security",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "pension",
+        "amount": {
+          "normalized_amount": 1800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,800"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "interest and dividends",
+        "amount": {
+          "normalized_amount": 3000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $3,000 a year"
+        },
+        "frequency": "annual",
+        "net_or_gross": "unknown"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "housing",
+        "owner": "client1",
+        "name": "condo HOA and property taxes",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $900 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "utilities",
+        "amount": {
+          "normalized_amount": 220.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $220 monthly"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "client1",
+        "name": "travel and dining out",
+        "amount": {
+          "normalized_amount": 400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $400 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "traditional IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 420000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420,000"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "former employer plan",
+        "current_value": {
+          "normalized_amount": 165000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$165,000"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": true
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 85000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$85,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 120000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $120,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "mortgage",
+        "provider": "none",
+        "monthly_cost": null,
+        "outstanding_balance": null,
+        "interest_rate": null,
+        "no_debt": true
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Maintain reliable income in retirement without taking unnecessary investment risk.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants income to cover living costs and preserve principal where possible."
+      },
+      {
+        "category": "estate planning",
+        "description": "Update will and make sure assets pass smoothly to beneficiaries.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Will is outdated and she wants to review beneficiary arrangements."
+      },
+      {
+        "category": "long-term care",
+        "description": "Keep enough liquidity available for possible future care needs.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Concerned about needing care later in life."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "low",
+      "attitude_summary": "Very risk averse and prefers stability over growth.",
+      "preferred_strategy": "Conservative income-focused portfolio with a cash reserve.",
+      "key_concerns": [
+        "Losing money in the market",
+        "Outliving savings",
+        "Keeping funds accessible for emergencies",
+        "Estate planning for beneficiaries"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Will exists but should be reviewed; no trust mentioned."
+    }
+  }
+}

@@ -1,0 +1,156 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Karen Mitchell
+  - id: client
+    name: Samuel Hughes
+  - id: client
+    name: Melissa Vasquez
+---
+ADVISOR: [00:00:04] Hi Samuel, hi Melissa — Karen Mitchell here. Can you both hear me okay?
+
+CLIENT1: [00:00:09] Yeah, loud and clear.
+
+CLIENT2: [00:00:11] Yep, we can hear you.
+
+ADVISOR: [00:00:14] Great. Thanks for making the time. I’m just going to go through a bit of background first, then we’ll talk about what you’re hoping retirement looks like. Samuel, what’s your date of birth?
+
+CLIENT1: [00:00:26] Uh, it’s August 17th, 1964.
+
+ADVISOR: [00:00:30] Perfect. And Melissa?
+
+CLIENT2: [00:00:34] March 9th, 1966.
+
+ADVISOR: [00:00:38] Great, thanks. And you’re married, correct?
+
+CLIENT1: [00:00:42] Yes, married.
+
+CLIENT2: [00:00:43] Yep.
+
+ADVISOR: [00:00:46] Okay. Samuel, what’s your current job?
+
+CLIENT1: [00:00:50] I’m an operations manager. Been with a logistics company for, uh, quite a while.
+
+ADVISOR: [00:00:56] Okay, and when did you start there?
+
+CLIENT1: [00:00:59] 2012.
+
+ADVISOR: [00:01:02] Got it. And Melissa, what about you?
+
+CLIENT2: [00:01:06] I do bookkeeping part-time for a local accounting firm.
+
+ADVISOR: [00:01:10] And when did you start there?
+
+CLIENT2: [00:01:13] 2018.
+
+ADVISOR: [00:01:16] Thanks. And just to confirm for both of you, are you US tax residents?
+
+CLIENT1: [00:01:21] Yes.
+
+CLIENT2: [00:01:22] Yes, definitely.
+
+ADVISOR: [00:01:25] Great. Samuel, what are you earning roughly before tax at the moment?
+
+CLIENT1: [00:01:31] About ninety-eight thousand a year.
+
+ADVISOR: [00:01:34] And Melissa?
+
+CLIENT2: [00:01:36] Mine’s around twenty-eight thousand gross.
+
+ADVISOR: [00:01:40] Okay. Any other regular income at the moment, like Social Security estimates you’ve been given?
+
+CLIENT1: [00:01:47] Yeah, mine was quoted at about three thousand two hundred a month.
+
+CLIENT2: [00:01:52] And mine was around two thousand four hundred a month.
+
+ADVISOR: [00:01:57] Okay, that’s helpful. And what are you both thinking in terms of retirement timing?
+
+CLIENT1: [00:02:04] I’d like to step back at sixty-five. Maybe not stop everything overnight, but… yeah, around 65.
+
+CLIENT2: [00:02:11] Same general idea. I’d like to be done by, maybe, 64.
+
+ADVISOR: [00:02:16] Okay, so pretty close. What’s making you want to look at this now?
+
+CLIENT1: [00:02:22] Mostly making sure the income is dependable. We’ve got some savings, some retirement accounts, and then the Social Security pieces… I just don’t want to guess wrong.
+
+CLIENT2: [00:02:31] Yeah, and we keep going back and forth on whether the annuity should stay part of the plan or whether we just draw from investments more.
+
+ADVISOR: [00:02:39] Right, okay. We can definitely look at that. Before we get into the income side, do you have any children or dependants at home?
+
+CLIENT1: [00:02:47] No, none.
+
+ADVISOR: [00:02:49] Okay. And housing-wise, are you carrying a mortgage or any other major debt?
+
+CLIENT2: [00:02:55] No mortgage.
+
+CLIENT1: [00:02:56] Yeah, no debt really.
+
+ADVISOR: [00:03:00] That’s good. So your monthly living costs — just the basics, property taxes, insurance, utilities, groceries — what does that run you about?
+
+CLIENT1: [00:03:11] About four thousand two hundred a month.
+
+ADVISOR: [00:03:15] Okay. And then beyond that, do you have any regular discretionary spending you’re planning to keep in retirement, like travel?
+
+CLIENT2: [00:03:23] Yes, definitely travel. We’ve been putting aside about twelve thousand a year for that.
+
+ADVISOR: [00:03:30] Nice. That’s a good goal. Is that more “a few trips and see the grandkids” kind of travel, or bigger trips?
+
+CLIENT2: [00:03:36] A mix, really. Nothing crazy every year, but enough to do a couple of good trips.
+
+CLIENT1: [00:03:42] Yeah, and not feel like we have to pinch every penny for it.
+
+ADVISOR: [00:03:46] Makes sense. Let me ask about the retirement accounts you’ve built up. Samuel, do you have a current employer 401(k)?
+
+CLIENT1: [00:03:54] I do, yeah.
+
+ADVISOR: [00:03:56] Roughly what’s in that now?
+
+CLIENT1: [00:03:59] About five hundred forty thousand.
+
+ADVISOR: [00:04:03] And are you still contributing to it?
+
+CLIENT1: [00:04:05] Yes, six percent.
+
+ADVISOR: [00:04:08] Okay. Any IRA as well?
+
+CLIENT1: [00:04:11] Yes, with Vanguard. That’s around two hundred ten thousand.
+
+ADVISOR: [00:04:16] Great. Melissa, how about you?
+
+CLIENT2: [00:04:19] I’ve got a former employer 401(k). I think it’s about one eighty thousand.
+
+ADVISOR: [00:04:25] Okay. And do you have any other retirement income products together, like an annuity?
+
+CLIENT1: [00:04:31] Yes, we do have one annuity through an insurance company. It’s around one hundred fifty thousand.
+
+ADVISOR: [00:04:38] Okay, thanks. And outside the retirement accounts, do you have any joint savings or brokerage money we should factor in?
+
+CLIENT2: [00:04:45] Yes — we have a Fidelity taxable brokerage, about one hundred twenty-five thousand.
+
+CLIENT1: [00:04:51] And a high-yield savings account at our local bank, around thirty-eight thousand.
+
+ADVISOR: [00:04:57] Great, that gives us a decent picture. So if I’m hearing you right, the big question is really how to balance dependable income with flexibility — keep the annuity in the mix, or lean more on withdrawals from the portfolio.
+
+CLIENT1: [00:05:10] Exactly. I want something that won’t keep me up at night.
+
+CLIENT2: [00:05:14] Same. I’m okay with some market exposure, I just don’t want retirement income swinging all over the place.
+
+ADVISOR: [00:05:22] Right, that makes sense. So more of a blended approach, then — some guaranteed income, some diversified withdrawals?
+
+CLIENT1: [00:05:29] Yeah, that sounds about right.
+
+CLIENT2: [00:05:31] Yes, that sounds good.
+
+ADVISOR: [00:05:34] Okay. And just so I’ve got the ages right, Samuel, you’re aiming for 65, and Melissa, around 64?
+
+CLIENT1: [00:05:41] Yes.
+
+CLIENT2: [00:05:42] Right.
+
+ADVISOR: [00:05:44] Perfect. I think that’s enough for me to start mapping things out. We’ll look at the income sources, the spending, and then compare what it looks like if the annuity stays versus if you rely more on the investments.
+
+CLIENT1: [00:05:56] Okay, good. That’s exactly what we need.
+
+CLIENT2: [00:05:59] Yeah, thank you.

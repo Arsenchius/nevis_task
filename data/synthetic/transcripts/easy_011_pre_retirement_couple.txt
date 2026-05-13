@@ -1,0 +1,200 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Deepa Thompson
+  - id: client
+    name: Gavin Hawkins
+---
+ADVISOR: [00:00:03] Hi Deepa, hi Gavin — thanks for making the time. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, all good.
+
+ADVISOR: [00:00:13] Great. And just so I’ve got the basics right, Deepa Thompson and Gavin Hawkins?
+
+CLIENT1: [00:00:18] That’s right.
+
+CLIENT2: [00:00:19] Yep.
+
+ADVISOR: [00:00:22] Lovely. Deepa, can I start with you — what’s your date of birth?
+
+CLIENT1: [00:00:27] Seventeenth of April, 1968.
+
+ADVISOR: [00:00:30] Perfect. And Gavin?
+
+CLIENT2: [00:00:33] Third of September, 1966.
+
+ADVISOR: [00:00:36] Thanks. And you’re married to each other, I assume?
+
+CLIENT1: [00:00:39] Yes, married.
+
+CLIENT2: [00:00:40] Yeah.
+
+ADVISOR: [00:00:43] Good. Any children or other dependants at home?
+
+CLIENT1: [00:00:47] No, just the two of us.
+
+ADVISOR: [00:00:50] Okay. Deepa, I’ve got an email for you as deepa.thompson@example.com — is that still the best one?
+
+CLIENT1: [00:00:57] Yes, that’s the one.
+
+ADVISOR: [00:01:00] Brilliant. Gavin, do you want to give me yours as well, or would you rather leave it for now?
+
+CLIENT2: [00:01:05] I usually just use Deepa’s for this stuff, so… yeah, no email for me on file if that’s fine.
+
+ADVISOR: [00:01:11] Fine by me. Deepa, what do you do at the moment?
+
+CLIENT1: [00:01:15] I’m an operations manager at Northstar Logistics.
+
+ADVISOR: [00:01:19] And how long have you been there?
+
+CLIENT1: [00:01:22] Since 2012.
+
+ADVISOR: [00:01:25] Okay. Still employed there full time?
+
+CLIENT1: [00:01:28] Yes, full time.
+
+ADVISOR: [00:01:30] And Gavin, same question for you.
+
+CLIENT2: [00:01:33] I’m a mechanical engineer at Riverton Manufacturing.
+
+ADVISOR: [00:01:37] Nice. And how long have you been there?
+
+CLIENT2: [00:01:40] Since 2008.
+
+ADVISOR: [00:01:42] Great. Both of you are still working then, and are you both US tax residents?
+
+CLIENT1: [00:01:48] Yes.
+
+CLIENT2: [00:01:49] Yeah, US tax residents.
+
+ADVISOR: [00:01:52] Perfect. And just thinking ahead a bit, when would you ideally like to stop work?
+
+CLIENT1: [00:01:58] I’d like to be done at 65.
+
+CLIENT2: [00:02:01] I’m thinking 66 for me.
+
+ADVISOR: [00:02:04] Okay, so close together. That’s helpful. Are you aiming for a specific retirement date, or more just around those ages?
+
+CLIENT1: [00:02:10] More around the ages, I think. No exact date yet.
+
+CLIENT2: [00:02:13] Yeah, same.
+
+ADVISOR: [00:02:16] Fair enough. And in broad terms, what would retirement look like for you? A lot of travel, more time at home, helping family, that kind of thing?
+
+CLIENT1: [00:02:24] A bit of travel, definitely. Nothing wild, but we don’t want to just sit still.
+
+CLIENT2: [00:02:29] Right, and we want the income side to feel steady.
+
+ADVISOR: [00:02:33] Understood. Do you have a target income in mind for retirement, as a household?
+
+CLIENT1: [00:02:39] We’ve talked about about 120 thousand a year.
+
+CLIENT2: [00:02:43] Yeah, roughly 120k.
+
+ADVISOR: [00:02:46] Okay. And is that the sort of number that would cover the essentials plus some travel?
+
+CLIENT1: [00:02:51] Yes, that’s the idea.
+
+CLIENT2: [00:02:53] Exactly.
+
+ADVISOR: [00:02:56] Good. I’ll ask about current income now. Deepa, what’s your salary?
+
+CLIENT1: [00:03:01] Ninety-eight thousand gross.
+
+ADVISOR: [00:03:04] And Gavin?
+
+CLIENT2: [00:03:06] One hundred and twelve thousand gross.
+
+ADVISOR: [00:03:09] Great. Do you both still contribute to retirement through work?
+
+CLIENT1: [00:03:13] I do. My 401(k) is six percent.
+
+CLIENT2: [00:03:17] Same idea for me — eight percent into my 401(k).
+
+ADVISOR: [00:03:21] Okay, good. Let’s talk about the accounts themselves. Deepa, do you have a 401(k) with your current employer?
+
+CLIENT1: [00:03:28] Yes, current employer plan. It’s about 410 thousand.
+
+ADVISOR: [00:03:33] About 410k, got it. And any IRA as well?
+
+CLIENT1: [00:03:37] Yes, a Vanguard IRA — 165 thousand.
+
+ADVISOR: [00:03:41] Perfect. Gavin, how about yours?
+
+CLIENT2: [00:03:44] I’ve got my employer 401(k), around 520 thousand.
+
+ADVISOR: [00:03:48] Okay.
+
+CLIENT2: [00:03:49] And an IRA at Fidelity, about 210 thousand.
+
+ADVISOR: [00:03:53] Great, thanks. You mentioned earlier you’re thinking about retirement income being steady. Do you have anything else already set up that’s meant to pay you later on, like an annuity or something similar?
+
+CLIENT1: [00:04:04] Yeah, we do have an annuity together. I always forget about that one.
+
+CLIENT2: [00:04:08] Right, the joint annuity.
+
+ADVISOR: [00:04:10] Okay, and roughly what’s the value on that today?
+
+CLIENT2: [00:04:14] I think it’s 300 thousand.
+
+CLIENT1: [00:04:16] Yeah, about 300k.
+
+ADVISOR: [00:04:19] Thanks. And outside the retirement accounts, do you have any taxable investment account or savings we should include?
+
+CLIENT1: [00:04:27] Yes, we have a Schwab brokerage account jointly held. That’s about 145 thousand.
+
+ADVISOR: [00:04:33] Okay.
+
+CLIENT2: [00:04:34] And a savings account at our local bank — high-yield savings — around 38 thousand.
+
+ADVISOR: [00:04:40] Great. So that gives us a decent picture of liquid reserves. Are you carrying any mortgage or other debt we need to factor in?
+
+CLIENT1: [00:04:48] No mortgage.
+
+CLIENT2: [00:04:49] Yeah, no debt really.
+
+ADVISOR: [00:04:52] Okay, that’s helpful. Just to check on day-to-day spending, what do your essential household costs look like roughly each month?
+
+CLIENT1: [00:05:00] Between property taxes, insurance, utilities, maintenance… it’s about 2,400 a month.
+
+ADVISOR: [00:05:06] Got it. And then for the fun stuff — travel or bigger discretionary spending — what do you think you’d want in retirement?
+
+CLIENT2: [00:05:13] We’d probably want about 12 thousand a year for travel.
+
+CLIENT1: [00:05:17] Yeah, that sounds right.
+
+ADVISOR: [00:05:19] Okay. That helps. And on Social Security, have you got a sense of what you expect together?
+
+CLIENT1: [00:05:26] We’ve looked at it a bit. Combined, it’s around 54 thousand a year at retirement.
+
+CLIENT2: [00:05:31] Yeah, that’s the rough number we’ve been using.
+
+ADVISOR: [00:05:34] Great. And the big question for you seems to be whether to keep the annuity as part of the plan or use it alongside drawdown from the 401(k)s and IRAs — is that fair?
+
+CLIENT1: [00:05:44] Yes, exactly. We don’t want to do something silly and then regret it.
+
+CLIENT2: [00:05:48] We want enough flexibility, but we also don’t want to run out.
+
+ADVISOR: [00:05:52] Makes sense. You’re trying to balance flexibility with certainty. I think that’s very normal, especially when you’re this close to retirement. Would you say you’re comfortable with a balanced approach — not too aggressive, not too defensive?
+
+CLIENT1: [00:06:03] Yeah, moderate sounds about right.
+
+CLIENT2: [00:06:05] Yeah, balanced.
+
+ADVISOR: [00:06:08] Okay, good. And just so I’m clear, the main things on your mind are making the income last through both lifetimes, deciding whether the annuity stays in the mix, and trying not to take more investment risk than you need to before you stop work?
+
+CLIENT1: [00:06:21] Yes, that’s pretty much it.
+
+CLIENT2: [00:06:23] Exactly.
+
+ADVISOR: [00:06:26] Perfect. I think I’ve got the core picture. I’ll pull this together and we can look at a retirement income plan that compares the annuity with a phased drawdown approach.
+
+CLIENT1: [00:06:35] Okay, that sounds good.
+
+CLIENT2: [00:06:37] Yeah, thanks.

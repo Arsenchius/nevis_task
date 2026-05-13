@@ -1,0 +1,424 @@
+{
+  "example_id": "hard_024_dual_income_mortgage_household",
+  "difficulty": "hard",
+  "archetype_id": "dual_income_mortgage_household",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "correction",
+    "joint_assets",
+    "multiple_products",
+    "negation",
+    "numeric_exact",
+    "numeric_range",
+    "numeric_shorthand",
+    "owner_attribution",
+    "privacy_reference"
+  ],
+  "section_targets": [
+    "employment",
+    "expenses",
+    "household_dependants",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/hard_024_dual_income_mortgage_household.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Miles",
+        "last_name": "Phillips",
+        "date_of_birth": "1991-04-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": "+1-415-555-0138",
+        "email": null
+      },
+      "employment": {
+        "status": "full_time",
+        "occupation": "project manager",
+        "employer": "Northstar Logistics",
+        "start_date": "2018",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Dorothy",
+        "last_name": "Wood",
+        "date_of_birth": "1992-09-03",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "full_time",
+        "occupation": "elementary school teacher",
+        "employer": "Oak Ridge Public Schools",
+        "start_date": "2017",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Dorothy Wood",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Liam Phillips",
+          "relationship": "child",
+          "date_of_birth": "2019-06-11",
+          "age": 5.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Nora Phillips",
+          "relationship": "child",
+          "date_of_birth": "2022-02-24",
+          "age": 3.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$92,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 61000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$61k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "teacher pension contribution refund? no, just salary bonus",
+        "amount": null,
+        "frequency": null,
+        "net_or_gross": null
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "household",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 380.0,
+          "lower_bound": 350.0,
+          "upper_bound": 410.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $350-$410"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "daycare",
+        "amount": {
+          "normalized_amount": 1600.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,600"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "household",
+        "name": "groceries",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$900"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transportation",
+        "owner": "household",
+        "name": "fuel and car maintenance",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$260"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "insurance",
+        "owner": "household",
+        "name": "home and auto insurance",
+        "amount": {
+          "normalized_amount": 190.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$190"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "entertainment",
+        "owner": "household",
+        "name": "family eating out and subscriptions",
+        "amount": {
+          "normalized_amount": 220.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$220"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "workplace 401(k)",
+        "provider": "Northstar Logistics plan",
+        "current_value": {
+          "normalized_amount": 84000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$84,000"
+        },
+        "contribution": "6% employee contribution plus 4% employer match",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client2",
+        "account_type": "workplace 403(b)",
+        "provider": "Oak Ridge Public Schools plan",
+        "current_value": {
+          "normalized_amount": 52000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$52,000"
+        },
+        "contribution": "5% of salary",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Cedar Bank",
+        "current_value": {
+          "normalized_amount": 28000.0,
+          "lower_bound": 25000.0,
+          "upper_bound": 30000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $25k-$30k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "roth IRA",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 12000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$12k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "household",
+        "debt_type": "mortgage",
+        "provider": "First National Mortgage",
+        "monthly_cost": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 412000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$412,000"
+        },
+        "interest_rate": 6.125,
+        "no_debt": false
+      },
+      {
+        "owner": "client1",
+        "debt_type": "car loan",
+        "provider": "Auto Finance Co.",
+        "monthly_cost": {
+          "normalized_amount": 390.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$390"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 11800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$11,800"
+        },
+        "interest_rate": null,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "education funding",
+        "description": "Build a college fund for both children",
+        "target_amount_or_income": {
+          "normalized_amount": 50000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$50,000"
+        },
+        "target_date_or_age": "when each child starts college",
+        "priority": "high",
+        "status_or_uncertainty": "Not started yet; wants to begin regular monthly contributions."
+      },
+      {
+        "category": "home improvement",
+        "description": "Replace the roof and update the kitchen",
+        "target_amount_or_income": {
+          "normalized_amount": 35000.0,
+          "lower_bound": 30000.0,
+          "upper_bound": 40000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "$30k-$40k"
+        },
+        "target_date_or_age": "2-4 years",
+        "priority": "medium",
+        "status_or_uncertainty": "Would prefer to fund from savings rather than borrowing."
+      },
+      {
+        "category": "retirement income",
+        "description": "Retire comfortably in the mid-to-late 60s",
+        "target_amount_or_income": null,
+        "target_date_or_age": "65-67",
+        "priority": "high",
+        "status_or_uncertainty": "Wants to know whether current pension and savings are on track."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some investment growth but wants to avoid large losses because of the mortgage and young children.",
+      "preferred_strategy": "Balanced long-term investing with a cash emergency reserve and gradual contributions.",
+      "key_concerns": [
+        "Keeping 6-12 months of expenses in cash",
+        "Funding childcare and future education costs",
+        "Not taking too much risk with retirement accounts",
+        "Making sure the mortgage does not crowd out savings"
+      ]
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

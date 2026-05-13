@@ -1,0 +1,179 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Mark Ellison
+  - id: client
+    name: Jennifer Nguyen
+---
+
+ADVISOR: [00:00:03] Hi Jennifer, thanks for making time today. I’m Mark. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, I can hear you fine.
+
+ADVISOR: [00:00:11] Great. And just to start us off, can I confirm your full name?
+
+CLIENT1: [00:00:16] Jennifer Nguyen.
+
+ADVISOR: [00:00:18] Thanks, Jennifer. And are you single, married, partnered—what’s your current status?
+
+CLIENT1: [00:00:24] Single.
+
+ADVISOR: [00:00:26] Okay. And your date of birth?
+
+CLIENT1: [00:00:31] April 17th, 1981.
+
+ADVISOR: [00:00:35] Perfect. So you’re in your early forties. And I know this is a bit basic, but are you based in the US for tax purposes?
+
+CLIENT1: [00:00:41] Yes, US.
+
+ADVISOR: [00:00:44] Great. Can I ask what you do for work at the moment?
+
+CLIENT1: [00:00:49] I’m self-employed. I run my own practice—financial consulting.
+
+ADVISOR: [00:00:55] Right, okay. So self-employed financial consultant. How long have you been doing that?
+
+CLIENT1: [00:01:01] Since 2016, so… yeah, a while now.
+
+ADVISOR: [00:01:05] Got it. And that’s your main source of income?
+
+CLIENT1: [00:01:08] Yeah, pretty much. It’s my business income, plus some consulting retainers that come in quarterly.
+
+ADVISOR: [00:01:15] Okay, that’s helpful. When you say business income, what sort of range are we talking over a year?
+
+CLIENT1: [00:01:21] Um… it varies a lot. I’d say about a hundred to one-forty a year. Somewhere in that range.
+
+ADVISOR: [00:01:30] So roughly 100 to 140 thousand gross annually. That makes sense for self-employed work. And the retainers—are those separate from the main business income?
+
+CLIENT1: [00:01:40] Yeah, separate. I have a few clients on quarterly retainers. It’s roughly twelve to eighteen thousand per quarter.
+
+ADVISOR: [00:01:49] Per quarter, okay. So if I’m translating that, it’s about 12k to 18k every quarter, not monthly, right?
+
+CLIENT1: [00:01:56] Right, quarterly. Sorry, I said it fast.
+
+ADVISOR: [00:01:59] No, that’s fine. I just want to make sure I’ve got it right. And when you’re thinking about retirement, do you have a target age in mind?
+
+CLIENT1: [00:02:08] I keep coming back to sixty-seven. That feels like the number.
+
+ADVISOR: [00:02:13] Sixty-seven, okay. Not a specific date, just the age?
+
+CLIENT1: [00:02:16] Yeah, age more than date.
+
+ADVISOR: [00:02:19] Understood. What’s driving that—more of a “I want to work as long as I can,” or more “I want to know I can stop if I need to”?
+
+CLIENT1: [00:02:28] A bit of both, honestly. I don’t want to feel rushed, but I also don’t want to get to that point and realize I’m behind.
+
+ADVISOR: [00:02:36] Yeah, that’s very normal. On the business side, what do your regular expenses look like? I’m thinking software, licensing, office stuff, that sort of thing.
+
+CLIENT1: [00:02:45] Yeah, that’s actually a decent chunk. Around fifteen hundred to twenty-one hundred a month.
+
+ADVISOR: [00:02:52] Okay, around $1,500 to $2,100 monthly for business expenses. And then on the personal side, what are your big fixed costs?
+
+CLIENT1: [00:03:01] Rent is the big one. Roughly twenty-two hundred to twenty-six hundred a month.
+
+ADVISOR: [00:03:07] Rent, got it. Anything else that’s pretty steady each month?
+
+CLIENT1: [00:03:11] Health insurance is about six hundred to seven hundred a month.
+
+ADVISOR: [00:03:16] Okay. And then the more flexible stuff—travel, eating out, that kind of thing?
+
+CLIENT1: [00:03:22] I probably spend around four hundred to six hundred a month on vacations and dining out. It’s not every month exactly, but averaged out, yeah.
+
+ADVISOR: [00:03:31] Sure, that makes sense. Let me ask about taxes since you’re self-employed—do you usually set aside money for quarterly estimated taxes?
+
+CLIENT1: [00:03:39] Yeah, and honestly that’s one of the things I’m trying to get better at. I’d say about fifteen to twenty-one thousand a year goes to estimated taxes.
+
+ADVISOR: [00:03:50] About 15k to 21k annually. And is the issue more that the income swings around, so it’s hard to know what to reserve?
+
+CLIENT1: [00:03:58] Exactly. Some months are great, some are just… quieter. So I’m always trying not to get surprised.
+
+ADVISOR: [00:04:05] Yeah, fair enough. We can definitely look at smoothing that out. Before I ask about accounts, do you have any dependants or anyone else financially relying on you?
+
+CLIENT1: [00:04:15] No, it’s just me.
+
+ADVISOR: [00:04:18] Okay. And home-wise, you mentioned rent, so no mortgage then?
+
+CLIENT1: [00:04:23] No mortgage, no.
+
+ADVISOR: [00:04:25] Alright. Let’s talk savings and retirement accounts. Do you have anything like a SEP IRA, Solo 401(k), Roth IRA, that kind of thing?
+
+CLIENT1: [00:04:36] Yeah. I’ve got a SEP IRA with Vanguard.
+
+ADVISOR: [00:04:40] Okay, and roughly what’s in that at the moment?
+
+CLIENT1: [00:04:44] It’s about… I want to say around one-eighty to one-ninety.
+
+ADVISOR: [00:04:49] Around $180k to $190k. And are you contributing regularly to that?
+
+CLIENT1: [00:04:54] Yes, fifteen percent of net self-employment income.
+
+ADVISOR: [00:04:59] Fifteen percent of net self-employment income, got it. Any other retirement accounts?
+
+CLIENT1: [00:05:04] A Roth IRA with Fidelity.
+
+ADVISOR: [00:05:07] Great. And what’s the balance there?
+
+CLIENT1: [00:05:10] Forty-two thousand exactly, as of the last statement.
+
+ADVISOR: [00:05:14] Okay, $42,000. And do you contribute to that yearly?
+
+CLIENT1: [00:05:19] Yeah, six thousand five hundred a year.
+
+ADVISOR: [00:05:23] Perfect. Outside retirement accounts, do you have cash savings or brokerage investments?
+
+CLIENT1: [00:05:30] Yeah, I’ve got a high-yield savings account with Ally. It’s roughly twenty-five to thirty thousand.
+
+ADVISOR: [00:05:38] High-yield savings, Ally, about 25k to 30k. Anything else?
+
+CLIENT1: [00:05:42] A brokerage account at Schwab. That one’s around sixty to sixty-two thousand.
+
+ADVISOR: [00:05:49] Around 60k to 62k, okay. And just so I don’t miss anything, do you have any debt besides normal monthly bills?
+
+CLIENT1: [00:05:57] I do still have student loans.
+
+ADVISOR: [00:06:00] Okay. Federal or private?
+
+CLIENT1: [00:06:03] Federal student loan servicer.
+
+ADVISOR: [00:06:06] And what’s the payment look like?
+
+CLIENT1: [00:06:10] About three hundred to three-fifty a month.
+
+ADVISOR: [00:06:14] And roughly what’s left on it?
+
+CLIENT1: [00:06:17] Somewhere around twenty-six to thirty thousand.
+
+ADVISOR: [00:06:21] Okay, about 26k to 30k outstanding. Any other loans, credit cards carrying balances, car loans?
+
+CLIENT1: [00:06:28] No, nothing else.
+
+ADVISOR: [00:06:31] Alright. And do you own a car?
+
+CLIENT1: [00:06:34] Yes, a 2019 Toyota Camry.
+
+ADVISOR: [00:06:38] Nice. Do you want to put a rough value on that for me?
+
+CLIENT1: [00:06:42] Maybe eighteen to nineteen thousand.
+
+ADVISOR: [00:06:45] Okay, around $18k to $19k. That helps. Let me step back a bit—what are the main things you want help with? I know retirement is one piece, but what else is on your mind?
+
+CLIENT1: [00:06:57] Retirement for sure. I want to know if what I’m saving is actually enough to retire comfortably at sixty-seven. And then taxes—especially the quarterly surprises. Those are stressful. And… I’d also like to get my affairs in order, just basic estate stuff.
+
+ADVISOR: [00:07:15] Yeah, absolutely. So retirement readiness, tax planning for variable income, and getting some estate documents in place. On the retirement side, when you say “comfortably,” what does that mean to you in real life? More travel, not worrying about bills, helping family, that kind of thing?
+
+CLIENT1: [00:07:30] Mostly not worrying. I’d like to travel some, but I’m not trying to live extravagantly. I just want to know I won’t be pinching pennies the whole time.
+
+ADVISOR: [00:07:40] That’s a good way to put it. And on the estate side, I’m not going to get into legal advice today, but are you thinking more of the basic will and beneficiary-type setup?
+
+CLIENT1: [00:07:49] Yeah, basic documents. I just haven’t gotten around to it.
+
+ADVISOR: [00:07:53] Okay. That’s helpful. And for the tax piece, would it be fair to say the goal is less “minimize every last dollar” and more “avoid the nasty surprises”?
+
+CLIENT1: [00:08:03] Exactly. I can live with paying taxes. I just hate the surprise part.
+
+ADVISOR: [00:08:08] Fair. One last thing on the business—when did you say you started your own practice?
+
+CLIENT1: [00:08:13] 2016.
+
+ADVISOR: [00:08:15] Great, 2016. Thanks, Jennifer. I think that gives us a solid picture to work from.

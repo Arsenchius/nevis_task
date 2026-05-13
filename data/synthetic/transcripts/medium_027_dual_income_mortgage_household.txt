@@ -1,0 +1,232 @@
+---
+title: N/A
+date: 2026-02-11
+participants:
+  - id: advisor
+    name: Megan Collins
+  - id: client
+    name: Zoe Walters
+  - id: client
+    name: Tariq Dixon
+---
+ADVISOR: [00:00:03] Hi Zoe, hi Tariq — Megan Collins here. Thanks for making time today. Can you both hear me okay?
+
+CLIENT1: [00:00:09] Yeah, loud and clear.
+
+CLIENT2: [00:00:11] Yep, all good.
+
+ADVISOR: [00:00:13] Great. I know these fact-finds can feel a bit like a laundry list, so we’ll keep it conversational. Just to start, can I get your full names and dates of birth?
+
+CLIENT1: [00:00:22] Sure — Zoe Walters, and my date of birth is 17th of April, 1981.
+
+CLIENT2: [00:00:30] Tariq Dixon, born 3rd of November, 1979.
+
+ADVISOR: [00:00:35] Perfect. And you’re married, right?
+
+CLIENT1: [00:00:38] Yes.
+
+CLIENT2: [00:00:39] Yeah, married.
+
+ADVISOR: [00:00:41] Lovely. And just so I’ve got the basics right, Zoe Walters and Tariq Dixon. Any middle names or anything you want me to use, or is that fine?
+
+CLIENT1: [00:00:49] That’s fine.
+
+ADVISOR: [00:00:51] Okay. And where are you both working at the moment? I’ll start with you, Zoe.
+
+CLIENT1: [00:00:57] I’m full-time marketing manager at Northstar Health. Been there since 2018.
+
+ADVISOR: [00:01:05] Northstar Health — got it. And US tax resident?
+
+CLIENT1: [00:01:09] Yes, US.
+
+ADVISOR: [00:01:11] Great. Tariq, what about you?
+
+CLIENT2: [00:01:15] I’m an IT project manager at BrightWave Systems. Started there in 2016.
+
+ADVISOR: [00:01:22] And same question — US tax resident?
+
+CLIENT2: [00:01:25] Yes, US tax resident.
+
+ADVISOR: [00:01:28] Brilliant. Do you mind if I ask what you’re earning roughly? Gross annual is fine.
+
+CLIENT1: [00:01:35] Mine is 92 thousand.
+
+ADVISOR: [00:01:39] $92,000, okay.
+
+CLIENT2: [00:01:41] And I’m at 108 thousand base. Plus bonus.
+
+ADVISOR: [00:01:46] Right, and the bonus — is that pretty steady or does it move around?
+
+CLIENT2: [00:01:50] It moves a bit. Usually, um, about 10 to 15 thousand a year. I’d probably say around 12 on average, but it’s not guaranteed.
+
+ADVISOR: [00:01:59] That’s helpful, thanks. And children or dependants at home?
+
+CLIENT1: [00:02:04] Two kids. Ella and Noah.
+
+ADVISOR: [00:02:08] Okay — can you tell me their dates of birth as well?
+
+CLIENT1: [00:02:12] Ella’s 21st of June, 2012. Noah’s 8th of September, 2015.
+
+ADVISOR: [00:02:18] Great, thank you. And they’re both financially dependent still?
+
+CLIENT2: [00:02:22] Yes, definitely.
+
+ADVISOR: [00:02:24] Got it. So day-to-day household spending — I’m not asking for every coffee, just the big stuff. What’s the mortgage payment like?
+
+CLIENT1: [00:02:34] It’s 2,450 a month.
+
+CLIENT2: [00:02:37] Yeah, that’s right.
+
+ADVISOR: [00:02:39] Okay. And utilities, internet, that sort of thing?
+
+CLIENT2: [00:02:44] Roughly 350 to 400 a month, depending on the season.
+
+ADVISOR: [00:02:49] Sure. Childcare or activities?
+
+CLIENT1: [00:02:53] After-school care and activities are about 520 a month.
+
+ADVISOR: [00:02:58] And groceries?
+
+CLIENT2: [00:03:01] Around 900 a month, probably.
+
+ADVISOR: [00:03:04] Okay. Do you also set aside anything for family trips, weekends away — that kind of thing?
+
+CLIENT1: [00:03:10] Yeah, not loads, but roughly 200 to 300 a month.
+
+ADVISOR: [00:03:14] Nice. I always ask because sometimes the “fun” spending tells me a lot about what people value. And what’s the main home worth roughly?
+
+CLIENT2: [00:03:22] We think about 625 thousand.
+
+ADVISOR: [00:03:26] Okay. And the mortgage balance itself — just so I’ve got the full picture — what’s outstanding and what rate are you on?
+
+CLIENT1: [00:03:34] I think it’s 412 thousand left.
+
+CLIENT2: [00:03:37] Yeah, 412 thousand. Rate is 6.1%.
+
+ADVISOR: [00:03:42] Great, thanks. Is that with First National Bank?
+
+CLIENT2: [00:03:45] Yes, First National Bank.
+
+ADVISOR: [00:03:48] And any other debts in the household — car loans, credit cards, anything like that?
+
+CLIENT1: [00:03:54] I’ve got a car loan.
+
+ADVISOR: [00:03:56] Okay — how much is that monthly and what’s left on it?
+
+CLIENT1: [00:04:00] It’s 410 a month, and the balance is 16,800.
+
+ADVISOR: [00:04:05] And the interest rate there?
+
+CLIENT1: [00:04:07] 5.4%.
+
+ADVISOR: [00:04:09] Right. That’s through an auto lender, I assume?
+
+CLIENT1: [00:04:12] Yeah, just an auto lender.
+
+ADVISOR: [00:04:14] Okay. Let’s talk savings and investments. Do you have a joint cash reserve?
+
+CLIENT2: [00:04:19] Yeah, we’ve got a high-yield savings account at the local credit union. About 42 thousand in there.
+
+ADVISOR: [00:04:27] Good. And is that mainly emergency fund money, or are you earmarking it for something?
+
+CLIENT1: [00:04:31] Mostly emergency fund, but also maybe a bit for the mortgage if we get ahead of ourselves.
+
+ADVISOR: [00:04:37] Sure, that makes sense. Any individual investment accounts outside retirement?
+
+CLIENT1: [00:04:42] I have a brokerage account at Vanguard.
+
+ADVISOR: [00:04:46] Okay. Roughly what’s in that?
+
+CLIENT1: [00:04:49] About 30 to 40 thousand. Closer to the middle, maybe 36.
+
+ADVISOR: [00:04:54] Perfect. And Tariq, anything like that in your name?
+
+CLIENT2: [00:04:58] I’ve got a 529 for the kids at the state plan.
+
+ADVISOR: [00:05:02] Great — and what’s in there currently?
+
+CLIENT2: [00:05:05] About 18 thousand.
+
+ADVISOR: [00:05:08] Nice. I’ll come back to the kids in a second, because college planning is usually a big one. Before that, retirement accounts — workplace plans at both employers?
+
+CLIENT1: [00:05:17] Yes, I’m in the Northstar Health 401(k).
+
+ADVISOR: [00:05:21] And what’s that worth roughly today?
+
+CLIENT1: [00:05:24] 168 thousand.
+
+ADVISOR: [00:05:27] And your contribution rate?
+
+CLIENT1: [00:05:29] Six percent of salary.
+
+ADVISOR: [00:05:32] Okay. Tariq, yours?
+
+CLIENT2: [00:05:35] BrightWave Systems 401(k), and that’s around 214 thousand.
+
+ADVISOR: [00:05:41] Great. And you’re putting in what percentage?
+
+CLIENT2: [00:05:44] Eight percent.
+
+ADVISOR: [00:05:46] Good. Any matching you know of, or should I just note the employee contributions for now?
+
+CLIENT2: [00:05:50] Let’s just note the contributions for now.
+
+ADVISOR: [00:05:53] Sure. Thinking ahead, when would each of you ideally like to retire? I know that can change, but a rough age helps.
+
+CLIENT1: [00:06:01] I’d like to be done around 65.
+
+CLIENT2: [00:06:04] I’m probably more like 67.
+
+ADVISOR: [00:06:07] Okay, so mid-60s for both of you. And what does “comfortable” mean to you in retirement — more travel, helping the kids, just not worrying about bills?
+
+CLIENT1: [00:06:17] Honestly, not worrying about bills first. Then maybe travel a bit.
+
+CLIENT2: [00:06:21] Yeah, and being able to replace most of what we spend now without feeling like we’re cutting everything back.
+
+ADVISOR: [00:06:28] That’s a really good way to put it. And I’m going to ask this in a practical way: are you trying to get the mortgage paid off before retirement?
+
+CLIENT1: [00:06:36] That would be ideal, yes.
+
+CLIENT2: [00:06:39] We’re thinking extra principal once the emergency fund feels big enough.
+
+ADVISOR: [00:06:44] Okay, got it. And the college piece — you mentioned the 529. What’s the overall goal there?
+
+CLIENT2: [00:06:51] Ideally build up enough for both children. Something like 120 thousand total would be the goal.
+
+ADVISOR: [00:06:58] And timing-wise, do you have a target by when you’d want that in place?
+
+CLIENT2: [00:07:02] By 2030, ideally. I mean, as much as possible by then.
+
+ADVISOR: [00:07:07] Great. And are you planning to keep funding that monthly if cash flow allows?
+
+CLIENT1: [00:07:12] Yes, that’s the idea. We’d like to increase it if we can.
+
+ADVISOR: [00:07:16] Okay. One thing I like to check with couples is whether you’re both on the same page about protecting the family if something happened to one of you. Not to be gloomy, just practical. Do you have your wills updated?
+
+CLIENT1: [00:07:28] They’re… not current. We’ve meant to get to it.
+
+CLIENT2: [00:07:32] Yeah, they’re a few years out of date.
+
+ADVISOR: [00:07:35] Understood. And do you want to make sure guardianship for Ella and Noah is clearly set out as part of that?
+
+CLIENT1: [00:07:41] Yes, absolutely. That’s one of the main reasons we need to do it.
+
+ADVISOR: [00:07:45] Okay. I appreciate that. Last couple of things: do either of you have any concerns about how your money is split between cash, retirement, and investments, or is it more just “we need a plan”?
+
+CLIENT2: [00:07:57] More the second one. We’re comfortable with some growth, but we don’t want to take silly risks.
+
+CLIENT1: [00:08:02] Yeah — we’ve got kids and a mortgage, so we want balance.
+
+ADVISOR: [00:08:06] Totally fair. So a balanced approach, keep the cash reserve healthy, keep funding the 401(k)s, and then decide whether extra money goes to college savings or mortgage paydown first.
+
+CLIENT1: [00:08:16] That sounds right.
+
+CLIENT2: [00:08:18] Yeah, that’s pretty much where we’re at.
+
+ADVISOR: [00:08:21] Great. And just to check I’ve got the right institutions down: Northstar Health, BrightWave Systems, Vanguard, your state 529 plan, local credit union, and First National Bank for the mortgage. Did I miss anything major?
+
+CLIENT2: [00:08:34] No, that’s everything major.
+
+CLIENT1: [00:08:36] Yep.
+
+ADVISOR: [00:08:38] Perfect. I’ll pull everything together and we can look at the next steps from there.

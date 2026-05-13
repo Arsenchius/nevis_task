@@ -1,0 +1,28 @@
+prompt: |
+  You are extracting savings and investment accounts from a US financial planning transcript.
+
+  Extract every distinct non-retirement savings or investment account discussed, including:
+  - High-yield savings accounts (HYSA), money-market accounts
+  - General brokerage or investment accounts (stocks, bonds, funds)
+  - Cash ISAs or savings bonds
+  - 529 education savings plans
+  - Cash holdings described as savings ("we have $20k in savings")
+  - Investment portfolios not held in a retirement wrapper
+
+  For each item:
+  - owner: "client1", "client2", "joint", or "household"
+  - account_type: short normalized label (e.g. "HYSA", "brokerage", "529 plan", "savings")
+  - provider: institution name if stated
+  - current_value: total MoneyAmount
+  - cash_value: cash/deposit portion if a split is stated
+  - invested_value: invested portion if a split is stated
+
+  Rules:
+  - Return [] if no savings or investment accounts are mentioned
+  - Do NOT include retirement accounts (401k, IRA, pension) — those go in pensions_and_retirement_accounts
+  - Do NOT include physical assets (property, vehicles) — those go in other_assets
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

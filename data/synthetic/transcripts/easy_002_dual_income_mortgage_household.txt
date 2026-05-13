@@ -1,0 +1,214 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Lucas Rivera
+  - id: client
+    name: Patrick Bell
+---
+ADVISOR: [00:00:03] Hi Lucas, hi Patrick — thanks for making time today. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we’re good.
+
+ADVISOR: [00:00:12] Perfect. And just so I get the basics right, Lucas Rivera is the main contact on the call, and Patrick Bell is joining as your spouse, right?
+
+CLIENT1: [00:00:20] That’s right.
+
+CLIENT2: [00:00:21] Yep, spouse.
+
+ADVISOR: [00:00:24] Great. Lucas, can I start with you? What’s your date of birth?
+
+CLIENT1: [00:00:30] Uh, April 18th, 1990.
+
+ADVISOR: [00:00:34] Thanks. And Patrick, yours?
+
+CLIENT2: [00:00:37] November 2nd, 1988.
+
+ADVISOR: [00:00:40] Got it. And you’re both married, I assume?
+
+CLIENT1: [00:00:43] Yeah.
+
+CLIENT2: [00:00:44] Married, yep.
+
+ADVISOR: [00:00:47] Nice. Do you have kids at home?
+
+CLIENT1: [00:00:51] Two, yeah. Emma and Noah.
+
+CLIENT2: [00:00:54] Emma’s the oldest, she’s five... well, almost six, I always forget the exact age.
+
+ADVISOR: [00:01:00] No worries. What are their names and ages, roughly?
+
+CLIENT1: [00:01:04] Emma Rivera-Bell, born June 14th, 2019.
+
+CLIENT2: [00:01:08] And Noah Rivera-Bell, born September 3rd, 2022. He’s two.
+
+ADVISOR: [00:01:14] Okay, perfect. And they’re both still financially dependent on you?
+
+CLIENT1: [00:01:18] Yeah, definitely.
+
+CLIENT2: [00:01:19] Very much so.
+
+ADVISOR: [00:01:22] Let’s talk work. Lucas, what do you do currently?
+
+CLIENT1: [00:01:27] I’m a project manager. I’m with Northstar Logistics.
+
+ADVISOR: [00:01:31] And how long have you been there?
+
+CLIENT1: [00:01:34] Since 2018.
+
+ADVISOR: [00:01:36] Okay. And you’re employed full-time there?
+
+CLIENT1: [00:01:39] Yep.
+
+ADVISOR: [00:01:40] What’s your annual salary, before tax?
+
+CLIENT1: [00:01:45] It’s 84,000.
+
+ADVISOR: [00:01:47] $84,000, got it. And your plan is to retire around what age, if things go as expected?
+
+CLIENT1: [00:01:54] I’d say 65.
+
+ADVISOR: [00:01:56] 65, okay. Patrick, how about you?
+
+CLIENT2: [00:02:00] I’m a senior nurse at St. Anne Medical Center.
+
+ADVISOR: [00:02:04] And you’ve been there since...?
+
+CLIENT2: [00:02:06] 2016.
+
+ADVISOR: [00:02:08] Great. Salary?
+
+CLIENT2: [00:02:11] 76,000 gross.
+
+ADVISOR: [00:02:13] Thanks. And your retirement age target?
+
+CLIENT2: [00:02:17] Probably 67. I mean, if I can make it work, that feels more realistic.
+
+ADVISOR: [00:02:22] Yeah, that makes sense. So one of you is aiming a bit earlier, one a bit later — that’s helpful. Any big changes coming up with work, or are things pretty steady?
+
+CLIENT1: [00:02:31] Pretty steady for now.
+
+CLIENT2: [00:02:33] Yeah, same here.
+
+ADVISOR: [00:02:36] Okay. Let’s do the household monthlys, just so I can understand what’s going out. What’s your mortgage payment at the moment?
+
+CLIENT1: [00:02:45] It’s 2,450 a month.
+
+ADVISOR: [00:02:48] And that’s the joint mortgage, right?
+
+CLIENT2: [00:02:50] Yes.
+
+ADVISOR: [00:02:52] Okay. Utilities?
+
+CLIENT1: [00:02:55] Around 320.
+
+ADVISOR: [00:02:57] Groceries?
+
+CLIENT2: [00:03:00] About 900 a month, give or take.
+
+ADVISOR: [00:03:03] Daycare or childcare?
+
+CLIENT1: [00:03:06] Daycare is 1,100 monthly.
+
+ADVISOR: [00:03:09] And transportation, fuel, commuting, that kind of thing?
+
+CLIENT2: [00:03:13] Roughly 260.
+
+ADVISOR: [00:03:16] Okay, thanks. That gives me the picture. Just checking on housing costs as well — what’s the mortgage balance sitting at now?
+
+CLIENT1: [00:03:24] I think it’s about 362,000.
+
+ADVISOR: [00:03:27] And the lender is Wells Fargo?
+
+CLIENT2: [00:03:30] Yeah, Wells Fargo.
+
+ADVISOR: [00:03:32] And the rate, if you know it?
+
+CLIENT1: [00:03:35] 6.125%.
+
+ADVISOR: [00:03:38] Right, okay. That’s helpful. Do you feel like the payment is manageable right now, or is it starting to feel tight with daycare and everything?
+
+CLIENT2: [00:03:47] It’s manageable, but... yeah, it’s tight some months.
+
+CLIENT1: [00:03:50] Especially when something extra comes up.
+
+ADVISOR: [00:03:53] Sure, that’s very common. On savings, do you have a joint emergency fund or anything set aside?
+
+CLIENT1: [00:04:00] Yeah, we have a high-yield savings account with Ally.
+
+ADVISOR: [00:04:04] Roughly how much is in there today?
+
+CLIENT2: [00:04:07] Twenty-eight thousand.
+
+ADVISOR: [00:04:09] $28,000, okay. And do you also have any brokerage or investment account outside the retirement plans?
+
+CLIENT1: [00:04:17] Yeah, a joint brokerage at Vanguard.
+
+ADVISOR: [00:04:20] How much is in that?
+
+CLIENT1: [00:04:23] Total is 15,000... actually, wait — 15,000 total, with about 2,000 sitting in cash and the rest invested.
+
+ADVISOR: [00:04:31] Got it, so about 13,000 invested and 2,000 cash.
+
+CLIENT2: [00:04:35] Yeah, that’s right.
+
+ADVISOR: [00:04:38] Great. And for retirement accounts, Lucas, do you have a workplace plan through Northstar?
+
+CLIENT1: [00:04:44] Yeah, a 401(k).
+
+ADVISOR: [00:04:46] Okay. Do you know the current value roughly?
+
+CLIENT1: [00:04:49] It’s around 92,000.
+
+ADVISOR: [00:04:52] And what are you contributing?
+
+CLIENT1: [00:04:55] Six percent of salary.
+
+ADVISOR: [00:04:58] Okay. Patrick, how about you?
+
+CLIENT2: [00:05:01] I’ve got a 403(b) through St. Anne.
+
+ADVISOR: [00:05:04] And the balance there?
+
+CLIENT2: [00:05:06] About 68,000.
+
+ADVISOR: [00:05:08] And your contribution rate?
+
+CLIENT2: [00:05:11] Five percent of my salary.
+
+ADVISOR: [00:05:14] Good. So you’re both saving into workplace plans already, which is a strong base. What are the main things you want to improve over the next couple of years?
+
+CLIENT1: [00:05:24] Honestly, I want a bigger emergency fund. We’ve got kids, and I just want the house to feel comfortable and not so... stretched.
+
+CLIENT2: [00:05:32] Yeah, and we don’t want to feel like one surprise bill knocks everything off.
+
+ADVISOR: [00:05:36] That makes sense. If you could put a number on the emergency fund target, what would feel comfortable?
+
+CLIENT1: [00:05:42] Forty thousand.
+
+ADVISOR: [00:05:44] Okay, so from 28 to 40 over the next couple of years. That’s a pretty reasonable target. Anything else you’re thinking about?
+
+CLIENT2: [00:05:52] We’d like to start saving for the kids’ college, even if it’s just getting something going.
+
+ADVISOR: [00:05:57] Sure. No dedicated education account yet, then?
+
+CLIENT1: [00:06:00] Not yet, no.
+
+ADVISOR: [00:06:02] And longer term, retirement-wise, you mentioned 65 and 67. Is the idea to rely mostly on the workplace plans and savings, or are you hoping for something more specific in retirement?
+
+CLIENT2: [00:06:12] Mostly the workplace accounts and whatever we can build up in savings.
+
+CLIENT1: [00:06:16] Yeah, we just want to be able to step back without panicking about money.
+
+ADVISOR: [00:06:21] Right. That’s a good way to put it. Anything else on your mind financially — anything you worry about most?
+
+CLIENT2: [00:06:28] Just balancing everything. Kids, mortgage, retirement... it’s a lot.
+
+CLIENT1: [00:06:33] Yeah. We’re doing okay, but we want to be smarter about it.
+
+ADVISOR: [00:06:37] Absolutely. That’s exactly what we can work through. I think I’ve got the main pieces for now, and we can build from there.

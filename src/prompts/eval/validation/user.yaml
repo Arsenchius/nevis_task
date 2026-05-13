@@ -1,0 +1,63 @@
+prompt: |
+  Validate this synthetic fact-find transcript against its ground truth label.
+
+  Example ID: {example_id}
+  Difficulty: {difficulty}
+  Challenge tags: {challenge_tags}
+
+  Suppressed sections (null/empty in the label — must not appear as extractable content):
+  {suppressed_sections}
+
+  Expected label:
+  {expected_json}
+
+  Transcript:
+  {transcript}
+
+  Instructions:
+  - For coverage_miss: go through the expected label and check only fields whose value is a
+    concrete non-null string, number, or true/false boolean. Skip any field whose GT value is
+    null, [], {{}} (empty object), or an object with all-null leaves — they require no support.
+    Also skip these synthesis/inference fields even when non-null: net_or_gross, notes,
+    status_or_uncertainty, attitude_summary, will_status, power_of_attorney_status,
+    partner_or_spouse_relationship (all inferrable from context — no explicit statement
+    required), provider when the GT value is a generic category word ("auto finance company",
+    "online bank", "discount broker", "credit union", "not mentioned") rather than a real
+    institution name, child/dependant name fields when only a first name is needed (do not
+    require the surname to appear), and any contribution
+    field whose value is "none", "N/A", or "none; already retired" (inferrable from retirement).
+    For key_concerns items, require only conceptual equivalence — a client expressing the
+    underlying worry in plain language (e.g. "I'm scared of running out of money early in
+    retirement") is sufficient evidence for a technical advisory label (e.g.
+    "sequence-of-returns risk"); only flag if there is genuinely no discussion of that
+    topic area anywhere in the transcript.
+    Also skip: expense amount for a mortgage or loan payment item when loans_mortgages is
+    suppressed — a category mention alone ("we have a mortgage") is sufficient evidence;
+    the transcript cannot state the amount without creating a loans_mortgages leak.
+    Approximate values are fine — "about 400 to 450 thousand" covers a GT value of 420,000.
+    Flag only fields where there is genuinely zero supporting evidence.
+  - For suppression_leak: check every section in "Suppressed sections" using the description
+    provided for each section to understand its exact domain. Do not map expense mentions,
+    income statements, or other-domain content onto a suppressed section unless the content
+    directly conveys an extractable fact for that section. Bare negations ("no mortgage",
+    "no children", "no will") and bare status confirmations ("I'm retired", "I'm not married",
+    "I don't own property") are allowed — do not flag them. Adviser acknowledgements of a
+    disclosed status ("since you're already retired", "given that you rent") are also allowed.
+    Critical example: if other_assets is suppressed and the client mentions paying HOA fees or
+    property taxes ("$900 a month in HOA and property taxes"), do NOT flag it — that is an
+    expense, not an asset disclosure. An other_assets leak would be disclosing ownership of a
+    specific asset with its value ("I own a condo worth $350k").
+    Critical example: if loans_mortgages is suppressed and the transcript mentions "we have
+    a mortgage" or "housing costs are covered" as a bare expense category with NO dollar
+    amount, balance, rate, or lender — do NOT flag it as a loans_mortgages leak. Only flag
+    if a dollar amount, balance, rate, or lender name also appears.
+    Only flag richer extractable detail: specific amounts tied to asset ownership, provider
+    names, account types, dates, rates, attitude scores, or structured facts.
+  - For hallucination: check that all specific values spoken in the transcript (amounts,
+    provider names, dates, rates, statuses) have a corresponding match in the expected label.
+    Do not flag vague filler phrases like "a few years ago" or "not much". Only flag concrete
+    facts that contradict or have no basis in the label.
+  - For localization: scan for UK-specific terms. The case is US-based unless the label
+    explicitly states otherwise.
+
+  Return only the JSON object described in the system prompt. No commentary outside the JSON.

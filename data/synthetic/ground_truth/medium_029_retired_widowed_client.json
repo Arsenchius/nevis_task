@@ -1,0 +1,330 @@
+{
+  "example_id": "medium_029_retired_widowed_client",
+  "difficulty": "medium",
+  "archetype_id": "retired_widowed_client",
+  "challenge_tags": [
+    "estate_planning",
+    "missing_fields",
+    "multiple_products",
+    "negation",
+    "numeric_approximate",
+    "numeric_exact",
+    "owner_attribution",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "personal_details",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives",
+    "risk_profile_preferences",
+    "estate_planning"
+  ],
+  "age_band": "retired_1948_1962",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Wei",
+        "last_name": "Simmons",
+        "date_of_birth": "1956-04-18",
+        "marital_or_relationship_status": "widowed",
+        "mobile_phone": "+1-415-555-0198",
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Savannah",
+        "last_name": "Tran",
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": false,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Social Security",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "net"
+      },
+      {
+        "owner": "client1",
+        "source_name": "teacher pension",
+        "amount": {
+          "normalized_amount": 1850.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,850"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "interest and dividends",
+        "amount": {
+          "normalized_amount": 300.0,
+          "lower_bound": 200.0,
+          "upper_bound": 400.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $200 to $400 a month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "unknown"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "housing",
+        "owner": "client1",
+        "name": "property taxes and insurance",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$900"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "utilities",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$260"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "healthcare",
+        "owner": "client1",
+        "name": "Medicare supplement and prescriptions",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$320"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "client1",
+        "name": "travel and dining out",
+        "amount": {
+          "normalized_amount": 450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $450"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "former employer plan",
+        "current_value": {
+          "normalized_amount": 420000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420,000"
+        },
+        "contribution": "none; retired",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client1",
+        "account_type": "IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 215000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$215,000"
+        },
+        "contribution": "none; retired",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client1",
+        "account_type": "annuity",
+        "provider": "insurance company",
+        "current_value": {
+          "normalized_amount": 98000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $98,000"
+        },
+        "contribution": "none",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "local credit union",
+        "current_value": {
+          "normalized_amount": 68000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$68,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 145000.0,
+          "lower_bound": 120000.0,
+          "upper_bound": 170000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $120,000 to $170,000"
+        },
+        "cash_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15,000"
+        },
+        "invested_value": {
+          "normalized_amount": 130000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$130,000"
+        }
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "mortgage",
+        "provider": "none",
+        "monthly_cost": null,
+        "outstanding_balance": null,
+        "interest_rate": null,
+        "no_debt": true
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Keep retirement income steady and avoid large market swings.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants enough income to cover living costs without drawing down savings too quickly."
+      },
+      {
+        "category": "estate planning",
+        "description": "Make sure assets pass smoothly to beneficiaries and update beneficiary designations.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to review will and beneficiary forms after spouse's death."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Reduce taxes on withdrawals and investment income where possible.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Open to guidance on which accounts to draw from first."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "conservative",
+      "attitude_summary": "Very cautious investor; prefers preserving capital and predictable income over growth.",
+      "preferred_strategy": "Low-volatility, income-focused allocation with limited equity exposure and a cash reserve.",
+      "key_concerns": [
+        "outliving savings",
+        "market downturns",
+        "keeping money accessible for emergencies",
+        "minimizing taxes",
+        "making sure beneficiaries are protected"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "has power of attorney",
+      "notes": "Will was updated about three years ago; no trust mentioned. Beneficiaries need review after spouse's death. Power of attorney is in place."
+    }
+  }
+}

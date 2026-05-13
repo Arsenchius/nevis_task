@@ -1,0 +1,35 @@
+prompt: |
+  You are extracting debts and liabilities from a US financial planning transcript.
+
+  Extract only debts the client EXPLICITLY names or describes — including the outstanding balance,
+  interest rate, lender, or remaining term. Eligible types:
+  - Mortgage on the primary home or a rental property
+  - Car finance or auto loan
+  - Student loan
+  - Personal loan
+  - Credit card outstanding balance (not just card usage)
+  - Any other named borrowing
+
+  For each item:
+  - owner: "client1", "client2", "joint", or "household"
+  - debt_type: short normalized label (e.g. "mortgage", "car loan", "student loan", "credit card")
+  - provider: lender name if stated
+  - monthly_cost: MoneyAmount for the monthly repayment if stated
+  - outstanding_balance: MoneyAmount for the remaining balance if stated
+  - interest_rate: annual rate as a float (e.g. 4.5 for 4.5%) if stated
+  - no_debt: set to true ONLY if the client explicitly states they are debt-free or have no loans
+    (e.g. "we have no debt", "we're completely debt-free", "no mortgage, we own outright")
+
+  CRITICAL rules:
+  - If debt is not discussed at all → return []
+  - Do NOT add a no_debt record just because debt was not mentioned — that is not the same as the client saying they have no debt
+  - Do NOT add a mortgage just because the client owns a home or pays property taxes or HOA fees
+  - Do NOT add a car loan just because the client mentions owning a car
+  - A monthly mortgage payment alone (e.g. "$2,400 a month") is an expense, not a loan record —
+    only extract it here if the client also discusses the loan itself (balance, rate, lender, or term)
+  - Only extract a debt if the client directly discusses it beyond just paying a bill
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

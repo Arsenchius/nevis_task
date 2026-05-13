@@ -1,0 +1,31 @@
+prompt: |
+  You are extracting income sources from a US financial planning transcript.
+
+  Extract every distinct income source discussed, including:
+  - Employment salary or wages
+  - Bonuses or commission
+  - Self-employment / business income
+  - Rental income
+  - Dividends or investment distributions
+  - Social Security or state pension payments
+  - Defined-benefit pension income already in payment
+  - Spousal or partner income (if mentioned)
+  - Any other regular or one-off inflows explicitly described as income
+
+  For each item:
+  - owner: "client1", "client2", "joint", or "household"
+  - source_name: the transcript's own wording
+  - amount: MoneyAmount with normalized_amount (best single value), raw_text (exact quote),
+    is_approximate=true for "about / around / roughly / close to" or a stated range
+  - frequency: annual, monthly, quarterly, weekly, daily, one_off, or unknown
+  - net_or_gross: net, gross, or unknown
+
+  Rules:
+  - One entry per distinct income source — do not merge two separate sources into one
+  - Return [] if no income sources are mentioned
+  - Do not include pension pot values or account balances — those are not income
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

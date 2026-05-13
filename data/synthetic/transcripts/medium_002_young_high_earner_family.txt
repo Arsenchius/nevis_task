@@ -1,0 +1,192 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Willow Wilson
+  - id: client
+    name: Charlotte Gomez
+---
+ADVISOR: [00:00:03] Hi, thanks for jumping on. Megan Carter here. I’ve got you both on—Willow Wilson and Charlotte Gomez, right?
+
+CLIENT1: [00:00:10] Yep, that’s us. Hi.
+
+CLIENT2: [00:00:12] Hi, Megan.
+
+ADVISOR: [00:00:15] Great. And just so I’m sure I’ve got the basics, Willow, can I start with your date of birth?
+
+CLIENT1: [00:00:22] Sure, it’s April 18th, 1991.
+
+ADVISOR: [00:00:26] April 18th, 1991—got it. And Charlotte, yours?
+
+CLIENT2: [00:00:32] September 7th, 1992.
+
+ADVISOR: [00:00:35] Perfect. And you two are living together, is that right?
+
+CLIENT1: [00:00:39] Yeah, cohabiting. Partnered.
+
+CLIENT2: [00:00:41] Yep.
+
+ADVISOR: [00:00:43] Okay. Willow, what do you do day to day?
+
+CLIENT1: [00:00:48] I’m a senior software engineer. I work for a tech company.
+
+ADVISOR: [00:00:53] Nice. And how long have you been there?
+
+CLIENT1: [00:00:56] Since 2018. Time flies.
+
+ADVISOR: [00:00:59] It really does. Charlotte?
+
+CLIENT2: [00:01:01] I’m a marketing manager at a retail company. Started there in 2019.
+
+ADVISOR: [00:01:07] Got it. And just to confirm for tax purposes, you’re both U.S. tax residents?
+
+CLIENT1: [00:01:12] Yes.
+
+CLIENT2: [00:01:13] Yep, both of us.
+
+ADVISOR: [00:01:16] Great. And income-wise, Willow, what’s your base pay roughly?
+
+CLIENT1: [00:01:23] About 165k. Give or take a bit.
+
+ADVISOR: [00:01:27] Okay, about 165 thousand gross. Any bonus on top of that?
+
+CLIENT1: [00:01:32] Yeah, usually something like... I’d say roughly 10 to 20k. It varies.
+
+ADVISOR: [00:01:38] Fine, so a variable annual bonus, somewhere in that range. Charlotte, yours?
+
+CLIENT2: [00:01:44] Mine’s around 92k gross.
+
+ADVISOR: [00:01:47] Around 92k, okay. Any bonus for you as well, or not really?
+
+CLIENT2: [00:01:52] Not really, no.
+
+ADVISOR: [00:01:54] All right. And family-wise, I think you mentioned you’ve got kids?
+
+CLIENT1: [00:01:59] Yeah—two. Ava and Noah.
+
+ADVISOR: [00:02:03] Okay. I’ll come back to them in a second. Just on the money side, what’s the general shape of things each month? Anything big that’s chewing through cash flow?
+
+CLIENT2: [00:02:13] Childcare is the big one. It’s... honestly a lot.
+
+CLIENT1: [00:02:17] Yeah, about 2,200 a month for daycare for both of them.
+
+ADVISOR: [00:02:22] About 2,200 monthly, okay. Anything else that’s fairly fixed?
+
+CLIENT1: [00:02:27] The mortgage is roughly 3,100 a month.
+
+ADVISOR: [00:02:31] Right.
+
+CLIENT2: [00:02:32] And utilities plus internet, somewhere around 400 to 500.
+
+ADVISOR: [00:02:37] Got it. And then day-to-day spending—groceries, going out, that sort of thing?
+
+CLIENT1: [00:02:43] We try not to go crazy, but family travel and eating out is probably about 700 a month.
+
+CLIENT2: [00:02:49] Some months more, some less.
+
+ADVISOR: [00:02:52] Sure, that’s normal. And with two little ones, I’m guessing flexibility matters quite a bit.
+
+CLIENT1: [00:02:57] Definitely. We want to keep some breathing room.
+
+ADVISOR: [00:03:00] Makes sense. Let me ask about retirement stuff now. Willow, do you have a workplace plan through the tech company?
+
+CLIENT1: [00:03:08] Yeah, a 401(k).
+
+ADVISOR: [00:03:10] And roughly what’s in there at the moment?
+
+CLIENT1: [00:03:14] Around 210k, I think. Maybe a touch over, but around there.
+
+ADVISOR: [00:03:19] Around 210 thousand. And what are you putting in?
+
+CLIENT1: [00:03:23] I do 10% of salary, and they match 4%.
+
+ADVISOR: [00:03:28] Okay, 10% employee plus 4% employer match. Charlotte, how about you?
+
+CLIENT2: [00:03:34] I’ve got a 401(k) too. It’s roughly 78k.
+
+ADVISOR: [00:03:39] Roughly 78k. And your contribution rate?
+
+CLIENT2: [00:03:43] Six percent.
+
+ADVISOR: [00:03:45] Great. And is that through the retail company plan?
+
+CLIENT2: [00:03:48] Yeah, employer plan.
+
+ADVISOR: [00:03:50] Perfect. Do either of you have anything outside the 401(k)s—like a brokerage account or savings you keep separate?
+
+CLIENT1: [00:03:59] We have savings, yeah. High-yield savings.
+
+ADVISOR: [00:04:03] Okay. About how much is in that?
+
+CLIENT1: [00:04:06] Around 48k.
+
+ADVISOR: [00:04:08] Around 48 thousand, nice. And any other investing account?
+
+CLIENT1: [00:04:13] I’ve got a brokerage account too.
+
+ADVISOR: [00:04:16] Roughly what’s in the brokerage?
+
+CLIENT1: [00:04:19] Somewhere around 35k, maybe 30 to 40.
+
+ADVISOR: [00:04:23] Okay, that helps. And is that mostly for long-term investing, or more of a flexible bucket?
+
+CLIENT1: [00:04:29] A bit of both, honestly. Long term mostly, but I like having access if we need it.
+
+ADVISOR: [00:04:35] Yeah, fair enough. So looking ahead, what are you hoping to do with all of this? What’s the main reason you wanted to speak to someone?
+
+CLIENT2: [00:04:45] We want to be more tax-efficient, I think.
+
+CLIENT1: [00:04:48] Yeah, and make sure the retirement contributions are set up sensibly.
+
+ADVISOR: [00:04:52] Okay.
+
+CLIENT1: [00:04:53] And... I’d like to retire earlier than the standard age if we can. Maybe 60.
+
+CLIENT2: [00:04:59] I’m thinking more like 62, but 60 to 62 is probably the range.
+
+ADVISOR: [00:05:04] Right, so early 60s, with Willow leaning toward 60 if it’s affordable.
+
+CLIENT1: [00:05:08] Exactly.
+
+ADVISOR: [00:05:10] And when you say tax-efficient, is that mainly about squeezing more out of the 401(k)s, or are you thinking broader than that?
+
+CLIENT1: [00:05:17] Mostly that, yeah. I just don’t want to miss something obvious.
+
+CLIENT2: [00:05:21] Same. We’re earning okay, but childcare is expensive, so we don’t want to overdo it and then feel squeezed.
+
+ADVISOR: [00:05:28] That’s sensible. And if you had to pick, would you rather have a bit more money available now, or lock more away for later?
+
+CLIENT1: [00:05:36] Hmm. I mean, both. But probably a balance—enough saved, but not so much that we’re stressed every month.
+
+CLIENT2: [00:05:43] Yeah, balance sounds right.
+
+ADVISOR: [00:05:45] Okay. And on the retirement side, when you picture 60 or 62, what does that actually look like for you? Full stop work, part-time, travel more?
+
+CLIENT1: [00:05:54] Probably more time with the kids, honestly. And travel. Nothing wild, just... not being tied to work.
+
+CLIENT2: [00:06:00] Yeah, maybe more family time and some trips. We’re not trying to live huge, just comfortable.
+
+ADVISOR: [00:06:06] Understood. And do you feel like the current setup is close, or does it feel a bit fuzzy?
+
+CLIENT1: [00:06:11] Fuzzy. I know the accounts are there, but I don’t know if we’re doing the right things.
+
+CLIENT2: [00:06:17] Same. I’d like someone to tell us if we should increase anything or keep it as is.
+
+ADVISOR: [00:06:23] Sure, that’s exactly the kind of thing we can look at. And just to make sure I’ve got the household picture right: Ava and Noah are both in childcare at the moment?
+
+CLIENT1: [00:06:31] Yeah, both in childcare. Ava’s four, Noah’s two.
+
+ADVISOR: [00:06:36] Great, thank you. And just so I don’t miss anything, are there any other big financial priorities we haven’t touched on—nothing urgent, just anything important to you?
+
+CLIENT2: [00:06:45] Not really. Just making sure we’re not being dumb with the money.
+
+CLIENT1: [00:06:49] And keeping things flexible for the kids.
+
+ADVISOR: [00:06:52] That’s a pretty good goal, actually. Okay, I’ve got the main picture now. We can look at whether the current 401(k) contributions make sense, how to think about the savings bucket, and whether there are any simple tax moves available.
+
+CLIENT1: [00:07:03] Yeah, that sounds good.
+
+CLIENT2: [00:07:05] Great.

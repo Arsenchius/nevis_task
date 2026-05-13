@@ -1,0 +1,230 @@
+---
+title: N/A
+date: 2026-05-13
+participants:
+  - id: advisor
+    name: Melissa Grant
+  - id: client
+    name: Adrian Campbell
+  - id: client
+    name: Edward Burns
+---
+ADVISOR: [00:00:03] Hi both, thanks for joining. I’m Melissa. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, all good.
+
+ADVISOR: [00:00:12] Great. I know these fact-finds can feel a bit tedious, but we’ll keep it conversational. Adrian, I’ve got you first—full name is Adrian Campbell, right?
+
+CLIENT1: [00:00:20] That’s right.
+
+ADVISOR: [00:00:22] And Edward Burns for you?
+
+CLIENT2: [00:00:24] Yep.
+
+ADVISOR: [00:00:26] Perfect. Adrian, can I take your date of birth?
+
+CLIENT1: [00:00:30] Uh, yeah—17th of April, 1981.
+
+ADVISOR: [00:00:35] 17 April 1981, got it. And Edward?
+
+CLIENT2: [00:00:39] Mine’s 3rd of November, 1979.
+
+ADVISOR: [00:00:43] Thanks. And just so I’m clear, you two are cohabiting, is that the best way to describe things?
+
+CLIENT1: [00:00:49] Yeah, that’s fine.
+
+CLIENT2: [00:00:50] Yeah.
+
+ADVISOR: [00:00:52] Okay. Adrian, what’s your best email address?
+
+CLIENT1: [00:00:56] adrian.campbell@example.com.
+
+ADVISOR: [00:00:59] Brilliant. And Edward, do you want to give me an email too, or are you happy for Adrian to be the main contact?
+
+CLIENT2: [00:01:05] I don’t really use one much, so main contact’s fine.
+
+ADVISOR: [00:01:08] No problem. I’ll note no email for you. And tax residency-wise, are you both US tax residents?
+
+CLIENT1: [00:01:15] Yeah, both of us.
+
+CLIENT2: [00:01:16] Yes.
+
+ADVISOR: [00:01:18] Great. Adrian, what do you do at the moment?
+
+CLIENT1: [00:01:22] I’m an operations manager.
+
+ADVISOR: [00:01:25] Okay, and who are you with?
+
+CLIENT1: [00:01:27] Northside Logistics.
+
+ADVISOR: [00:01:30] Northside Logistics—right. And roughly when did you start there?
+
+CLIENT1: [00:01:34] 2017. I want to say early 2017… maybe spring? No, actually just 2017. I’m not sure of the month.
+
+ADVISOR: [00:01:41] That’s fine, the year is enough for now. Edward, what about you?
+
+CLIENT2: [00:01:45] I do IT support, specialist role.
+
+ADVISOR: [00:01:49] And employer?
+
+CLIENT2: [00:01:51] Metro Health Partners.
+
+ADVISOR: [00:01:54] Got it. And when did you start there?
+
+CLIENT2: [00:01:57] 2019.
+
+ADVISOR: [00:01:59] Perfect. So on income, Adrian, what are you on gross annually?
+
+CLIENT1: [00:02:05] About 62k.
+
+ADVISOR: [00:02:08] 62 thousand, okay. Edward?
+
+CLIENT2: [00:02:11] 54,000 gross.
+
+ADVISOR: [00:02:14] Thanks. I’m going to ask some cashflow questions now. Just talk me through the main monthly outgoings between you—rent, bills, food, transport, the usual.
+
+CLIENT1: [00:02:24] Rent is 1,850.
+
+CLIENT2: [00:02:27] Utilities are about 260.
+
+CLIENT1: [00:02:30] Groceries are around 700.
+
+CLIENT2: [00:02:33] Gas and transit, about 320.
+
+CLIENT1: [00:02:36] And insurance—health and auto—roughly 410.
+
+CLIENT2: [00:02:40] Yeah. And we spend maybe 180 on eating out and subscriptions. Not a lot, honestly.
+
+ADVISOR: [00:02:47] Okay, that helps. So pretty tight month to month then.
+
+CLIENT1: [00:02:51] Yeah, it is a bit. We’re not exactly swimming in cash.
+
+CLIENT2: [00:02:55] No, definitely not.
+
+ADVISOR: [00:02:58] Understood. Let’s look at savings. Adrian, what do you have in savings currently?
+
+CLIENT1: [00:03:05] Um… 2,200, I think.
+
+ADVISOR: [00:03:08] In your own savings account?
+
+CLIENT1: [00:03:10] Yeah, Community First Bank.
+
+ADVISOR: [00:03:13] Community First Bank, okay. Edward, and yours?
+
+CLIENT2: [00:03:17] Mine’s 1,800, also at Community First Bank.
+
+ADVISOR: [00:03:21] Great. Any other savings or investments between you?
+
+CLIENT1: [00:03:25] There’s a small brokerage account we share, but it’s tiny.
+
+CLIENT2: [00:03:29] Yeah, like 500 bucks. Basically nothing.
+
+ADVISOR: [00:03:32] Okay, a joint brokerage around 500. Got it. And just to be clear, no retirement accounts at the moment?
+
+CLIENT1: [00:03:39] No retirement account, no.
+
+CLIENT2: [00:03:41] Yeah, none right now.
+
+ADVISOR: [00:03:44] Okay. Let’s talk debt, because I think that’s probably the big pressure point. Adrian, do you have anything in your name?
+
+CLIENT1: [00:03:52] Yeah, a Visa card.
+
+ADVISOR: [00:03:54] Okay. What’s that sitting at roughly?
+
+CLIENT1: [00:03:57] 8.4k.
+
+ADVISOR: [00:03:59] And what are you paying on it each month?
+
+CLIENT1: [00:04:02] About 175 a month.
+
+ADVISOR: [00:04:04] And the rate on that card?
+
+CLIENT1: [00:04:07] Ugh, 24.9%.
+
+ADVISOR: [00:04:10] Yeah, that’s a painful one. Edward, what about you?
+
+CLIENT2: [00:04:14] I’ve got a personal loan through the credit union.
+
+ADVISOR: [00:04:18] Okay. Rough balance?
+
+CLIENT2: [00:04:20] 12.6k.
+
+ADVISOR: [00:04:22] And monthly payment?
+
+CLIENT2: [00:04:24] 290.
+
+ADVISOR: [00:04:26] And interest rate, do you know it?
+
+CLIENT2: [00:04:29] 11.5%.
+
+ADVISOR: [00:04:31] Right, okay. Any joint borrowing?
+
+CLIENT1: [00:04:35] Yeah, the car loan.
+
+ADVISOR: [00:04:37] The auto loan—what’s left on that?
+
+CLIENT2: [00:04:40] About 15,800.
+
+ADVISOR: [00:04:42] And the monthly payment?
+
+CLIENT1: [00:04:44] 390.
+
+ADVISOR: [00:04:46] Rate on that one?
+
+CLIENT2: [00:04:48] 7.2%.
+
+ADVISOR: [00:04:50] Okay. And just to check, no mortgage?
+
+CLIENT1: [00:04:53] No mortgage.
+
+CLIENT2: [00:04:54] Nope.
+
+ADVISOR: [00:04:56] Right. So the overall picture is quite a bit of debt and not much buffer. What’s the main thing you want help with first—if we could fix one thing?
+
+CLIENT1: [00:05:06] Honestly? Get the credit card and the loan under control. A plan, like an actual plan, because right now it just feels like we’re treading water.
+
+CLIENT2: [00:05:16] Yeah, and then build up an emergency fund. Even just not feeling one surprise away from panic would be huge.
+
+ADVISOR: [00:05:24] That makes sense. When you say emergency fund, what would feel like a good target to you?
+
+CLIENT1: [00:05:30] Three months of expenses, maybe.
+
+CLIENT2: [00:05:32] Yeah, something like 12 grand.
+
+ADVISOR: [00:05:35] Twelve thousand, okay. And is that the kind of thing you’d want to build after the debt is more manageable?
+
+CLIENT1: [00:05:41] Exactly. Debt first, then savings.
+
+CLIENT2: [00:05:43] Yeah.
+
+ADVISOR: [00:05:45] And longer term, what are you hoping for retirement-wise? You don’t need to know every number, I’m just trying to understand the direction.
+
+CLIENT1: [00:05:53] I’d like to retire at 67 if possible. Not early, just… secure.
+
+CLIENT2: [00:05:58] Same, 65 for me. I just want to be able to stop when I’m ready, not because I have to keep working forever.
+
+ADVISOR: [00:06:06] Okay, that’s helpful. So you’re both thinking fairly standard retirement ages, but right now the priority is getting cash flow under control.
+
+CLIENT1: [00:06:13] Yeah, that’s exactly it.
+
+CLIENT2: [00:06:15] Mm-hmm.
+
+ADVISOR: [00:06:17] And just so I’m not making assumptions—are there any children or dependants I should be aware of?
+
+CLIENT1: [00:06:22] No.
+
+CLIENT2: [00:06:23] No, none.
+
+ADVISOR: [00:06:25] Okay. I think I’ve got the main pieces. Before we finish, anything else that worries you most—like what keeps you up at night about money?
+
+CLIENT1: [00:06:34] The credit card. That one just feels out of control.
+
+CLIENT2: [00:06:37] For me it’s the monthly pressure. Like, we’re okay, but barely.
+
+ADVISOR: [00:06:42] Yeah, I hear you. The good news is you’ve both got income, and you’re being pretty honest about the numbers, which is a lot of the battle. We can look at a debt-first approach and then keep it simple after that.
+
+CLIENT1: [00:06:52] That sounds good.
+
+CLIENT2: [00:06:53] Yeah, definitely.

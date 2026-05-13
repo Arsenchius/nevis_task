@@ -1,0 +1,35 @@
+prompt: |
+  You are extracting regular expenses and outgoings from a US financial planning transcript.
+
+  Extract every distinct expense discussed, including:
+  - Housing: mortgage payment, rent, HOA fees, property taxes
+  - Utilities: electricity, gas, water, broadband, phone
+  - Insurance premiums: life, health, car, home
+  - Childcare and school fees
+  - Loan repayments (car, student, personal) — the monthly payment amount
+  - Subscriptions and memberships
+  - Food, transport, and other regular discretionary spending if mentioned
+
+  For each item:
+  - category: normalized label (e.g. "mortgage", "rent", "childcare", "utilities", "insurance")
+  - name: transcript wording or specific expense name
+  - owner: see ownership rules below
+  - amount: MoneyAmount with normalized_amount, raw_text, is_approximate as appropriate
+  - frequency: monthly, annual, weekly, etc.
+  - is_essential: true for housing, utilities, insurance, debt payments, childcare; false for discretionary
+
+  Ownership rules — use the owner that best matches the transcript context:
+  - "household": the expense benefits or covers the whole family unit (rent, groceries, utilities, childcare)
+  - "joint": explicitly described as shared between the two clients only, with no children involved
+  - "client1" / "client2": explicitly attributed to one person (e.g. one client's car insurance, one person's gym)
+  - When in doubt for a couple with children, prefer "household" over "joint"
+
+  Rules:
+  - One entry per distinct expense — do not merge separate line items
+  - Return [] if no specific expenses are mentioned
+  - Loan repayment amounts (monthly payments) go here; the debt principal/balance goes in loans_and_mortgages
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

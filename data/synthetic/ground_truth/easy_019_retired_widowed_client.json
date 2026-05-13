@@ -1,0 +1,251 @@
+{
+  "example_id": "easy_019_retired_widowed_client",
+  "difficulty": "easy",
+  "archetype_id": "retired_widowed_client",
+  "challenge_tags": [
+    "negation",
+    "numeric_approximate",
+    "numeric_exact"
+  ],
+  "section_targets": [
+    "estate_planning",
+    "expenses",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "retired_1948_1962",
+  "include_mobile_phone": false,
+  "include_email": true,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Ezra",
+        "last_name": "Bryant",
+        "date_of_birth": "1955-04-18",
+        "marital_or_relationship_status": "widowed",
+        "mobile_phone": null,
+        "email": "ezra.bryant@example.com"
+      },
+      "employment": {
+        "status": "retired",
+        "occupation": "retired teacher",
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": false,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Social Security",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "pension",
+        "amount": {
+          "normalized_amount": 1800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,800"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "utilities and groceries",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $900"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "client1",
+        "name": "occasional trips",
+        "amount": {
+          "normalized_amount": 3000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $3,000 a year"
+        },
+        "frequency": "annual",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "former employer plan",
+        "current_value": {
+          "normalized_amount": 420000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420,000"
+        },
+        "contribution": "none; retired",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client1",
+        "account_type": "IRA",
+        "provider": "local brokerage",
+        "current_value": {
+          "normalized_amount": 165000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$165,000"
+        },
+        "contribution": "none; retired",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "community bank",
+        "current_value": {
+          "normalized_amount": 78000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$78,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage",
+        "provider": "online brokerage",
+        "current_value": {
+          "normalized_amount": 125000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $125,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "mortgage",
+        "provider": "none",
+        "monthly_cost": null,
+        "outstanding_balance": null,
+        "interest_rate": null,
+        "no_debt": true
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Maintain steady income from Social Security, pension, and savings without taking unnecessary risk.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants income to last throughout retirement."
+      },
+      {
+        "category": "estate planning",
+        "description": "Keep affairs simple for heirs and make sure the will is up to date.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Concerned about leaving things organized for family."
+      },
+      {
+        "category": "capital preservation",
+        "description": "Protect savings from large market losses.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Very cautious about volatility."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "low",
+      "attitude_summary": "Risk averse and prefers stability over growth.",
+      "preferred_strategy": "Conservative income-focused approach with limited equity exposure.",
+      "key_concerns": [
+        "Outliving savings",
+        "Market downturns",
+        "Keeping income predictable",
+        "Estate planning for heirs"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Has a will; no trust mentioned."
+    }
+  }
+}

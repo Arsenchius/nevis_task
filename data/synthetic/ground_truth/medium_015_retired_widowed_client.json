@@ -1,0 +1,338 @@
+{
+  "example_id": "medium_015_retired_widowed_client",
+  "difficulty": "medium",
+  "archetype_id": "retired_widowed_client",
+  "challenge_tags": [
+    "client2_present",
+    "correction",
+    "estate_planning",
+    "missing_fields",
+    "negation",
+    "numeric_approximate",
+    "owner_attribution",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives",
+    "risk_profile_preferences",
+    "estate_planning"
+  ],
+  "age_band": "retired_1948_1962",
+  "include_mobile_phone": false,
+  "include_email": true,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Justin",
+        "last_name": "Chavez",
+        "date_of_birth": "1956-04-18",
+        "marital_or_relationship_status": "widowed",
+        "mobile_phone": null,
+        "email": "justin.chavez@example.com"
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Luis",
+        "last_name": "Patterson",
+        "date_of_birth": null,
+        "marital_or_relationship_status": "partner",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Luis Patterson",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "partner",
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Social Security",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $2,400 a month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "net"
+      },
+      {
+        "owner": "client1",
+        "source_name": "pension",
+        "amount": {
+          "normalized_amount": 1800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $1,800 per month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "part-time consulting",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $900 monthly"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "unknown"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "housing",
+        "owner": "household",
+        "name": "rent",
+        "amount": {
+          "normalized_amount": 1650.0,
+          "lower_bound": 1600.0,
+          "upper_bound": 1700.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $1,600 to $1,700 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $260 monthly"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "healthcare",
+        "owner": "client1",
+        "name": "Medicare supplement and prescriptions",
+        "amount": {
+          "normalized_amount": 310.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $310 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "travel and dining out",
+        "amount": {
+          "normalized_amount": 450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $450 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 420000.0,
+          "lower_bound": 400000.0,
+          "upper_bound": 440000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $400k to $440k"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client1",
+        "account_type": "annuity",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 95000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $95,000"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 68000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $68,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "brokerage",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 52000.0,
+          "lower_bound": 50000.0,
+          "upper_bound": 54000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $50k to $54k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "household",
+        "debt_type": "mortgage",
+        "provider": null,
+        "monthly_cost": {
+          "normalized_amount": 0.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "no mortgage"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 0.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "no mortgage"
+        },
+        "interest_rate": null,
+        "no_debt": true
+      },
+      {
+        "owner": "client1",
+        "debt_type": "credit card",
+        "provider": null,
+        "monthly_cost": null,
+        "outstanding_balance": {
+          "normalized_amount": 2200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $2,200"
+        },
+        "interest_rate": null,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Keep retirement income steady and cover living costs without taking unnecessary risk.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants a plan that relies on pension and Social Security with limited withdrawals from savings."
+      },
+      {
+        "category": "cash reserve",
+        "description": "Maintain an emergency reserve for healthcare and unexpected expenses.",
+        "target_amount_or_income": {
+          "normalized_amount": 50000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $50,000"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Prefers to keep a meaningful cash buffer rather than invest everything."
+      },
+      {
+        "category": "estate planning",
+        "description": "Make sure assets pass smoothly to partner and update beneficiary arrangements.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to review will and beneficiary designations."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "low",
+      "attitude_summary": "Very cautious investor who prefers stability and income over growth.",
+      "preferred_strategy": "Conservative mix with cash and income-focused investments.",
+      "key_concerns": [
+        "Does not want to lose principal",
+        "Worried about healthcare costs",
+        "Wants simple investments",
+        "Concerned about leaving assets to partner"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Will exists but was last reviewed several years ago; no trust mentioned; wants beneficiary designations checked and assets to pass to partner."
+    }
+  }
+}

@@ -1,0 +1,258 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Melissa Carter
+  - id: client
+    name: Gloria Webb
+  - id: client
+    name: James Williams
+---
+ADVISOR: [00:00:03] Hi Gloria, hi James — thanks for making the time. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Yeah, we’re good.
+
+ADVISOR: [00:00:12] Great. I’m Melissa. I’ll just go through a few background things and then we can talk about what you want retirement to look like. And if I miss anything, just jump in, alright?
+
+CLIENT1: [00:00:21] Sure.
+
+CLIENT2: [00:00:22] Sounds good.
+
+ADVISOR: [00:00:26] So Gloria, can I start with your full name and date of birth?
+
+CLIENT1: [00:00:30] Gloria Webb. Date of birth is August seventeenth, nineteen sixty-four.
+
+ADVISOR: [00:00:37] Perfect. And James?
+
+CLIENT2: [00:00:39] James Williams. March fourth, nineteen sixty-two.
+
+ADVISOR: [00:00:44] Thanks. And you’re married, is that right?
+
+CLIENT1: [00:00:46] Yes.
+
+CLIENT2: [00:00:47] Yeah, married.
+
+ADVISOR: [00:00:50] Good. And just contact details for Gloria for the file — mobile and email?
+
+CLIENT1: [00:00:55] Mobile is four one five, five five five, zero one three eight. Email is gloria dot webb at example dot com.
+
+ADVISOR: [00:01:06] Great, thank you. James, do you want me to use the same household contact details, or do you have separate ones you want noted?
+
+CLIENT2: [00:01:12] I don’t really need to give mine today.
+
+ADVISOR: [00:01:14] No problem, we can leave it there. And you’re both US tax residents, correct?
+
+CLIENT1: [00:01:19] Yes.
+
+CLIENT2: [00:01:20] Yep.
+
+ADVISOR: [00:01:22] Alright. Tell me a little bit about work first — what are you each doing currently?
+
+CLIENT1: [00:01:28] I’m an administrative manager at County health services.
+
+CLIENT2: [00:01:33] And I’m an operations supervisor at a regional logistics firm.
+
+ADVISOR: [00:01:38] Okay. And how long have you been in those roles?
+
+CLIENT1: [00:01:41] I started there in 2012.
+
+CLIENT2: [00:01:44] Me, 2008.
+
+ADVISOR: [00:01:47] Got it. And are you both still working full-time?
+
+CLIENT1: [00:01:50] Yes.
+
+CLIENT2: [00:01:50] Yeah, still working.
+
+ADVISOR: [00:01:53] And roughly what are you earning before tax? Gloria, let’s start with you.
+
+CLIENT1: [00:01:59] Mine’s eighty-two thousand a year.
+
+ADVISOR: [00:02:02] Okay, eighty-two. James?
+
+CLIENT2: [00:02:05] Ninety-one thousand.
+
+ADVISOR: [00:02:07] Great. Any other income coming in, even if it’s just estimates for later on? Social Security projections, that kind of thing.
+
+CLIENT1: [00:02:16] Yeah, I checked mine a while back... I think it was about twenty-six hundred to three thousand a month.
+
+ADVISOR: [00:02:23] About 2,600 to 3,000 monthly, okay.
+
+CLIENT2: [00:02:26] And mine was roughly three thousand to thirty-four hundred a month. Somewhere in there.
+
+ADVISOR: [00:02:32] Perfect. That helps. And when you think about retirement, what’s the picture in your head? What do you actually want it to feel like day to day?
+
+CLIENT1: [00:02:42] Honestly, we want to be comfortable. Not fancy, just... steady. Enough to travel some, help if we need to, and not panic every time the market sneezes.
+
+CLIENT2: [00:02:52] Yeah, and I don’t want us living too tight. We’ve worked a long time.
+
+ADVISOR: [00:02:57] Sure. So a reliable monthly income is a big part of it.
+
+CLIENT1: [00:03:00] Exactly.
+
+ADVISOR: [00:03:02] Do you have a number in mind for what would feel like enough each month, household-wise?
+
+CLIENT2: [00:03:08] We threw around nine thousand a month.
+
+CLIENT1: [00:03:10] Yeah, around nine. That’s the target we keep coming back to.
+
+ADVISOR: [00:03:14] Okay. And is that mainly to cover normal living plus some travel, or are there specific things you’re trying to make room for?
+
+CLIENT1: [00:03:22] Travel, mostly. Nothing extravagant. Maybe ten to fourteen thousand a year for that, if we can.
+
+CLIENT2: [00:03:28] And healthcare. That’s the one that keeps me up a little.
+
+ADVISOR: [00:03:32] Right, and what are you seeing for monthly medical costs now?
+
+CLIENT1: [00:03:36] Out of pocket, prescriptions and stuff, about six-fifty a month.
+
+ADVISOR: [00:03:41] Okay. And utilities and internet for the household?
+
+CLIENT2: [00:03:45] Around four-twenty a month.
+
+ADVISOR: [00:03:48] Thanks. Any mortgage or other property debt?
+
+CLIENT1: [00:03:52] No mortgage.
+
+CLIENT2: [00:03:53] No debt there.
+
+ADVISOR: [00:03:55] Good. Let’s talk about what you’ve built up so far. Gloria, do you have a current employer plan?
+
+CLIENT1: [00:04:02] Yes, I do. There’s a 401(k) through my current employer plan.
+
+ADVISOR: [00:04:07] And about what’s in that now?
+
+CLIENT1: [00:04:10] Five hundred forty thousand.
+
+ADVISOR: [00:04:13] Okay, 540k. And what are you putting in?
+
+CLIENT1: [00:04:17] Six percent from me, and they match four percent.
+
+ADVISOR: [00:04:21] Got it. Any other retirement accounts in your name?
+
+CLIENT1: [00:04:25] I also have an IRA at Vanguard... and a Roth at Schwab.
+
+ADVISOR: [00:04:30] Okay. What are the values on those?
+
+CLIENT1: [00:04:33] The IRA is one hundred eighty-five thousand.
+
+CLIENT2: [00:04:36] Wait, isn’t the Roth the one at Schwab?
+
+CLIENT1: [00:04:38] Yeah, sorry — the Roth IRA at Schwab is seventy-two thousand.
+
+ADVISOR: [00:04:43] No worries. So Vanguard IRA at 185, and Roth IRA at Schwab at 72. Great. James, how about yours?
+
+CLIENT2: [00:04:52] I’ve got my 401(k) from the old employer plan. That’s about six hundred ten thousand.
+
+ADVISOR: [00:04:58] Okay.
+
+CLIENT2: [00:04:59] And there’s an annuity too. That one’s around two hundred forty thousand.
+
+ADVISOR: [00:05:05] Got it. On the 401(k), are you still contributing to it or just keeping it where it is?
+
+CLIENT2: [00:05:10] I’m still contributing — maxing out catch-up contributions.
+
+ADVISOR: [00:05:14] Okay, that’s helpful. And just to make sure I’ve got the ownership right: the 401(k) and annuity are yours, James, and Gloria’s accounts are the employer 401(k), Vanguard IRA, and Roth IRA?
+
+CLIENT1: [00:05:25] Yes.
+
+CLIENT2: [00:05:26] Yeah, that’s right.
+
+ADVISOR: [00:05:28] Any joint savings or brokerage money sitting outside retirement accounts?
+
+CLIENT2: [00:05:34] We’ve got a Fidelity brokerage together.
+
+CLIENT1: [00:05:37] Yes, joint account.
+
+ADVISOR: [00:05:39] And roughly what’s in there?
+
+CLIENT1: [00:05:42] About one sixty-five thousand total.
+
+ADVISOR: [00:05:45] Okay. Is that mostly invested, or is there a chunk in cash?
+
+CLIENT2: [00:05:49] There’s some cash in it. About twenty-five thousand cash, and the rest invested — around one forty.
+
+ADVISOR: [00:05:56] Right, so 25k cash and 140k invested. Any other savings accounts?
+
+CLIENT1: [00:06:02] We have a high-yield savings account at the credit union. That’s about forty-eight thousand.
+
+ADVISOR: [00:06:08] Great. And I think you mentioned the home is paid off, so no mortgage. What about the house value, just for the overall picture?
+
+CLIENT2: [00:06:16] Around seven-eighty.
+
+ADVISOR: [00:06:18] Seven hundred eighty thousand, okay. And any vehicles or other big assets we should note?
+
+CLIENT2: [00:06:23] I’ve got my 2019 pickup truck. Probably worth about twenty-eight thousand.
+
+ADVISOR: [00:06:28] Okay. Anything else significant — rentals, business interests, anything like that?
+
+CLIENT1: [00:06:33] No, nothing like that.
+
+CLIENT2: [00:06:35] No.
+
+ADVISOR: [00:06:37] Alright. Let me ask the slightly heavier question: when do you each want to stop working?
+
+CLIENT1: [00:06:43] I’d like to be done by sixty-seven.
+
+CLIENT2: [00:06:46] I’m thinking sixty-six.
+
+ADVISOR: [00:06:49] And timing-wise, that would put Gloria around 2031 and James around 2028. Does that sound about right?
+
+CLIENT1: [00:06:55] Yes.
+
+CLIENT2: [00:06:56] Yeah, that’s the idea.
+
+ADVISOR: [00:06:58] Okay. And what’s driving that? Is it just being ready, or is there something specific you want more time for?
+
+CLIENT1: [00:07:05] More time, honestly. We want to enjoy it while we’re healthy enough to do it.
+
+CLIENT2: [00:07:10] And not end up guessing whether we can afford things every month.
+
+ADVISOR: [00:07:14] Right. So the big goal is really dependable income without running out, plus some flexibility for travel and healthcare.
+
+CLIENT1: [00:07:21] Yes, that’s it.
+
+ADVISOR: [00:07:23] And on the income side, are you leaning toward keeping the annuity as part of that base, or are you still undecided?
+
+CLIENT2: [00:07:30] We’re undecided. I keep going back and forth on whether it’s worth keeping.
+
+CLIENT1: [00:07:34] Yeah, we want some guaranteed income, but we don’t want to lock up too much if it’s not doing enough for us.
+
+ADVISOR: [00:07:41] Makes sense. So maybe a balanced drawdown with some annuity consideration, rather than all one way or the other.
+
+CLIENT2: [00:07:47] Exactly.
+
+ADVISOR: [00:07:48] And Social Security — have either of you actually filed yet?
+
+CLIENT1: [00:07:52] No, not yet.
+
+CLIENT2: [00:07:53] Not yet.
+
+ADVISOR: [00:07:55] Okay. So we’d be looking at a window between James retiring in 2028 and Gloria in 2031, depending on what makes sense.
+
+CLIENT1: [00:08:02] Right. We’d like guidance on the timing.
+
+CLIENT2: [00:08:05] We don’t want to claim too early and regret it.
+
+ADVISOR: [00:08:09] Understood. What worries you most if you think about retirement? Be honest — it helps me know where to focus.
+
+CLIENT1: [00:08:16] Market drops right when we start drawing. That sequence risk thing.
+
+CLIENT2: [00:08:20] And inflation. Plus healthcare costs going up faster than everything else.
+
+ADVISOR: [00:08:25] Yep, those are the big ones. And just to round things out — do you have the basic estate documents in place, or are you still sorting that side out?
+
+CLIENT1: [00:08:33] We’ve got that handled.
+
+CLIENT2: [00:08:35] Yeah.
+
+ADVISOR: [00:08:37] Okay. Good. I think I’ve got the main picture now. Next step I’d suggest is I map out a couple of income options — one with more guaranteed income and one with more flexibility — and then we can compare what happens if you retire on your target dates versus a little earlier or later.
+
+CLIENT1: [00:08:54] That sounds helpful.
+
+CLIENT2: [00:08:55] Yeah, I’d like to see that.
+
+ADVISOR: [00:08:57] Perfect. I’ll put that together and we can talk through it next time.

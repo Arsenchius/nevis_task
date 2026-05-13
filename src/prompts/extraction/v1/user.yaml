@@ -1,0 +1,4 @@
+prompt: |
+  Extract a CIF from the following transcript:
+
+  {transcript}

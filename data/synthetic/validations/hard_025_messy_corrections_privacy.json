@@ -1,0 +1,16 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss"
+  ],
+  "coverage_issues": [
+    {
+      "field": "loans_and_mortgages[0].provider",
+      "expected_value": "Wells Fargo",
+      "detail": "The transcript discusses having a mortgage, the monthly payment, outstanding balance, and interest rate, but never mentions the lender name Wells Fargo or any lender name at all."
+    }
+  ],
+  "suppression_leaks": [],
+  "hallucinations": [],
+  "localization_issues": []
+}

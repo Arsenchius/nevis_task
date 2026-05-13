@@ -1,0 +1,332 @@
+{
+  "example_id": "hard_005_young_high_earner_family",
+  "difficulty": "hard",
+  "archetype_id": "young_high_earner_family",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "correction",
+    "estate_planning",
+    "joint_assets",
+    "numeric_approximate",
+    "numeric_exact",
+    "numeric_shorthand",
+    "objectives_free_form",
+    "owner_attribution",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "household_dependants",
+    "income",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Addison",
+        "last_name": "Strickland",
+        "date_of_birth": "1990-04-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": "+1-415-555-0138",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Senior software engineer",
+        "employer": "Northstar Analytics",
+        "start_date": "2018",
+        "desired_retirement_age": 60,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Grace",
+        "last_name": "Green",
+        "date_of_birth": "1991-09-07",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Product manager",
+        "employer": "Brightline Health",
+        "start_date": "2019",
+        "desired_retirement_age": 62,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Grace Green",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Noah Strickland",
+          "relationship": "child",
+          "date_of_birth": "2020-02-14",
+          "age": 5.0,
+          "dependency_status": "in childcare"
+        },
+        {
+          "name": "Mila Strickland",
+          "relationship": "child",
+          "date_of_birth": "2023-08-30",
+          "age": 2.0,
+          "dependency_status": "in childcare"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 185000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$185,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 25000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$25k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 145000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$145,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "daycare for both kids",
+        "amount": {
+          "normalized_amount": 3200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$3,200"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "mortgage",
+        "owner": "household",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 4100.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$4,100"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "family travel and weekends away",
+        "amount": {
+          "normalized_amount": 8000.0,
+          "lower_bound": 6000.0,
+          "upper_bound": 10000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $6k-$10k a year"
+        },
+        "frequency": "annual",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "Northstar Analytics plan",
+        "current_value": {
+          "normalized_amount": 310000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$310,000"
+        },
+        "contribution": "12% plus 4% employer match",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "401(k)",
+        "provider": "Brightline Health plan",
+        "current_value": {
+          "normalized_amount": 185000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$185,000"
+        },
+        "contribution": "10%",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "taxable brokerage",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 125000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$125,000"
+        },
+        "cash_value": {
+          "normalized_amount": 25000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$25,000"
+        },
+        "invested_value": {
+          "normalized_amount": 100000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$100,000"
+        }
+      },
+      {
+        "owner": "household",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 68000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $68k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "tax efficiency",
+        "description": "Use tax-efficient planning to reduce the household tax bill and make better use of retirement contributions and savings vehicles.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to know whether to increase pre-tax retirement saving or use a backdoor Roth strategy."
+      },
+      {
+        "category": "education funding",
+        "description": "Build a plan for childcare now and future education costs for the children.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "No specific college target amount yet."
+      },
+      {
+        "category": "retirement income",
+        "description": "Retire earlier than standard retirement age while keeping lifestyle spending comfortable.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "60-62",
+        "priority": "high",
+        "status_or_uncertainty": "Couple is aiming for a flexible retirement window."
+      },
+      {
+        "category": "estate planning",
+        "description": "Update wills and beneficiary arrangements so the children are protected if something happens to either spouse.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Existing estate plan may be outdated."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderately aggressive",
+      "attitude_summary": "Comfortable with growth investing for long-term goals, but wants to avoid taking unnecessary risk with money needed for the house and children.",
+      "preferred_strategy": "Keep a diversified growth-oriented portfolio with a cash reserve for near-term needs and tax-efficient investing for taxable accounts.",
+      "key_concerns": [
+        "childcare costs",
+        "tax efficiency",
+        "retiring early",
+        "protecting the family if one spouse dies",
+        "balancing joint assets and individual accounts"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Wills were updated before the second child was born; no trust mentioned."
+    }
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "example_id": "easy_004_dual_income_mortgage_household",
+  "difficulty": "easy",
+  "archetype_id": "dual_income_mortgage_household",
+  "challenge_tags": [
+    "client2_present",
+    "joint_assets",
+    "numeric_exact"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives"
+  ],
+  "age_band": "mid_career_1976_1985",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/easy_004_dual_income_mortgage_household.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Ellie",
+        "last_name": "Fox",
+        "date_of_birth": "1981-04-12",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Marketing manager",
+        "employer": "Northstar Retail Group",
+        "start_date": "2016",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Isaac",
+        "last_name": "Johnson",
+        "date_of_birth": "1979-09-03",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Software engineer",
+        "employer": "BrightWave Systems",
+        "start_date": "2014",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Isaac Johnson",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Lily Johnson",
+          "relationship": "child",
+          "date_of_birth": "2012-06-18",
+          "age": 13.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Noah Johnson",
+          "relationship": "child",
+          "date_of_birth": "2015-11-02",
+          "age": 10.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 82000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$82,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 118000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$118,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 12000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$12,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "joint",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$320"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "household",
+        "name": "groceries",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$900"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "after-school care and activities",
+        "amount": {
+          "normalized_amount": 450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transport",
+        "owner": "household",
+        "name": "fuel and commuting",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$260"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "workplace 401(k)",
+        "provider": "Northstar Retirement Plan",
+        "current_value": {
+          "normalized_amount": 146000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$146,000"
+        },
+        "contribution": "6% of salary",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "workplace 401(k)",
+        "provider": "BrightWave 401(k) Plan",
+        "current_value": {
+          "normalized_amount": 214000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$214,000"
+        },
+        "contribution": "8% of salary",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Cedar Bank",
+        "current_value": {
+          "normalized_amount": 38000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$38,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "joint",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 27000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$27,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "mortgage",
+        "provider": "HomeFirst Mortgage",
+        "monthly_cost": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 312000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$312,000"
+        },
+        "interest_rate": 5.25,
+        "no_debt": null
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "home improvement",
+        "description": "Build a larger emergency fund and keep the home comfortable for the family.",
+        "target_amount_or_income": {
+          "normalized_amount": 50000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$50,000"
+        },
+        "target_date_or_age": "within 2 years",
+        "priority": "medium",
+        "status_or_uncertainty": "Current emergency savings are below the preferred target."
+      },
+      {
+        "category": "education funding",
+        "description": "Save for both children’s future education costs.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "college age",
+        "priority": "high",
+        "status_or_uncertainty": "No dedicated education account mentioned yet."
+      },
+      {
+        "category": "retirement income",
+        "description": "Retire around age 65 with enough income to maintain current lifestyle.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "65",
+        "priority": "high",
+        "status_or_uncertainty": "Both clients want to review whether current workplace pension contributions are sufficient."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

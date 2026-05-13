@@ -1,0 +1,396 @@
+{
+  "example_id": "medium_017_dual_income_mortgage_household",
+  "difficulty": "medium",
+  "archetype_id": "dual_income_mortgage_household",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "joint_assets",
+    "multiple_products",
+    "numeric_exact",
+    "owner_attribution",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": true,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Sunita",
+        "last_name": "Foster",
+        "date_of_birth": "1990-04-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": "sunita.foster@example.com"
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Project manager",
+        "employer": "Northstar Logistics",
+        "start_date": "2018-06",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Stephanie",
+        "last_name": "Stewart",
+        "date_of_birth": "1988-11-02",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Senior nurse",
+        "employer": "Mercy General Hospital",
+        "start_date": "2016-09",
+        "desired_retirement_age": 63,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Stephanie Stewart",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Ava Foster",
+          "relationship": "child",
+          "date_of_birth": "2019-03-14",
+          "age": 6.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Noah Foster",
+          "relationship": "child",
+          "date_of_birth": "2022-08-27",
+          "age": 3.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$92,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 78000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$78,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "overtime and shift differential",
+        "amount": {
+          "normalized_amount": 6000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $6,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "joint",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "daycare",
+        "amount": {
+          "normalized_amount": 1800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,800"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 420.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "household",
+        "name": "groceries",
+        "amount": {
+          "normalized_amount": 950.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$950"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transportation",
+        "owner": "household",
+        "name": "fuel and commuting",
+        "amount": {
+          "normalized_amount": 360.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$360"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "insurance",
+        "owner": "household",
+        "name": "car and home insurance",
+        "amount": {
+          "normalized_amount": 210.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$210"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "entertainment",
+        "owner": "household",
+        "name": "family activities and dining out",
+        "amount": {
+          "normalized_amount": 300.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$300"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "workplace 401(k)",
+        "provider": "Northstar Logistics plan",
+        "current_value": {
+          "normalized_amount": 86000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$86,000"
+        },
+        "contribution": "6% of salary",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "workplace 403(b)",
+        "provider": "Mercy General Hospital plan",
+        "current_value": {
+          "normalized_amount": 54000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$54,000"
+        },
+        "contribution": "5% of salary",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 28000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$28,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15,000"
+        },
+        "cash_value": {
+          "normalized_amount": 3000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$3,000"
+        },
+        "invested_value": {
+          "normalized_amount": 12000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$12,000"
+        }
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "mortgage",
+        "provider": "Wells Fargo",
+        "monthly_cost": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 318000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$318,000"
+        },
+        "interest_rate": 6.125,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "education funding",
+        "description": "Build a college fund for both children",
+        "target_amount_or_income": {
+          "normalized_amount": 50000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$50,000"
+        },
+        "target_date_or_age": "when each child starts college",
+        "priority": "high",
+        "status_or_uncertainty": "Not started; wants to set up regular monthly saving"
+      },
+      {
+        "category": "home improvement",
+        "description": "Save for a kitchen and bathroom remodel",
+        "target_amount_or_income": {
+          "normalized_amount": 25000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $25,000"
+        },
+        "target_date_or_age": "within 3 years",
+        "priority": "medium",
+        "status_or_uncertainty": "Would like to use savings rather than borrowing"
+      },
+      {
+        "category": "retirement income",
+        "description": "Retire in the early-to-mid 60s with enough income to maintain current lifestyle",
+        "target_amount_or_income": null,
+        "target_date_or_age": "63-65",
+        "priority": "high",
+        "status_or_uncertainty": "Wants to understand whether current pension contributions are sufficient"
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

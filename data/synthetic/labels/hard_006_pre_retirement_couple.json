@@ -1,0 +1,387 @@
+{
+  "example_id": "hard_006_pre_retirement_couple",
+  "difficulty": "hard",
+  "archetype_id": "pre_retirement_couple",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "correction",
+    "date_normalization",
+    "estate_planning",
+    "joint_assets",
+    "negation",
+    "numeric_range",
+    "objectives_free_form",
+    "owner_attribution",
+    "privacy_reference",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "household_dependants",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "other_assets",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "pre_retirement_1960_1975",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/hard_006_pre_retirement_couple.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Walter",
+        "last_name": "Warren",
+        "date_of_birth": "1964-09-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": "+1-202-555-0148",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "regional logistics company",
+        "start_date": "2008",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": "2031",
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Elena",
+        "last_name": "Miller",
+        "date_of_birth": "1966-02-07",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "part_time",
+        "occupation": "Bookkeeper",
+        "employer": "local accounting firm",
+        "start_date": "2012",
+        "desired_retirement_age": 66,
+        "desired_retirement_date": "2032",
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Elena Miller",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 98000.0,
+          "lower_bound": 95000.0,
+          "upper_bound": 100000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $95k-$100k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Part-time wages",
+        "amount": {
+          "normalized_amount": 24000.0,
+          "lower_bound": 22000.0,
+          "upper_bound": 26000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $22k to $26k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "Social Security estimate at 67",
+        "amount": {
+          "normalized_amount": 2800.0,
+          "lower_bound": 2700.0,
+          "upper_bound": 2900.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $2,700-$2,900 a month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Social Security estimate at 66",
+        "amount": {
+          "normalized_amount": 1900.0,
+          "lower_bound": 1800.0,
+          "upper_bound": 2000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $1,800 to $2,000 monthly"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "Utilities and internet",
+        "amount": {
+          "normalized_amount": 420.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$420 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "household",
+        "name": "Groceries",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $900 monthly"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "Travel and dining out",
+        "amount": {
+          "normalized_amount": 600.0,
+          "lower_bound": 500.0,
+          "upper_bound": 700.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "$500-$700 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "current employer plan",
+        "current_value": {
+          "normalized_amount": 540000.0,
+          "lower_bound": 520000.0,
+          "upper_bound": 560000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $520k to $560k"
+        },
+        "contribution": "6% of pay",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client1",
+        "account_type": "traditional IRA",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 210000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$210,000"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "IRA",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 165000.0,
+          "lower_bound": 160000.0,
+          "upper_bound": 170000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $160k-$170k"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "annuity",
+        "provider": "insurance company",
+        "current_value": {
+          "normalized_amount": 125000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$125,000"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "taxable brokerage",
+        "provider": "online brokerage",
+        "current_value": {
+          "normalized_amount": 185000.0,
+          "lower_bound": 180000.0,
+          "upper_bound": 190000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $180k-$190k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "credit union",
+        "current_value": {
+          "normalized_amount": 62000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$62,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "HSA",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 14000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$14,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "household",
+        "debt_type": "mortgage",
+        "provider": null,
+        "monthly_cost": null,
+        "outstanding_balance": null,
+        "interest_rate": null,
+        "no_debt": true
+      }
+    ],
+    "other_assets": [
+      {
+        "owner": "joint",
+        "description": "Primary residence",
+        "current_value": {
+          "normalized_amount": 780000.0,
+          "lower_bound": 760000.0,
+          "upper_bound": 800000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $760k-$800k"
+        },
+        "ownership_share": null
+      },
+      {
+        "owner": "client2",
+        "description": "2019 Toyota Camry",
+        "current_value": {
+          "normalized_amount": 18000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$18,000"
+        },
+        "ownership_share": null
+      }
+    ],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Retire in the early 2030s and replace roughly 70% of current household income.",
+        "target_amount_or_income": {
+          "normalized_amount": 0.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "70% of current income"
+        },
+        "target_date_or_age": "2031-2032",
+        "priority": "high",
+        "status_or_uncertainty": "Deciding between taking income from investments versus buying an annuity for part of the income floor."
+      },
+      {
+        "category": "social security",
+        "description": "Coordinate Social Security claiming so they can delay benefits if it improves lifetime income.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "age 67 for Walter and age 66 for Elena",
+        "priority": "high",
+        "status_or_uncertainty": "They want to compare claiming now versus waiting."
+      },
+      {
+        "category": "investment strategy",
+        "description": "Keep enough growth exposure for inflation but reduce volatility as retirement approaches.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "pre-retirement",
+        "priority": "medium",
+        "status_or_uncertainty": "Preference leans toward a balanced drawdown plan rather than an all-annuity solution."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some market risk, but wants less volatility as retirement nears and does not want to be overly aggressive.",
+      "preferred_strategy": "Balanced drawdown with a partial annuity or income floor, while keeping some assets invested for growth.",
+      "key_concerns": [
+        "Sequence-of-returns risk",
+        "Whether an annuity is better than systematic withdrawals",
+        "Keeping income stable in retirement",
+        "Inflation and healthcare costs",
+        "Coordinating Social Security timing"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "has power of attorney",
+      "notes": "Wills were updated in 2022; no trust mentioned. They said the beneficiary designations should be reviewed."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss"
+  ],
+  "coverage_issues": [
+    {
+      "field": "pensions_and_retirement_accounts[0].has_account_reference_mentioned",
+      "expected_value": true,
+      "detail": "Label indicates an account reference was mentioned for Leah's workplace retirement plan, but the transcript never mentions any specific account number, statement, or reference for that retirement account."
+    },
+    {
+      "field": "loans_and_mortgages[0].provider",
+      "expected_value": "Wells Fargo",
+      "detail": "The transcript discusses the mortgage payment, balance, and interest rate, but never names the lender or provider; 'Wells Fargo' is not mentioned."
+    }
+  ],
+  "suppression_leaks": [],
+  "hallucinations": [],
+  "localization_issues": []
+}

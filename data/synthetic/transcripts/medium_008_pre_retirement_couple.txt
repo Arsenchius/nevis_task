@@ -1,0 +1,208 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Emily Carter
+  - id: client
+    name: Scott Martinez
+  - id: client
+    name: Hannah Wallace
+---
+ADVISOR: [00:00:03] Hi Scott, hi Hannah — Emily Carter here. Thanks for making the time. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Yes, hi Emily.
+
+ADVISOR: [00:00:12] Great. Just so I’ve got the basics right, Scott Martinez and Hannah Wallace — is that right?
+
+CLIENT1: [00:00:17] That's us, yeah.
+
+CLIENT2: [00:00:18] Mm-hmm.
+
+ADVISOR: [00:00:20] And you're married, correct?
+
+CLIENT1: [00:00:22] Yes, married.
+
+CLIENT2: [00:00:23] Yep.
+
+ADVISOR: [00:00:26] Perfect. Let’s start with dates of birth so I can make sure I’ve got the records straight. Scott, what’s your date of birth?
+
+CLIENT1: [00:00:33] It's September 18th, 1964.
+
+ADVISOR: [00:00:36] And Hannah?
+
+CLIENT2: [00:00:39] February 11th, 1966.
+
+ADVISOR: [00:00:43] Thanks. And just to confirm, you’re both US tax residents?
+
+CLIENT1: [00:00:47] Yes.
+
+CLIENT2: [00:00:48] Yes, definitely.
+
+ADVISOR: [00:00:52] Good. Scott, what do you do at the moment?
+
+CLIENT1: [00:00:56] I'm an operations manager. I work for a regional logistics company.
+
+ADVISOR: [00:01:02] Okay. How long have you been there?
+
+CLIENT1: [00:01:05] Since 2008. Long time, yeah.
+
+ADVISOR: [00:01:09] And Hannah, what about you?
+
+CLIENT2: [00:01:12] I’m a high school teacher with the county public schools.
+
+ADVISOR: [00:01:17] Nice. And how long have you been there?
+
+CLIENT2: [00:01:20] Since 2001. I think I started in August... yeah, 2001.
+
+ADVISOR: [00:01:26] Great. I’ll ask this now while I’m thinking of it — what age are you both hoping to retire?
+
+CLIENT1: [00:01:33] Scott wants to be done at 67.
+
+CLIENT2: [00:01:35] And I’m aiming for 65.
+
+ADVISOR: [00:01:38] And if I do the math on that, that’s around 2031 for both of you, right?
+
+CLIENT1: [00:01:42] Yeah, that sounds right.
+
+CLIENT2: [00:01:44] Right, 2031.
+
+ADVISOR: [00:01:48] Okay. And what’s the broad idea — are you looking for a reliable monthly income once you stop work, something that feels steady?
+
+CLIENT1: [00:01:56] Exactly. We don't want to be guessing every month.
+
+CLIENT2: [00:01:59] Yeah, we want something dependable. We just don't want to run out of money.
+
+ADVISOR: [00:02:04] Understood. That “running out of money” fear comes up a lot, especially with people close to retirement. And do you have an income target in mind, like what would make the monthly bills and life feel comfortable?
+
+CLIENT2: [00:02:15] We were thinking... maybe around eight and a half to nine and a half thousand a month.
+
+CLIENT1: [00:02:21] Yeah, about that. Not fancy, just enough to live well.
+
+ADVISOR: [00:02:25] Okay, so roughly $8,500 to $9,500 a month. And would that be from a mix of sources, or are you trying to compare one guaranteed income stream versus drawing down investments?
+
+CLIENT1: [00:02:35] A bit of both. We want to compare the guaranteed income side with taking money out ourselves.
+
+CLIENT2: [00:02:41] We just don't want to do something reckless right before retirement.
+
+ADVISOR: [00:02:45] Fair. And one thing I should ask because it affects timing — are you both expecting to claim Social Security right when you retire, or are you thinking about delaying one or both benefits?
+
+CLIENT2: [00:02:57] We're not sure yet.
+
+CLIENT1: [00:02:58] Yeah, that's part of what we need help with.
+
+ADVISOR: [00:03:02] Okay. Do you have estimates for what those benefits might be?
+
+CLIENT1: [00:03:06] Mine is roughly three thousand to thirty-four hundred a month.
+
+CLIENT2: [00:03:11] And mine is about twenty-two hundred to twenty-six hundred a month.
+
+ADVISOR: [00:03:17] Got it. So Scott, about $3,000 to $3,400 monthly, and Hannah, about $2,200 to $2,600 monthly. Helpful. Now, let me ask about day-to-day spending so I can get a feel for your baseline. What do your regular household expenses look like?
+
+CLIENT2: [00:03:32] Utilities and internet are about $420 a month.
+
+CLIENT1: [00:03:36] And health insurance premiums are $650.
+
+ADVISOR: [00:03:40] Okay. Any discretionary stuff that tends to move around a bit — travel, eating out, that sort of thing?
+
+CLIENT1: [00:03:47] Yeah, travel and dining out... probably around eight hundred to a thousand a month.
+
+CLIENT2: [00:03:53] Depends on the year, but that’s a fair range.
+
+ADVISOR: [00:03:56] Right. And just to be clear, do you have any mortgage or other debt payments hanging around?
+
+CLIENT1: [00:04:01] No mortgage.
+
+CLIENT2: [00:04:02] No, we're clear there.
+
+ADVISOR: [00:04:05] Nice, that simplifies things. On the assets side, do you own your home jointly?
+
+CLIENT2: [00:04:11] Yes, the house is joint.
+
+CLIENT1: [00:04:13] It's our primary residence.
+
+ADVISOR: [00:04:16] Roughly what would you say it’s worth today?
+
+CLIENT1: [00:04:20] Around six hundred to six forty.
+
+CLIENT2: [00:04:22] Yeah, somewhere in that range.
+
+ADVISOR: [00:04:25] So about $620,000. And any vehicles you want me to note?
+
+CLIENT2: [00:04:30] Two vehicles, probably around thirty-eight thousand total.
+
+ADVISOR: [00:04:34] Great. Let’s talk savings and investments. Do you have cash set aside in a savings account?
+
+CLIENT1: [00:04:40] Yes, a joint high-yield savings account at our local bank. It's about sixty-five to seventy thousand.
+
+CLIENT2: [00:04:46] Yeah, roughly that.
+
+ADVISOR: [00:04:49] Okay, local bank high-yield savings, about $65k to $70k. Any other taxable investments?
+
+CLIENT1: [00:04:56] We have a joint brokerage with Schwab.
+
+CLIENT2: [00:04:59] Around two hundred and ten thousand.
+
+ADVISOR: [00:05:02] Okay, Schwab taxable brokerage, $210,000. And Scott, do you have any personal retirement savings outside work?
+
+CLIENT1: [00:05:10] Yeah, I’ve got a Vanguard IRA... and a Roth IRA there too.
+
+ADVISOR: [00:05:15] Okay, I’m going to ask the balances separately so I don’t mix them up. The IRA first — what’s that roughly worth?
+
+CLIENT1: [00:05:21] The Vanguard IRA is about one eighty-five.
+
+ADVISOR: [00:05:25] And the Roth IRA?
+
+CLIENT1: [00:05:28] That one’s forty-seven thousand.
+
+ADVISOR: [00:05:31] Got it. Hannah, how about yours?
+
+CLIENT2: [00:05:34] I have a 403(b) through the school district plan — that’s about four hundred and ten thousand.
+
+ADVISOR: [00:05:40] And any IRA outside that?
+
+CLIENT2: [00:05:43] Yes, a Fidelity IRA. Roughly one thirty to one thirty-five.
+
+ADVISOR: [00:05:49] Okay, so about $132,000. And Scott, you mentioned Vanguard — do you still have the statement or account reference for that IRA if I need to verify anything later?
+
+CLIENT1: [00:05:58] Yeah, I can pull the statement up if needed. I’ve got the reference with Vanguard.
+
+ADVISOR: [00:06:03] Perfect. And I also want to make sure I’m not missing anything else that could be part of the retirement picture. Do you have any other guaranteed income products or anything like that in the household?
+
+CLIENT2: [00:06:14] We do have an annuity through an insurance company.
+
+ADVISOR: [00:06:18] Okay, thanks. About what’s that worth?
+
+CLIENT1: [00:06:21] Two hundred and fifty thousand.
+
+ADVISOR: [00:06:24] And you’ve got a reference or paperwork for that one?
+
+CLIENT2: [00:06:27] Yes, we have the statement for it.
+
+ADVISOR: [00:06:30] Good. I’m not going to get too deep into the product yet, but that helps. Now, from a planning point of view, what worries you most — is it the market, inflation, taxes, or just the uncertainty of picking the wrong path?
+
+CLIENT1: [00:06:43] Honestly, all of that. Mostly not wanting to run out of money.
+
+CLIENT2: [00:06:47] And taxes too. We don't want to create a mess for ourselves.
+
+ADVISOR: [00:06:51] Right, so keeping taxes manageable, avoiding unnecessary risk, and making sure the income is stable. That all makes sense. And when you picture retirement, is it more about having the freedom to travel a bit and enjoy life, or is preserving principal more important than spending extra?
+
+CLIENT2: [00:07:05] We want to enjoy life, but not be careless.
+
+CLIENT1: [00:07:08] Yeah, some travel, some dinners out, but nothing wild.
+
+ADVISOR: [00:07:12] Okay. And just to check one last thing on the basics — do you have any children or dependants I should be aware of?
+
+CLIENT1: [00:07:18] No.
+
+CLIENT2: [00:07:19] No dependants.
+
+ADVISOR: [00:07:22] Perfect. That’s helpful. So the main things I’m hearing are: you’re both still working, aiming for retirement around 2031, you’d like about $8,500 to $9,500 a month, and you want to compare the annuity with a drawdown plan and figure out the best Social Security timing.
+
+CLIENT1: [00:07:36] Yeah, that’s basically it.
+
+CLIENT2: [00:07:38] Sounds right.
+
+ADVISOR: [00:07:40] Great — we can build from there.

@@ -1,0 +1,216 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Holt
+  - id: client
+    name: Valentina Walker
+  - id: client
+    name: Antonio Ferguson
+---
+ADVISOR: [00:00:03] Hi Valentina, hi Antonio — Megan Holt here. Thanks for making the time. Can you hear me both okay?
+
+CLIENT1: [00:00:09] Yep, loud and clear.
+
+CLIENT2: [00:00:11] Yep, we’re good.
+
+ADVISOR: [00:00:13] Great. I can hear a little bit of background noise, but that’s fine. I know these calls are never perfectly quiet. So — just to start off, can I get full names and dates of birth for both of you?
+
+CLIENT1: [00:00:25] Sure. Valentina Walker. And my date of birth is… April 17th, 1981.
+
+CLIENT2: [00:00:34] Antonio Ferguson, born September 3rd, 1980.
+
+ADVISOR: [00:00:39] Perfect, thank you. And you’re married, right?
+
+CLIENT1: [00:00:42] Yeah, married.
+
+CLIENT2: [00:00:43] Yes.
+
+ADVISOR: [00:00:45] And just to confirm, you’re both US tax residents?
+
+CLIENT2: [00:00:49] Yes, both of us.
+
+CLIENT1: [00:00:50] Yep.
+
+ADVISOR: [00:00:53] Okay, brilliant. I’m just going to jump around a bit rather than do this in a rigid order. Valentina, what do you do at the moment?
+
+CLIENT1: [00:01:01] I’m a senior product manager. I work for a tech firm.
+
+ADVISOR: [00:01:07] Senior product manager at a tech firm — got it. And how long have you been there?
+
+CLIENT1: [00:01:12] Since 2016.
+
+ADVISOR: [00:01:15] Since 2016, okay. And roughly what are you earning there? Base salary first, then bonus if you get one.
+
+CLIENT1: [00:01:24] Base is $185,000.
+
+ADVISOR: [00:01:28] Okay.
+
+CLIENT1: [00:01:29] And bonus is… I mean it varies. About twenty to thirty thousand, usually. Maybe around twenty-five on average.
+
+ADVISOR: [00:01:39] Right, so about $20k to $30k. That’s helpful. Antonio, same for you — what’s your role?
+
+CLIENT2: [00:01:47] I’m a software engineering director. I’m at a healthcare software company.
+
+ADVISOR: [00:01:53] Nice, and how long have you been there?
+
+CLIENT2: [00:01:56] Since 2014.
+
+ADVISOR: [00:01:59] And your pay there?
+
+CLIENT2: [00:02:02] Base is $210,000, and bonus is $30,000.
+
+ADVISOR: [00:02:08] Great. So you’re both pretty strong earners, which is useful for planning. Do you have any kids or dependants at home?
+
+CLIENT1: [00:02:16] Yes — two.
+
+CLIENT2: [00:02:18] Luca and Mila.
+
+ADVISOR: [00:02:20] Okay, can you give me their full names and birthdays? I want to make sure I get them right.
+
+CLIENT1: [00:02:25] Luca Walker Ferguson — June 12th, 2018.
+
+CLIENT2: [00:02:30] And Mila Walker Ferguson — November 28th, 2021.
+
+ADVISOR: [00:02:35] Thank you. So Luca would be seven-ish, Mila three-ish?
+
+CLIENT1: [00:02:40] Yeah, that sounds right.
+
+ADVISOR: [00:02:42] And are they in childcare right now?
+
+CLIENT2: [00:02:45] Yeah, both of them are in childcare.
+
+ADVISOR: [00:02:49] Okay. That’s usually a big monthly line item, so I’ll ask about spending in a second. Before that, what does a normal month look like for you two? Just the main essentials and any regular lifestyle spending you want me to know about.
+
+CLIENT1: [00:03:03] Childcare is the big one, honestly.
+
+CLIENT2: [00:03:05] Yeah, and we try to keep some family travel in there too, like weekends away.
+
+ADVISOR: [00:03:10] Okay. Roughly what are you spending on childcare for both kids?
+
+CLIENT1: [00:03:15] $2,400 a month.
+
+ADVISOR: [00:03:18] And housing costs — I know people often bundle a few things together, so just the main monthly home payment and then utilities and internet if you know them.
+
+CLIENT2: [00:03:27] Home payment is $4,200.
+
+ADVISOR: [00:03:30] Okay.
+
+CLIENT1: [00:03:31] Utilities and internet are around four to five hundred. Let’s say about $450.
+
+ADVISOR: [00:03:37] Great. And the family travel / weekends away — what do you tend to spend there?
+
+CLIENT2: [00:03:43] Probably around $600 a month, averaged out.
+
+ADVISOR: [00:03:47] Perfect. That gives me a good picture. Now, on the savings and investing side — do you have retirement accounts through work?
+
+CLIENT1: [00:03:56] Yes. I’ve got my 401(k) through my employer plan.
+
+ADVISOR: [00:04:00] And roughly what’s in that at the moment?
+
+CLIENT1: [00:04:03] About $380,000.
+
+ADVISOR: [00:04:06] Okay. And how much are you putting in?
+
+CLIENT1: [00:04:09] Twelve percent of salary.
+
+ADVISOR: [00:04:12] Nice. Antonio, same question for you.
+
+CLIENT2: [00:04:16] Yeah, I’ve got a 401(k) too, employer plan. It’s around $420,000.
+
+ADVISOR: [00:04:22] And your contribution rate?
+
+CLIENT2: [00:04:24] Ten percent of salary.
+
+ADVISOR: [00:04:27] Great. Valentina, do you also have any IRAs or anything outside the work plan?
+
+CLIENT1: [00:04:34] Yes, a Roth IRA with Vanguard.
+
+ADVISOR: [00:04:38] Vanguard, okay.
+
+CLIENT1: [00:04:39] It’s about $85,000, and I put in $6,500 a year.
+
+ADVISOR: [00:04:45] Excellent. Any other savings or investing accounts between you, cash or brokerage?
+
+CLIENT1: [00:04:52] We have a high-yield savings account at an online bank.
+
+ADVISOR: [00:04:56] Roughly how much is in there?
+
+CLIENT2: [00:04:59] About sixty-five thousand.
+
+ADVISOR: [00:05:01] Okay, $65,000. And Valentina, you mentioned brokerage as well?
+
+CLIENT1: [00:05:07] Yes, with Fidelity.
+
+ADVISOR: [00:05:09] Fidelity, got it. What’s the total value there?
+
+CLIENT1: [00:05:13] $120,000 total. Um, about $15,000 is cash and the rest is invested.
+
+ADVISOR: [00:05:20] Okay, so around $105,000 invested, $15,000 cash. That helps. Now, I want to ask a little bit about what you’re trying to do with all of this, because you’ve got the classic “good problem” of lots of moving pieces. What matters most to you right now?
+
+CLIENT1: [00:05:34] Taxes, honestly. I feel like we’re paying a lot and I want to keep more of what we earn without doing anything too weird.
+
+CLIENT2: [00:05:42] Yeah, and not taking unnecessary risk just for the sake of it.
+
+ADVISOR: [00:05:46] Right, so tax efficiency and keeping the structure sensible. Are you mainly thinking about better use of retirement accounts, maybe backdoor Roth-type planning if it fits, that kind of thing?
+
+CLIENT1: [00:05:57] Yeah, exactly. Better use of retirement accounts, maybe backdoor Roth if that’s suitable.
+
+ADVISOR: [00:06:03] Okay. And beyond taxes, what are the big goals? Kids, retirement, anything else?
+
+CLIENT2: [00:06:09] College. We definitely want to help with college.
+
+CLIENT1: [00:06:12] For both kids, ideally.
+
+ADVISOR: [00:06:14] Do you have a rough target in mind, or is it more just “we want to build something”?
+
+CLIENT1: [00:06:19] We were thinking maybe around $200,000 total, but we haven’t chosen a structure yet.
+
+ADVISOR: [00:06:25] Okay, so something around $200,000 for education funding, with no account structure decided yet. And retirement — when would you like to stop work, if everything goes well?
+
+CLIENT2: [00:06:36] I’d say somewhere in the mid-60s.
+
+CLIENT1: [00:06:39] I’d like a bit earlier than that if possible.
+
+ADVISOR: [00:06:41] Okay, so there’s a bit of flexibility there. If I pin you down, Valentina, what age feels right to you?
+
+CLIENT1: [00:06:48] Maybe 62. That feels… good? If we can.
+
+ADVISOR: [00:06:52] And Antonio, you?
+
+CLIENT2: [00:06:54] Probably 65.
+
+ADVISOR: [00:06:56] Okay, 62 and 65 — that’s helpful. And when you picture retirement, what does “comfortable” actually mean to you? More travel, helping the kids, staying in the same house, that sort of thing.
+
+CLIENT1: [00:07:08] Honestly, just maintaining our current lifestyle without stressing. Maybe some travel, but not extravagant.
+
+CLIENT2: [00:07:15] Yeah, and not feeling like we have to watch every dollar.
+
+ADVISOR: [00:07:19] That makes sense. I’m going to ask one slightly more personal thing, because you’ve got young kids. If something happened to both of you, do you already have wills and guardianship arrangements in place, or is that still something you need to sort?
+
+CLIENT1: [00:07:31] We do have wills.
+
+CLIENT2: [00:07:33] But we need to review the beneficiaries and make sure the guardianship stuff is definitely lined up.
+
+ADVISOR: [00:07:39] Okay, so wills are in place, but beneficiary review and guardianship confirmation are still on the list. And you’d prefer something simple rather than a complicated trust setup unless it’s actually needed — is that fair?
+
+CLIENT1: [00:07:51] Yes, exactly. Simple would be better.
+
+ADVISOR: [00:07:55] Fair enough. I think that’s sensible. One last thing on the retirement side — you both seem reasonably growth-oriented for long-term goals, but you’ve also got childcare costs and college coming up, so we’d want to balance that carefully. Does that sound right, or am I overstating it?
+
+CLIENT2: [00:08:09] No, that sounds right.
+
+CLIENT1: [00:08:11] Yeah, we’re comfortable with growth if it’s diversified. We just don’t want big surprises.
+
+ADVISOR: [00:08:17] Got it — diversified growth, some downside protection, and tax-efficient placement where possible. That’s helpful. And just so I’m clear, Antonio, your employer is the healthcare software company, and Valentina’s is the tech firm, correct?
+
+CLIENT2: [00:08:31] Yep.
+
+CLIENT1: [00:08:32] Right.
+
+ADVISOR: [00:08:34] Brilliant. I think I’ve got the main picture. I’ll put together some thoughts around the retirement accounts, the college funding structure, and the estate-planning cleanup items, and then we can talk through what feels practical.
+
+CLIENT1: [00:08:46] Okay, that sounds good.
+
+CLIENT2: [00:08:48] Yeah, thank you.

@@ -1,0 +1,152 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Lauren Mitchell
+  - id: client
+    name: Diego Romero
+---
+ADVISOR: [00:00:03] Hi Diego, it’s Lauren Mitchell. Thanks for jumping on. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+ADVISOR: [00:00:10] Great. And just to make sure I’ve got the right person, you’re Diego Romero?
+
+CLIENT1: [00:00:15] That’s me, yeah.
+
+ADVISOR: [00:00:17] Perfect. I’m going to keep this pretty conversational. We’ll just go through your situation, what’s coming in, what’s going out, and what you want to get done. Sound okay?
+
+CLIENT1: [00:00:25] Yeah, that’s fine.
+
+ADVISOR: [00:00:27] Good. So first off, what’s your date of birth?
+
+CLIENT1: [00:00:31] Uh, April 18th, 1971.
+
+ADVISOR: [00:00:35] Okay, thanks. And are you single, married, partnered?
+
+CLIENT1: [00:00:39] Single.
+
+ADVISOR: [00:00:41] Got it. And I don’t need to pry, but just so I understand the household picture, is there anyone else financially dependent on you or anyone you’re supporting?
+
+CLIENT1: [00:00:49] No, just me.
+
+ADVISOR: [00:00:52] Okay. What do you do for work currently?
+
+CLIENT1: [00:00:56] I’m a warehouse supervisor.
+
+ADVISOR: [00:00:59] And who’s that with?
+
+CLIENT1: [00:01:01] North Valley Logistics.
+
+ADVISOR: [00:01:04] Nice, and how long have you been there?
+
+CLIENT1: [00:01:07] Since 2018. I started there in 2018.
+
+ADVISOR: [00:01:11] Okay. And are you a US tax resident?
+
+CLIENT1: [00:01:14] Yes, US.
+
+ADVISOR: [00:01:16] Great. Roughly what are you earning there before tax? Base salary first, and then we can talk about anything variable.
+
+CLIENT1: [00:01:24] Base is 54k.
+
+ADVISOR: [00:01:27] Fifty-four thousand, okay. And do you get much overtime or anything like that?
+
+CLIENT1: [00:01:32] Yeah, some. It changes a bit, but probably about three to five hundred a month net, give or take.
+
+ADVISOR: [00:01:40] Okay, about $300 to $500 a month net. That helps. And do you expect that to continue for a while, or is it more seasonal?
+
+CLIENT1: [00:01:47] Pretty steady, honestly. Sometimes a little more around busy periods.
+
+ADVISOR: [00:01:51] Right. Let’s talk through monthly spending. What’s your rent at the moment?
+
+CLIENT1: [00:01:56] Rent is 1,650.
+
+ADVISOR: [00:01:59] Okay. And then utilities, internet, that kind of thing?
+
+CLIENT1: [00:02:04] Around 260.
+
+ADVISOR: [00:02:07] Got it. Groceries?
+
+CLIENT1: [00:02:10] About 520 a month.
+
+ADVISOR: [00:02:13] And transport, fuel, car insurance, that sort of thing?
+
+CLIENT1: [00:02:17] Yeah, about 310.
+
+ADVISOR: [00:02:20] Okay. Anything else that’s a regular essential bill you want to mention, or is the main pressure just the debt stuff?
+
+CLIENT1: [00:02:28] Mostly the debt stuff. That’s the part that’s really eating at me.
+
+ADVISOR: [00:02:32] Yeah, I can imagine. Before we go there, do you have any savings set aside right now?
+
+CLIENT1: [00:02:38] Not much. I’ve got about 3,200 in a savings account at my credit union.
+
+ADVISOR: [00:02:44] Okay, $3,200. That’s helpful. Any other accounts or investments at all, or is that the main cash buffer?
+
+CLIENT1: [00:02:51] That’s pretty much it. Just that savings.
+
+ADVISOR: [00:02:54] Okay. And just to check, when you think about retirement, what age would you ideally like to stop working?
+
+CLIENT1: [00:03:00] Uh, 67 would be ideal. I don’t really want to go much longer than that.
+
+ADVISOR: [00:03:05] Sixty-seven, got it. No need to pin down an exact date today. More broadly, what are you hoping to get out of this? If we fast-forward six months, what would feel like a win?
+
+CLIENT1: [00:03:16] Honestly? I want a real plan to get rid of the credit card and the personal loan faster. I’m tired of living paycheck to paycheck.
+
+ADVISOR: [00:03:24] Yeah. That makes sense. So getting the debt under control and stopping that month-to-month squeeze.
+
+CLIENT1: [00:03:29] Exactly.
+
+ADVISOR: [00:03:31] Tell me about the debts then. You mentioned credit card and personal loan—what are we dealing with roughly?
+
+CLIENT1: [00:03:37] The credit card is Visa. I think it’s about 18 to 19 thousand left. Maybe 18.6? Something like that. And the minimum’s 430 a month.
+
+ADVISOR: [00:03:48] Okay, so about $18k to $19k on the Visa, with minimums around $430. Do you know the rate on that one?
+
+CLIENT1: [00:03:55] Yeah, it’s high. 24.9 percent, I think.
+
+ADVISOR: [00:04:00] Oof, okay. And the personal loan?
+
+CLIENT1: [00:04:03] That one’s with Sunrise Lending. Balance is 9,200. Payment is 285 a month.
+
+ADVISOR: [00:04:11] Okay, $9,200 and $285 monthly. Do you know the interest rate on that one?
+
+CLIENT1: [00:04:16] I think 11.5.
+
+ADVISOR: [00:04:19] Right. So the credit card is really the pressure point. And just so I don’t assume anything, do you have any mortgage or anything like that?
+
+CLIENT1: [00:04:27] No mortgage.
+
+ADVISOR: [00:04:29] Okay. Good to know. You mentioned living paycheck to paycheck — is that because the debt payments are tight, or are there other irregular costs that keep popping up?
+
+CLIENT1: [00:04:39] Mostly the debt and then, you know, stuff happens. Car repair, medical bill, whatever. Then the savings gets wiped out and I’m back where I started.
+
+ADVISOR: [00:04:48] Yeah, that cycle is brutal. If we could do two things in order — first, get a clearer payoff plan on the debt, and then build a small emergency fund after that — would that feel like the right sequence?
+
+CLIENT1: [00:05:00] Yes. Definitely. I’d love to get to like ten grand in savings eventually, but right now it feels impossible.
+
+ADVISOR: [00:05:08] Okay, so a longer-term emergency fund goal around $10,000, but first the debt cleanup.
+
+CLIENT1: [00:05:13] Right.
+
+ADVISOR: [00:05:15] On the planning side, I also want to ask something a little different. If something happened to you, do you have the basic legal stuff in place — a will, beneficiaries, that kind of thing?
+
+CLIENT1: [00:05:25] No, not really. I mean, I haven’t set any of that up yet.
+
+ADVISOR: [00:05:30] Okay. So one of your goals is to get your affairs in order a bit more formally.
+
+CLIENT1: [00:05:35] Yeah, exactly. I’d like a basic will and to name beneficiaries. I just keep putting it off.
+
+ADVISOR: [00:05:41] Understood. And you mentioned you’re single and no one else’s relying on you, so it’s more about making things straightforward and clear.
+
+CLIENT1: [00:05:48] Yeah, that’s it. I don’t want a mess for people later.
+
+ADVISOR: [00:05:52] Makes sense. Any questions for me so far?
+
+CLIENT1: [00:05:56] Not yet. I’m just relieved somebody’s actually laying it out.
+
+ADVISOR: [00:06:00] Good. We’ll take it step by step. I’m going to pull together a debt-first plan and then we can talk about what a realistic savings target looks like once the monthly pressure eases.
+
+CLIENT1: [00:06:10] Okay. That sounds good.

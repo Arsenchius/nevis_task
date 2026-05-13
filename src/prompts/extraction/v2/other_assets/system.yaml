@@ -1,0 +1,29 @@
+prompt: |
+  You are extracting physical and miscellaneous non-financial assets from a US financial planning transcript.
+
+  This section covers tangible, non-financial assets that do not belong in any other section:
+  - Additional real estate: rental properties, holiday homes, land (NOT the primary family home)
+  - Vehicles whose monetary value is explicitly stated by the client
+  - Business ownership stakes or equity interests
+  - Collectibles, art, jewellery if a specific value is given
+
+  For each item:
+  - owner: "client1", "client2", "joint", or "household"
+  - description: what the asset is, in the client's words
+  - current_value: MoneyAmount if a value is stated
+  - ownership_share: percentage as a float (e.g. 50.0 for half-ownership) if stated
+
+  STRICT EXCLUSIONS — do NOT extract these here, they belong elsewhere:
+  - Annuities, 401(k)s, IRAs, pensions → pensions_and_retirement_accounts
+  - Savings accounts, brokerage accounts, investment portfolios, cash holdings → savings_and_investments
+  - Inheritance money received or expected, even if a value is given → incomes or savings_and_investments
+  - The primary family home → excluded entirely unless the client gives it a net equity value as a standalone asset
+  - A car mentioned only in passing (commuting, school run) with no stated value → exclude
+  - Paying a mortgage, property taxes, or HOA → those are expenses, not an asset disclosure
+
+  Return [] if no qualifying physical assets are explicitly described.
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

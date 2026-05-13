@@ -1,0 +1,198 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Daniel Brooks
+  - id: client
+    name: Miguel Jordan
+  - id: client
+    name: Emma Cox
+---
+ADVISOR: [00:00:03] Hi both, thanks for joining. I'm Daniel Brooks. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we can hear you.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got the right people, I’ve got Miguel Jordan and Emma Cox on the call?
+
+CLIENT1: [00:00:18] That's right.
+
+CLIENT2: [00:00:19] Yep.
+
+ADVISOR: [00:00:21] Perfect. Miguel, can I start with your date of birth?
+
+CLIENT1: [00:00:27] Uh, yeah — it's April 17th, 1981.
+
+ADVISOR: [00:00:31] And Emma, yours?
+
+CLIENT2: [00:00:35] September 2nd, 1983.
+
+ADVISOR: [00:00:39] Thanks. And you’re both married, correct?
+
+CLIENT1: [00:00:42] Yeah.
+
+CLIENT2: [00:00:43] Yes.
+
+ADVISOR: [00:00:45] Okay. Miguel, what's the best mobile number for you?
+
+CLIENT1: [00:00:50] It's 415-555-0198.
+
+ADVISOR: [00:00:54] And email?
+
+CLIENT1: [00:00:57] miguel.jordan@example.com.
+
+ADVISOR: [00:01:01] Great. Emma, do you want to give me a number and email too, or would you rather we just use Miguel's as the main contact?
+
+CLIENT2: [00:01:07] Uh, I don't really need mine on there. Miguel's fine.
+
+ADVISOR: [00:01:11] No problem. Miguel, what do you do for work at the moment?
+
+CLIENT1: [00:01:16] I'm an operations manager at Bayview Logistics.
+
+ADVISOR: [00:01:20] And how long have you been there?
+
+CLIENT1: [00:01:23] Since 2014. So, yeah, a while.
+
+ADVISOR: [00:01:27] And your current salary there is about 98 thousand gross, right?
+
+CLIENT1: [00:01:31] Yeah, $98,000 gross.
+
+ADVISOR: [00:01:34] Emma, how about you?
+
+CLIENT2: [00:01:37] I'm a teacher — elementary school teacher — with Oak Ridge School District.
+
+ADVISOR: [00:01:42] And you've been there since 2012?
+
+CLIENT2: [00:01:45] That's right.
+
+ADVISOR: [00:01:47] And around 72 thousand gross?
+
+CLIENT2: [00:01:50] Yes, $72,000.
+
+ADVISOR: [00:01:53] Okay. And are you both US tax residents?
+
+CLIENT1: [00:01:57] Yes.
+
+CLIENT2: [00:01:58] Yes, definitely.
+
+ADVISOR: [00:02:02] All right. Just talk me through the family setup a little bit — any kids or anyone financially depending on you?
+
+CLIENT1: [00:02:09] Yeah, we've got two kids. Lucas Jordan — he's 11, born June 11th, 2014 — and Sofia Jordan, born October 24th, 2017. So 8... well, almost 8 and a half, I guess.
+
+CLIENT2: [00:02:22] They're both still dependent on us, for sure.
+
+ADVISOR: [00:02:26] Got it. And day-to-day, what's the household budget look like? Just the main fixed stuff.
+
+CLIENT1: [00:02:32] Mortgage is 2,850 a month.
+
+CLIENT2: [00:02:35] Yeah, and after-school care and activities for the kids is about 650 monthly.
+
+CLIENT1: [00:02:40] Utilities and internet run around 420 a month too.
+
+ADVISOR: [00:02:45] Okay. Any other regular spending that really matters for planning? Travel, big holidays, that kind of thing?
+
+CLIENT2: [00:02:51] We do try to travel as a family. That's probably around 6,000 a year, give or take.
+
+CLIENT1: [00:02:57] Yeah, not every year is the same, but roughly there.
+
+ADVISOR: [00:03:01] Makes sense. And what are you hoping to do with the inheritance? I know you said there’s something expected there.
+
+CLIENT1: [00:03:08] Right... my aunt's estate. It's not here yet, so we're trying not to get ahead of ourselves. I think it'll be somewhere around 400 to 500 thousand, but I don't want to pretend it's exact.
+
+CLIENT2: [00:03:19] Yeah, it's still pending. We just don't want to rush and do something silly with it.
+
+ADVISOR: [00:03:24] No, that’s sensible. So roughly about 400k to 500k, but timing uncertain?
+
+CLIENT1: [00:03:30] Exactly.
+
+ADVISOR: [00:03:31] And when it does come in, what's the main priority? Is it more about safety, growth, helping family, a bit of everything?
+
+CLIENT2: [00:03:38] Probably a bit of everything, but first we want to protect it. I keep thinking, if it lands and we rush, we could lose money fast.
+
+CLIENT1: [00:03:46] Yeah. We don't want to lose the inheritance. That's the big thing.
+
+CLIENT2: [00:03:50] And with prices going up all the time, we don't want it just sitting there doing nothing either.
+
+ADVISOR: [00:03:55] Right, inflation eating away at it.
+
+CLIENT1: [00:03:57] Exactly.
+
+ADVISOR: [00:03:59] Do you have any savings or investments already, separate from this inheritance?
+
+CLIENT1: [00:04:04] Yeah, we've got a high-yield savings account at our local credit union. That's around 78 thousand.
+
+ADVISOR: [00:04:11] Okay.
+
+CLIENT2: [00:04:12] And then we have a brokerage account through an online brokerage.
+
+ADVISOR: [00:04:16] Roughly what’s in that one?
+
+CLIENT2: [00:04:19] It's about 132 thousand total. Around 12 thousand of that is cash, and the rest, 120 thousand, is invested.
+
+ADVISOR: [00:04:27] Got it — so cash plus invested inside the brokerage.
+
+CLIENT1: [00:04:30] Yeah.
+
+ADVISOR: [00:04:32] And your home — is that your primary residence?
+
+CLIENT1: [00:04:35] Yes, that's our primary residence.
+
+ADVISOR: [00:04:38] Do you know roughly what it’s worth today?
+
+CLIENT2: [00:04:42] About 690 thousand.
+
+ADVISOR: [00:04:44] Okay. And just to check, do you already have a will in place?
+
+CLIENT1: [00:04:49] Yeah, we do.
+
+CLIENT2: [00:04:50] It was updated maybe three years ago.
+
+ADVISOR: [00:04:54] Good. Any trust set up, or not at the moment?
+
+CLIENT1: [00:04:57] No trust right now.
+
+ADVISOR: [00:05:00] Understood. And what’s the ideal retirement picture for each of you? Not exact perfection — just the rough age you'd like to stop full-time work.
+
+CLIENT1: [00:05:08] I'd like to be around 65.
+
+CLIENT2: [00:05:11] I'd like 62.
+
+ADVISOR: [00:05:13] Okay. So Miguel at 65, Emma at 62. That’s helpful. And what’s the big worry here — is it more about making the wrong investment choice, not having enough accessible cash, or making sure the kids are looked after if something happened?
+
+CLIENT2: [00:05:28] Honestly, all of that. The inheritance feels like a one-time chance, so I don't want to be reckless.
+
+CLIENT1: [00:05:34] Same. We want some growth, but not crazy risk. Just... sensible.
+
+CLIENT2: [00:05:39] And we definitely want enough set aside so we’re not scrambling if something comes up.
+
+ADVISOR: [00:05:44] Yeah, that makes sense. How much cash would help you sleep at night before you invest anything else?
+
+CLIENT1: [00:05:50] Maybe 50 thousand? I mean, that's the number that keeps coming to mind.
+
+CLIENT2: [00:05:54] Yeah, around that. Enough to feel like we have a cushion.
+
+ADVISOR: [00:05:58] Okay. And then the rest, if we were to invest it, you're thinking more of a diversified mix rather than anything concentrated or speculative?
+
+CLIENT1: [00:06:06] Yeah, diversified. Maybe moderate, not too aggressive.
+
+CLIENT2: [00:06:10] Right. We can handle some ups and downs, but not if it means risking the whole thing.
+
+ADVISOR: [00:06:16] Sure. So a moderate approach, keeping a reserve, then investing the remainder more for long-term growth and not trying to swing for the fences.
+
+CLIENT1: [00:06:23] Exactly.
+
+ADVISOR: [00:06:25] And on the estate side, you mentioned wanting to make sure things pass efficiently to the kids if anything happened to either of you. Is that mainly about updating beneficiaries and making sure the will matches what you want?
+
+CLIENT2: [00:06:37] Yeah, that's basically it. We just want it organized.
+
+CLIENT1: [00:06:40] And tax-wise too — I don't want there to be unnecessary drag if we can avoid it.
+
+ADVISOR: [00:06:45] Absolutely. So, protect the inheritance, keep some cash back, invest the rest sensibly, and make sure the estate paperwork is in good shape.
+
+CLIENT2: [00:06:53] That's the idea, yeah.
+
+CLIENT1: [00:06:55] Sounds right.
+
+ADVISOR: [00:06:57] Great. We'll take it step by step so you don't feel rushed into anything.

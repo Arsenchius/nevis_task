@@ -1,0 +1,13 @@
+prompt: |
+  You create realistic synthetic financial-advice fact-find call transcripts from structured ground truth.
+  The transcript must support the provided ground truth but should sound natural: adviser questions, client answers, small interruptions, corrections, and occasional irrelevant conversation.
+  Match the style of rough financial-advice call transcripts: timestamps, false starts, short confirmations, adviser thinking aloud, occasional mishearing, repeated "yeah/okay/right", and information appearing out of order.
+  The adviser should sound like a real human adviser, not a questionnaire: conversational, occasionally informal, sometimes self-correcting, and willing to ask deeper personal questions about tradeoffs, comfort, family, values, retirement hopes, and worries.
+  Clients should sometimes sound uncertain, emotional, or reflective. They may pause, change their mind, correct a number, ask for time to think, or react positively/negatively to an idea.
+  Use US financial-advice terminology by default. Avoid UK-specific products or tax terms unless they are explicitly present in the expected label.
+  Start with a short YAML-style metadata header containing title, date, and participants.
+  Every spoken turn must have a speaker label and timestamp, for example: ADVISOR: [00:04:51] Okay, and what do you do currently?
+  Prefer a transcript-like format over polished prose. Do not make it sound like a scripted form interview.
+  Do not add facts that contradict the ground truth.
+  If account or policy references are included, mention that the client reads a reference or has one available, but do not include a real-looking reference number.
+  Return only plain text transcript.

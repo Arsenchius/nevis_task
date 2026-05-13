@@ -1,0 +1,176 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Charles Franco
+  - id: client
+    name: Timothy Thomas
+---
+ADVISOR: [00:00:03] Hi Charles, hi Timothy — Megan Carter here. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we’re good.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got the right people, can I take your full names and dates of birth?
+
+CLIENT1: [00:00:18] Charles Franco... born August 17th, 1964.
+
+CLIENT2: [00:00:24] And I’m Timothy Thomas, February 3rd, 1966.
+
+ADVISOR: [00:00:30] Perfect, thank you. And you’re married, right?
+
+CLIENT1: [00:00:33] Yeah, married.
+
+CLIENT2: [00:00:34] Married, yep.
+
+ADVISOR: [00:00:37] Okay. And Charles, what’s your day job these days?
+
+CLIENT1: [00:00:42] I’m an operations manager. Been with a regional logistics firm for... let me think... since 2008.
+
+ADVISOR: [00:00:52] Since 2008, got it. And Timothy?
+
+CLIENT2: [00:00:56] I’m a project supervisor at a manufacturing company. Started there in 2010.
+
+ADVISOR: [00:01:04] Okay, good. Still both working full-time?
+
+CLIENT1: [00:01:07] Yeah, full-time.
+
+CLIENT2: [00:01:08] Yep.
+
+ADVISOR: [00:01:10] And roughly what are you each earning before tax?
+
+CLIENT1: [00:01:15] Mine’s 98... actually 98 thousand a year.
+
+CLIENT2: [00:01:21] And mine is 92 thousand gross.
+
+ADVISOR: [00:01:26] Great. Any other income we should factor in later on, like Social Security estimates or anything like that?
+
+CLIENT1: [00:01:34] Yeah, I checked mine. It was about 2,600 to 3,000 a month, somewhere in there.
+
+CLIENT2: [00:01:42] And mine was roughly 2,200 to 2,600 per month.
+
+ADVISOR: [00:01:48] Okay, that helps. I’m just making a note of the ranges. And when are you both hoping to step back from work?
+
+CLIENT1: [00:01:58] I keep saying 67. So... 2029, I guess.
+
+CLIENT2: [00:02:04] I’m a little earlier maybe. 66, so 2028.
+
+ADVISOR: [00:02:10] Right, so you’re within that pre-retirement window now. What’s the big picture goal — if this goes well, what do you want retirement to actually feel like?
+
+CLIENT1: [00:02:21] Honestly? I want a reliable paycheck. Something that covers the basics without me staring at the market every day.
+
+CLIENT2: [00:02:30] Yeah, same. We don’t need to be flashy. Just... steady.
+
+ADVISOR: [00:02:35] Steady, okay. When you say basics, what kind of monthly number are you thinking would make you breathe easier?
+
+CLIENT1: [00:02:43] About 9,000 a month. Maybe a little more, but around there.
+
+CLIENT2: [00:02:48] Yeah, that sounds right.
+
+ADVISOR: [00:02:50] And what are the main things that number needs to cover?
+
+CLIENT1: [00:02:55] House stuff, food, insurance, normal life. And travel, because we do want to travel some.
+
+CLIENT2: [00:03:03] Not all the time, but a decent amount.
+
+ADVISOR: [00:03:06] How much travel are we talking?
+
+CLIENT2: [00:03:08] Maybe ten to fourteen thousand a year? Is that too high?
+
+CLIENT1: [00:03:12] No, I think that’s about right. Somewhere in that range.
+
+ADVISOR: [00:03:16] Okay. And just to anchor the household spending, what are you seeing for the everyday bills?
+
+CLIENT1: [00:03:23] Utilities and groceries are around 1,800 a month.
+
+CLIENT2: [00:03:28] Yeah, around that.
+
+ADVISOR: [00:03:31] And healthcare premiums or anything like that?
+
+CLIENT2: [00:03:35] Medicare and supplemental premiums are 420 a month.
+
+ADVISOR: [00:03:40] Okay. Do you have any debt hanging around — mortgage, loans, anything material?
+
+CLIENT1: [00:03:45] No mortgage.
+
+CLIENT2: [00:03:47] Yeah, no debt.
+
+ADVISOR: [00:03:50] Good. That makes planning a lot cleaner. Tell me about the assets side then — what are we working with in retirement accounts?
+
+CLIENT1: [00:03:58] My 401(k) is with my current employer plan. I think it’s around... no, actually it’s 640 thousand. And I put in 6% of pay.
+
+ADVISOR: [00:04:11] Okay, 640k in the 401(k), 6% contribution. Any IRA outside that?
+
+CLIENT1: [00:04:17] Yeah, an IRA — 185 thousand.
+
+ADVISOR: [00:04:21] Got it. And do you have a Roth as well or is that it for yours?
+
+CLIENT1: [00:04:26] There’s a Roth IRA too, 72 thousand.
+
+ADVISOR: [00:04:31] Okay. Timothy, how about yours?
+
+CLIENT2: [00:04:36] My 401(k) is 520 thousand. I’m putting in 5% of pay.
+
+ADVISOR: [00:04:42] And any other retirement-type account?
+
+CLIENT2: [00:04:45] Yeah, an annuity. That’s about 210 thousand.
+
+ADVISOR: [00:04:50] Okay, thanks. And do you have any joint savings or brokerage outside the retirement stuff?
+
+CLIENT1: [00:04:57] Yeah, we have a taxable brokerage together. It’s about 145 thousand.
+
+CLIENT2: [00:05:03] And a high-yield savings account — maybe around 68 thousand. I think that’s close enough.
+
+ADVISOR: [00:05:10] About 68k, okay. And the home — is that jointly owned?
+
+CLIENT1: [00:05:15] Yes, it’s our primary residence, jointly owned.
+
+CLIENT2: [00:05:18] Probably worth roughly 610 thousand now, give or take.
+
+ADVISOR: [00:05:23] Great. I’m just checking — any children or dependants we need to build around?
+
+CLIENT1: [00:05:28] No, none.
+
+CLIENT2: [00:05:29] No kids.
+
+ADVISOR: [00:05:31] Understood. And from a planning perspective, what’s been bothering you most? Is it more the income piece, the timing, or just not wanting to make the wrong move with the accounts?
+
+CLIENT2: [00:05:43] The income piece, mostly. Like... how do we turn the 401(k)s and IRA into something dependable?
+
+CLIENT1: [00:05:51] And whether we should buy an annuity or just do withdrawals ourselves.
+
+ADVISOR: [00:05:57] Right, that’s the core question. When you picture retirement, do you want maximum flexibility, or would you give up some flexibility for more guaranteed income?
+
+CLIENT1: [00:06:08] I think a blend. Not all-in on anything.
+
+CLIENT2: [00:06:12] Yeah, some growth is fine, but we’re getting cautious. We don’t want to take huge swings this close to retirement.
+
+ADVISOR: [00:06:20] Okay, so more of an income-focused mix with maybe part of it protected. That makes sense. And on the Social Security side, are you trying to coordinate the timing so one of you starts earlier and one later, or are you still undecided?
+
+CLIENT1: [00:06:35] Still undecided. I mean, we’re close enough that we should probably get guidance on it.
+
+CLIENT2: [00:06:40] Yeah, we want to maximize lifetime income if we can, but keep flexibility too.
+
+ADVISOR: [00:06:46] Absolutely. That’s usually where the tradeoffs live. One more thing — have you both got your estate documents in place, or is that something you’re still sorting out?
+
+CLIENT1: [00:06:56] We’ve got wills.
+
+CLIENT2: [00:06:58] Yeah, both of us.
+
+ADVISOR: [00:07:00] Okay. And I think that gives me the main picture. Charles, just to confirm your employer again — regional logistics firm, operations manager, started 2008, aiming for 67 in 2029?
+
+CLIENT1: [00:07:12] Yep, that’s right.
+
+ADVISOR: [00:07:14] And Timothy — manufacturing company, project supervisor, started 2010, aiming for 66 in 2028?
+
+CLIENT2: [00:07:21] Correct.
+
+ADVISOR: [00:07:23] Perfect. I’ll pull this together and then we can talk through the income options and the Social Security timing in a way that doesn’t feel overwhelming.
+
+CLIENT1: [00:07:32] Good. Because it is a little overwhelming, honestly.
+
+CLIENT2: [00:07:35] Yeah, but this helps.

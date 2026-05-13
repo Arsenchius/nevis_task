@@ -1,0 +1,31 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss"
+  ],
+  "coverage_issues": [
+    {
+      "field": "savings_and_investments[1].account_type",
+      "expected_value": "401(k)",
+      "detail": "No mention anywhere in the transcript of Lauren having a 401(k) or any retirement account."
+    },
+    {
+      "field": "savings_and_investments[1].current_value.normalized_amount",
+      "expected_value": "6200.0",
+      "detail": "No balance or value for any 401(k) or retirement account for Lauren is stated in the transcript."
+    },
+    {
+      "field": "savings_and_investments[2].account_type",
+      "expected_value": "401(k)",
+      "detail": "No mention anywhere in the transcript of Donald having a 401(k) or any retirement account."
+    },
+    {
+      "field": "savings_and_investments[2].current_value.normalized_amount",
+      "expected_value": "9400.0",
+      "detail": "No balance or value for any 401(k) or retirement account for Donald is stated in the transcript."
+    }
+  ],
+  "suppression_leaks": [],
+  "hallucinations": [],
+  "localization_issues": []
+}

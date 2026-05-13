@@ -1,0 +1,21 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "suppression_leak"
+  ],
+  "coverage_issues": [],
+  "suppression_leaks": [
+    {
+      "section": "pensions_retirement",
+      "timestamp": "00:03:36",
+      "offending_text": "CLIENT1: [00:03:36] I have about 25 to 30k in my 401(k) through my current employer plan."
+    },
+    {
+      "section": "pensions_retirement",
+      "timestamp": "00:03:40",
+      "offending_text": "CLIENT2: [00:03:40] And I’ve got an IRA with Online brokerage, around 5 to 7k."
+    }
+  ],
+  "hallucinations": [],
+  "localization_issues": []
+}

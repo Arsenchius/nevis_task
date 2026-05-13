@@ -1,0 +1,21 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "suppression_leak"
+  ],
+  "coverage_issues": [],
+  "suppression_leaks": [
+    {
+      "section": "loans_mortgages",
+      "timestamp": "00:02:52",
+      "offending_text": "CLIENT1: [00:02:52] The mortgage is, um... around 2,400 to 2,500 a month."
+    },
+    {
+      "section": "pensions_retirement",
+      "timestamp": "00:04:16",
+      "offending_text": "CLIENT1: [00:04:16] I do have one account of my own, yeah. A Roth IRA.\nADVISOR: [00:04:20] Okay. And roughly what’s in that?\nCLIENT1: [00:04:23] Roughly 18 to 20 thousand."
+    }
+  ],
+  "hallucinations": [],
+  "localization_issues": []
+}

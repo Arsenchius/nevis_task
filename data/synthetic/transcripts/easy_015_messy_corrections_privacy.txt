@@ -1,0 +1,202 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Olivia Morales
+  - id: client
+    name: Jonathan Reyes
+---
+ADVISOR: [00:00:03] Hi Olivia, hi Jonathan — thanks for making the time. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we're good.
+
+ADVISOR: [00:00:12] Perfect. And just so I’ve got everyone lined up correctly, could I take your full names and dates of birth?
+
+CLIENT1: [00:00:18] Sure. Olivia Morales, and I was born... uh, April 17th, 1981.
+
+CLIENT2: [00:00:28] Jonathan Reyes, September 3rd, 1979.
+
+ADVISOR: [00:00:33] Great, thank you. And you’re married, is that right?
+
+CLIENT1: [00:00:36] Yes.
+
+CLIENT2: [00:00:37] Yeah, married.
+
+ADVISOR: [00:00:40] Thanks. Olivia, what do you do day to day?
+
+CLIENT1: [00:00:45] I’m a project manager. I work for Northstar Logistics.
+
+ADVISOR: [00:00:50] Okay, and how long have you been there?
+
+CLIENT1: [00:00:53] Since 2016. I started there in 2016.
+
+ADVISOR: [00:00:57] Got it. And roughly what’s your gross salary?
+
+CLIENT1: [00:01:01] It’s 92 thousand... actually, no, sorry, $92,000 gross.
+
+ADVISOR: [00:01:07] Perfect. And Jonathan, what about you?
+
+CLIENT2: [00:01:11] I’m self-employed. Graphic designer. My studio’s called Reyes Creative Studio.
+
+ADVISOR: [00:01:19] Nice. And how long have you been running that?
+
+CLIENT2: [00:01:22] Since 2019.
+
+ADVISOR: [00:01:24] And what does that look like income-wise these days?
+
+CLIENT2: [00:01:28] It’s kind of up and down, but pretty steady overall — about 54k a year gross. I usually say $54k.
+
+ADVISOR: [00:01:38] Okay, thank you. Do you both live in the US for tax purposes?
+
+CLIENT1: [00:01:43] Yes.
+
+CLIENT2: [00:01:44] Yeah, US.
+
+ADVISOR: [00:01:47] Great. And children — do you have any dependants at home?
+
+CLIENT1: [00:01:51] Two kids.
+
+CLIENT2: [00:01:52] Yeah, Sofia and Mateo.
+
+ADVISOR: [00:01:55] Okay — can you give me their names and ages? I don’t need anything too exact if you’re not sure.
+
+CLIENT1: [00:02:00] Sofia Morales, she’s thirteen now... I think her birthday is June 21st, 2012.
+
+CLIENT2: [00:02:08] And Mateo Morales, he’s ten. Born November 8th, 2015.
+
+ADVISOR: [00:02:14] Lovely. And they’re both financially dependent on you?
+
+CLIENT1: [00:02:18] Yes, definitely.
+
+ADVISOR: [00:02:20] Okay. Let’s talk through the household cash flow a bit. What comes in regularly besides your salaries?
+
+CLIENT2: [00:02:27] We get rental income from the place we have out back — it’s $1,200 a month.
+
+ADVISOR: [00:02:34] Okay, $1,200 monthly. And what are the main regular bills you’re thinking about?
+
+CLIENT1: [00:02:40] Mortgage is the big one — $2,450 a month.
+
+CLIENT2: [00:02:45] Then after-school care for the kids, that’s $600 monthly.
+
+CLIENT1: [00:02:50] Utilities and internet are about $320 a month.
+
+ADVISOR: [00:02:56] Okay, got it. And do you have any regular spending for family stuff, travel, that sort of thing?
+
+CLIENT2: [00:03:02] We try to budget about $300 a month for family travel. Not every month, but we set it aside.
+
+ADVISOR: [00:03:09] Makes sense. Do you want that to stay as a nice-to-have, or is travel something you’d really hate to give up?
+
+CLIENT1: [00:03:15] Honestly, we’d like to keep it. It’s one of the things that keeps us sane.
+
+CLIENT2: [00:03:19] Yeah, same. It’s important.
+
+ADVISOR: [00:03:22] Understood. Now, retirement-wise, where are you both hoping to land?
+
+CLIENT1: [00:03:28] Ideally 65 for me.
+
+CLIENT2: [00:03:30] I’m thinking more like 67.
+
+ADVISOR: [00:03:33] Okay, so somewhere in that 65 to 67 range. And is the main aim just to keep roughly the lifestyle you have now?
+
+CLIENT1: [00:03:40] Yeah, that’s the hope. We just don’t know if we’re on track.
+
+CLIENT2: [00:03:44] Right, comfortable, not fancy. Just enough income to keep things going without stress.
+
+ADVISOR: [00:03:50] That’s helpful. Let’s look at retirement accounts. Olivia, do you have a workplace plan through Northstar?
+
+CLIENT1: [00:03:57] Yeah, a 401(k).
+
+ADVISOR: [00:03:59] And do you know roughly what’s in it?
+
+CLIENT1: [00:04:02] I think it’s around 168k... no, sorry, $168,000.
+
+ADVISOR: [00:04:08] Okay. And are you contributing currently?
+
+CLIENT1: [00:04:11] Yes, 6%.
+
+ADVISOR: [00:04:13] Great. You mentioned you might have a reference handy?
+
+CLIENT1: [00:04:16] Yes, I’ve got the plan statement open, but I’m not reading the whole thing out.
+
+ADVISOR: [00:04:20] That’s fine, that’s all I needed. Jonathan, what do you have set up?
+
+CLIENT2: [00:04:25] I have a SEP IRA at Vanguard.
+
+ADVISOR: [00:04:29] And about how much is in there?
+
+CLIENT2: [00:04:31] It’s around $94,000.
+
+ADVISOR: [00:04:34] And what are you putting in monthly or annually?
+
+CLIENT2: [00:04:37] I do $700 a month.
+
+ADVISOR: [00:04:40] Okay. Any other savings or investment accounts you’re using for the household?
+
+CLIENT1: [00:04:45] We have a joint high-yield savings account at Ally.
+
+ADVISOR: [00:04:49] Roughly what’s in that?
+
+CLIENT2: [00:04:52] About 28 thousand — $28,000.
+
+ADVISOR: [00:04:56] Okay. And Olivia, do you have anything outside the 401(k)?
+
+CLIENT1: [00:05:00] Yeah, a brokerage account at Fidelity.
+
+ADVISOR: [00:05:03] About how much is in that?
+
+CLIENT1: [00:05:06] Total is $45k... wait, let me say that properly — $45,000 total.
+
+ADVISOR: [00:05:11] Okay.
+
+CLIENT1: [00:05:12] Of that, about $5,000 is cash and $40,000 is invested.
+
+ADVISOR: [00:05:17] Perfect, thanks. Let’s talk about debt for a minute. Mortgage first — who’s the lender and what’s the balance?
+
+CLIENT2: [00:05:24] Wells Fargo is the mortgage lender.
+
+ADVISOR: [00:05:27] And the balance outstanding?
+
+CLIENT1: [00:05:29] $318,000.
+
+ADVISOR: [00:05:31] And the interest rate, if you know it?
+
+CLIENT2: [00:05:34] 6.25%.
+
+ADVISOR: [00:05:37] Okay. Any other debts you’re actively paying down?
+
+CLIENT2: [00:05:41] I’ve got a credit card with Chase. Balance is about $4,200.
+
+ADVISOR: [00:05:47] Okay, thanks. Is that something you want to clear as quickly as possible?
+
+CLIENT2: [00:05:51] Yeah, definitely. It’s been hanging around too long.
+
+CLIENT1: [00:05:54] We’d like that gone, honestly.
+
+ADVISOR: [00:05:57] Makes sense. And just to make sure I’m understanding the priorities, it sounds like there are three main things: retiring comfortably around 65 to 67, building up college savings for Sofia and Mateo, and getting that credit card paid down.
+
+CLIENT1: [00:06:11] Yes, exactly.
+
+CLIENT2: [00:06:13] That’s it.
+
+ADVISOR: [00:06:15] Okay. On the college savings piece, have you already set aside a separate amount for them, or is that something you want to start organizing?
+
+CLIENT1: [00:06:22] We want to start or increase it. We’ve been meaning to do more.
+
+CLIENT2: [00:06:26] Yeah, something dedicated would be good. We were thinking around fifty thousand overall, but that’s more the target than anything fixed.
+
+ADVISOR: [00:06:35] Got it — a $50,000 goal for education funding. That helps. And just so I’m not missing anything, are both of you comfortable with the idea of keeping things pretty steady for now while we map out the next steps?
+
+CLIENT1: [00:06:45] Yeah, that sounds good.
+
+CLIENT2: [00:06:47] I think so. I just want to make sure we’re not overlooking anything obvious.
+
+ADVISOR: [00:06:51] Absolutely. That’s what we’ll work through. I’ve got the core picture now, and I’ll summarize the numbers back to you in a follow-up so you can sanity-check them.
+
+CLIENT1: [00:06:59] Perfect.
+
+CLIENT2: [00:07:00] Thanks, Megan.

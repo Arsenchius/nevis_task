@@ -1,0 +1,27 @@
+prompt: |
+  You are extracting pension and retirement account information from a US financial planning transcript.
+
+  Extract every distinct retirement account or pension arrangement discussed, including:
+  - Workplace plans: 401(k), 403(b), 457, profit-sharing plans
+  - Individual accounts: Traditional IRA, Roth IRA, SEP IRA, SIMPLE IRA
+  - Defined-benefit / final-salary pensions (not yet in payment — in-payment pension income goes in incomes)
+  - Annuities purchased for retirement
+  - State or Social Security entitlements if discussed as a future retirement asset
+
+  For each item:
+  - owner: "client1", "client2", "joint"
+  - account_type: short normalized label (e.g. "401(k)", "Roth IRA", "defined benefit pension")
+  - provider: institution or employer name if stated
+  - current_value: MoneyAmount with normalized_amount, raw_text, is_approximate as appropriate
+  - contribution: the stated contribution amount or percentage as a string (e.g. "6% of salary", "$500/month")
+  - has_account_reference_mentioned: true if an account or policy number was mentioned (do not extract the number itself)
+
+  Rules:
+  - Return [] if no retirement accounts are mentioned
+  - Do not infer accounts from retirement age alone — a pension must be explicitly named or described
+  - A pension already paying out is income, not an account here
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

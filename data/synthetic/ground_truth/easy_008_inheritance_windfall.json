@@ -1,0 +1,244 @@
+{
+  "example_id": "easy_008_inheritance_windfall",
+  "difficulty": "easy",
+  "archetype_id": "inheritance_windfall",
+  "challenge_tags": [
+    "numeric_approximate",
+    "numeric_exact",
+    "objectives_free_form"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "household_dependants",
+    "income",
+    "objectives",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Zoey",
+        "last_name": "Cooper",
+        "date_of_birth": "1991-04-18",
+        "marital_or_relationship_status": "partnered",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Marketing manager",
+        "employer": "Northstar Retail Group",
+        "start_date": "2018",
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Skylar",
+        "last_name": "Martin",
+        "date_of_birth": "1989-09-07",
+        "marital_or_relationship_status": "partnered",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Software engineer",
+        "employer": "BrightPath Systems",
+        "start_date": "2017",
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Skylar Martin",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "partner",
+      "children_or_dependants": [
+        {
+          "name": "Liam Cooper",
+          "relationship": "child",
+          "date_of_birth": "2019-06-12",
+          "age": 5.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Mia Cooper",
+          "relationship": "child",
+          "date_of_birth": "2022-11-03",
+          "age": 2.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 78000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$78,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 124000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$124,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Annual bonus",
+        "amount": {
+          "normalized_amount": 12000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$12,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Cedar Bank",
+        "current_value": {
+          "normalized_amount": 65000.0,
+          "lower_bound": 60000.0,
+          "upper_bound": 70000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $65,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 18000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$18,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "brokerage account",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 22000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$22,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [
+      {
+        "owner": "client1",
+        "description": "Expected inheritance from grandmother's estate",
+        "current_value": {
+          "normalized_amount": 150000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$150,000"
+        },
+        "ownership_share": null
+      }
+    ],
+    "objectives": [
+      {
+        "category": "inheritance planning",
+        "description": "Decide what to do with the inheritance and how to hold it safely before investing.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Funds are expected soon and the couple wants a plan before making any large moves."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Use the inheritance in a tax-efficient way and understand any tax implications.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants advice on minimizing unnecessary tax drag."
+      },
+      {
+        "category": "investing",
+        "description": "Invest part of the windfall for medium- to long-term growth while keeping some cash available.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Unsure how much to keep in savings versus invest."
+      },
+      {
+        "category": "estate planning",
+        "description": "Update wills and beneficiary arrangements after receiving the inheritance.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Wants to make sure the money passes efficiently to the children if something happens."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable taking some investment risk for long-term growth, but wants to protect a portion of the inheritance in cash.",
+      "preferred_strategy": "Keep an emergency reserve, invest the remainder in a diversified portfolio, and review annually.",
+      "key_concerns": [
+        "Not wanting to lose the inheritance in a market downturn",
+        "Keeping enough cash for the children and near-term needs",
+        "Reducing tax inefficiency",
+        "Making sure estate plans are updated"
+      ]
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": "Wants to ensure assets pass efficiently to children if something happens."
+    }
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "example_id": "hard_010_young_high_earner_family",
+  "difficulty": "hard",
+  "archetype_id": "young_high_earner_family",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "correction",
+    "estate_planning",
+    "missing_fields",
+    "multiple_products",
+    "numeric_approximate",
+    "objectives_free_form",
+    "owner_attribution",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "household_dependants",
+    "income",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "mid_career_1976_1985",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Valentina",
+        "last_name": "Walker",
+        "date_of_birth": "1981-04-17",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Senior product manager",
+        "employer": "Tech firm",
+        "start_date": "2016",
+        "desired_retirement_age": 62,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Antonio",
+        "last_name": "Ferguson",
+        "date_of_birth": "1980-09-03",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Software engineering director",
+        "employer": "Healthcare software company",
+        "start_date": "2014",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Antonio Ferguson",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Luca Walker Ferguson",
+          "relationship": "child",
+          "date_of_birth": "2018-06-12",
+          "age": 7.0,
+          "dependency_status": "in childcare"
+        },
+        {
+          "name": "Mila Walker Ferguson",
+          "relationship": "child",
+          "date_of_birth": "2021-11-28",
+          "age": 3.0,
+          "dependency_status": "in childcare"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 185000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$185,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 25000.0,
+          "lower_bound": 20000.0,
+          "upper_bound": 30000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $20k to $30k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 210000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$210,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 30000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$30,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "daycare for both kids",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "mortgage",
+        "owner": "household",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 4200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$4,200"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 450.0,
+          "lower_bound": 400.0,
+          "upper_bound": 500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $400-$500"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "family travel and weekends away",
+        "amount": {
+          "normalized_amount": 600.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$600"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "Employer plan",
+        "current_value": {
+          "normalized_amount": 380000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$380,000"
+        },
+        "contribution": "12% of salary",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "401(k)",
+        "provider": "Employer plan",
+        "current_value": {
+          "normalized_amount": 420000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420,000"
+        },
+        "contribution": "10% of salary",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client1",
+        "account_type": "Roth IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 85000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$85,000"
+        },
+        "contribution": "$6,500 a year",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "household",
+        "account_type": "high-yield savings",
+        "provider": "Online bank",
+        "current_value": {
+          "normalized_amount": 65000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$65,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 120000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$120,000"
+        },
+        "cash_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15,000"
+        },
+        "invested_value": {
+          "normalized_amount": 105000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$105,000"
+        }
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "tax efficiency",
+        "description": "Reduce taxes through better use of retirement accounts, backdoor Roth options if suitable, and more efficient saving structure.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to keep more of household income without taking unnecessary risk."
+      },
+      {
+        "category": "education funding",
+        "description": "Build college funds for both children while balancing retirement saving.",
+        "target_amount_or_income": {
+          "normalized_amount": 200000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$200,000"
+        },
+        "target_date_or_age": "when children start college",
+        "priority": "medium",
+        "status_or_uncertainty": "No specific account structure chosen yet."
+      },
+      {
+        "category": "retirement income",
+        "description": "Retire comfortably in the early-to-mid 60s with enough income to maintain current lifestyle.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "62-65",
+        "priority": "high",
+        "status_or_uncertainty": "Both clients want flexibility on exact retirement timing."
+      },
+      {
+        "category": "estate planning",
+        "description": "Make sure the children are protected and beneficiaries are up to date; review wills and guardianship arrangements.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants a simple plan, not a complicated trust structure unless needed."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate to moderately aggressive",
+      "attitude_summary": "Comfortable with growth investing for long-term goals, but does not want large short-term losses or an overly conservative portfolio.",
+      "preferred_strategy": "Use a diversified growth-oriented portfolio with some downside protection and tax-efficient placement of assets.",
+      "key_concerns": [
+        "market volatility",
+        "childcare costs limiting monthly cash flow",
+        "tax efficiency",
+        "funding college and retirement at the same time",
+        "estate planning for young children"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Wills are in place; beneficiaries need review; guardianship for the children should be confirmed; no trust mentioned."
+    }
+  }
+}

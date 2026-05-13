@@ -1,0 +1,377 @@
+{
+  "example_id": "medium_024_messy_corrections_privacy",
+  "difficulty": "medium",
+  "archetype_id": "messy_corrections_privacy",
+  "challenge_tags": [
+    "advisor_noise",
+    "correction",
+    "negation",
+    "numeric_range",
+    "numeric_shorthand",
+    "owner_attribution",
+    "privacy_reference",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": true,
+  "transcript_path": "data/synthetic/transcripts/medium_024_messy_corrections_privacy.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Zara",
+        "last_name": "Hansen",
+        "date_of_birth": "1991-04-18",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": null,
+        "email": "zara.hansen@example.com"
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Project manager",
+        "employer": "Northstar Logistics",
+        "start_date": "2019",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Hiroshi",
+        "last_name": "Jackson",
+        "date_of_birth": "1989-11-02",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "self_employed",
+        "occupation": "Freelance graphic designer",
+        "employer": null,
+        "start_date": "2021",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Hiroshi Jackson",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "cohabiting partner",
+      "children_or_dependants": [
+        {
+          "name": "Mila Hansen-Jackson",
+          "relationship": "child",
+          "date_of_birth": "2020-08-14",
+          "age": 4.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Noah Hansen-Jackson",
+          "relationship": "child",
+          "date_of_birth": null,
+          "age": null,
+          "dependency_status": "in childcare"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": 90000.0,
+          "upper_bound": 95000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 90-95k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "bonus",
+        "amount": {
+          "normalized_amount": 5000.0,
+          "lower_bound": 3000.0,
+          "upper_bound": 5000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "3 to 5k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "freelance income",
+        "amount": {
+          "normalized_amount": 4200.0,
+          "lower_bound": 4000.0,
+          "upper_bound": 4500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 4.2k a month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "joint",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2300.0,
+          "upper_bound": 2500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 2.3 to 2.5k"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "daycare",
+        "amount": {
+          "normalized_amount": 1800.0,
+          "lower_bound": 1600.0,
+          "upper_bound": 2000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "1.6-2k"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": 300.0,
+          "upper_bound": 350.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 300-350"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "client2",
+        "name": "client2 studio software and travel",
+        "amount": {
+          "normalized_amount": 250.0,
+          "lower_bound": 200.0,
+          "upper_bound": 300.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 2-300"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "Employer plan",
+        "current_value": {
+          "normalized_amount": 118000.0,
+          "lower_bound": 115000.0,
+          "upper_bound": 120000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 115-120k"
+        },
+        "contribution": "6% employee, 4% employer",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client2",
+        "account_type": "SEP IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 46000.0,
+          "lower_bound": 45000.0,
+          "upper_bound": 47000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "mid-40s"
+        },
+        "contribution": "$500/month",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Ally",
+        "current_value": {
+          "normalized_amount": 28000.0,
+          "lower_bound": 25000.0,
+          "upper_bound": 30000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "25 to 30k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": 14000.0,
+          "upper_bound": 16000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 15k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "cash savings",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 7000.0,
+          "lower_bound": 5000.0,
+          "upper_bound": 9000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "5-9k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "mortgage",
+        "provider": "Wells Fargo",
+        "monthly_cost": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2300.0,
+          "upper_bound": 2500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 2.3 to 2.5k"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 365000.0,
+          "lower_bound": 360000.0,
+          "upper_bound": 370000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 360-370k"
+        },
+        "interest_rate": 6.1,
+        "no_debt": false
+      },
+      {
+        "owner": "client2",
+        "debt_type": "credit card",
+        "provider": "unknown",
+        "monthly_cost": {
+          "normalized_amount": 150.0,
+          "lower_bound": 100.0,
+          "upper_bound": 200.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 100-200 a month"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 4200.0,
+          "lower_bound": 4000.0,
+          "upper_bound": 4500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 4.2k"
+        },
+        "interest_rate": null,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Retire comfortably around age 65 to 67 with enough income to replace most of current spending.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "65-67",
+        "priority": "high",
+        "status_or_uncertainty": "Wants to keep options open and not take excessive investment risk."
+      },
+      {
+        "category": "education funding",
+        "description": "Build savings for the children and future education costs.",
+        "target_amount_or_income": {
+          "normalized_amount": 50000.0,
+          "lower_bound": 40000.0,
+          "upper_bound": 60000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "maybe 40-60k"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Not sure whether to use 529 plans or keep funds flexible."
+      },
+      {
+        "category": "emergency fund",
+        "description": "Increase emergency savings to cover several months of expenses.",
+        "target_amount_or_income": {
+          "normalized_amount": 30000.0,
+          "lower_bound": 25000.0,
+          "upper_bound": 35000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 25-35k"
+        },
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Current cash is below the preferred buffer."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

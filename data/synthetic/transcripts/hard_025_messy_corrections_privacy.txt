@@ -1,0 +1,288 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Daniel Mercer
+  - id: client
+    name: Serena Weaver
+  - id: client
+    name: Carmen Morris
+---
+ADVISOR: [00:00:03] Hi Serena, hi Carmen — thanks for making time. I'm Daniel Mercer. Can you hear me okay?
+
+CLIENT1: [00:00:09] Yep, loud and clear.
+
+CLIENT2: [00:00:11] Yeah, hi. Sorry, I was just putting the dog out.
+
+ADVISOR: [00:00:15] No worries at all. So just so I've got the basics right, Serena Weaver?
+
+CLIENT1: [00:00:20] That's me.
+
+ADVISOR: [00:00:22] And Carmen Morris as well, since you're both on the call.
+
+CLIENT2: [00:00:25] Correct.
+
+ADVISOR: [00:00:27] Great. Serena, can I take your date of birth first?
+
+CLIENT1: [00:00:31] Uh, yes — 17th of April, 1968.
+
+ADVISOR: [00:00:37] Thanks. And Carmen, yours?
+
+CLIENT2: [00:00:40] November 2nd, 1966. I always have to think about which way round that is.
+
+ADVISOR: [00:00:46] That's okay, got it. And you're married, is that right?
+
+CLIENT1: [00:00:50] Yes.
+
+CLIENT2: [00:00:51] Yep, married.
+
+ADVISOR: [00:00:54] Perfect. Serena, what's the best mobile number for you?
+
+CLIENT1: [00:00:59] It's 415... 555... 0187.
+
+ADVISOR: [00:01:05] Great. And email?
+
+CLIENT1: [00:01:08] serena dot weaver at example dot com.
+
+ADVISOR: [00:01:13] Thanks. Carmen, do you want me to use the same contact route for you, or just keep everything through Serena?
+
+CLIENT2: [00:01:18] Just through Serena is fine. I don't really need to give mine.
+
+ADVISOR: [00:01:22] No problem. Serena, you're working currently, yes?
+
+CLIENT1: [00:01:27] Yeah, full time. Operations manager.
+
+ADVISOR: [00:01:31] Operations manager — and where are you based?
+
+CLIENT1: [00:01:34] North Bay Logistics.
+
+ADVISOR: [00:01:37] Okay. How long have you been there?
+
+CLIENT1: [00:01:40] Since 2012. I think... yeah, 2012.
+
+ADVISOR: [00:01:44] And are you a US tax resident?
+
+CLIENT1: [00:01:47] Yes, both of us are.
+
+CLIENT2: [00:01:49] Yep.
+
+ADVISOR: [00:01:51] Carmen, what about you?
+
+CLIENT2: [00:01:54] Self-employed. I do landscape design — Morris Garden Studio.
+
+ADVISOR: [00:02:00] Nice. And how long's that been going?
+
+CLIENT2: [00:02:03] Since 2009. Feels like forever, in a good way.
+
+ADVISOR: [00:02:07] And tax resident in the US as well?
+
+CLIENT2: [00:02:10] Yes.
+
+ADVISOR: [00:02:12] Great. Just talking income for a minute — Serena, what's your base salary roughly?
+
+CLIENT1: [00:02:18] It's 98k gross.
+
+ADVISOR: [00:02:22] Okay, $98,000. Any bonus or variable pay?
+
+CLIENT1: [00:02:27] Yeah, a bonus — about 5k a year, give or take. Not guaranteed, obviously.
+
+ADVISOR: [00:02:33] Sure. Carmen, and your self-employed income — I know it can swing around a bit.
+
+CLIENT2: [00:02:39] Yeah, it does. Usually somewhere between 60 and 80k gross. If I had to pin it down, maybe 72-ish on average, but it varies.
+
+ADVISOR: [00:02:49] That's helpful. So we'll treat it as a range. And household-wise, it's the two of you together, right?
+
+CLIENT1: [00:02:55] Yes.
+
+CLIENT2: [00:02:56] Mm-hm.
+
+ADVISOR: [00:02:58] Any children or anyone financially dependent on you?
+
+CLIENT1: [00:03:02] We have two kids.
+
+CLIENT2: [00:03:04] Well, one is basically fully independent now.
+
+ADVISOR: [00:03:07] Okay, talk me through them.
+
+CLIENT1: [00:03:10] Lena's 21. Born September 14th, 2003.
+
+ADVISOR: [00:03:15] Got it.
+
+CLIENT2: [00:03:16] And Noah is 17. He'll be the one still needing help for a while.
+
+ADVISOR: [00:03:21] Right, so Lena's independent and Noah's still financially dependent.
+
+CLIENT1: [00:03:24] Yeah, exactly.
+
+ADVISOR: [00:03:27] Let's do living costs. Do you rent or own?
+
+CLIENT2: [00:03:30] Own. We have a mortgage.
+
+ADVISOR: [00:03:33] Okay. And what sort of monthly housing cost are you paying?
+
+CLIENT1: [00:03:37] Around 2400 a month.
+
+ADVISOR: [00:03:40] And that's the mortgage payment.
+
+CLIENT2: [00:03:42] Yeah.
+
+ADVISOR: [00:03:44] Any other regular costs you want me to note — utilities, insurance, that kind of thing?
+
+CLIENT1: [00:03:49] Utilities are around 300 to 400 a month. I usually say 350 as a middle.
+
+CLIENT2: [00:03:55] Yeah, that sounds right.
+
+CLIENT1: [00:03:57] Auto and home insurance is 220 a month.
+
+ADVISOR: [00:04:01] Okay. And any discretionary stuff that matters to you as a couple — travel, hobbies, that sort of thing?
+
+CLIENT2: [00:04:07] I do like weekend trips. Probably roughly 600 a month if I average it out.
+
+ADVISOR: [00:04:14] Good to know. And Serena, does that sound about right from your side?
+
+CLIENT1: [00:04:17] Yeah, Carmen's the one who actually books them, so... [laughs] yes.
+
+ADVISOR: [00:04:21] Fair enough. Let's talk about savings and investments. Do you have cash set aside for emergencies?
+
+CLIENT1: [00:04:27] We do. Joint high-yield savings with Ally — about 68k.
+
+ADVISOR: [00:04:34] Good. And any brokerage money?
+
+CLIENT1: [00:04:38] Yes, mine is with Fidelity.
+
+ADVISOR: [00:04:41] Okay.
+
+CLIENT1: [00:04:42] It's somewhere around 120 to 130k total. I think about 125k. Of that, maybe 15k is just sitting in cash and about 110k is invested.
+
+ADVISOR: [00:04:54] Great, that's really helpful. And just so I don't miss anything, you said Fidelity — do you have a statement or account reference for that one if I need to note it later?
+
+CLIENT1: [00:05:02] Yeah, I can pull the statement up. I don't have it in front of me right now, but I can find the reference.
+
+ADVISOR: [00:05:08] Perfect. Carmen, anything similar on your side that you want to mention today?
+
+CLIENT2: [00:05:13] Yes — I have a SEP IRA at Vanguard.
+
+ADVISOR: [00:05:17] Okay.
+
+CLIENT2: [00:05:18] I think it's about 265k. Not exact exact, but around there. I put in 1,000 a month.
+
+ADVISOR: [00:05:26] Got it. And you said Vanguard?
+
+CLIENT2: [00:05:29] Yep.
+
+ADVISOR: [00:05:31] And Serena, on your side, do you contribute to your employer plan?
+
+CLIENT1: [00:05:36] Yeah, 6% employee and 4% employer match.
+
+ADVISOR: [00:05:41] Okay, and that's your 401(k) through the employer plan.
+
+CLIENT1: [00:05:44] Right. It's about 410k last time I looked.
+
+ADVISOR: [00:05:48] Great. If you have a statement or plan reference for that one, that's useful too.
+
+CLIENT1: [00:05:52] I do, yeah. I can get it from the portal.
+
+ADVISOR: [00:05:55] Excellent. Any debts apart from the mortgage?
+
+CLIENT2: [00:06:00] I have a Chase credit card balance.
+
+ADVISOR: [00:06:03] Okay, tell me about that.
+
+CLIENT2: [00:06:05] Around 4,200 outstanding. I pay about 300 a month toward it.
+
+ADVISOR: [00:06:12] Thanks. Any interest rate you know off the top of your head?
+
+CLIENT2: [00:06:15] No, not exactly. I just know it's annoying enough that I'd like it gone.
+
+ADVISOR: [00:06:20] Fair. And the mortgage — roughly how much is still outstanding?
+
+CLIENT1: [00:06:25] Roughly 315k.
+
+ADVISOR: [00:06:28] And the rate on that?
+
+CLIENT1: [00:06:30] 3.75%.
+
+ADVISOR: [00:06:32] Okay, 3.75. That helps. So the main things are mortgage, the Chase card, and then your savings/investments.
+
+CLIENT2: [00:06:39] Yeah, that's basically it.
+
+ADVISOR: [00:06:41] Let's talk about what you're trying to achieve. If we fast-forward a few years, what does a good outcome look like for you?
+
+CLIENT1: [00:06:48] Honestly, retiring without panicking about money.
+
+CLIENT2: [00:06:52] Yeah — keeping our current lifestyle, not having to cut everything back too hard.
+
+ADVISOR: [00:06:58] So stability and maintaining lifestyle. When are you hoping to stop work?
+
+CLIENT1: [00:07:03] I'd like to be around 67.
+
+CLIENT2: [00:07:06] I'm a little earlier — 65, maybe 66 if things line up.
+
+ADVISOR: [00:07:11] Okay, so somewhere in that 65 to 67 window. Not a fixed date yet.
+
+CLIENT1: [00:07:15] Right, not exact. I mean, if work is good I might stay a touch longer, but that's the target.
+
+ADVISOR: [00:07:20] And Carmen, with the business, do you see yourself easing out around then too?
+
+CLIENT2: [00:07:24] Yeah. I'd like 65. Maybe 2031, if I'm doing the math right. Serena's more 2035, right?
+
+CLIENT1: [00:07:31] Yeah, 2035 for me if I make it to 67.
+
+ADVISOR: [00:07:35] Perfect, that's clear. What worries you most about retirement?
+
+CLIENT1: [00:07:40] The market dropping right when we need the money.
+
+CLIENT2: [00:07:44] Inflation too. Everything feels more expensive every year.
+
+CLIENT1: [00:07:48] And just making sure the income is steady enough. I don't want to be forced to sell investments at the wrong time.
+
+ADVISOR: [00:07:56] Makes sense. So you're comfortable with some growth, but you don't want big losses close to retirement.
+
+CLIENT2: [00:08:01] Yeah, exactly. We can handle some ups and downs, just not a huge hit.
+
+ADVISOR: [00:08:06] Understood. If I were to describe a balanced approach, some equities, some bonds, not all one way or the other — does that sound more like you?
+
+CLIENT1: [00:08:14] Yes, that sounds right.
+
+CLIENT2: [00:08:16] Balanced is good. I don't want to be too cautious, but I also don't want to gamble.
+
+ADVISOR: [00:08:21] Good. And on the family side, anything you want to make sure is handled properly if something happened to either of you? I'm thinking more along the lines of getting your affairs lined up for the spouse and the kids.
+
+CLIENT1: [00:08:33] Yeah, that's important. We want everything tidy.
+
+CLIENT2: [00:08:36] Definitely. We want the paperwork straight and the beneficiaries coordinated so it's not a mess.
+
+ADVISOR: [00:08:42] Okay. And you mentioned a will exists?
+
+CLIENT1: [00:08:45] Yes, we do have a will.
+
+ADVISOR: [00:08:48] Great. So part of the plan would be just making sure that's all current and matched up with the account beneficiaries.
+
+CLIENT2: [00:08:54] Exactly.
+
+ADVISOR: [00:08:56] And one other thing — you mentioned college costs earlier. Is there anything still left to cover for Noah?
+
+CLIENT1: [00:09:02] Yes, some remaining college expenses. He's still got a bit to go.
+
+CLIENT2: [00:09:06] Hopefully by 2027 that should be wrapped up.
+
+ADVISOR: [00:09:10] Okay, so that's a medium-term goal as well. Anything else you want the money to do for you — tax-wise, giving you more flexibility, that sort of thing?
+
+CLIENT2: [00:09:19] Taxes, definitely. My self-employment income can get messy, and we'd like to be smarter about withdrawals too.
+
+CLIENT1: [00:09:26] Yeah, less tax drag would be great. I feel like we're paying more than we need to sometimes.
+
+ADVISOR: [00:09:32] Understood. So: retirement income stability, managing taxes, helping with the remaining college costs, and keeping the estate side organized.
+
+CLIENT2: [00:09:41] That's pretty much the picture.
+
+CLIENT1: [00:09:43] Yeah.
+
+ADVISOR: [00:09:45] Great. I think I've got the main facts. If you can send over the Fidelity and employer plan statements when you get a chance, that would help me tidy everything up.
+
+CLIENT1: [00:09:53] Sure, I can do that.
+
+CLIENT2: [00:09:55] And I'll look for the Vanguard paperwork too.
+
+ADVISOR: [00:09:58] Perfect. We'll pick it up from there.

@@ -1,0 +1,255 @@
+{
+  "example_id": "medium_010_inheritance_windfall",
+  "difficulty": "medium",
+  "archetype_id": "inheritance_windfall",
+  "challenge_tags": [
+    "correction",
+    "estate_planning",
+    "missing_fields",
+    "numeric_approximate",
+    "numeric_shorthand",
+    "objectives_free_form",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "savings_investments",
+    "other_assets",
+    "objectives",
+    "risk_profile_preferences",
+    "estate_planning"
+  ],
+  "age_band": "pre_retirement_1960_1975",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Alexander",
+        "last_name": "Spencer",
+        "date_of_birth": "1968-04-17",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": "(415) 555-0187",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "Bayview Logistics",
+        "start_date": "2012",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Margaret Hamilton",
+      "partner_or_spouse_is_client2": false,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Emily Spencer",
+          "relationship": "child",
+          "date_of_birth": "2004-09-12",
+          "age": 20.0,
+          "dependency_status": "independent"
+        },
+        {
+          "name": "Noah Spencer",
+          "relationship": "child",
+          "date_of_birth": "2007-02-03",
+          "age": 18.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 98000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$98,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "bonus",
+        "amount": {
+          "normalized_amount": 8000.0,
+          "lower_bound": 5000.0,
+          "upper_bound": 10000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $5k-$10k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Local credit union",
+        "current_value": {
+          "normalized_amount": 250000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$250,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 180000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$180k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "cash",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 50000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$50,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [
+      {
+        "owner": "client1",
+        "description": "Inherited IRA from mother",
+        "current_value": {
+          "normalized_amount": 420000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420,000"
+        },
+        "ownership_share": 100.0
+      },
+      {
+        "owner": "client1",
+        "description": "Expected inheritance from aunt's estate",
+        "current_value": {
+          "normalized_amount": 300000.0,
+          "lower_bound": 250000.0,
+          "upper_bound": 350000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $250k to $350k"
+        },
+        "ownership_share": 100.0
+      }
+    ],
+    "objectives": [
+      {
+        "category": "savings",
+        "description": "Keep a portion of the inheritance in safe cash reserves for near-term needs and family security.",
+        "target_amount_or_income": {
+          "normalized_amount": 150000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$150,000"
+        },
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to avoid locking up all of the money."
+      },
+      {
+        "category": "investing",
+        "description": "Invest the remaining inheritance for long-term growth with a balanced approach.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "retirement",
+        "priority": "high",
+        "status_or_uncertainty": "Open to a diversified portfolio but wants to understand downside risk."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Minimize tax on the inherited assets and any future investment income.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants guidance on whether to move money gradually or all at once."
+      },
+      {
+        "category": "estate planning",
+        "description": "Update will and beneficiary arrangements after receiving the inheritance.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Has not reviewed estate documents recently."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable taking some investment risk for growth, but wants to protect the inheritance from a major loss.",
+      "preferred_strategy": "Keep a cash reserve and invest the rest in a diversified mix with moderate risk.",
+      "key_concerns": [
+        "Losing principal",
+        "Tax consequences of the inheritance",
+        "Making sure spouse and children are provided for",
+        "Whether the inherited IRA has required distribution rules"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Will was last updated about 8 years ago. No trust mentioned. Wants beneficiaries reviewed after inheritance."
+    }
+  }
+}

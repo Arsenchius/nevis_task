@@ -1,0 +1,68 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss",
+    "suppression_leak"
+  ],
+  "coverage_issues": [
+    {
+      "field": "other_assets[0].current_value.normalized_amount",
+      "expected_value": 640000.0,
+      "detail": "Value of the primary residence is never mentioned in the transcript."
+    },
+    {
+      "field": "other_assets[0].current_value.lower_bound",
+      "expected_value": 620000.0,
+      "detail": "No range or lower-bound value for the primary residence is discussed."
+    },
+    {
+      "field": "other_assets[0].current_value.upper_bound",
+      "expected_value": 660000.0,
+      "detail": "No range or upper-bound value for the primary residence is discussed."
+    },
+    {
+      "field": "other_assets[0].current_value.is_approximate",
+      "expected_value": true,
+      "detail": "There is no indication that an approximate value or range for the primary residence was discussed."
+    },
+    {
+      "field": "other_assets[0].current_value.currency",
+      "expected_value": "USD",
+      "detail": "No currency or dollar-value reference is given for the primary residence."
+    },
+    {
+      "field": "other_assets[0].current_value.raw_text",
+      "expected_value": "about $620k-$660k",
+      "detail": "The transcript never mentions any dollar range for the primary residence."
+    },
+    {
+      "field": "other_assets[0].ownership_share",
+      "expected_value": 100.0,
+      "detail": "The client’s ownership share of the primary residence is not stated."
+    },
+    {
+      "field": "objectives[3].target_amount_or_income.normalized_amount",
+      "expected_value": 30000.0,
+      "detail": "No specific target cash-reserve amount (e.g., $30,000) is mentioned for the savings/investing objective."
+    },
+    {
+      "field": "objectives[3].target_amount_or_income.currency",
+      "expected_value": "USD",
+      "detail": "No explicit dollar-denominated target amount is given for the savings/investing objective."
+    },
+    {
+      "field": "objectives[3].target_amount_or_income.raw_text",
+      "expected_value": "$30,000",
+      "detail": "The transcript does not contain any '$30,000' reference related to this objective."
+    }
+  ],
+  "suppression_leaks": [
+    {
+      "section": "loans_mortgages",
+      "timestamp": "00:02:50",
+      "offending_text": "Mortgage payment is $2,450 a month."
+    }
+  ],
+  "hallucinations": [],
+  "localization_issues": []
+}

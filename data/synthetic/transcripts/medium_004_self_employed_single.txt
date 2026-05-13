@@ -1,0 +1,150 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Alvarez
+  - id: client
+    name: Peter Richardson
+---
+ADVISOR: [00:00:03] Hi Peter, it’s Megan Alvarez here. Can you hear me okay?
+
+CLIENT1: [00:00:07] Yeah, loud and clear. Sorry, I’m just... let me mute my email for a second.
+
+ADVISOR: [00:00:12] No worries at all. So just to kick off, I’ve got your name as Peter Richardson. Is that right?
+
+CLIENT1: [00:00:17] Yep, that’s me.
+
+ADVISOR: [00:00:20] Great. And what’s your date of birth, Peter?
+
+CLIENT1: [00:00:24] It’s April 17th, 1981. I always have to think about the year for a second.
+
+ADVISOR: [00:00:31] April 17th, 1981, perfect. And you’re single at the moment, right?
+
+CLIENT1: [00:00:36] Yeah, single.
+
+ADVISOR: [00:00:39] Okay. And are you based in the US for tax purposes?
+
+CLIENT1: [00:00:43] Yes, US resident, yeah.
+
+ADVISOR: [00:00:46] Good. So talk me through work then — what do you do day to day?
+
+CLIENT1: [00:00:52] I’m self-employed. I run a financial consulting business, Richardson Advisory Services. It’s basically me, mostly working with small business owners and a few individual clients.
+
+ADVISOR: [00:01:04] Okay, got it. And how long have you been doing that?
+
+CLIENT1: [00:01:08] Since 2014. Before that I was in a larger firm, but I’ve been on my own for... yeah, since 2014.
+
+ADVISOR: [00:01:16] Right. So income’s probably a bit variable then?
+
+CLIENT1: [00:01:19] Very. Some years are better than others. Net after expenses, I’d say it’s about 120k to 170k a year, kind of depending on the year and what comes in.
+
+ADVISOR: [00:01:31] Okay, so maybe around 145-ish as a midpoint, but with a decent spread?
+
+CLIENT1: [00:01:35] Yeah, that sounds fair. About that.
+
+ADVISOR: [00:01:38] And do you also have consulting retainers coming in separately, or is that all part of the same number?
+
+CLIENT1: [00:01:44] Separate enough, I guess. I have quarterly consulting retainers that come in, roughly 15 to 20 thousand per quarter. It’s not always exact, but that’s the ballpark.
+
+ADVISOR: [00:01:56] Quarterly retainers, okay. So if I’m thinking monthly-ish, that’s around 18k a month on average. Does that sound right?
+
+CLIENT1: [00:02:03] Yeah, roughly. That’s a good way to think about it.
+
+ADVISOR: [00:02:07] And what age are you hoping to retire at, ideally?
+
+CLIENT1: [00:02:11] Sixty-seven. That’s the plan, assuming I’m still healthy and things keep going.
+
+ADVISOR: [00:02:17] Makes sense. What does “retire” mean to you, though? Full stop, or just not having to rely on the business?
+
+CLIENT1: [00:02:25] Probably more the second one. I’d like to have enough coming in that I can stop working around then, maintain my current lifestyle, and not feel like I’m scrambling.
+
+ADVISOR: [00:02:35] Yeah, that’s helpful. So let’s talk monthly spending a bit. What are your fixed essentials looking like?
+
+CLIENT1: [00:02:42] Rent is around 2,300 to 2,500 a month.
+
+ADVISOR: [00:02:47] Okay.
+
+CLIENT1: [00:02:48] Utilities and internet are about 300 to 350 monthly. And my car payment is 480 exactly.
+
+ADVISOR: [00:02:56] Got it. Any other regular business-related overhead you want me to count separately from personal living costs?
+
+CLIENT1: [00:03:04] Yeah, definitely. Software, travel, home office stuff — that runs roughly 1,000 to 1,200 a month.
+
+ADVISOR: [00:03:12] Okay. And taxes — with self-employment, I’m guessing you’re setting money aside quarterly?
+
+CLIENT1: [00:03:18] Yeah. Estimated quarterly tax payments are about 15k to 21k per quarter. It’s one of the annoying parts of the job.
+
+ADVISOR: [00:03:28] I hear that a lot. It’s not fun, but it’s good you’re on top of it. Do you feel like you’re guessing a bit on the tax side, or do you have a system that mostly works?
+
+CLIENT1: [00:03:38] A system, sort of. But I still worry I’m either setting aside too much or not enough. I’d really like help tightening that up.
+
+ADVISOR: [00:03:47] Sure, we can definitely look at that. Do you currently have retirement accounts set up through the business?
+
+CLIENT1: [00:03:53] Yeah, I have a SEP IRA at Vanguard.
+
+ADVISOR: [00:03:57] And roughly what’s in that today?
+
+CLIENT1: [00:04:00] Around 260 to 270 thousand. I think the last statement showed somewhere in that range — I’ve got the account reference if you need it.
+
+ADVISOR: [00:04:09] That’s fine, just the rough value is enough for now. And how are you contributing to it?
+
+CLIENT1: [00:04:14] Twenty percent of net self-employment income.
+
+ADVISOR: [00:04:18] Okay. Any other retirement accounts?
+
+CLIENT1: [00:04:21] A Roth IRA at Fidelity. That one’s about 78 thousand, and I put in 7,000 a year.
+
+ADVISOR: [00:04:31] Nice, okay. Any other investments outside retirement accounts?
+
+CLIENT1: [00:04:36] Yeah, I’ve got a high-yield savings account at Ally Bank. That’s around 40 to 45 thousand.
+
+ADVISOR: [00:04:44] For emergency cash, basically?
+
+CLIENT1: [00:04:47] Yeah, pretty much. I like having some cushion because my income can swing.
+
+ADVISOR: [00:04:52] And any taxable investing?
+
+CLIENT1: [00:04:55] A brokerage account at Schwab, roughly 90 to 95 thousand.
+
+ADVISOR: [00:05:01] Okay. That gives us a decent picture. How about debt — anything besides the car payment?
+
+CLIENT1: [00:05:08] Yeah, there’s a credit card balance. I pay around 300 to 400 a month on it, and the balance is about 8 to 9 thousand.
+
+ADVISOR: [00:05:18] Okay. Is that something you’re actively paying down, or just carrying month to month?
+
+CLIENT1: [00:05:23] Actively paying it down. I don’t love carrying it.
+
+ADVISOR: [00:05:27] Fair enough. And the car, that’s a Toyota Financial auto loan, right?
+
+CLIENT1: [00:05:32] Yep. Toyota Financial. Payment is 480 a month.
+
+ADVISOR: [00:05:37] Do you know what’s left on that one?
+
+CLIENT1: [00:05:40] Yeah, about 16,200 remaining. Interest rate is 5.9%.
+
+ADVISOR: [00:05:47] Great, thanks. And just to make sure I’ve got the home side right — do you own your place?
+
+CLIENT1: [00:05:53] Yes. I’ve got equity in the primary residence, roughly 180 to 190 thousand.
+
+ADVISOR: [00:06:01] Okay, that’s helpful. On the planning side, what’s most important to you right now? If we could fix one or two things first, what would you pick?
+
+CLIENT1: [00:06:10] Retirement readiness, for sure. And the tax side. Those are the big ones. I want to know I’m not under-saving, especially with income being so uneven.
+
+ADVISOR: [00:06:21] Makes sense. Anything else on your mind that you’d like to get in order?
+
+CLIENT1: [00:06:26] Yeah, actually. I want to get my affairs in order a bit better — make sure beneficiaries are up to date and just have the paperwork side sorted.
+
+ADVISOR: [00:06:35] Understood. So more of an estate-planning housekeeping thing?
+
+CLIENT1: [00:06:39] Exactly. Just want it handled properly.
+
+ADVISOR: [00:06:43] And in terms of investing, it sounds like you’re comfortable with some ups and downs as long as we’re not taking unnecessary risks. Is that fair?
+
+CLIENT1: [00:06:51] Yeah, that’s fair. I’m not trying to swing for the fences. Balanced growth makes sense to me, but I want a cash reserve there for taxes and emergencies.
+
+ADVISOR: [00:07:01] Right, balanced growth with enough liquidity. That lines up with what you’ve said. Anything else you want me to know before we wrap up?
+
+CLIENT1: [00:07:09] No, I think that covers the main stuff. I may have missed a few little things, but the big picture’s there.
+
+ADVISOR: [00:07:15] That’s fine. We can always fill in the gaps later. Thanks, Peter — I’ve got enough to start mapping things out.

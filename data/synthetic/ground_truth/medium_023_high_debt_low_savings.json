@@ -1,0 +1,293 @@
+{
+  "example_id": "medium_023_high_debt_low_savings",
+  "difficulty": "medium",
+  "archetype_id": "high_debt_low_savings",
+  "challenge_tags": [
+    "estate_planning",
+    "missing_fields",
+    "multiple_products",
+    "negation",
+    "numeric_shorthand",
+    "objectives_free_form",
+    "owner_attribution",
+    "privacy_reference"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "personal_details",
+    "savings_investments"
+  ],
+  "age_band": "pre_retirement_1960_1975",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Diego",
+        "last_name": "Romero",
+        "date_of_birth": "1971-04-18",
+        "marital_or_relationship_status": "single",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "warehouse supervisor",
+        "employer": "North Valley Logistics",
+        "start_date": "2018",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": null,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 54000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$54,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "overtime",
+        "amount": {
+          "normalized_amount": 400.0,
+          "lower_bound": 300.0,
+          "upper_bound": 500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $300-$500 a month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "net"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "housing",
+        "owner": "client1",
+        "name": "rent",
+        "amount": {
+          "normalized_amount": 1650.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,650"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$260"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "food",
+        "owner": "client1",
+        "name": "groceries",
+        "amount": {
+          "normalized_amount": 520.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$520"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transportation",
+        "owner": "client1",
+        "name": "gas and car insurance",
+        "amount": {
+          "normalized_amount": 310.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$310"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "debt_repayment",
+        "owner": "client1",
+        "name": "credit card minimums",
+        "amount": {
+          "normalized_amount": 430.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$430"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "savings account",
+        "provider": "local credit union",
+        "current_value": {
+          "normalized_amount": 3200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$3,200"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "credit card",
+        "provider": "Visa",
+        "monthly_cost": {
+          "normalized_amount": 430.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$430 minimums"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 18600.0,
+          "lower_bound": 18000.0,
+          "upper_bound": 19000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $18k-$19k"
+        },
+        "interest_rate": 24.9,
+        "no_debt": null
+      },
+      {
+        "owner": "client1",
+        "debt_type": "personal loan",
+        "provider": "Sunrise Lending",
+        "monthly_cost": {
+          "normalized_amount": 285.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$285"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 9200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$9,200"
+        },
+        "interest_rate": 11.5,
+        "no_debt": null
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "debt repayment",
+        "description": "Pay off the credit card and personal loan faster and stop living paycheck to paycheck.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants a clear payoff plan; says savings are too low to keep making only minimum payments."
+      },
+      {
+        "category": "emergency fund",
+        "description": "Build a small emergency fund after debt payments are under control.",
+        "target_amount_or_income": {
+          "normalized_amount": 10000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$10,000"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Current savings are limited."
+      },
+      {
+        "category": "estate planning",
+        "description": "Get a basic will and name beneficiaries.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "No will in place; has not set up power of attorney."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": "no will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "No will in place; no trust mentioned; wants beneficiaries named."
+    }
+  }
+}

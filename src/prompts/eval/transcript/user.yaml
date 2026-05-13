@@ -1,0 +1,98 @@
+prompt: |
+  Create a synthetic fact-find call transcript from this expected CIFExtraction label.
+
+  Example ID: {example_id}
+  Difficulty: {difficulty}
+  Challenge tags: {challenge_tags}
+
+  Expected label:
+  {expected_json}
+
+  Suppressed sections (null/empty in this label): {suppressed_sections}
+
+  Each suppressed section above lists exactly which conversation topics are FORBIDDEN.
+  Rules for every suppressed section — these are absolute and override any instinct to make
+  the conversation feel natural or complete:
+  1. The ADVISER must not ask about it, probe it, or raise it in any way — not even a
+     passing question. Silence on that topic is correct.
+  2. The CLIENT must not volunteer facts about it (no current status, balance, provider, date,
+     attitude, or any specific detail that an extractor could record).
+  3. If an objective in the label references a suppressed section (e.g. an estate-planning
+     objective when estate_planning is suppressed), express only the client's abstract desire
+     — e.g. "I want to get my affairs in order" — never the current state
+     (e.g. NOT "I have a will", "I don't have a will yet", "I haven't done it").
+  4. The only permitted mention is a bare negation confirming absence of a product when that
+     absence is already implied by context (e.g. "no mortgage", "no retirement account").
+     Any richer detail than that is forbidden.
+  5. CRITICAL — risk_profile_preferences: if this section is suppressed, the ADVISER must
+     ask zero questions about risk tolerance, market reactions, volatility, or investment
+     preferences. Do not ask "how do you feel about market ups and downs", do not ask about
+     conservative vs aggressive, do not mention portfolio drops. Nothing. Omit entirely.
+  6. CRITICAL — loans_mortgages: if this section is suppressed, neither the ADVISER nor the
+     CLIENT may state any mortgage payment, loan payment, car payment, debt balance, interest
+     rate, or lender name. This includes passing remarks like "the mortgage is X a month" or
+     "we pay X on the car". The only permitted exception is a bare negation already implied by
+     context ("no mortgage", "no car loan"). Any specific amount or detail is forbidden.
+     PRECEDENCE: this rule overrides the expense coverage rule. If the expenses section in
+     the label includes a mortgage or loan payment item, state the expense CATEGORY only
+     (e.g., "we do have a mortgage" / "housing expenses are taken care of") — NEVER the
+     dollar amount. A mortgage category mention without an amount is sufficient for expenses.
+  7. CRITICAL — pensions_retirement: if this section is suppressed, this is an absolute hard
+     stop. The ADVISER must NEVER ask "do you have any retirement accounts?", "any 401(k)?",
+     "any IRA?", "any pension?", "anything saved for retirement?", or ANY equivalent question.
+     If you feel the urge to ask about retirement savings — DON'T. Replace that question with
+     something about a non-suppressed section (income, savings, expenses, objectives).
+     The CLIENT must not mention any 401(k), 403(b), IRA, Roth IRA, SEP IRA, SIMPLE IRA,
+     pension, or annuity — not even casually. If a client would naturally say "we have a
+     401(k)", rewrite the conversation so that topic simply does not come up. The ONLY
+     permitted mention is a bare negation the client volunteers unprompted when the topic
+     comes up for another reason: "I don't have any retirement savings." Otherwise omit
+     entirely. If asked during drafting whether to mention retirement accounts — the answer
+     is always NO when this section is suppressed.
+  8. CRITICAL — household_dependants: if this section is suppressed, neither the ADVISER nor
+     the CLIENT may mention children, dependants, childcare costs, school fees, or any related
+     detail. The ADVISER must not ask about children or dependants. The CLIENT must not
+     volunteer that they have any. Bare negation is permitted ("no kids", "no dependants").
+
+  Transcript requirements:
+  - Begin with this metadata shape:
+    ---
+    title: N/A
+    date: synthetic date in 2025 or 2026
+    participants:
+      - id: advisor
+        name: realistic synthetic advisor name
+      - id: client
+        name: client1 full name if known, otherwise synthetic placeholder consistent with the label
+      - id: client
+        name: client2 full name if has_client2 is true
+    ---
+  - Use speaker labels ADVISOR, CLIENT1, and CLIENT2 when applicable.
+  - Every spoken turn must be one line with a timestamp after the speaker label, e.g. ADVISOR: [00:04:51] or CLIENT1: [00:05:07].
+  - Timestamps should be roughly increasing and realistic, but do not need to be perfectly spaced.
+  - Include enough evidence for every non-null expected value.
+  - Do not invent extractable facts for empty or null fields. If a section is empty in the expected label, either do not discuss it or mention only explicit absence/non-disclosure without giving amounts, providers, dates, or new goals.
+  - Use US product names and planning terms unless the expected label explicitly says otherwise: 401(k), 403(b), IRA, Roth IRA, brokerage, high-yield savings, Social Security, mortgage, credit card, personal loan.
+  - Never mention UK-specific products or phrases such as ISA, SIPP, pension tax-free lump sum, or pension commencement lump sum unless those exact terms appear in the expected label.
+  - Include realistic phrasing for approximate/ranged money values, e.g. "about 60k", "between 10 and 11 thousand".
+  - Include personal, values-based adviser questions where relevant, for example stable income vs inheritance, confidence about retirement, how much guaranteed money would feel comfortable, what travel or family goals actually mean in real life, or what worries them most.
+  - Include risk-preference and money-attitude discussion ONLY when risk_profile_preferences is NOT in the suppressed list. If it IS suppressed, omit all risk and investment-attitude content entirely. When included, make it conversational rather than a formal risk questionnaire.
+  - Add natural emotional moments: mild confusion, relief, hesitation, "that sounds good", "I need to think about it", or concern about making the wrong decision.
+  - Add pauses and uncertainty in client answers, especially around ages, dates, balances, goals, and retirement timing.
+  - Include corrections or clarifications whenever the difficulty/challenge tags support it, especially for medium and hard examples. The final client-confirmed fact must match the expected label.
+  - Corrections should sound realistic, e.g. a client first says an approximate amount and then corrects it, or realizes they confused checking, savings, pension, mortgage, or investment balances.
+  - Do not include direct real-looking account numbers, SSNs, or phone numbers unless the expected field explicitly requires a phone/email.
+  - Tax residency: if any client's employment section contains a non-null tax_residency value, the adviser must confirm it in the call — e.g. "And are you a US tax resident?" / "Yes, US citizen" or equivalent. This must appear for every client whose tax_residency is set.
+  - Provider names: wherever the expected label names a specific financial institution (bank, brokerage, lender, insurer, credit union), the client or adviser MUST mention that institution by name at some point in the call. Do not leave providers as unnamed generic descriptions. IMPORTANT: for any account or asset where the expected label has NO provider (null or absent), do NOT invent or add a provider name. Only name institutions explicitly listed in the label.
+  - Date of birth: the adviser MUST ask for and confirm each client's date of birth. Do not skip this even if age can be inferred from context.
+  - Loan and mortgage details: for every loan or mortgage in the expected label that has a non-null outstanding_balance or interest_rate, BOTH values MUST be stated explicitly in the transcript. Mentioning only the monthly payment is not sufficient.
+  - Contact details: if the expected label has a non-null mobile_phone or email for any client, the adviser MUST ask for and the client MUST state that contact detail in the call.
+  - Expense coverage: for every item in the expenses list that has a non-null amount, the client MUST mention that expense by name with its amount. Do not silently omit labeled expenses. Exception: if the expense is a mortgage or loan payment and loans_mortgages is suppressed, state the category only — not the amount (rule 6 takes precedence).
+  - Other assets: for every item in other_assets that has a non-null current_value, the client MUST state the asset description and its approximate value.
+  - Retirement timing: if the expected label has a non-null desired_retirement_age or desired_retirement_date for any client, the adviser MUST ask about and the client MUST confirm their intended retirement timing, including any specific year or age mentioned.
+  - Risk key concerns: every item in risk_profile_and_preferences.key_concerns must have clear conceptual support in the transcript — the client or adviser must express the underlying worry in plain language, even if the exact technical term is not used.
+  - Account references: for any account in the expected label where has_account_reference_mentioned is true, include a natural plausible reference to that account — e.g. the client says "I have the statement for that one" or "I can look up the account number" or "my reference is with the company." Do not invent actual account numbers or identifiers.
+  - Children's ages: for each child or dependant with a known age in the expected label, the client or adviser MUST state that child's specific age (e.g. "she's 21", "the older one is 5 and the little one is 3"). Do not leave ages as vague references like "the little ones" or "grown kids".
+  - Avoid a perfect top-to-bottom CIF order. Let the conversation move naturally between work, family, income, pensions, debts, objectives, and risk.
+  - Include some low-value conversational turns, but keep all expected fields recoverable from the transcript.
+  - Do not end with a long perfect recap of every extracted field. Short advisor summaries are okay, but avoid making the answer too easy by listing the whole label cleanly.

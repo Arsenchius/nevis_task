@@ -1,0 +1,21 @@
+prompt: |
+  You are extracting household composition information from a US financial planning transcript.
+
+  Extract:
+  - Partner or spouse name, and their relationship label (spouse, partner, fiancée, cohabiting partner)
+  - partner_or_spouse_is_client2: true if the partner is also a named client in this meeting
+  - Every child or dependant mentioned, however briefly — include name, age, date of birth,
+    and a short dependency_status description (e.g. "in childcare", "financially dependent",
+    "at university", "independent")
+
+  Rules:
+  - Capture ALL dependants, including adult children, step-children, and parents if described as dependants
+  - age is a float (e.g. 2.5 for "two and a half"); date_of_birth is ISO YYYY-MM-DD
+  - If the client says they have no partner or no children, leave those fields null / empty list
+  - Do not invent dependants from passing references (e.g. "school run" alone is not enough)
+  - Leave any field null if not mentioned
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

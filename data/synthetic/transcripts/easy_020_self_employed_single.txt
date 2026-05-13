@@ -1,0 +1,140 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Daniel Mercer
+  - id: client
+    name: Betty Rogers
+---
+ADVISOR: [00:00:03] Hi Betty, it’s Daniel Mercer here. Thanks for making the time — can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, hi Daniel. I can hear you fine.
+
+ADVISOR: [00:00:11] Great. So I’ve got this down as Betty Rogers — is that right?
+
+CLIENT1: [00:00:15] Yep, that’s me.
+
+ADVISOR: [00:00:17] Perfect. And just to start, what do you do day to day?
+
+CLIENT1: [00:00:22] I’m a self-employed graphic designer. Mostly freelance work, branding, social media stuff, that kind of thing.
+
+ADVISOR: [00:00:31] Okay, self-employed graphic designer. And how long have you been doing that for?
+
+CLIENT1: [00:00:36] Since 2021. I was doing a bit before that, but 2021 is when I really went fully freelance.
+
+ADVISOR: [00:00:43] Right, got it. And are you based in the US for tax purposes?
+
+CLIENT1: [00:00:48] Yes, US tax resident.
+
+ADVISOR: [00:00:51] Perfect. And just so I’ve got the personal bits right, what’s your date of birth?
+
+CLIENT1: [00:00:57] April 18th, 2001.
+
+ADVISOR: [00:01:01] Thanks. And are you single, married, living with someone — where are we at there?
+
+CLIENT1: [00:01:07] Single. Yeah, just single.
+
+ADVISOR: [00:01:10] Okay. Any partner, spouse, children, dependants, anyone else you’re supporting financially?
+
+CLIENT1: [00:01:16] No, none of that.
+
+ADVISOR: [00:01:19] Okay. So, with the freelance work, what does income look like at the moment? I know it can swing around a bit.
+
+CLIENT1: [00:01:28] Yeah, it does. I’d say my main freelance income is about $65,000 to $80,000 a year, gross.
+
+ADVISOR: [00:01:39] About 65 to 80, okay. And is that from design projects mainly, or do you have other bits on top?
+
+CLIENT1: [00:01:46] Mainly design projects. I do some consulting too, like when a client wants help with branding direction or I’ll jump in on a bigger project.
+
+ADVISOR: [00:01:55] And roughly what does the consulting bring in?
+
+CLIENT1: [00:01:59] Not a huge amount — roughly $4,000 to $8,000 a year. It’s kind of occasional.
+
+ADVISOR: [00:02:06] Right, occasional consulting, got it. And when you say freelance income, that’s gross before tax, yes?
+
+CLIENT1: [00:02:12] Yeah, before tax.
+
+ADVISOR: [00:02:15] Okay. How are you finding the self-employed side overall — manageable, or does it feel a bit up and down?
+
+CLIENT1: [00:02:22] A bit of both, honestly. I like the freedom, but the taxes and saving part is... annoying. I never feel totally sure I’m setting aside enough.
+
+ADVISOR: [00:02:31] Mm, yeah, that’s really common. We can definitely look at that. Before we get into that, what are your regular outgoings looking like? Rent, bills, that sort of thing.
+
+CLIENT1: [00:02:42] Rent is $1,650 a month.
+
+ADVISOR: [00:02:46] Okay.
+
+CLIENT1: [00:02:48] And utilities plus internet is roughly $200 to $240 a month. It varies a bit.
+
+ADVISOR: [00:02:55] Sure, that makes sense. And for the business side — software, equipment, subscriptions, anything like that — what are you spending there?
+
+CLIENT1: [00:03:04] Around $300 to $400 a month. Mostly Adobe stuff, project tools, and the odd equipment upgrade.
+
+ADVISOR: [00:03:12] Right. Essential stuff for work, basically.
+
+CLIENT1: [00:03:14] Yeah, exactly.
+
+ADVISOR: [00:03:17] And on taxes, because your income varies, are you doing estimated payments during the year?
+
+CLIENT1: [00:03:23] Yeah, quarterly estimated taxes. I’m putting aside about $15,000 a year for that.
+
+ADVISOR: [00:03:31] About 15k a year, okay. Do you ever get surprised by the bill, or are you usually okay?
+
+CLIENT1: [00:03:37] I’ve had a couple of surprises. Not disaster-level, but enough that I’m like, I really should be more organized.
+
+ADVISOR: [00:03:45] Fair enough. That’s probably one of the first things we can tighten up. And just on savings — what have you got sitting aside at the moment?
+
+CLIENT1: [00:03:54] I’ve got a high-yield savings account with around $15,000 to $20,000 in it.
+
+ADVISOR: [00:04:01] Okay, around 15 to 20 thousand. And is that your emergency fund, or is that for tax, business, everything mixed together?
+
+CLIENT1: [00:04:09] A bit mixed, honestly. Some of it’s emergency money, some is for taxes, some is just... I don’t know, buffer money.
+
+ADVISOR: [00:04:17] Right, that’s helpful. And do you also have any money invested anywhere else?
+
+CLIENT1: [00:04:23] Yeah, I’ve got a brokerage account too. It’s about $12,000.
+
+ADVISOR: [00:04:29] Okay, $12,000 in the brokerage. Thanks. Anything else in savings or investments that you can think of, or is that basically it?
+
+CLIENT1: [00:04:37] That’s basically it for now.
+
+ADVISOR: [00:04:40] Okay. And any loans or student debt we should factor in?
+
+CLIENT1: [00:04:45] Yeah, I still have student loans.
+
+ADVISOR: [00:04:48] Okay. Roughly what’s left on those?
+
+CLIENT1: [00:04:52] About $22,000.
+
+ADVISOR: [00:04:55] And what are you paying each month on that?
+
+CLIENT1: [00:04:59] $180 a month.
+
+ADVISOR: [00:05:02] Got it. So not huge, but still something to keep in the picture. Let me ask you a more personal question — when you think about the next few years, what are you hoping for financially? What would “doing well” look like to you?
+
+CLIENT1: [00:05:15] Honestly? I want to know I’m saving enough for retirement, because I’m self-employed and there’s no employer doing it for me. And I want a bigger emergency fund — like $30,000 would make me feel a lot better.
+
+ADVISOR: [00:05:29] Okay, that’s really clear. So retirement confidence and building the cash buffer. And when you say retirement, is there a rough age you picture?
+
+CLIENT1: [00:05:38] I think 65. I mean, unless life changes, but that feels like the goal.
+
+ADVISOR: [00:05:44] Sixty-five, okay. And at the moment is it more that you’re unsure how much you should be putting aside, or that you’re unsure whether you’re behind?
+
+CLIENT1: [00:05:53] More the first one. I don’t really know how much is enough. I keep thinking I should be doing more, but I don’t want to overreact and lock up too much cash either.
+
+ADVISOR: [00:06:03] Yeah, that balance is the tricky part. And just on the emergency fund goal — you mentioned 30k. Is that mainly because your income can swing, or is there something else behind that number?
+
+CLIENT1: [00:06:15] Mostly the income swings. If I had a slow month or two, I’d rather not panic. I just want a buffer.
+
+ADVISOR: [00:06:23] Makes sense. Okay. I’m just making sure I’ve got the picture: self-employed since 2021, freelance design income around 65 to 80k, plus a bit of consulting on top, rent at 1650, utilities and internet around 200 to 240, business costs around 300 to 400 monthly, estimated taxes about 15k a year, savings around 15 to 20k, brokerage about 12k, and student loans around 22k with 180 a month. Did I catch that right?
+
+CLIENT1: [00:06:49] Yeah, that’s right. That all sounds right.
+
+ADVISOR: [00:06:52] Great. And one last thing — are you mainly looking for help with cash flow and tax setting-aside, or do you also want to talk through how to structure the savings side toward that 30k buffer?
+
+CLIENT1: [00:07:03] Probably both, to be honest. I need help with the taxes for sure, and then figuring out how to build the savings without feeling like I’m constantly scraping by.
+
+ADVISOR: [00:07:12] Yeah, that’s sensible. We can work through that. No rush on any decisions today — I just wanted to understand the moving parts first.
+
+CLIENT1: [00:07:20] Okay, yeah. That helps actually.

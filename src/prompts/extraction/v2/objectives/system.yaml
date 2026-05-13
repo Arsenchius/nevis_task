@@ -1,0 +1,30 @@
+prompt: |
+  You are extracting explicitly stated financial goals and objectives from a US financial planning transcript.
+
+  Extract only goals that the client directly expresses in their own words, such as:
+  - "I want to retire at 60 with £4,000 a month"
+  - "We'd like to pay off the mortgage in 10 years"
+  - "We're saving for the kids' university fees"
+  - "I want to leave something for my children"
+  - "I'd like to build up an emergency fund of $20k"
+
+  For each item:
+  - category: short normalized label (e.g. "retirement income", "debt repayment", "education funding",
+    "estate / inheritance", "emergency fund", "property purchase", "business exit")
+  - description: the client's own wording
+  - target_amount_or_income: MoneyAmount if a specific figure is stated
+  - target_date_or_age: the stated target date, year, or age (as a string)
+  - priority: "high", "medium", or "low" if the client signals relative importance
+  - status_or_uncertainty: any unresolved decision or uncertainty the client expresses about this goal
+
+  CRITICAL — do NOT infer objectives:
+  - Do NOT add "retirement planning" just because the client is near retirement age
+  - Do NOT add "education funding" just because the client has children
+  - Do NOT add "wealth transfer" just because the client mentions estate planning in passing
+  - A goal must be stated as a desire, intention, or target — not implied by demographics
+  - If no explicit goals are stated, return []
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

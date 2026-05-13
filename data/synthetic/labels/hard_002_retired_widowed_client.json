@@ -1,0 +1,373 @@
+{
+  "example_id": "hard_002_retired_widowed_client",
+  "difficulty": "hard",
+  "archetype_id": "retired_widowed_client",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "correction",
+    "estate_planning",
+    "joint_assets",
+    "missing_fields",
+    "multiple_products",
+    "negation",
+    "numeric_approximate",
+    "numeric_exact",
+    "numeric_range",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "estate_planning",
+    "expenses",
+    "household_dependants",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "retired_1948_1962",
+  "include_mobile_phone": true,
+  "include_email": true,
+  "transcript_path": "data/synthetic/transcripts/hard_002_retired_widowed_client.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Marco",
+        "last_name": "Jimenez",
+        "date_of_birth": "1956-04-18",
+        "marital_or_relationship_status": "widowed",
+        "mobile_phone": "+1-415-555-0138",
+        "email": "marco.jimenez@example.com"
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Kathleen",
+        "last_name": "Long",
+        "date_of_birth": "1958-09-02",
+        "marital_or_relationship_status": "widowed",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Kathleen Long",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Elena Jimenez",
+          "relationship": "child",
+          "date_of_birth": null,
+          "age": 32.0,
+          "dependency_status": "independent"
+        },
+        {
+          "name": "Luis Jimenez",
+          "relationship": "child",
+          "date_of_birth": null,
+          "age": 29.0,
+          "dependency_status": "independent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "joint",
+        "source_name": "Social Security",
+        "amount": {
+          "normalized_amount": 4200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$4,200"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "net"
+      },
+      {
+        "owner": "client1",
+        "source_name": "pension",
+        "amount": {
+          "normalized_amount": 1850.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,850"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "pension",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": 800.0,
+          "upper_bound": 1000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $800 to $1,000"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "housing",
+        "owner": "joint",
+        "name": "property taxes and insurance",
+        "amount": {
+          "normalized_amount": 950.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$950"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "joint",
+        "name": "utilities",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$320"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "healthcare",
+        "owner": "joint",
+        "name": "Medicare and prescriptions",
+        "amount": {
+          "normalized_amount": 410.0,
+          "lower_bound": 350.0,
+          "upper_bound": 450.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $350-$450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "joint",
+        "name": "annual travel budget",
+        "amount": {
+          "normalized_amount": 6000.0,
+          "lower_bound": 5000.0,
+          "upper_bound": 7000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $5,000 to $7,000 a year"
+        },
+        "frequency": "annual",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "traditional IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 380000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$380,000"
+        },
+        "contribution": "none; already retired",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "401(k)",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 240000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$240,000"
+        },
+        "contribution": "none; already retired",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "joint",
+        "account_type": "annuity",
+        "provider": "New York Life",
+        "current_value": {
+          "normalized_amount": 125000.0,
+          "lower_bound": 120000.0,
+          "upper_bound": 130000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $120,000 to $130,000"
+        },
+        "contribution": "none",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 86000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$86,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage",
+        "provider": "Schwab",
+        "current_value": {
+          "normalized_amount": 145000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$145,000"
+        },
+        "cash_value": {
+          "normalized_amount": 20000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$20,000"
+        },
+        "invested_value": {
+          "normalized_amount": 125000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$125,000"
+        }
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "mortgage",
+        "provider": "not mentioned",
+        "monthly_cost": {
+          "normalized_amount": 0.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "no mortgage"
+        },
+        "outstanding_balance": null,
+        "interest_rate": null,
+        "no_debt": true
+      },
+      {
+        "owner": "joint",
+        "debt_type": "credit card",
+        "provider": "not mentioned",
+        "monthly_cost": null,
+        "outstanding_balance": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2000.0,
+          "upper_bound": 3000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $2,000 to $3,000"
+        },
+        "interest_rate": null,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Keep income steady and avoid drawing down savings too quickly.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants a plan that covers regular spending and travel without taking much risk."
+      },
+      {
+        "category": "estate planning",
+        "description": "Make sure assets pass smoothly to the children and update beneficiary planning.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to review wills and beneficiary designations after spouse's death."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Reduce taxes on withdrawals from retirement accounts and investments.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Looking for a simpler withdrawal order in retirement."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "low",
+      "attitude_summary": "Very cautious; prefers preserving capital and is uncomfortable with market swings.",
+      "preferred_strategy": "Conservative income-focused portfolio with some cash reserves and limited equity exposure.",
+      "key_concerns": [
+        "Does not want to lose principal",
+        "Wants enough income for living costs and travel",
+        "Worried about leaving assets to children efficiently",
+        "Prefers simple investments over frequent trading"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "has power of attorney",
+      "notes": "Wills were updated about three years ago. No trust. Beneficiaries on retirement accounts need review. Durable power of attorney is in place."
+    }
+  }
+}

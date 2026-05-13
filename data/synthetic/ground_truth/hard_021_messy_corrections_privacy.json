@@ -1,0 +1,376 @@
+{
+  "example_id": "hard_021_messy_corrections_privacy",
+  "difficulty": "hard",
+  "archetype_id": "messy_corrections_privacy",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "correction",
+    "joint_assets",
+    "numeric_approximate",
+    "numeric_range",
+    "numeric_shorthand",
+    "owner_attribution",
+    "privacy_reference"
+  ],
+  "section_targets": [
+    "employment",
+    "expenses",
+    "household_dependants",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "early_career_1996_2004",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Genesis",
+        "last_name": "Christensen",
+        "date_of_birth": "2001-04-18",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": "(415) 555-0187",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "marketing coordinator",
+        "employer": "Northstar Retail Group",
+        "start_date": "2023",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Rachel",
+        "last_name": "Brooks",
+        "date_of_birth": "1999-11-02",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "registered nurse",
+        "employer": "Mercy General Hospital",
+        "start_date": "2021",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Rachel Brooks",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "partner",
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 62000.0,
+          "lower_bound": 60000.0,
+          "upper_bound": 65000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 60-65k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 91000.0,
+          "lower_bound": 90000.0,
+          "upper_bound": 95000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 90k to 95k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "overtime",
+        "amount": {
+          "normalized_amount": 6000.0,
+          "lower_bound": 5000.0,
+          "upper_bound": 7000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "maybe 5 to 7k a year"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "rent",
+        "owner": "joint",
+        "name": "rent",
+        "amount": {
+          "normalized_amount": 2450.0,
+          "lower_bound": 2400.0,
+          "upper_bound": 2500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 2.4 to 2.5k"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "joint",
+        "name": "utilities",
+        "amount": {
+          "normalized_amount": 220.0,
+          "lower_bound": 200.0,
+          "upper_bound": 250.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 200-250"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "joint",
+        "name": "groceries",
+        "amount": {
+          "normalized_amount": 650.0,
+          "lower_bound": 600.0,
+          "upper_bound": 700.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 600 to 700 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transport",
+        "owner": "client1",
+        "name": "gas and parking",
+        "amount": {
+          "normalized_amount": 180.0,
+          "lower_bound": 150.0,
+          "upper_bound": 200.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "maybe 150-200"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "subscriptions",
+        "owner": "joint",
+        "name": "streaming and apps",
+        "amount": {
+          "normalized_amount": 45.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "45"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "Northstar Retail Group plan",
+        "current_value": {
+          "normalized_amount": 18500.0,
+          "lower_bound": 18000.0,
+          "upper_bound": 19000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 18-19k"
+        },
+        "contribution": "6%",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client2",
+        "account_type": "401(k)",
+        "provider": "Mercy General Hospital plan",
+        "current_value": {
+          "normalized_amount": 42000.0,
+          "lower_bound": 40000.0,
+          "upper_bound": 45000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 40 to 45k"
+        },
+        "contribution": "8%",
+        "has_account_reference_mentioned": true
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 12000.0,
+          "lower_bound": 10000.0,
+          "upper_bound": 14000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 10-14k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 8000.0,
+          "lower_bound": 7000.0,
+          "upper_bound": 9000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 7 to 9k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "savings",
+        "provider": "Chase",
+        "current_value": {
+          "normalized_amount": 3500.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "3.5k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "student loan",
+        "provider": "Federal student loan servicer",
+        "monthly_cost": {
+          "normalized_amount": 210.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "210"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 18500.0,
+          "lower_bound": 18000.0,
+          "upper_bound": 19000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 18-19k"
+        },
+        "interest_rate": null,
+        "no_debt": null
+      },
+      {
+        "owner": "client1",
+        "debt_type": "credit card",
+        "provider": "Visa",
+        "monthly_cost": {
+          "normalized_amount": 75.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "75"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2000.0,
+          "upper_bound": 3000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 2 to 3k"
+        },
+        "interest_rate": null,
+        "no_debt": null
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "home purchase",
+        "description": "Save for a first home deposit",
+        "target_amount_or_income": {
+          "normalized_amount": 60000.0,
+          "lower_bound": 50000.0,
+          "upper_bound": 70000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "maybe 50 to 70k"
+        },
+        "target_date_or_age": "within 3 years",
+        "priority": "high",
+        "status_or_uncertainty": "They are not sure whether to buy in the current city or move first."
+      },
+      {
+        "category": "retirement planning",
+        "description": "Retire around age 65-67 with enough income to maintain lifestyle",
+        "target_amount_or_income": null,
+        "target_date_or_age": "65-67",
+        "priority": "high",
+        "status_or_uncertainty": "Wants to know if current pension contributions are enough."
+      },
+      {
+        "category": "debt reduction",
+        "description": "Pay off the credit card and student loan faster",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Would like a plan to reduce interest costs."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some investment growth but does not want large swings in the short term.",
+      "preferred_strategy": "Balanced portfolio with a mix of cash reserves and diversified funds",
+      "key_concerns": [
+        "Saving for a home deposit",
+        "Keeping an emergency fund",
+        "Avoiding too much volatility",
+        "Understanding whether joint savings should be kept separate or combined"
+      ]
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

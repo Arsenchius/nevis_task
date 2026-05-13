@@ -1,0 +1,361 @@
+{
+  "example_id": "medium_006_messy_corrections_privacy",
+  "difficulty": "medium",
+  "archetype_id": "messy_corrections_privacy",
+  "challenge_tags": [
+    "advisor_noise",
+    "client2_present",
+    "correction",
+    "estate_planning",
+    "joint_assets",
+    "numeric_range",
+    "numeric_shorthand",
+    "owner_attribution",
+    "privacy_reference"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "household_dependants",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "savings_investments"
+  ],
+  "age_band": "pre_retirement_1960_1975",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Aurora",
+        "last_name": "Holt",
+        "date_of_birth": "1968-04-17",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": "+1-415-555-0184",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "North Bay Logistics",
+        "start_date": "2012",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Raymond",
+        "last_name": "Anderson",
+        "date_of_birth": "1966-11-02",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "self_employed",
+        "occupation": "Consultant",
+        "employer": "Anderson Advisory",
+        "start_date": "2015",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Raymond Anderson",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": 90000.0,
+          "upper_bound": 95000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 90-95k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "consulting income",
+        "amount": {
+          "normalized_amount": 78000.0,
+          "lower_bound": 70000.0,
+          "upper_bound": 85000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 70 to 85k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "joint",
+        "source_name": "rental income",
+        "amount": {
+          "normalized_amount": 1200.0,
+          "lower_bound": 1200.0,
+          "upper_bound": 1200.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,200"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "joint",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2400.0,
+          "upper_bound": 2400.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "joint",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 380.0,
+          "lower_bound": 350.0,
+          "upper_bound": 400.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 350-400"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "client2",
+        "name": "golf and weekend trips",
+        "amount": {
+          "normalized_amount": 600.0,
+          "lower_bound": 500.0,
+          "upper_bound": 700.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 5-7 hundred"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "North Bay Logistics plan",
+        "current_value": {
+          "normalized_amount": 410000.0,
+          "lower_bound": 400000.0,
+          "upper_bound": 420000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 4.1e5"
+        },
+        "contribution": "6% employee, 4% employer",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client2",
+        "account_type": "SEP IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 265000.0,
+          "lower_bound": 250000.0,
+          "upper_bound": 280000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 250-280k"
+        },
+        "contribution": "maxing it out",
+        "has_account_reference_mentioned": true
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "joint brokerage",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 185000.0,
+          "lower_bound": 180000.0,
+          "upper_bound": 190000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly 180-190k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Ally",
+        "current_value": {
+          "normalized_amount": 42000.0,
+          "lower_bound": 42000.0,
+          "upper_bound": 42000.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$42,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "money market",
+        "provider": "Schwab",
+        "current_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": 15000.0,
+          "upper_bound": 15000.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "mortgage",
+        "provider": "Wells Fargo",
+        "monthly_cost": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2400.0,
+          "upper_bound": 2400.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 318000.0,
+          "lower_bound": 310000.0,
+          "upper_bound": 325000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about 310-325k"
+        },
+        "interest_rate": 3.75,
+        "no_debt": false
+      },
+      {
+        "owner": "client2",
+        "debt_type": "credit card",
+        "provider": "unknown",
+        "monthly_cost": {
+          "normalized_amount": 250.0,
+          "lower_bound": 200.0,
+          "upper_bound": 300.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "$200 to $300"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 4800.0,
+          "lower_bound": 4800.0,
+          "upper_bound": 4800.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$4,800"
+        },
+        "interest_rate": null,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [
+      {
+        "owner": "joint",
+        "description": "Primary residence",
+        "current_value": {
+          "normalized_amount": 725000.0,
+          "lower_bound": 700000.0,
+          "upper_bound": 750000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around 700-750k"
+        },
+        "ownership_share": 50.0
+      },
+      {
+        "owner": "client2",
+        "description": "Classic car",
+        "current_value": {
+          "normalized_amount": 28000.0,
+          "lower_bound": 25000.0,
+          "upper_bound": 30000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "maybe 25-30k"
+        },
+        "ownership_share": 100.0
+      }
+    ],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Retire comfortably around age 65 to 67 and maintain current lifestyle",
+        "target_amount_or_income": null,
+        "target_date_or_age": "65-67",
+        "priority": "high",
+        "status_or_uncertainty": "Retirement timing discussed with some flexibility."
+      },
+      {
+        "category": "estate planning",
+        "description": "Make sure the house and investments pass smoothly to each other and then to the children if anything happens",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wills exist; beneficiary and trust planning not yet finalized."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Reduce taxes on consulting income and retirement withdrawals",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Looking for ways to be more tax efficient."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": null,
+      "notes": "Wills exist; beneficiary and trust planning not yet finalized."
+    }
+  }
+}

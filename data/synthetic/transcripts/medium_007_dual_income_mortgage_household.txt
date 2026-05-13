@@ -1,0 +1,254 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Nadia Powell
+  - id: client
+    name: Sophia Price
+---
+ADVISOR: [00:00:03] Hi Nadia, hi Sophia — thanks for making time today. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Yeah, we're good.
+
+ADVISOR: [00:00:12] Perfect. So just to get us started, Nadia, can I take your full name and date of birth?
+
+CLIENT1: [00:00:18] Sure — Nadia Powell. And my birthday is April 18th, 1991.
+
+ADVISOR: [00:00:27] Great. And Sophia, same for you?
+
+CLIENT2: [00:00:31] Sophia Price, November 2nd, 1989.
+
+ADVISOR: [00:00:38] Brilliant. And you two are living together, is that right?
+
+CLIENT1: [00:00:42] Yeah, cohabiting. Partnered.
+
+CLIENT2: [00:00:44] Yep.
+
+ADVISOR: [00:00:46] Okay. Email addresses — Nadia, what should I use for you?
+
+CLIENT1: [00:00:50] It's nadia.powell@example.com.
+
+ADVISOR: [00:00:54] Thanks. And Sophia, do you want me to use an email for you too, or...?
+
+CLIENT2: [00:00:58] I don't really use one for this stuff. You can leave mine off.
+
+ADVISOR: [00:01:02] No problem. And just so I know who I'm speaking with, any kids or dependants at home?
+
+CLIENT1: [00:01:09] Yeah, two little ones.
+
+CLIENT2: [00:01:11] Liam and Ella.
+
+ADVISOR: [00:01:13] Okay — and how old are they?
+
+CLIENT1: [00:01:16] Liam's five... well, he'll be six before too long. Ella's two.
+
+ADVISOR: [00:01:21] Got it. And they're both financially dependent on you at the moment?
+
+CLIENT2: [00:01:25] Yeah, absolutely.
+
+ADVISOR: [00:01:27] Okay. Let me ask about work next. Nadia, what do you do currently?
+
+CLIENT1: [00:01:34] I'm a marketing manager.
+
+ADVISOR: [00:01:36] And who are you with?
+
+CLIENT1: [00:01:38] BrightWave Media.
+
+ADVISOR: [00:01:40] Nice. Full time?
+
+CLIENT1: [00:01:42] Yeah, full time.
+
+ADVISOR: [00:01:44] And roughly when did you start there?
+
+CLIENT1: [00:01:47] 2018. I think spring of 2018.
+
+ADVISOR: [00:01:50] Okay, perfect. Sophia, same question for you.
+
+CLIENT2: [00:01:54] I'm a software engineer at Northstar Tech.
+
+ADVISOR: [00:01:58] Full time there as well?
+
+CLIENT2: [00:01:59] Yeah, full time.
+
+ADVISOR: [00:02:01] And you started in 2017, is that right?
+
+CLIENT2: [00:02:04] Yep, 2017. Late 2017, if that matters.
+
+ADVISOR: [00:02:08] No, that's fine. And just income-wise, Nadia, what's your salary before tax?
+
+CLIENT1: [00:02:15] It's $78,000 gross.
+
+ADVISOR: [00:02:19] Great. Sophia?
+
+CLIENT2: [00:02:22] Base is $118,000 gross.
+
+ADVISOR: [00:02:26] And do you get any bonus on top of that?
+
+CLIENT2: [00:02:29] Yeah, about $12,000 a year. It's pretty consistent.
+
+ADVISOR: [00:02:34] Okay, good to know. And are you both US tax residents?
+
+CLIENT1: [00:02:38] Yes.
+
+CLIENT2: [00:02:39] Yes.
+
+ADVISOR: [00:02:41] Great. Let's talk about the home and the monthly outgoings. You mentioned you're both living together — do you have a mortgage payment at the moment?
+
+CLIENT1: [00:02:50] We do, yeah.
+
+CLIENT2: [00:02:51] It's joint.
+
+ADVISOR: [00:02:53] Okay, and what's that running at each month?
+
+CLIENT1: [00:02:57] $2,450 a month.
+
+ADVISOR: [00:03:00] And that's through Wells Fargo?
+
+CLIENT2: [00:03:03] Yeah, that's right.
+
+ADVISOR: [00:03:05] Do you know the balance roughly?
+
+CLIENT1: [00:03:08] Yeah, about — no, actually it's $412,000. I was going to say 410-ish, but it's 412.
+
+ADVISOR: [00:03:14] Perfect, thanks. And the rate, if you know it?
+
+CLIENT2: [00:03:18] 6.125%.
+
+ADVISOR: [00:03:21] Okay. Then just household spending — utilities, groceries, childcare, transport, insurance, all that sort of thing. What does that look like monthly?
+
+CLIENT1: [00:03:32] Utilities are about $320.
+
+CLIENT2: [00:03:35] Groceries are around $900.
+
+CLIENT1: [00:03:38] Daycare is the big one — $1,400.
+
+ADVISOR: [00:03:41] Mm-hmm.
+
+CLIENT2: [00:03:42] Fuel and commuting is maybe $260.
+
+CLIENT1: [00:03:45] Home and auto insurance is $210.
+
+CLIENT2: [00:03:48] And then dining out and family stuff... probably $450 a month. That's the fun one, I guess.
+
+ADVISOR: [00:03:54] Right, okay. Sounds like you've got a pretty full household budget there. Any other debts besides the mortgage?
+
+CLIENT2: [00:04:02] I do have a student loan.
+
+ADVISOR: [00:04:04] Okay. What are the payments and balance on that?
+
+CLIENT2: [00:04:08] $185 a month, and I think it's around $9,200 left.
+
+ADVISOR: [00:04:13] Got it. Interest rate on that, if you know it?
+
+CLIENT2: [00:04:16] 4.5%.
+
+ADVISOR: [00:04:18] Thanks. And no other loans or cards that are really meaningful?
+
+CLIENT1: [00:04:22] Not really, no.
+
+ADVISOR: [00:04:24] Okay. Savings next — what have you got set aside at the moment for emergencies or short-term goals?
+
+CLIENT1: [00:04:31] We have a high-yield savings account.
+
+ADVISOR: [00:04:34] Okay — joint account?
+
+CLIENT2: [00:04:36] Yeah, joint. It's with Ally Bank.
+
+ADVISOR: [00:04:39] And about how much is in there?
+
+CLIENT1: [00:04:42] $28,000.
+
+ADVISOR: [00:04:45] Okay. Anything else in investments outside retirement?
+
+CLIENT2: [00:04:50] We have a brokerage account too, joint.
+
+ADVISOR: [00:04:53] With Vanguard?
+
+CLIENT1: [00:04:55] Yeah.
+
+ADVISOR: [00:04:56] And what's the value there?
+
+CLIENT2: [00:04:59] Total is $15,000.
+
+CLIENT1: [00:05:01] But that's not all invested — like $3,000 is just cash sitting in there, and the rest is invested.
+
+ADVISOR: [00:05:06] Okay, so about $12,000 invested and $3,000 cash. That helps. Retirement accounts — do you both have workplace plans through your employers?
+
+CLIENT1: [00:05:16] Yeah, I have a 401(k) through my employer plan.
+
+ADVISOR: [00:05:19] And what's that sitting at currently?
+
+CLIENT1: [00:05:22] About $86,000.
+
+ADVISOR: [00:05:25] And what are you contributing?
+
+CLIENT1: [00:05:28] Six percent from me, and they match four percent.
+
+ADVISOR: [00:05:31] Great. Sophia, yours?
+
+CLIENT2: [00:05:35] Same type of thing, a workplace 401(k).
+
+ADVISOR: [00:05:38] Okay.
+
+CLIENT2: [00:05:39] Mine's around $132,000.
+
+ADVISOR: [00:05:42] And your contribution rate?
+
+CLIENT2: [00:05:44] Eight percent employee contribution.
+
+ADVISOR: [00:05:47] Excellent. So thinking ahead a bit, what are you both hoping money is going to do for you over the next few years? Not in a product sense — just life-wise.
+
+CLIENT1: [00:05:58] Honestly, first thing is just breathing room. We want a bigger emergency reserve, and then... I really want to redo the kitchen and bathrooms.
+
+CLIENT2: [00:06:06] Yeah, same. The house is fine, but it's starting to feel a little cramped and dated.
+
+ADVISOR: [00:06:11] Okay. Any sense of how much you'd want to set aside before you start on that?
+
+CLIENT1: [00:06:16] We'd like to get to $35,000 total for the emergency fund and renovation bucket, I think.
+
+ADVISOR: [00:06:22] Okay, and is that something you're aiming to do pretty quickly or more over time?
+
+CLIENT2: [00:06:26] Over time. Within about three years, if possible.
+
+ADVISOR: [00:06:29] Makes sense. And is the emergency fund already partly there, or are you starting from scratch?
+
+CLIENT1: [00:06:34] It's partly in place already. That's why we're not panicking.
+
+ADVISOR: [00:06:38] Good. And then longer term, what about retirement — when do you want work to start feeling optional?
+
+CLIENT2: [00:06:45] I'd say mid-60s.
+
+CLIENT1: [00:06:47] Yeah, around 65 for me.
+
+CLIENT2: [00:06:49] Maybe 67 for me, but not because I want to work forever — just if it helps us get there comfortably.
+
+ADVISOR: [00:06:55] Right, so somewhere in that 65 to 67 range. And do you want income in retirement to replace most of what you're spending now, or are you picturing a smaller lifestyle?
+
+CLIENT1: [00:07:05] Mostly replace it, I think. We don't want to be stressed every month.
+
+CLIENT2: [00:07:08] Yeah, comfortable is the main thing.
+
+ADVISOR: [00:07:11] Okay. And the kids — are you hoping to set anything aside for education later on?
+
+CLIENT1: [00:07:17] Yes, definitely. We just haven't opened anything dedicated yet.
+
+CLIENT2: [00:07:21] We want to save for both of them, just... college age is so far away it feels weird to plan for.
+
+ADVISOR: [00:07:26] It does, yeah, but it sneaks up on you. Okay. Let me just check I’ve got the key numbers right, and then we can talk next steps. Nadia, $78,000 salary, Sophia $118,000 plus $12,000 bonus, mortgage at $2,450 with $412,000 outstanding, joint savings at $28,000, brokerage at $15,000 with $12,000 invested and $3,000 cash, and retirement accounts at $86,000 and $132,000. Does that all sound right?
+
+CLIENT1: [00:07:49] Yeah, that's right.
+
+CLIENT2: [00:07:50] Yep, all good.
+
+ADVISOR: [00:07:52] Great. And just for my notes, you're both comfortable with the idea of keeping the workplace contributions going and then reviewing whether the current rates are enough as we go?
+
+CLIENT2: [00:08:01] Yeah, that's exactly it.
+
+CLIENT1: [00:08:03] Mm-hmm, we just want to make sure we're not missing something obvious.
+
+ADVISOR: [00:08:07] Fair enough. That's really helpful.

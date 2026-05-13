@@ -1,0 +1,210 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Harold Herrera
+  - id: client
+    name: Stella Cunningham
+---
+ADVISOR: [00:00:03] Hi, this is Megan Patel. Am I speaking with Harold Herrera and Stella Cunningham?
+
+CLIENT1: [00:00:09] Yeah, this is Harold. Stella's here too.
+
+CLIENT2: [00:00:12] Hi.
+
+ADVISOR: [00:00:14] Hi both, thanks for making time. Before we get into anything, just so I’ve got the right people, can I confirm your full names?
+
+CLIENT1: [00:00:21] Harold Herrera.
+
+CLIENT2: [00:00:23] Stella Cunningham.
+
+ADVISOR: [00:00:25] Great. And Harold, what’s your date of birth?
+
+CLIENT1: [00:00:29] Uh, 17th of April, 1981.
+
+ADVISOR: [00:00:34] Perfect. And Stella?
+
+CLIENT2: [00:00:37] September 2nd, 1983.
+
+ADVISOR: [00:00:41] Thanks. And I think you mentioned you’re married, is that right?
+
+CLIENT1: [00:00:45] Yeah, married.
+
+CLIENT2: [00:00:46] Yep.
+
+ADVISOR: [00:00:49] Okay. Harold, best mobile number for you?
+
+CLIENT1: [00:00:53] It’s 415-555-0198.
+
+ADVISOR: [00:00:58] Got it. And email, or do you prefer not to use email for this?
+
+CLIENT1: [00:01:02] We can skip email for now.
+
+ADVISOR: [00:01:05] No problem. Stella, same for you—if you’d rather not share an email, that’s fine.
+
+CLIENT2: [00:01:10] Yeah, no email.
+
+ADVISOR: [00:01:13] All right. Let’s talk work. Harold, what do you do currently?
+
+CLIENT1: [00:01:18] I’m an operations manager. For a logistics company.
+
+ADVISOR: [00:01:23] Okay, logistics company, operations manager. How long have you been there?
+
+CLIENT1: [00:01:28] Since 2016.
+
+ADVISOR: [00:01:31] And are you full-time employed there?
+
+CLIENT1: [00:01:34] Yeah, full-time.
+
+ADVISOR: [00:01:36] Stella, and you?
+
+CLIENT2: [00:01:39] I’m part-time at a local clinic. Administrative assistant.
+
+ADVISOR: [00:01:45] Got it. And how long have you been there?
+
+CLIENT2: [00:01:48] Since 2019.
+
+ADVISOR: [00:01:51] Okay. And for tax purposes you’re both US residents?
+
+CLIENT1: [00:01:55] Yeah.
+
+CLIENT2: [00:01:56] Yes.
+
+ADVISOR: [00:01:59] Great. Let’s talk income next. Harold, roughly what are you bringing in before tax from salary?
+
+CLIENT1: [00:02:07] Seventy-two thousand a year, gross.
+
+ADVISOR: [00:02:10] $72,000 gross, okay. Stella, what about your part-time wages?
+
+CLIENT2: [00:02:16] Mine’s about 1,800 a month, net.
+
+ADVISOR: [00:02:20] 1,800 monthly net, thanks. I’m going to ask about regular spending now, just so I can see what’s left over each month. What are your main fixed costs?
+
+CLIENT1: [00:02:30] Rent is the big one.
+
+ADVISOR: [00:02:32] How much are you paying on rent?
+
+CLIENT1: [00:02:35] $2,450 a month. Joint.
+
+ADVISOR: [00:02:39] Okay. Utilities and internet?
+
+CLIENT2: [00:02:43] About 310 a month.
+
+ADVISOR: [00:02:46] Got it. Groceries?
+
+CLIENT1: [00:02:49] Around 850 monthly. Easy.
+
+ADVISOR: [00:02:53] And transport—Harold, I think you mentioned a car payment?
+
+CLIENT1: [00:02:57] Yeah, $390 a month.
+
+ADVISOR: [00:03:00] Okay. Any other regular debt payments we should note?
+
+CLIENT1: [00:03:05] Uh, yeah. Credit cards. Minimums are 520 a month.
+
+ADVISOR: [00:03:10] Minimums of $520. Is that one card or more than one?
+
+CLIENT1: [00:03:14] More than one, but all together that’s what it comes to.
+
+ADVISOR: [00:03:18] Understood. Do you have a rough sense of the balances on those, or should we get into that separately?
+
+CLIENT1: [00:03:24] We can get into it. It’s not great.
+
+ADVISOR: [00:03:27] No worries, we’ll just take it step by step. Before that, any savings set aside right now?
+
+CLIENT1: [00:03:33] I’ve got about 4,200 in savings at the credit union.
+
+CLIENT2: [00:03:37] And I have 1,300 in a bank savings account.
+
+ADVISOR: [00:03:41] Okay, so limited cash reserves right now. That helps. Harold, can we go through the debts one by one? Start with the credit cards.
+
+CLIENT1: [00:03:51] Yeah. Visa’s the main one. Balance is 18,400.
+
+ADVISOR: [00:03:58] $18,400 on the Visa. And what’s the rate on that, if you know it?
+
+CLIENT1: [00:04:03] 24.9%.
+
+ADVISOR: [00:04:06] Oof, okay. And the payment you’re making is the minimum, $520?
+
+CLIENT1: [00:04:11] Yeah, minimums.
+
+ADVISOR: [00:04:13] Got it. Any other loans?
+
+CLIENT1: [00:04:17] A personal loan too. Online lender.
+
+ADVISOR: [00:04:20] Okay. What’s the monthly payment there?
+
+CLIENT1: [00:04:23] 275 a month.
+
+ADVISOR: [00:04:25] And balance?
+
+CLIENT1: [00:04:28] About 9,600.
+
+ADVISOR: [00:04:31] About $9,600, thank you. And the rate on that?
+
+CLIENT1: [00:04:35] 13.5.
+
+ADVISOR: [00:04:38] Okay. Any auto loans besides the car payment you mentioned?
+
+CLIENT1: [00:04:42] Yeah, the car loan. Auto finance company.
+
+ADVISOR: [00:04:47] Monthly payment is the $390 we already noted?
+
+CLIENT1: [00:04:50] Yep.
+
+ADVISOR: [00:04:52] And remaining balance?
+
+CLIENT1: [00:04:55] 14,200.
+
+ADVISOR: [00:04:58] And interest rate?
+
+CLIENT1: [00:05:00] 6.8%.
+
+ADVISOR: [00:05:03] Okay. Let me just think aloud for a second—so the main pressure point is the credit card debt, then the personal loan, and the car is more manageable. Is that fair?
+
+CLIENT1: [00:05:13] Yeah, exactly. The cards are killing us.
+
+CLIENT2: [00:05:16] We just want a plan. Like, a real plan.
+
+ADVISOR: [00:05:20] Absolutely. What would a good outcome look like for you two over the next year or two?
+
+CLIENT1: [00:05:27] Honestly? Pay off the credit cards first, then the personal loan, and just free up cash flow.
+
+CLIENT2: [00:05:34] Yeah, I’d feel a lot better if we weren’t throwing so much at interest every month.
+
+ADVISOR: [00:05:39] That makes sense. And after the debt is under control, is there anything you’d want to build toward?
+
+CLIENT2: [00:05:45] A small emergency fund. Like, something real.
+
+CLIENT1: [00:05:48] Ten thousand would be the goal, eventually.
+
+ADVISOR: [00:05:52] $10,000 as a target emergency buffer, okay. Noted. Just so I’m clear, you’re not there yet because the savings are pretty modest today?
+
+CLIENT1: [00:06:00] Yeah, way off.
+
+CLIENT2: [00:06:02] Pretty much.
+
+ADVISOR: [00:06:05] And just one more work question, Harold—when do you think you’d like to stop working, or at least slow down?
+
+CLIENT1: [00:06:12] I mean, 67 would be the dream.
+
+ADVISOR: [00:06:15] 67, okay. Stella, do you have a specific age in mind?
+
+CLIENT2: [00:06:19] I haven’t really pinned one down.
+
+ADVISOR: [00:06:22] Fair enough. I’m not going to push that today. Last thing from me: are there any other major money worries I should know about, or is it really the debt and getting breathing room?
+
+CLIENT1: [00:06:33] Mostly the debt. I just don’t want us stuck paying it forever.
+
+CLIENT2: [00:06:37] Yeah. That’s the big stress.
+
+ADVISOR: [00:06:40] Okay. That’s helpful. I’ve got enough to start mapping out options around the debt order and cash flow. We can keep it practical and not overcomplicate it.
+
+CLIENT1: [00:06:49] Good. Because we need practical.
+
+CLIENT2: [00:06:51] Yeah, definitely.
+
+ADVISOR: [00:06:53] Great. I’ll put together a summary and we can talk through next steps.

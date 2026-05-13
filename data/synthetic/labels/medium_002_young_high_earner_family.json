@@ -1,0 +1,304 @@
+{
+  "example_id": "medium_002_young_high_earner_family",
+  "difficulty": "medium",
+  "archetype_id": "young_high_earner_family",
+  "challenge_tags": [
+    "client2_present",
+    "missing_fields",
+    "numeric_approximate",
+    "objectives_free_form",
+    "owner_attribution",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "objectives",
+    "risk_profile_preferences"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/medium_002_young_high_earner_family.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Willow",
+        "last_name": "Wilson",
+        "date_of_birth": "1991-04-18",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Senior software engineer",
+        "employer": "Tech company",
+        "start_date": "2018",
+        "desired_retirement_age": 60,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Charlotte",
+        "last_name": "Gomez",
+        "date_of_birth": "1992-09-07",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Marketing manager",
+        "employer": "Retail company",
+        "start_date": "2019",
+        "desired_retirement_age": 62,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Charlotte Gomez",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "partner",
+      "children_or_dependants": [
+        {
+          "name": "Ava",
+          "relationship": "child",
+          "date_of_birth": "2020-06-12",
+          "age": 4.0,
+          "dependency_status": "in childcare"
+        },
+        {
+          "name": "Noah",
+          "relationship": "child",
+          "date_of_birth": "2023-02-03",
+          "age": 2.0,
+          "dependency_status": "in childcare"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 165000.0,
+          "lower_bound": 160000.0,
+          "upper_bound": 170000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $165k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 15000.0,
+          "lower_bound": 10000.0,
+          "upper_bound": 20000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $10k to $20k bonus"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": 90000.0,
+          "upper_bound": 95000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $92k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "daycare for two children",
+        "amount": {
+          "normalized_amount": 2200.0,
+          "lower_bound": 2000.0,
+          "upper_bound": 2400.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $2,200 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "mortgage",
+        "owner": "household",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 3100.0,
+          "lower_bound": 3000.0,
+          "upper_bound": 3200.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $3,100 monthly"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 450.0,
+          "lower_bound": 400.0,
+          "upper_bound": 500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $400 to $500"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "family travel and eating out",
+        "amount": {
+          "normalized_amount": 700.0,
+          "lower_bound": 600.0,
+          "upper_bound": 800.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $700 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "workplace 401(k)",
+        "provider": "Employer plan",
+        "current_value": {
+          "normalized_amount": 210000.0,
+          "lower_bound": 200000.0,
+          "upper_bound": 220000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $210k"
+        },
+        "contribution": "10% employee contribution plus 4% employer match",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "workplace 401(k)",
+        "provider": "Employer plan",
+        "current_value": {
+          "normalized_amount": 78000.0,
+          "lower_bound": 70000.0,
+          "upper_bound": 80000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $78k"
+        },
+        "contribution": "6% employee contribution",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "household",
+        "account_type": "high-yield savings",
+        "provider": "Online bank",
+        "current_value": {
+          "normalized_amount": 48000.0,
+          "lower_bound": 45000.0,
+          "upper_bound": 50000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $48k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Discount broker",
+        "current_value": {
+          "normalized_amount": 35000.0,
+          "lower_bound": 30000.0,
+          "upper_bound": 40000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $30k to $40k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "tax efficiency",
+        "description": "Wants to be more tax-efficient and make sure pension contributions are set up sensibly.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Looking for advice on whether to increase retirement contributions and use available tax-advantaged options."
+      },
+      {
+        "category": "retirement income",
+        "description": "Build enough retirement savings to support an earlier retirement than standard age.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "60-62",
+        "priority": "high",
+        "status_or_uncertainty": "Both clients are aiming for retirement in their early 60s, with Willow preferring 60 if affordable."
+      },
+      {
+        "category": "education funding",
+        "description": "Keep childcare costs manageable now and preserve flexibility for future family expenses.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "No specific education fund target mentioned, but family cash flow is being balanced around young children."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable taking some investment risk for long-term growth, but wants to avoid unnecessary volatility because of young children and near-term cash flow needs.",
+      "preferred_strategy": "Balanced growth with tax-efficient investing and regular pension contributions.",
+      "key_concerns": [
+        "Childcare costs are high",
+        "Wants to reduce tax",
+        "Needs flexibility for family spending",
+        "Does not want to take excessive investment risk"
+      ]
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

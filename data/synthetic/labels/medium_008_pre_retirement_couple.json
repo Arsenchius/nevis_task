@@ -1,0 +1,397 @@
+{
+  "example_id": "medium_008_pre_retirement_couple",
+  "difficulty": "medium",
+  "archetype_id": "pre_retirement_couple",
+  "challenge_tags": [
+    "client2_present",
+    "correction",
+    "estate_planning",
+    "joint_assets",
+    "missing_fields",
+    "negation",
+    "numeric_range",
+    "objectives_free_form"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "loans_mortgages",
+    "other_assets",
+    "objectives",
+    "risk_profile_preferences",
+    "estate_planning"
+  ],
+  "age_band": "pre_retirement_1960_1975",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/medium_008_pre_retirement_couple.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Scott",
+        "last_name": "Martinez",
+        "date_of_birth": "1964-09-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "Regional logistics company",
+        "start_date": "2008",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": "2031",
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Hannah",
+        "last_name": "Wallace",
+        "date_of_birth": "1966-02-11",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "High school teacher",
+        "employer": "County public schools",
+        "start_date": "2001",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": "2031",
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Hannah Wallace",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 98000.0,
+          "lower_bound": 95000.0,
+          "upper_bound": 100000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $95k-$100k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 72000.0,
+          "lower_bound": 70000.0,
+          "upper_bound": 74000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $70k to $74k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "Social Security estimate",
+        "amount": {
+          "normalized_amount": 3200.0,
+          "lower_bound": 3000.0,
+          "upper_bound": 3400.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $3,000 to $3,400 a month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Social Security estimate",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2200.0,
+          "upper_bound": 2600.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $2,200-$2,600 a month"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "Utilities and internet",
+        "amount": {
+          "normalized_amount": 420.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$420"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "Travel and dining out",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": 800.0,
+          "upper_bound": 1000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $800-$1,000"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      },
+      {
+        "category": "insurance",
+        "owner": "household",
+        "name": "Health insurance premiums",
+        "amount": {
+          "normalized_amount": 650.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$650"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "Current employer plan",
+        "current_value": {
+          "normalized_amount": 540000.0,
+          "lower_bound": 520000.0,
+          "upper_bound": 560000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $520k-$560k"
+        },
+        "contribution": "6% of pay",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "403(b)",
+        "provider": "School district plan",
+        "current_value": {
+          "normalized_amount": 410000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$410,000"
+        },
+        "contribution": "5% of pay",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client1",
+        "account_type": "IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 185000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$185,000"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "IRA",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 132000.0,
+          "lower_bound": 130000.0,
+          "upper_bound": 135000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $130k-$135k"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "household",
+        "account_type": "annuity",
+        "provider": "Insurance company",
+        "current_value": {
+          "normalized_amount": 250000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$250,000"
+        },
+        "contribution": null,
+        "has_account_reference_mentioned": true
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "taxable brokerage",
+        "provider": "Schwab",
+        "current_value": {
+          "normalized_amount": 210000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$210,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Local bank",
+        "current_value": {
+          "normalized_amount": 68000.0,
+          "lower_bound": 65000.0,
+          "upper_bound": 70000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $65k-$70k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "Roth IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 47000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$47,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "household",
+        "debt_type": "mortgage",
+        "provider": null,
+        "monthly_cost": null,
+        "outstanding_balance": null,
+        "interest_rate": null,
+        "no_debt": true
+      }
+    ],
+    "other_assets": [
+      {
+        "owner": "joint",
+        "description": "Primary residence",
+        "current_value": {
+          "normalized_amount": 620000.0,
+          "lower_bound": 600000.0,
+          "upper_bound": 640000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $600k-$640k"
+        },
+        "ownership_share": null
+      },
+      {
+        "owner": "joint",
+        "description": "Two vehicles",
+        "current_value": {
+          "normalized_amount": 38000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": null,
+          "currency": "USD",
+          "raw_text": "$38,000"
+        },
+        "ownership_share": null
+      }
+    ],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Retire in the next few years and create a reliable monthly income stream without taking unnecessary risk.",
+        "target_amount_or_income": {
+          "normalized_amount": 9000.0,
+          "lower_bound": 8500.0,
+          "upper_bound": 9500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $8,500-$9,500 a month"
+        },
+        "target_date_or_age": "by age 67 for Scott and 65 for Hannah",
+        "priority": "high",
+        "status_or_uncertainty": "Wants to compare annuity income versus drawing from investments."
+      },
+      {
+        "category": "social security",
+        "description": "Decide the best claiming strategy for both Social Security benefits.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "retirement",
+        "priority": "high",
+        "status_or_uncertainty": "Not sure whether to claim at retirement or delay."
+      },
+      {
+        "category": "investment strategy",
+        "description": "Review whether to keep the annuity or use a drawdown approach from the 401(k), IRA, and brokerage accounts.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Needs guidance on balancing income stability and flexibility."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Wants some growth but is cautious about market drops close to retirement.",
+      "preferred_strategy": "Blend of guaranteed income and a conservative drawdown plan",
+      "key_concerns": [
+        "Running out of money in retirement",
+        "Sequence-of-returns risk",
+        "Whether the annuity is worth keeping",
+        "Keeping taxes manageable"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Wills are in place; no trust mentioned."
+    }
+  }
+}

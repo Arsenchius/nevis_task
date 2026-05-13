@@ -1,0 +1,182 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Daniel Brooks
+  - id: client
+    name: Grace Myers
+  - id: client
+    name: Natalie Sanders
+---
+ADVISOR: [00:00:03] Hi Grace, hi Natalie — thanks for making time. I’m Daniel. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we can hear you.
+
+ADVISOR: [00:00:12] Great. So just to get us started, Grace, can I take your full name and date of birth?
+
+CLIENT1: [00:00:18] Sure — Grace Myers, and my date of birth is 18th of April, 1990.
+
+ADVISOR: [00:00:25] Perfect. And Natalie, same for you please?
+
+CLIENT2: [00:00:29] Natalie Sanders, 2nd of November, 1989.
+
+ADVISOR: [00:00:35] Brilliant. And I’ve got you both as living together — is that right, cohabiting?
+
+CLIENT1: [00:00:40] Yeah, that’s right.
+
+CLIENT2: [00:00:41] Yep.
+
+ADVISOR: [00:00:43] Okay. And contact details — Grace, what’s the best mobile for you?
+
+CLIENT1: [00:00:49] It’s +1-415-555-0184.
+
+ADVISOR: [00:00:54] And your email?
+
+CLIENT1: [00:00:57] grace.myers@example.com.
+
+ADVISOR: [00:01:00] Thank you. Natalie, do you want to give me a mobile or email as well, or would you rather not use one today?
+
+CLIENT2: [00:01:06] I’ll skip mine for now, if that’s okay.
+
+ADVISOR: [00:01:09] Of course, no problem. So, talk me through work first — Grace, what do you do at the moment?
+
+CLIENT1: [00:01:16] I’m a Senior Product Manager at Northstar Software. Full time.
+
+ADVISOR: [00:01:22] Nice. And how long have you been there?
+
+CLIENT1: [00:01:25] Since June 2018.
+
+ADVISOR: [00:01:28] Okay. And are you a US tax resident?
+
+CLIENT1: [00:01:31] Yes.
+
+ADVISOR: [00:01:33] Great. What’s your pay roughly — base salary and anything regular on top?
+
+CLIENT1: [00:01:39] Base is $165,000 gross, and I get about a $20,000 annual bonus.
+
+ADVISOR: [00:01:46] Okay, got it. Natalie, same questions for you.
+
+CLIENT2: [00:01:50] I’m a Marketing Director at BrightWave Media. Full time there as well.
+
+ADVISOR: [00:01:56] And how long have you been with BrightWave?
+
+CLIENT2: [00:01:59] Since September 2017.
+
+ADVISOR: [00:02:02] And US tax resident too?
+
+CLIENT2: [00:02:04] Yep, US.
+
+ADVISOR: [00:02:07] And your compensation?
+
+CLIENT2: [00:02:09] Base salary is $145,000 gross, and bonus is around $15,000 a year.
+
+ADVISOR: [00:02:16] Thanks, that helps. I’m going to jump around a bit — do you have children or anyone financially dependent on you?
+
+CLIENT1: [00:02:24] Yes, two little ones.
+
+CLIENT2: [00:02:25] Yeah, Liam and Sophie.
+
+ADVISOR: [00:02:28] Okay. Tell me about them.
+
+CLIENT1: [00:02:30] Liam Myers is 5 — born March 14th, 2020 — and Sophie Myers is 2, born August 9th, 2023.
+
+ADVISOR: [00:02:40] Right, and they’re both in childcare at the moment?
+
+CLIENT2: [00:02:43] They are, yeah. It’s… honestly the biggest line item in our budget.
+
+ADVISOR: [00:02:48] I can imagine. What does that run you each month?
+
+CLIENT1: [00:02:52] Daycare for the two of them is $2,400 a month.
+
+ADVISOR: [00:02:57] Okay. And in terms of your monthly household spending, what else is essential?
+
+CLIENT2: [00:03:03] Mortgage is a big one.
+
+ADVISOR: [00:03:05] Yep — and I’ll stay away from the mortgage details if you’d rather not go into that right now. Any other regular essentials you want me to note?
+
+CLIENT1: [00:03:12] Utilities and internet are about $420 a month.
+
+CLIENT2: [00:03:16] And we do spend on family travel and holidays — about $600 monthly, if you average it out.
+
+ADVISOR: [00:03:23] Nice, okay. So you’re both earning well, but childcare is chewing through cash flow a bit?
+
+CLIENT1: [00:03:29] Yeah, exactly. We want to keep enough accessible cash around so we’re not constantly stressed.
+
+CLIENT2: [00:03:35] And we don’t want to take silly risks with money we might need soon.
+
+ADVISOR: [00:03:40] That makes sense. Let’s talk savings then. Do you have a cash reserve at the moment?
+
+CLIENT1: [00:03:46] Yes — we keep a joint high-yield savings account with Ally Bank.
+
+ADVISOR: [00:03:52] Okay.
+
+CLIENT2: [00:03:53] It’s about $68,000 in there.
+
+ADVISOR: [00:03:56] Good buffer. And do you have any other investing accounts outside work?
+
+CLIENT1: [00:04:01] I do — a brokerage account at Vanguard.
+
+ADVISOR: [00:04:05] Got it. About how much is in that?
+
+CLIENT1: [00:04:08] Roughly $42,000.
+
+ADVISOR: [00:04:10] Okay. Now, work retirement plans — Grace, what’s going on with the Northstar plan?
+
+CLIENT1: [00:04:18] I put in 8% of my salary. The balance is about $185,000.
+
+ADVISOR: [00:04:25] And Natalie, yours?
+
+CLIENT2: [00:04:28] I’m contributing 6% of salary, and mine is around $132,000 in the BrightWave Media plan.
+
+ADVISOR: [00:04:35] Great. And just to check, are you both comfortable with the idea of using the workplace plans a bit more efficiently from a tax point of view — things like increasing contributions if cash flow allows?
+
+CLIENT1: [00:04:46] Yeah, that’s actually one of the main reasons we wanted to talk.
+
+CLIENT2: [00:04:50] We want to be smarter about taxes. It feels like we’re probably missing something.
+
+ADVISOR: [00:04:55] Understood. And what’s the long-term picture — when would you like to slow down or retire?
+
+CLIENT1: [00:05:01] I’d love to be around 60.
+
+CLIENT2: [00:05:03] I’m thinking more like 62.
+
+ADVISOR: [00:05:06] Okay, so somewhere in that 60 to 62 window, and keep your current lifestyle if possible?
+
+CLIENT1: [00:05:11] Exactly.
+
+CLIENT2: [00:05:12] Yeah, not flashy — just comfortable.
+
+ADVISOR: [00:05:15] When you say comfortable, what does that mean to you day to day?
+
+CLIENT1: [00:05:20] Being able to pay for the kids, travel a bit, not worry every month, and not feel like we’re cutting things too tight.
+
+CLIENT2: [00:05:27] And having enough cash available that if childcare or something else changes, we’re not panicking.
+
+ADVISOR: [00:05:33] Right. So the big themes I’m hearing are cash flow, tax efficiency, and making sure the retirement pieces are on track without overreaching.
+
+CLIENT1: [00:05:41] Yeah, that’s exactly it.
+
+CLIENT2: [00:05:43] That sounds right.
+
+ADVISOR: [00:05:45] And just to round out the picture, do either of you have any worries about making the wrong choice here — like locking too much away versus keeping too much in cash?
+
+CLIENT1: [00:05:54] Honestly, yes. I worry about tying up too much when daycare is so expensive.
+
+CLIENT2: [00:05:59] Same. But also we don’t want to miss out on better growth if we can help it.
+
+ADVISOR: [00:06:04] Okay, that’s helpful. So probably a balanced approach rather than anything too aggressive.
+
+CLIENT1: [00:06:09] Yeah, balanced feels right.
+
+CLIENT2: [00:06:11] Definitely. Some growth, but not reckless.
+
+ADVISOR: [00:06:14] Perfect. I think that gives me a solid starting point — income, cash reserve, the two workplace plans, and the family spending pressure. We can look at where there’s room to improve the tax side without squeezing your flexibility too much.
+
+CLIENT1: [00:06:27] Great.
+
+CLIENT2: [00:06:28] Yeah, that would be really helpful.
+
+ADVISOR: [00:06:30] Brilliant. I’ll pull this together and we can talk through options next time.

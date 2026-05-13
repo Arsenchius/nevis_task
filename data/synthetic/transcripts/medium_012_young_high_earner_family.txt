@@ -1,0 +1,204 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Sebastian Adams
+  - id: client
+    name: Cole Rice
+---
+ADVISOR: [00:00:03] Hi both, thanks for joining. I’m Megan Patel. Can you hear me okay?
+
+CLIENT1: [00:00:07] Yeah, loud and clear.
+
+CLIENT2: [00:00:08] Yep, we can hear you.
+
+ADVISOR: [00:00:11] Great. Sebastian, is it okay if I start with you and then we’ll bounce back and forth a bit? I’ve got Sebastian Adams on the file, right?
+
+CLIENT1: [00:00:18] That’s me, yeah.
+
+ADVISOR: [00:00:20] And Cole Rice is with you as well?
+
+CLIENT2: [00:00:23] Yep, partner, cohabiting, all that.
+
+ADVISOR: [00:00:26] Perfect. And just so I’m clear, Sebastian, what’s your date of birth?
+
+CLIENT1: [00:00:31] April 18th, 1991.
+
+ADVISOR: [00:00:34] Great. And Cole, yours?
+
+CLIENT2: [00:00:37] September 7th, 1992.
+
+ADVISOR: [00:00:40] Thanks. And Sebastian, I’ve got your email as sebastian.adams@example.com — is that still the best one to use?
+
+CLIENT1: [00:00:47] Yep, that’s right.
+
+ADVISOR: [00:00:49] Brilliant. And just to check the basic employment side — Sebastian, what do you do at the moment?
+
+CLIENT1: [00:00:56] I’m a senior software engineer. Been at a tech firm since, uh, 2018.
+
+ADVISOR: [00:01:03] Okay. And Cole, what about you?
+
+CLIENT2: [00:01:07] I’m a marketing manager at a retail company. Started there in 2019.
+
+ADVISOR: [00:01:13] Nice, okay. And are you both US tax residents?
+
+CLIENT1: [00:01:17] Yeah.
+
+CLIENT2: [00:01:18] Yes, definitely.
+
+ADVISOR: [00:01:21] Great. And just so I’ve got the household picture, you’re living together, and you’ve got two little ones, right?
+
+CLIENT1: [00:01:28] Yeah — Lily and Noah.
+
+CLIENT2: [00:01:30] Lily’s four, Noah’s two. They’re both in childcare, which is… honestly, a lot.
+
+ADVISOR: [00:01:36] I can imagine. Daycare can be brutal. And you said Lily Adams and Noah Adams?
+
+CLIENT1: [00:01:41] Yes, both Adams.
+
+ADVISOR: [00:01:44] Okay. And when were they born, roughly?
+
+CLIENT1: [00:01:47] Lily was June 12th, 2020.
+
+CLIENT2: [00:01:51] Noah’s February 3rd, 2023.
+
+ADVISOR: [00:01:55] Got it. Thank you. So, tell me a bit about what’s prompting the conversation now — what are you hoping to get sorted?
+
+CLIENT2: [00:02:04] Honestly, a few things. We want to be smarter with saving, especially with taxes, and… I keep thinking about college for the kids already, which is depressing, but here we are.
+
+CLIENT1: [00:02:14] And retirement. We’d like to be able to step back in our early 60s, maybe sooner if possible, but not if it means everything gets squeezed too hard now.
+
+ADVISOR: [00:02:24] Yeah, that makes sense. So there’s the tax-efficient saving piece, college savings, and then long-term retirement planning. Anything else that’s weighing on you?
+
+CLIENT2: [00:02:33] Family protection stuff, I guess. If something happened to one of us, I want the kids looked after properly. That’s been on my mind a lot.
+
+ADVISOR: [00:02:41] Understood. We can absolutely cover that. On the retirement side, when you say early 60s, what’s the kind of age you both have in mind?
+
+CLIENT1: [00:02:50] I’ve been saying 60-ish.
+
+CLIENT2: [00:02:53] I’d say 62 for me. Maybe 60, maybe 62. I don’t know, I’m not married to it.
+
+ADVISOR: [00:03:00] No, that’s fine — a range is useful. Sebastian, 60-ish, and Cole, around 62. Good. And do you want retirement to mean basically the same lifestyle you have now, or a bit more flexibility, travel, that sort of thing?
+
+CLIENT1: [00:03:14] Same-ish lifestyle. Maybe a bit more breathing room. Not trying to go wild.
+
+CLIENT2: [00:03:19] Yeah, I don’t need luxury, just not to be stressed all the time.
+
+ADVISOR: [00:03:24] Fair enough. Okay, let me ask about income then. Sebastian, what’s your base salary?
+
+CLIENT1: [00:03:31] It’s $165,000.
+
+ADVISOR: [00:03:34] Gross, right?
+
+CLIENT1: [00:03:36] Yeah, gross.
+
+ADVISOR: [00:03:38] And do you get a bonus as well?
+
+CLIENT1: [00:03:42] Yeah, usually. It varies a bit — somewhere around ten to twenty thousand a year. Probably averages, I don’t know, fifteen?
+
+ADVISOR: [00:03:50] Okay, so about $10,000 to $20,000, with a rough midpoint around $15,000. That’s helpful. Cole, and your salary?
+
+CLIENT2: [00:03:58] Mine’s $92,000 gross.
+
+ADVISOR: [00:04:01] Great. Thanks. And then, just to understand the monthly outgoings — childcare, housing, utilities, transport, the big fixed stuff. I’m not going to go line by line forever, but what’s that look like roughly?
+
+CLIENT1: [00:04:14] Daycare is… painful. About $2,400 a month for the two kids.
+
+CLIENT2: [00:04:19] Yeah. And utilities and internet is around $350.
+
+CLIENT1: [00:04:23] The house payment is $3,100.
+
+ADVISOR: [00:04:26] Okay.
+
+CLIENT2: [00:04:27] And between the two cars and fuel, probably $900 a month.
+
+ADVISOR: [00:04:32] Got it. That gives me a sense of the cash flow pressure. And you mentioned not wanting to lock up too much cash — do you feel like you’ve got a decent emergency buffer at the moment?
+
+CLIENT1: [00:04:43] Yeah, we’ve got some cash set aside.
+
+CLIENT2: [00:04:45] Around forty-five thousand, maybe a bit more, maybe a bit less? I think it’s about $45,000 in savings.
+
+ADVISOR: [00:04:53] Okay, around $45,000 in a high-yield savings account?
+
+CLIENT2: [00:04:57] Yes, that’s right.
+
+ADVISOR: [00:05:00] And beyond that, do you have any investing outside retirement accounts?
+
+CLIENT1: [00:05:05] Yeah, a brokerage account.
+
+ADVISOR: [00:05:07] Roughly how much is in there?
+
+CLIENT1: [00:05:10] About $30,000 total. Some of that’s cash, actually — maybe $5,000 sitting there in cash, and the rest invested.
+
+ADVISOR: [00:05:18] Okay, so about $25,000 invested and $5,000 cash in the brokerage. Good. Let’s talk retirement accounts. Sebastian, do you have a workplace 401(k)?
+
+CLIENT1: [00:05:29] Yeah, with my current employer plan.
+
+ADVISOR: [00:05:32] And what’s that worth roughly today?
+
+CLIENT1: [00:05:36] About $210,000.
+
+ADVISOR: [00:05:39] Great. And how are you contributing to it?
+
+CLIENT1: [00:05:43] I put in 8%, and they match 4%.
+
+ADVISOR: [00:05:48] Nice. Cole, yours?
+
+CLIENT2: [00:05:52] Yeah, I’ve got a 401(k) through my employer retirement plan. It’s around $78,000.
+
+ADVISOR: [00:05:59] And your contribution rate?
+
+CLIENT2: [00:06:01] 6% from me.
+
+ADVISOR: [00:06:03] Okay. That all makes sense. Can I ask a more personal question — when you think about “being okay” in retirement, what matters most? Is it having a certain income, not worrying about the kids, being able to help them later, that kind of thing?
+
+CLIENT1: [00:06:18] Honestly, all of that. I want to feel like we can keep the household stable and not be counting every dollar.
+
+CLIENT2: [00:06:25] And I’d like to be able to help the kids with college if we can, without blowing up our own future.
+
+ADVISOR: [00:06:31] Yeah, that’s a very normal tension. On the college side, have you got a target amount in mind for either child, or are you just starting to build that bucket?
+
+CLIENT2: [00:06:40] Just starting, really. No exact number yet.
+
+CLIENT1: [00:06:43] We know we need to do something, we just haven’t pinned down the figure.
+
+ADVISOR: [00:06:47] That’s fine. And on the family protection side, I want to be careful how I phrase this — if something happened to either of you, have you got wills and guardianship arrangements in place for Lily and Noah?
+
+CLIENT1: [00:07:00] No, not yet.
+
+CLIENT2: [00:07:02] We keep saying we need to do it and then… yeah. It’s one of those things.
+
+ADVISOR: [00:07:07] Totally understandable, but good that it’s on your radar. So getting wills and guardianship sorted is a priority.
+
+CLIENT1: [00:07:13] Definitely.
+
+ADVISOR: [00:07:15] And just to make sure I’m not assuming anything, are you both comfortable taking some investment growth risk over the long term if it helps with retirement and tax efficiency, or do you want to keep things pretty conservative because of the kids and cash-flow pressure?
+
+CLIENT2: [00:07:30] I think moderate. Not super cautious, but I don’t want to do anything reckless.
+
+CLIENT1: [00:07:35] Yeah, same. We can handle some ups and downs, but not huge bets.
+
+ADVISOR: [00:07:41] Okay, moderate to moderately aggressive then, with a focus on diversification and not overextending the cash buffer. That sounds consistent with what you’ve said.
+
+CLIENT2: [00:07:49] Yeah, that sounds right.
+
+ADVISOR: [00:07:51] And just to check the retirement ages one more time — Sebastian, you’re thinking around 60, and Cole around 62?
+
+CLIENT1: [00:07:58] Yeah.
+
+CLIENT2: [00:07:59] Yep.
+
+ADVISOR: [00:08:01] Great. Anything else you want to make sure we cover today?
+
+CLIENT1: [00:08:06] Maybe just… making sure we’re not missing something obvious. We’ve got good incomes, but with childcare and everything it still feels tight.
+
+CLIENT2: [00:08:14] And I’d like a plan that doesn’t make us feel like we can’t breathe for the next ten years.
+
+ADVISOR: [00:08:19] That’s a very fair ask. We can work within that. I’ll pull this together and we can look at where the tax-advantaged contributions fit, how much room there is for college saving, and then what needs doing on the family protection side.
+
+CLIENT1: [00:08:31] Okay. Thanks.
+
+CLIENT2: [00:08:33] Yeah, that helps.

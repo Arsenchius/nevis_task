@@ -1,0 +1,158 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Maya Chen
+  - id: client
+    name: Ryan Robinson
+  - id: client
+    name: Jessica Moore
+---
+ADVISOR: [00:00:04] Hi, thanks for jumping on. I’m Maya Chen. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we can hear you.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got everyone right, I’ve got Ryan Robinson and Jessica Moore on the call?
+
+CLIENT1: [00:00:17] That’s us, yep.
+
+CLIENT2: [00:00:18] Right.
+
+ADVISOR: [00:00:20] Perfect. Ryan, I’ll start with you. Can I take your date of birth?
+
+CLIENT1: [00:00:26] Sure, it’s 17 April 1981.
+
+ADVISOR: [00:00:30] Thank you. And mobile number and email, if you’re happy to share those?
+
+CLIENT1: [00:00:35] Yeah. Mobile is plus one four one five five five zero one nine eight. Email is ryan.robinson@example.com.
+
+ADVISOR: [00:00:44] Brilliant. Jessica, same for you — date of birth?
+
+CLIENT2: [00:00:49] It’s 2 September 1983.
+
+ADVISOR: [00:00:53] Thanks. And I’ve got you as married as well, is that right?
+
+CLIENT1: [00:00:56] Yeah, married.
+
+CLIENT2: [00:00:57] Yep.
+
+ADVISOR: [00:01:00] Okay. Ryan, what do you do at the moment?
+
+CLIENT1: [00:01:04] I’m an operations manager. I work for a logistics company.
+
+ADVISOR: [00:01:09] And how long have you been there?
+
+CLIENT1: [00:01:11] Since 2018.
+
+ADVISOR: [00:01:13] Got it. And are you a US tax resident?
+
+CLIENT1: [00:01:17] Yes, US.
+
+ADVISOR: [00:01:19] Great. Jessica, what about you?
+
+CLIENT2: [00:01:22] I’m part-time at the local school district. School administrator, basically.
+
+ADVISOR: [00:01:28] Okay, part-time school administrator. And when did you start there?
+
+CLIENT2: [00:01:33] 2020.
+
+ADVISOR: [00:01:35] And US tax resident as well?
+
+CLIENT2: [00:01:38] Yes.
+
+ADVISOR: [00:01:40] Thanks. Roughly what are your incomes before tax?
+
+CLIENT1: [00:01:45] Mine is... about 70 to 75k a year.
+
+CLIENT2: [00:01:50] And mine’s around 15 to 20k, gross.
+
+ADVISOR: [00:01:54] Okay, helpful. Let’s talk about the household outgoings. What are the main monthly bills you’re dealing with?
+
+CLIENT1: [00:02:01] Rent is about 2.1 to 2.3k a month.
+
+CLIENT2: [00:02:05] Utilities are roughly 300 to 350.
+
+ADVISOR: [00:02:09] Okay.
+
+CLIENT1: [00:02:10] Groceries are around 800 to 900 a month too. It’s... yeah, it’s a lot lately.
+
+ADVISOR: [00:02:16] I hear you. Any transport costs we should know about?
+
+CLIENT1: [00:02:20] Yeah, my car payment is about 410 a month.
+
+ADVISOR: [00:02:24] Okay. And you mentioned debt being the big pressure point — what’s going on there?
+
+CLIENT2: [00:02:30] Mostly credit cards. The minimums are, like, 600 to 700 a month.
+
+CLIENT1: [00:02:35] Yeah, and the balance is about 17 to 20 thousand. The rate is 24.9%. That part is killing us.
+
+ADVISOR: [00:02:43] Right, that’s expensive debt. Any other borrowing at the moment?
+
+CLIENT1: [00:02:48] Yeah, I’ve got a personal loan through a credit union. It’s around 290 a month, about 9 to 9.8k left on it, and the rate is 11.5%.
+
+ADVISOR: [00:02:58] Okay.
+
+CLIENT1: [00:02:59] And the car loan too — that’s about 410 a month, around 12.5 to 14k outstanding, 6.2%.
+
+ADVISOR: [00:03:08] Got it. So the main issue is really getting the credit cards under control first, then the personal loan, and just making the month-to-month feel less tight?
+
+CLIENT2: [00:03:16] Exactly. We keep having to juggle things, and we don’t want to keep leaning on the cards.
+
+ADVISOR: [00:03:21] That makes sense. What savings do you have available right now?
+
+CLIENT1: [00:03:26] Not much. We’ve got a joint savings account at Local bank, maybe 3 to 4k.
+
+ADVISOR: [00:03:32] Okay, so a few thousand in the joint account. Anything else tucked away?
+
+CLIENT1: [00:03:36] I have about 25 to 30k in my 401(k) through my current employer plan.
+
+CLIENT2: [00:03:40] And I’ve got an IRA with Online brokerage, around 5 to 7k.
+
+ADVISOR: [00:03:46] Thanks. I’m going to stay away from getting too fancy here — it sounds like the priority is cash flow and debt reduction before anything else. Does that feel right?
+
+CLIENT1: [00:03:54] Yeah, definitely. We just want a clear plan.
+
+CLIENT2: [00:03:57] A simple one would be good. We’re tired of guessing.
+
+ADVISOR: [00:04:01] Totally fair. What are you both hoping to get to first — is it mainly paying off the cards, or building a bit of breathing room so you stop feeling one surprise bill away from trouble?
+
+CLIENT2: [00:04:11] Breathing room. Honestly, that’s the word for it.
+
+CLIENT1: [00:04:14] And then, once the high-interest stuff is down, we’d like to build an emergency fund. Maybe around 5k, something like that.
+
+ADVISOR: [00:04:22] Okay, about five grand once the debt is reduced.
+
+CLIENT1: [00:04:25] Yeah, not right away. Right now it’s just... tight.
+
+ADVISOR: [00:04:28] Understood. And longer term, when are you both thinking about stopping work?
+
+CLIENT1: [00:04:34] I’d like to retire at 67.
+
+CLIENT2: [00:04:38] I’m thinking 65 for me.
+
+ADVISOR: [00:04:41] Okay, so Ryan at 67 and Jessica at 65. Not looking for an exact year today, just the age is fine.
+
+CLIENT1: [00:04:47] Yeah, age is easier.
+
+ADVISOR: [00:04:49] And just to check, no other big assets or property to factor in today?
+
+CLIENT1: [00:04:53] No, nothing like that.
+
+CLIENT2: [00:04:55] No.
+
+ADVISOR: [00:04:57] All right. In terms of what you want help with, if I’m hearing you correctly, it’s really: knock down the credit cards first, then the personal loan, tighten the budget, and get to a point where you’re not relying on credit to get through the month.
+
+CLIENT1: [00:05:10] Yeah, that’s exactly it.
+
+CLIENT2: [00:05:12] That’s the goal, yep.
+
+ADVISOR: [00:05:15] Good. I think that gives me enough to start mapping out a repayment order and a cash-flow plan. Anything else either of you think I should know before I put that together?
+
+CLIENT1: [00:05:24] Just that we’re trying to be realistic. We can’t do everything at once.
+
+CLIENT2: [00:05:28] Yeah, and we don’t want to make things worse by overcommitting.
+
+ADVISOR: [00:05:32] Completely fair. We’ll keep it practical.

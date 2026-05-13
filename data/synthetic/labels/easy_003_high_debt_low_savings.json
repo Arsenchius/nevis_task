@@ -1,0 +1,280 @@
+{
+  "example_id": "easy_003_high_debt_low_savings",
+  "difficulty": "easy",
+  "archetype_id": "high_debt_low_savings",
+  "challenge_tags": [
+    "negation",
+    "numeric_exact",
+    "numeric_shorthand"
+  ],
+  "section_targets": [
+    "personal_details",
+    "employment",
+    "income",
+    "expenses",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives"
+  ],
+  "age_band": "mid_career_1976_1985",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/easy_003_high_debt_low_savings.txt",
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Connor",
+        "last_name": "Mitchell",
+        "date_of_birth": "1981-04-17",
+        "marital_or_relationship_status": "single",
+        "mobile_phone": "+1-415-555-0198",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "Northstar Logistics",
+        "start_date": "2017",
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": false,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 72000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$72,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "bonus",
+        "amount": {
+          "normalized_amount": 3000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$3,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "rent",
+        "owner": "client1",
+        "name": "rent",
+        "amount": {
+          "normalized_amount": 1850.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,850"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "utilities",
+        "amount": {
+          "normalized_amount": 240.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$240"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "client1",
+        "name": "groceries",
+        "amount": {
+          "normalized_amount": 520.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$520"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transport",
+        "owner": "client1",
+        "name": "gas and commuting",
+        "amount": {
+          "normalized_amount": 180.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$180"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "debt_repayment",
+        "owner": "client1",
+        "name": "credit card minimum payments",
+        "amount": {
+          "normalized_amount": 430.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$430"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "savings account",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 1800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,800"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "credit card",
+        "provider": null,
+        "monthly_cost": {
+          "normalized_amount": 430.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$430"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 16800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$16,800"
+        },
+        "interest_rate": 24.9,
+        "no_debt": false
+      },
+      {
+        "owner": "client1",
+        "debt_type": "personal loan",
+        "provider": null,
+        "monthly_cost": {
+          "normalized_amount": 285.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$285"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 9200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$9,200"
+        },
+        "interest_rate": 11.5,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "debt repayment",
+        "description": "Pay off credit card and personal loan debt as quickly as possible",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to reduce monthly debt burden and avoid taking on any new debt."
+      },
+      {
+        "category": "emergency fund",
+        "description": "Build a small emergency fund after debt payments are under control",
+        "target_amount_or_income": {
+          "normalized_amount": 5000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$5,000"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Currently only has limited savings."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

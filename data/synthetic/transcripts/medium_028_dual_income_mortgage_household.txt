@@ -1,0 +1,214 @@
+---
+title: N/A
+date: 2026-05-12
+participants:
+  - id: advisor
+    name: Megan Hart
+  - id: client
+    name: Camila Lewis
+  - id: client
+    name: Benjamin Coleman
+---
+ADVISOR: [00:00:03] Hi Camila, hi Benjamin — thanks for making the time. I’ve got you both on the call now, right?
+
+CLIENT1: [00:00:09] Yep, that’s us. Hi.
+
+CLIENT2: [00:00:11] Hey Megan, yeah, we’re both here.
+
+ADVISOR: [00:00:15] Perfect. And just so I’ve got the basics straight, can I take your full names and dates of birth? I know this part is a bit formal.
+
+CLIENT1: [00:00:23] Sure — Camila Lewis. I’m… let me think, April 18th, 1991.
+
+CLIENT2: [00:00:31] And I’m Benjamin Coleman, November 2nd, 1989.
+
+ADVISOR: [00:00:36] Great, thank you. And you’re married, I assume?
+
+CLIENT1: [00:00:40] Yeah, married.
+
+CLIENT2: [00:00:41] Yep.
+
+ADVISOR: [00:00:44] Lovely. Kids at home as well?
+
+CLIENT1: [00:00:47] Two. Lily and Noah.
+
+CLIENT2: [00:00:49] Lily’s five, Noah’s two — wow, that sounds old when you say it like that.
+
+CLIENT1: [00:00:53] It does, doesn’t it? It feels like yesterday.
+
+ADVISOR: [00:00:57] I know the feeling. Okay, and just to understand the household a bit, they’re both financially dependent on you at the moment?
+
+CLIENT1: [00:01:04] Yes, definitely.
+
+CLIENT2: [00:01:06] Very much so.
+
+ADVISOR: [00:01:09] Right. Let’s talk work then. Camila, what do you do day to day?
+
+CLIENT1: [00:01:15] I’m a marketing manager at Northstar Health.
+
+ADVISOR: [00:01:20] And how long have you been there?
+
+CLIENT1: [00:01:23] Since 2018. I started there in 2018.
+
+ADVISOR: [00:01:27] Okay. Full-time?
+
+CLIENT1: [00:01:29] Yep, full-time.
+
+ADVISOR: [00:01:31] And Benjamin?
+
+CLIENT2: [00:01:33] I’m a senior software engineer at BrightWave Software. Been there since 2016.
+
+ADVISOR: [00:01:40] Full-time as well?
+
+CLIENT2: [00:01:41] Yeah, full-time.
+
+ADVISOR: [00:01:44] Great. Income-wise, I’m going to ask these separately just so I don’t muddle them up. Camila, what’s your salary before tax?
+
+CLIENT1: [00:01:52] It’s $92,000 gross.
+
+ADVISOR: [00:01:56] And Benjamin?
+
+CLIENT2: [00:01:58] Mine’s $118,000 gross.
+
+ADVISOR: [00:02:02] Perfect. So between the two of you that gives us a decent household income to work with. Now, I’m going to jump around a bit — bear with me — but what does the monthly spending look like on the big fixed items?
+
+CLIENT2: [00:02:13] The mortgage is the big one.
+
+CLIENT1: [00:02:15] Yeah, that’s $2,450 a month.
+
+ADVISOR: [00:02:19] Mortgage payment, $2,450. Got it. And utilities, internet, all that?
+
+CLIENT1: [00:02:25] About $320 a month.
+
+ADVISOR: [00:02:28] Okay. Daycare too, I’m guessing?
+
+CLIENT2: [00:02:31] Unfortunately, yes. That’s $1,400 a month.
+
+CLIENT1: [00:02:34] It’s a lot, but… yeah.
+
+ADVISOR: [00:02:37] It really is. And groceries?
+
+CLIENT1: [00:02:40] Around $900 monthly.
+
+ADVISOR: [00:02:43] And do you have any regular discretionary bucket — family trips, weekends away, that kind of thing?
+
+CLIENT2: [00:02:50] We try to keep a little aside for that. About $350 a month.
+
+CLIENT1: [00:02:55] Yeah, not huge, just enough to do something now and then.
+
+ADVISOR: [00:03:00] That’s helpful. It sounds like most of the budget is pretty clearly spoken for. I want to ask about your longer-term stuff now. Do you each have workplace retirement accounts?
+
+CLIENT1: [00:03:10] We do, yeah.
+
+ADVISOR: [00:03:12] Okay. Camila, what’s yours through Northstar?
+
+CLIENT1: [00:03:17] It’s a 401(k). I think the balance is… let me check the statement I printed. It says $86,000.
+
+ADVISOR: [00:03:26] Great. And are you contributing currently?
+
+CLIENT1: [00:03:29] Yes — 6% from me, and they match 4%.
+
+ADVISOR: [00:03:34] Nice. Benjamin, same question for you.
+
+CLIENT2: [00:03:37] Mine’s the BrightWave 401(k). Balance is $124,000.
+
+ADVISOR: [00:03:43] And contribution rate?
+
+CLIENT2: [00:03:45] 8% employee contribution, with a 3% employer match.
+
+ADVISOR: [00:03:49] Great, that all makes sense. Do you have any other savings accounts I should know about — cash savings, brokerage, anything like that?
+
+CLIENT1: [00:03:58] We’ve got a high-yield savings account together.
+
+CLIENT2: [00:04:01] Yeah, at Ally Bank. About $28,000 in there.
+
+ADVISOR: [00:04:05] Joint account, $28,000. Okay.
+
+CLIENT1: [00:04:08] And then we also have a Vanguard brokerage account jointly.
+
+ADVISOR: [00:04:13] Right — and roughly what’s in that?
+
+CLIENT2: [00:04:16] $45,000.
+
+ADVISOR: [00:04:18] Perfect. Do you think of that brokerage as long-term money, or more of a backup bucket?
+
+CLIENT1: [00:04:25] A bit of both, honestly. We don’t want to touch it unless we have to.
+
+CLIENT2: [00:04:29] Yeah, it’s there, but we’d rather not mess with it unless there’s a reason.
+
+ADVISOR: [00:04:33] That’s fair. I’m going to ask about the home now, just to make sure I’ve got the right picture. You mentioned the mortgage payment — is that with Wells Fargo?
+
+CLIENT2: [00:04:42] Yes, Wells Fargo.
+
+ADVISOR: [00:04:45] And what’s left on it?
+
+CLIENT1: [00:04:48] The balance is $412,000.
+
+ADVISOR: [00:04:51] Okay. And the rate on that is fixed, or variable?
+
+CLIENT2: [00:04:55] Fixed. 3.75%.
+
+ADVISOR: [00:04:58] Got it. And just thinking out loud here, do you see yourselves staying in the home for the foreseeable future?
+
+CLIENT1: [00:05:05] Yeah, that’s the plan. We want to keep the current home and just make it comfortable.
+
+CLIENT2: [00:05:10] Right. We’re not looking to refinance unless it genuinely improves the bigger picture.
+
+ADVISOR: [00:05:16] Understood. So not chasing a refinance for the sake of it — only if it helps the overall plan. That makes sense. On the cash side, I know you said the high-yield savings is about $28,000. Is that your emergency buffer?
+
+CLIENT1: [00:05:29] Pretty much, yes.
+
+CLIENT2: [00:05:31] We’d actually like it a bit higher, honestly.
+
+ADVISOR: [00:05:34] How high are you thinking?
+
+CLIENT1: [00:05:36] Around $30,000. Maybe a little more, just so it doesn’t feel too tight with the kids.
+
+ADVISOR: [00:05:42] Okay, so roughly a $30,000 target, with a bit of breathing room if possible. That’s helpful. And when you think about investing, you said the brokerage is long term — would you say you’re comfortable with a balanced approach, or do you want to be more cautious because of the mortgage and the children?
+
+CLIENT2: [00:05:57] I think balanced is the right word.
+
+CLIENT1: [00:06:00] Yeah, balanced. We want growth, but we really don’t want big short-term losses. That would stress us out.
+
+CLIENT2: [00:06:07] Exactly. We can handle some ups and downs, just not a lot of drama.
+
+ADVISOR: [00:06:12] That’s a good way to put it. So moderate, not all-in on growth, not ultra-conservative either.
+
+CLIENT1: [00:06:17] Yeah, that sounds right.
+
+ADVISOR: [00:06:20] And retirement-wise, have you thought about when you’d like to step back from full-time work?
+
+CLIENT1: [00:06:27] I’ve always pictured around 65.
+
+CLIENT2: [00:06:30] I’m probably a little later — maybe 67.
+
+ADVISOR: [00:06:34] Okay, that’s useful. Not set in stone, but a rough target. And what matters most to you there — is it maximizing income, keeping flexibility, being able to help the kids, travel, that kind of thing?
+
+CLIENT1: [00:06:45] Honestly, stability first. I want to know we can keep the house and not feel panicked about money.
+
+CLIENT2: [00:06:51] And we’d like to still do family trips, even if they’re simple ones. Not fancy, just time together.
+
+ADVISOR: [00:06:57] That makes sense. Family time, but with a strong safety net. One thing I do want to touch on — and I know this can feel a bit heavy — is protection around the family if something unexpected happened. Have you both got your affairs organized at all, or is that still on the to-do list?
+
+CLIENT1: [00:07:12] Still on the list, honestly.
+
+CLIENT2: [00:07:14] Yeah. We keep saying we need to sort it.
+
+ADVISOR: [00:07:17] Okay, understood. So that’s an area you want to get in order. And are there any beneficiary nominations or anything like that you’ve already reviewed recently, or is it all still a bit old?
+
+CLIENT1: [00:07:28] We should probably review everything. I don’t think we’ve looked at it properly in a while.
+
+CLIENT2: [00:07:33] Yeah, definitely due for a review.
+
+ADVISOR: [00:07:36] Fair enough. And just so I’m not missing anything, are both of you tax residents in the US?
+
+CLIENT1: [00:07:42] Yes.
+
+CLIENT2: [00:07:43] Yep, US only.
+
+ADVISOR: [00:07:46] Great. I think I’ve got the main picture now. You’ve got solid household income, a mortgage you’re comfortable keeping, some cash and brokerage assets together, and the big priorities are keeping the emergency reserve strong and making sure the family would be protected if anything happened.
+
+CLIENT1: [00:08:01] Yeah, that’s exactly it.
+
+CLIENT2: [00:08:03] Sounds about right, yeah.
+
+ADVISOR: [00:08:06] Good. I’ll pull this together and then we can talk through what the next steps would look like.

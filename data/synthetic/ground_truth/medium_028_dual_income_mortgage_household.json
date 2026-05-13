@@ -1,0 +1,338 @@
+{
+  "example_id": "medium_028_dual_income_mortgage_household",
+  "difficulty": "medium",
+  "archetype_id": "dual_income_mortgage_household",
+  "challenge_tags": [
+    "client2_present",
+    "estate_planning",
+    "joint_assets",
+    "multiple_products",
+    "numeric_exact",
+    "owner_attribution",
+    "privacy_reference",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "household_dependants",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "pensions_retirement",
+    "personal_details",
+    "savings_investments"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Camila",
+        "last_name": "Lewis",
+        "date_of_birth": "1991-04-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "full_time",
+        "occupation": "Marketing manager",
+        "employer": "Northstar Health",
+        "start_date": "2018",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Benjamin",
+        "last_name": "Coleman",
+        "date_of_birth": "1989-11-02",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "full_time",
+        "occupation": "Senior software engineer",
+        "employer": "BrightWave Software",
+        "start_date": "2016",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Benjamin Coleman",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Lily Coleman",
+          "relationship": "child",
+          "date_of_birth": "2019-06-14",
+          "age": 5.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Noah Coleman",
+          "relationship": "child",
+          "date_of_birth": "2022-09-03",
+          "age": 2.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$92,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 118000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$118,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "joint",
+        "name": "Mortgage payment",
+        "amount": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "Utilities and internet",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$320"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "Daycare",
+        "amount": {
+          "normalized_amount": 1400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,400"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "household",
+        "name": "Groceries",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$900"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "Family trips and weekends away",
+        "amount": {
+          "normalized_amount": 350.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$350"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "workplace 401(k)",
+        "provider": "Northstar Health plan",
+        "current_value": {
+          "normalized_amount": 86000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$86,000"
+        },
+        "contribution": "6% employee contribution with 4% employer match",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client2",
+        "account_type": "workplace 401(k)",
+        "provider": "BrightWave Software plan",
+        "current_value": {
+          "normalized_amount": 124000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$124,000"
+        },
+        "contribution": "8% employee contribution with 3% employer match",
+        "has_account_reference_mentioned": true
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 28000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$28,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "joint",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 45000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$45,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "mortgage",
+        "provider": "Wells Fargo",
+        "monthly_cost": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 412000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$412,000"
+        },
+        "interest_rate": 3.75,
+        "no_debt": null
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "homeownership",
+        "description": "Keep the current home and manage the mortgage comfortably.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Mortgage is fixed-rate and they want to avoid refinancing unless it improves the overall plan."
+      },
+      {
+        "category": "emergency fund",
+        "description": "Maintain a cash reserve for family expenses and unexpected costs.",
+        "target_amount_or_income": {
+          "normalized_amount": 30000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$30,000"
+        },
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Current joint savings are close to the target but they want a slightly larger buffer."
+      },
+      {
+        "category": "risk preferences",
+        "description": "Invest with moderate risk and avoid large short-term losses.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Comfortable with a balanced portfolio and long-term growth, but cautious because of the mortgage and children."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Long-term growth focused but cautious about volatility; prefers a balanced approach.",
+      "preferred_strategy": "Balanced mix of cash reserves, workplace pensions, and diversified investments.",
+      "key_concerns": [
+        "Protecting the family if one spouse dies or becomes incapacitated",
+        "Keeping enough cash for emergencies and childcare",
+        "Balancing mortgage payments with retirement saving",
+        "Avoiding unnecessary investment risk"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "No will currently in place",
+      "power_of_attorney_status": "Not mentioned",
+      "notes": "Wants wills and guardianship arrangements for the children; beneficiary nominations should be reviewed."
+    }
+  }
+}

@@ -1,0 +1,196 @@
+---
+title: N/A
+date: 2026-05-12
+participants:
+  - id: advisor
+    name: Daniel Brooks
+  - id: client
+    name: Meera Mills
+  - id: client
+    name: Simon Medina
+---
+ADVISOR: [00:00:03] Hi Meera, hi Simon — thanks for hopping on. This is Daniel. Can you both hear me okay?
+
+CLIENT1: [00:00:09] Yep, hi. I can hear you.
+
+CLIENT2: [00:00:11] Yeah, loud and clear.
+
+ADVISOR: [00:00:14] Great. And just so I get names right, you’re Meera Mills and Simon Medina, right?
+
+CLIENT1: [00:00:19] Yes, that’s us.
+
+CLIENT2: [00:00:20] Correct.
+
+ADVISOR: [00:00:22] Perfect. Meera, maybe I’ll start with you. What’s your date of birth?
+
+CLIENT1: [00:00:28] Uh, 4/18/91. April 18th, 1991.
+
+ADVISOR: [00:00:34] Got it. And Simon?
+
+CLIENT2: [00:00:37] November 2nd, 1989.
+
+ADVISOR: [00:00:41] Thanks. And you’re married, is that right?
+
+CLIENT1: [00:00:44] Yeah, married.
+
+CLIENT2: [00:00:45] Yep.
+
+ADVISOR: [00:00:47] Okay. And Meera, what’s the best mobile number for you?
+
+CLIENT1: [00:00:52] It’s 415-555-0138.
+
+ADVISOR: [00:00:57] Great, thanks. No need for email right now unless you want to give it later. Simon, what do you do for work?
+
+CLIENT2: [00:01:04] I’m in IT support, specialist role. For a local healthcare provider.
+
+ADVISOR: [00:01:10] Okay. And roughly when did you start there?
+
+CLIENT2: [00:01:13] 2021. I started in 2021.
+
+ADVISOR: [00:01:16] Nice. Meera, how about you?
+
+CLIENT1: [00:01:19] I’m an operations coordinator. At a logistics firm.
+
+ADVISOR: [00:01:24] And how long have you been there?
+
+CLIENT1: [00:01:26] Since 2019. Yeah, 2019.
+
+ADVISOR: [00:01:30] Great. And just to get a sense of income, Meera, what are you bringing in gross annually?
+
+CLIENT1: [00:01:37] Um, about 50 to 54k. Something like that.
+
+ADVISOR: [00:01:41] Okay, about 52k-ish. Simon?
+
+CLIENT2: [00:01:45] Mine’s around 60 to 62k. So… yeah, around 61k gross.
+
+ADVISOR: [00:01:51] Perfect. And are you both just paid salary, or anything variable on top?
+
+CLIENT1: [00:01:56] Mostly salary. Nothing big or consistent.
+
+CLIENT2: [00:01:58] Same here.
+
+ADVISOR: [00:02:01] Okay. Let’s talk monthly spending. Housing first — rent or mortgage?
+
+CLIENT1: [00:02:07] Rent. No mortgage.
+
+ADVISOR: [00:02:10] And about how much is that?
+
+CLIENT2: [00:02:12] Roughly 2.4 to 2.5k a month.
+
+ADVISOR: [00:02:16] Okay, so around 2,450. Utilities and internet?
+
+CLIENT1: [00:02:21] About 300 to 340. It varies a bit with electricity.
+
+ADVISOR: [00:02:25] Sure. Transportation — gas, commuting, that kind of thing?
+
+CLIENT2: [00:02:30] Around 240 to 280 a month.
+
+ADVISOR: [00:02:34] Got it. Any childcare or dependent costs we should account for?
+
+CLIENT1: [00:02:38] No, none.
+
+ADVISOR: [00:02:40] Okay. And then debt — I know this is usually the big one. What are you carrying right now?
+
+CLIENT2: [00:02:47] Yeah… a credit card and a personal loan. The credit card’s the annoying one.
+
+ADVISOR: [00:02:52] Okay. Is the credit card joint, or just one of you?
+
+CLIENT1: [00:02:55] Joint, unfortunately.
+
+ADVISOR: [00:02:57] And roughly what’s on that card?
+
+CLIENT2: [00:03:00] Around 11 to 12.5k. Maybe 11.8k if I’m being more exact.
+
+ADVISOR: [00:03:05] Okay. And what’s the monthly payment on it?
+
+CLIENT1: [00:03:08] About 150 to 210 a month. We usually pay more than the minimum when we can, but not always.
+
+ADVISOR: [00:03:14] Right, okay. And the rate on that card?
+
+CLIENT2: [00:03:17] 24.9%.
+
+ADVISOR: [00:03:19] Oof, yeah, that’s a painful one. And the personal loan — whose name is that in?
+
+CLIENT2: [00:03:25] Mine. It’s in my name.
+
+ADVISOR: [00:03:27] Okay. What’s the balance and payment there?
+
+CLIENT2: [00:03:31] Balance is about 14 to 15k. Monthly payment is roughly 550 to 650 — I think it’s 600 right now.
+
+ADVISOR: [00:03:37] And the interest rate on that one?
+
+CLIENT2: [00:03:39] 12.4%.
+
+ADVISOR: [00:03:42] Okay. Any other loans or cards, or is that it?
+
+CLIENT1: [00:03:46] That’s it. We had an auto loan, but it’s paid off.
+
+ADVISOR: [00:03:50] Good, nice to have one thing off the list. So just to be clear, no car payment now?
+
+CLIENT2: [00:03:54] No, none.
+
+ADVISOR: [00:03:56] Okay. How much do you have in savings right now? Just cash savings, not retirement stuff.
+
+CLIENT1: [00:04:02] Not much, honestly. We have one joint high-yield savings account with about 3 to 4k.
+
+ADVISOR: [00:04:08] Okay, around 3,500. And Meera, do you have anything in your own savings?
+
+CLIENT1: [00:04:13] Yeah, a regular savings account. It’s only like 1k to 1.5k. Maybe 1.2k.
+
+ADVISOR: [00:04:19] Got it. Anything else in investments or retirement accounts that you’re actively contributing to?
+
+CLIENT2: [00:04:24] No, not really.
+
+CLIENT1: [00:04:26] Yeah, no retirement accounts right now.
+
+ADVISOR: [00:04:29] Okay, thanks. Let me ask a more personal question: what are you hoping to get out of this? What would feel like a win for you both?
+
+CLIENT1: [00:04:36] Honestly? Stop carrying balances. It’s stressful.
+
+CLIENT2: [00:04:40] Yeah. I keep thinking we should either attack the credit card first or maybe consolidate something, but I’m not sure what’s smarter.
+
+ADVISOR: [00:04:47] That makes sense. So the priority is debt reduction, and you’re undecided on the best order of attack.
+
+CLIENT1: [00:04:52] Exactly.
+
+ADVISOR: [00:04:54] And after that, what would you want to do?
+
+CLIENT1: [00:04:58] Rebuild savings. We need a real buffer.
+
+CLIENT2: [00:05:01] Like, not living paycheck to paycheck. That’s the main thing.
+
+ADVISOR: [00:05:05] Yeah, absolutely. If we were aiming for an emergency fund, what number would make you breathe a little easier?
+
+CLIENT1: [00:05:11] Around 8k to 12k. Maybe 10k would be the sweet spot.
+
+CLIENT2: [00:05:15] Yeah, I’d say 10k sounds right.
+
+ADVISOR: [00:05:18] Okay, that’s helpful. And the budgeting side — is the issue mainly that bills are just too tight, or is there some spending that’s gotten away from you?
+
+CLIENT2: [00:05:26] A bit of both, probably. The debt payments eat a lot, and then little stuff adds up.
+
+CLIENT1: [00:05:31] Yeah, we need a realistic plan. Not something extreme that we can’t stick to.
+
+ADVISOR: [00:05:36] Right, right. So something that fits current income, but frees up cash without making life miserable.
+
+CLIENT1: [00:05:41] Exactly.
+
+ADVISOR: [00:05:43] Okay. Just to make sure I’ve got the basics: Meera, you’re with the logistics firm since 2019, Simon you’re with the healthcare provider since 2021, and you’re both employed full-time. Is that fair?
+
+CLIENT1: [00:05:54] Yes.
+
+CLIENT2: [00:05:55] Yep.
+
+ADVISOR: [00:05:57] Great. And you’re both US tax residents, I assume?
+
+CLIENT1: [00:06:01] Yes.
+
+CLIENT2: [00:06:02] Yeah.
+
+ADVISOR: [00:06:04] Okay. Last thing — do you want me to focus first on the debt payoff order, or the cash buffer and monthly budget?
+
+CLIENT2: [00:06:11] Probably both, but debt first.
+
+CLIENT1: [00:06:13] Yeah, debt first, then savings.
+
+ADVISOR: [00:06:16] Perfect. That gives me enough to work with. I’ll map out a couple of options and we can talk through what feels manageable.

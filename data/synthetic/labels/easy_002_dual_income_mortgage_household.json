@@ -1,0 +1,342 @@
+{
+  "example_id": "easy_002_dual_income_mortgage_household",
+  "difficulty": "easy",
+  "archetype_id": "dual_income_mortgage_household",
+  "challenge_tags": [
+    "client2_present",
+    "joint_assets",
+    "numeric_exact"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/easy_002_dual_income_mortgage_household.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Lucas",
+        "last_name": "Rivera",
+        "date_of_birth": "1990-04-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Project manager",
+        "employer": "Northstar Logistics",
+        "start_date": "2018",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Patrick",
+        "last_name": "Bell",
+        "date_of_birth": "1988-11-02",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Senior nurse",
+        "employer": "St. Anne Medical Center",
+        "start_date": "2016",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Patrick Bell",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Emma Rivera-Bell",
+          "relationship": "child",
+          "date_of_birth": "2019-06-14",
+          "age": 5.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Noah Rivera-Bell",
+          "relationship": "child",
+          "date_of_birth": "2022-09-03",
+          "age": 2.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 84000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$84,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 76000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$76,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "joint",
+        "name": "Mortgage payment",
+        "amount": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "Utilities",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$320"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "household",
+        "name": "Groceries",
+        "amount": {
+          "normalized_amount": 900.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$900"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "Daycare",
+        "amount": {
+          "normalized_amount": 1100.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,100"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transportation",
+        "owner": "household",
+        "name": "Fuel and commuting",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$260"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "workplace 401(k)",
+        "provider": "Northstar Logistics plan",
+        "current_value": {
+          "normalized_amount": 92000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$92,000"
+        },
+        "contribution": "6% of salary",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "workplace 403(b)",
+        "provider": "St. Anne Medical Center plan",
+        "current_value": {
+          "normalized_amount": 68000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$68,000"
+        },
+        "contribution": "5% of salary",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 28000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$28,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "joint",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15,000"
+        },
+        "cash_value": {
+          "normalized_amount": 2000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,000"
+        },
+        "invested_value": {
+          "normalized_amount": 13000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$13,000"
+        }
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "mortgage",
+        "provider": "Wells Fargo",
+        "monthly_cost": {
+          "normalized_amount": 2450.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,450"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 362000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$362,000"
+        },
+        "interest_rate": 6.125,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "home improvement",
+        "description": "Build a larger emergency fund and keep the house comfortable for the children.",
+        "target_amount_or_income": {
+          "normalized_amount": 40000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$40,000"
+        },
+        "target_date_or_age": "within 2 years",
+        "priority": "high",
+        "status_or_uncertainty": "Current emergency fund is below the preferred target."
+      },
+      {
+        "category": "education funding",
+        "description": "Start saving for both children’s future education costs.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "college age",
+        "priority": "medium",
+        "status_or_uncertainty": "No dedicated education account yet."
+      },
+      {
+        "category": "retirement planning",
+        "description": "Retire around the mid-60s with workplace pensions supplemented by savings.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "65-67",
+        "priority": "medium",
+        "status_or_uncertainty": "Both are contributing to workplace retirement plans."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

@@ -1,0 +1,222 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Hart
+  - id: client
+    name: Paisley Snyder
+  - id: client
+    name: Rosa Sanchez
+---
+ADVISOR: [00:00:03] Hi, thanks for making time today. I’ve got both of you on the line, right?
+
+CLIENT1: [00:00:08] Yeah, that’s right. I’m Paisley Snyder.
+
+CLIENT2: [00:00:11] And I’m Rosa Sanchez.
+
+ADVISOR: [00:00:13] Perfect. Hi both. Just so I’ve got the basics straight, Paisley, can I start with your date of birth?
+
+CLIENT1: [00:00:20] Sure — it’s April 17th, 1981.
+
+ADVISOR: [00:00:25] Great, thank you. And Rosa?
+
+CLIENT2: [00:00:28] September 2nd, 1983.
+
+ADVISOR: [00:00:31] Lovely. And you’re married, correct?
+
+CLIENT1: [00:00:34] Yes, married.
+
+CLIENT2: [00:00:35] Yep.
+
+ADVISOR: [00:00:38] Okay. And is this the best mobile for you, Paisley? I’ve got one number here ending in 0138—
+
+CLIENT1: [00:00:44] Yeah, that’s mine. It’s the 415 one.
+
+ADVISOR: [00:00:47] Great. Rosa, I don’t need a mobile if you’d rather not give it today.
+
+CLIENT2: [00:00:51] No, that’s fine. I usually just use Paisley’s for household stuff anyway.
+
+ADVISOR: [00:00:55] No problem. So tell me a bit about work. Paisley, what do you do currently?
+
+CLIENT1: [00:01:01] I’m an operations manager.
+
+ADVISOR: [00:01:03] And where are you working?
+
+CLIENT1: [00:01:05] North Bay Logistics.
+
+ADVISOR: [00:01:07] Okay, and how long have you been there?
+
+CLIENT1: [00:01:10] Since 2014. I want to say… yeah, 2014.
+
+ADVISOR: [00:01:14] Great. Full-time?
+
+CLIENT1: [00:01:16] Yes, full-time.
+
+ADVISOR: [00:01:18] And roughly what are you earning there before tax?
+
+CLIENT1: [00:01:22] Ninety-two thousand.
+
+ADVISOR: [00:01:24] Got it. Rosa, how about you?
+
+CLIENT2: [00:01:28] I’m a registered nurse at St. Anne Medical Center.
+
+ADVISOR: [00:01:32] Nice. And full-time as well?
+
+CLIENT2: [00:01:34] Yes, full-time.
+
+ADVISOR: [00:01:36] And how long there?
+
+CLIENT2: [00:01:38] Since 2012.
+
+ADVISOR: [00:01:40] And your gross pay?
+
+CLIENT2: [00:01:42] Eighty-four thousand.
+
+ADVISOR: [00:01:45] Okay, thank you. And just to check, you’re both US tax residents?
+
+CLIENT1: [00:01:50] Yes.
+
+CLIENT2: [00:01:51] Yes.
+
+ADVISOR: [00:01:54] Great. Kids at home?
+
+CLIENT1: [00:01:57] Two, yeah. Liam and Maya.
+
+ADVISOR: [00:02:00] Okay. Ages?
+
+CLIENT2: [00:02:02] Liam’s 11. Maya’s 8.
+
+ADVISOR: [00:02:06] And they’re both financially dependent on you at the moment?
+
+CLIENT1: [00:02:09] Yeah, definitely.
+
+ADVISOR: [00:02:11] Understood. Let’s talk about the household budget a bit. What are the main monthly essentials you’re carrying?
+
+CLIENT2: [00:02:18] Mortgage is the big one.
+
+ADVISOR: [00:02:20] Okay. What’s that payment run to each month?
+
+CLIENT1: [00:02:23] It’s $2,450.
+
+ADVISOR: [00:02:26] And utilities?
+
+CLIENT2: [00:02:28] Around $320 a month.
+
+ADVISOR: [00:02:31] Groceries?
+
+CLIENT1: [00:02:33] Nine hundred, give or take—no, actually, it’s nine hundred flat.
+
+ADVISOR: [00:02:37] Okay. Child-related costs, after-school care, activities, that sort of thing?
+
+CLIENT2: [00:02:42] About $260 a month.
+
+ADVISOR: [00:02:45] Transportation, fuel, commuting?
+
+CLIENT1: [00:02:48] $280.
+
+ADVISOR: [00:02:50] And insurance, home and car together?
+
+CLIENT2: [00:02:53] One ninety.
+
+ADVISOR: [00:02:55] Great, thank you. On the debt side, is the mortgage your only loan right now?
+
+CLIENT1: [00:03:01] Yeah, just the mortgage.
+
+ADVISOR: [00:03:03] And do you know the balance and rate on that?
+
+CLIENT2: [00:03:07] The balance is about 362 thousand.
+
+CLIENT1: [00:03:10] And the rate is 5.25%.
+
+ADVISOR: [00:03:13] Perfect. And the lender name, if you know it?
+
+CLIENT1: [00:03:16] First Horizon Mortgage.
+
+ADVISOR: [00:03:19] Thanks. Let’s go to retirement savings. Paisley, do you have a workplace plan through North Bay?
+
+CLIENT1: [00:03:25] Yeah, a 401(k).
+
+ADVISOR: [00:03:27] Roughly what’s in that today?
+
+CLIENT1: [00:03:30] Last I checked it was about 148 thousand.
+
+ADVISOR: [00:03:34] Okay. And are you contributing regularly?
+
+CLIENT1: [00:03:37] Six percent of salary.
+
+ADVISOR: [00:03:40] Great. Rosa, how about you?
+
+CLIENT2: [00:03:43] I’ve got a 403(b) through the hospital.
+
+ADVISOR: [00:03:46] And the current value there?
+
+CLIENT2: [00:03:49] Ninety-two thousand.
+
+ADVISOR: [00:03:51] And your contribution level?
+
+CLIENT2: [00:03:53] Five percent.
+
+ADVISOR: [00:03:55] Okay. And when you picture retirement, are you both thinking around the same age or a bit different?
+
+CLIENT1: [00:04:02] I’d like to make it to 65.
+
+CLIENT2: [00:04:05] I’m thinking a little earlier than that — 64.
+
+ADVISOR: [00:04:09] Okay, so 65 for Paisley and 64 for Rosa. That helps. Do you have any savings outside the retirement accounts?
+
+CLIENT2: [00:04:17] We do. There’s a joint savings account.
+
+ADVISOR: [00:04:20] What kind of account is it?
+
+CLIENT1: [00:04:22] High-yield savings, at Alpine Bank.
+
+ADVISOR: [00:04:25] And about how much is sitting there?
+
+CLIENT1: [00:04:28] Twenty-eight thousand.
+
+ADVISOR: [00:04:31] Nice. And what are you hoping that money does for you? Just a cushion, or is there something specific you want it earmarked for?
+
+CLIENT2: [00:04:38] Mostly a cushion, but also we’ve got a couple of goals.
+
+ADVISOR: [00:04:41] Okay, tell me about those.
+
+CLIENT1: [00:04:43] College for the kids is the big one.
+
+ADVISOR: [00:04:46] Right. What are you thinking there?
+
+CLIENT2: [00:04:49] We’d like to build toward about sixty thousand for education.
+
+ADVISOR: [00:04:53] Okay.
+
+CLIENT1: [00:04:54] By around 2036, when they’re closer to college age.
+
+ADVISOR: [00:04:58] Makes sense. Is that already in a separate account, or is it more of a “we should start doing that” thing?
+
+CLIENT2: [00:05:03] More the second one. We haven’t set up a dedicated account yet.
+
+ADVISOR: [00:05:07] Fair enough. And any other medium-term goals?
+
+CLIENT1: [00:05:11] We’d like to redo the kitchen and bathrooms at some point.
+
+ADVISOR: [00:05:15] Ah, okay. Roughly what kind of budget are you thinking for that?
+
+CLIENT2: [00:05:19] Maybe twenty-five thousand.
+
+CLIENT1: [00:05:21] Yeah, around twenty-five grand. Probably in the next couple of years.
+
+ADVISOR: [00:05:25] So maybe by 2027-ish?
+
+CLIENT2: [00:05:27] Yeah, that sounds about right.
+
+ADVISOR: [00:05:30] Got it. I know I’m asking a lot of numbers here, sorry. Just one last thing — if you had to describe the household cash flow, does it feel comfortable month to month, or is it pretty tight?
+
+CLIENT1: [00:05:41] Mostly comfortable, but with two kids and the mortgage, we do pay attention.
+
+CLIENT2: [00:05:46] Yeah, we’re okay. We just don’t want to wing it.
+
+ADVISOR: [00:05:50] That makes sense. Okay, I think I’ve got the main picture. I’ll pull this together and we can talk next steps from there.
+
+CLIENT1: [00:05:57] Sounds good.
+
+CLIENT2: [00:05:58] Thanks.

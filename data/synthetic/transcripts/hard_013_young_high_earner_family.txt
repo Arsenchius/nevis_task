@@ -1,0 +1,222 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Sandra Jenkins
+  - id: client
+    name: Omar Sullivan
+---
+ADVISOR: [00:00:03] Hi Sandra, hi Omar — it’s Megan. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Yeah, we’re good.
+
+ADVISOR: [00:00:12] Perfect. Before we jump in, I’m just going to make sure I’ve got the basics right. Sandra Jenkins, is that your full name?
+
+CLIENT1: [00:00:18] It is, yes.
+
+ADVISOR: [00:00:20] And Omar Sullivan?
+
+CLIENT2: [00:00:22] Correct.
+
+ADVISOR: [00:00:24] Great. Sandra, can I take your date of birth first?
+
+CLIENT1: [00:00:28] Yeah — 17th of April, 1981.
+
+ADVISOR: [00:00:32] 17 April 1981, got it. And Omar, yours?
+
+CLIENT2: [00:00:36] 3rd of September, 1979.
+
+ADVISOR: [00:00:39] Brilliant. And just to confirm, you’re cohabiting, right?
+
+CLIENT1: [00:00:43] Yeah, partner, living together.
+
+CLIENT2: [00:00:45] Yep.
+
+ADVISOR: [00:00:47] Great. Sandra, what’s your mobile number in case we get cut off?
+
+CLIENT1: [00:00:52] It’s +1-415-555-0187.
+
+ADVISOR: [00:00:56] Perfect. And I think you said you’re both in the US for tax purposes?
+
+CLIENT1: [00:01:01] Yes.
+
+CLIENT2: [00:01:02] Yeah, US tax resident.
+
+ADVISOR: [00:01:05] Good. Thanks. Okay, let’s do work first because that usually drives the rest of the planning. Sandra, what do you do?
+
+CLIENT1: [00:01:12] I’m a senior product manager at a tech company.
+
+ADVISOR: [00:01:16] Nice. And how long have you been there?
+
+CLIENT1: [00:01:19] Since 2018.
+
+ADVISOR: [00:01:21] Since 2018, okay. And roughly what are you earning there — base and bonus, if you get one?
+
+CLIENT1: [00:01:28] Base is about 165k. Bonus is… uh, roughly 15 to 25k, depends on the year.
+
+ADVISOR: [00:01:36] Okay, about 165k base and a bonus somewhere in that 15 to 25 range. That’s helpful. Omar, what about you?
+
+CLIENT2: [00:01:44] I’m a software engineer at a fintech firm.
+
+ADVISOR: [00:01:47] And you’ve been there since?
+
+CLIENT2: [00:01:50] 2016.
+
+ADVISOR: [00:01:52] Great. And your pay?
+
+CLIENT2: [00:01:55] Around 145k base, maybe 5 to 15k bonus. It varies a bit.
+
+ADVISOR: [00:02:02] Okay, around 145k base and bonus maybe 5 to 15k. Perfect. You both sound like you’re in a pretty strong earning period, which is good, but also can get messy cash-flow-wise with kids and everything. Speaking of that — how many children do you have?
+
+CLIENT1: [00:02:16] Two.
+
+ADVISOR: [00:02:18] Two, okay. What are their names and ages?
+
+CLIENT1: [00:02:21] Lily Jenkins-Sullivan — she’s five. And Noah Jenkins-Sullivan, he’s two.
+
+ADVISOR: [00:02:29] Lovely names. So Lily’s born June 2019 and Noah November 2022?
+
+CLIENT1: [00:02:35] Yeah, that sounds right.
+
+CLIENT2: [00:02:36] Yep.
+
+ADVISOR: [00:02:38] And are they both in childcare at the moment?
+
+CLIENT1: [00:02:41] Yes, both of them.
+
+ADVISOR: [00:02:43] Okay. And what sort of monthly cost are you seeing there — I’m not asking for exact to the dollar, just a rough sense.
+
+CLIENT2: [00:02:50] About 3.2k a month, maybe 3 to 3.4.
+
+ADVISOR: [00:02:55] Got it, about 3.2k monthly. That’s a big line item. What about housing and the rest of the household costs — just rough ranges is fine.
+
+CLIENT1: [00:03:05] Housing is roughly 4.1k a month.
+
+ADVISOR: [00:03:08] Okay.
+
+CLIENT1: [00:03:09] Utilities and internet, around 400 to 500.
+
+CLIENT2: [00:03:13] And transportation — about 900 total, with fuel and the two car payments.
+
+ADVISOR: [00:03:20] Okay, thanks. And then do you have any regular discretionary spending you’d rather keep in the plan — meals out, family stuff, that sort of thing?
+
+CLIENT1: [00:03:29] Yeah, family dining and activities, probably 500 to 700 a month.
+
+ADVISOR: [00:03:34] Right, around 500 to 700. That all makes sense. I’m going to bounce around a bit because I want to understand the whole picture. Do you have any savings sitting in cash right now?
+
+CLIENT1: [00:03:45] We do — joint savings, high-yield account. I think it’s about 80 to 90k.
+
+ADVISOR: [00:03:52] High-yield savings, okay. Is that with a specific bank or online provider?
+
+CLIENT2: [00:03:57] Online bank. I can pull up the name if needed, but it’s just our online savings.
+
+ADVISOR: [00:04:01] That’s fine — as long as we know it’s the joint high-yield savings. And then, Sandra, do you also have any investing outside retirement accounts?
+
+CLIENT1: [00:04:09] Yeah, a brokerage account at Fidelity.
+
+ADVISOR: [00:04:12] Fidelity, okay.
+
+CLIENT1: [00:04:14] It’s around 60k total. About 10k is cash and the rest, like 50k, is invested.
+
+ADVISOR: [00:04:21] Great, so around 60k total there, with 10k cash and 50k invested. Thanks. Now retirement accounts — Sandra, what do you have through work?
+
+CLIENT1: [00:04:31] My current employer 401(k). It’s about 280k.
+
+ADVISOR: [00:04:36] About 280k, okay. And how much are you putting in?
+
+CLIENT1: [00:04:40] Twelve percent of salary.
+
+ADVISOR: [00:04:42] Twelve percent. And Omar, same question for you.
+
+CLIENT2: [00:04:46] I’ve got my current employer 401(k) too. It’s around 190k.
+
+ADVISOR: [00:04:50] Around 190k, and your contribution rate?
+
+CLIENT2: [00:04:53] Ten percent.
+
+ADVISOR: [00:04:55] Ten percent. Good. Sandra, any IRA outside the 401(k)?
+
+CLIENT1: [00:05:00] Yeah, a Roth IRA with Vanguard.
+
+ADVISOR: [00:05:03] Vanguard, got it.
+
+CLIENT1: [00:05:05] That one’s roughly 45k, and I put in 500 a month.
+
+ADVISOR: [00:05:10] Okay, roughly 45k and 500 a month. Nice. Just so I’m clear, that’s the only other retirement account you’re using personally?
+
+CLIENT1: [00:05:17] Yeah, that’s the main one.
+
+ADVISOR: [00:05:19] Great. Omar, any IRA or anything outside the workplace plan for you?
+
+CLIENT2: [00:05:24] No, just the 401(k).
+
+ADVISOR: [00:05:26] Okay, no problem. Let me ask about goals, because this is where it gets more interesting than just numbers. If I asked you what you want money to do for you over the next ten or fifteen years, what comes to mind first?
+
+CLIENT1: [00:05:40] Honestly? I want to make sure we’re not just earning a lot and still feeling stretched. The childcare stuff is intense, and I don’t want to overcommit. But I also want us to retire comfortably in our early 60s.
+
+ADVISOR: [00:05:54] That makes sense. So some breathing room now, and then a proper retirement target. When you say early 60s, what age are you thinking?
+
+CLIENT1: [00:06:02] Sixty-two, ideally.
+
+ADVISOR: [00:06:04] Sixty-two for you?
+
+CLIENT1: [00:06:06] Yeah.
+
+ADVISOR: [00:06:07] Omar, same for you or are you thinking differently?
+
+CLIENT2: [00:06:11] I’m probably more like 65. I mean, I’m open, but 65 feels more realistic.
+
+ADVISOR: [00:06:16] Okay, so Sandra would like around 62, Omar is more open to 65. That’s useful. And what does “comfortable” mean in real life — travel, helping kids, not watching every dollar, that kind of thing?
+
+CLIENT1: [00:06:29] Yeah, all of that. Not luxury, just enough income to replace most of what we spend now without stressing about every bill.
+
+CLIENT2: [00:06:37] And ideally still being able to do stuff with the kids, family trips, that sort of thing.
+
+ADVISOR: [00:06:42] Got it. So you’re not chasing a huge lifestyle jump, more keeping the same shape of life without work income. That’s helpful. On the investing side, how would you describe yourselves? I’m not going to make this a formal quiz, just trying to understand your comfort level.
+
+CLIENT1: [00:06:55] We’re okay with growth, long-term. But I don’t want to take unnecessary risk.
+
+CLIENT2: [00:07:00] Yeah, moderate maybe? Moderately adventurous, but with a cash buffer.
+
+ADVISOR: [00:07:05] Okay — moderate to moderately adventurous, with enough stability for the kids and the mortgage... sorry, I mean the household commitments. Cash buffer first, then more equity exposure if needed.
+
+CLIENT1: [00:07:17] Yeah, exactly.
+
+ADVISOR: [00:07:19] And what’s the biggest thing keeping you up at night financially?
+
+CLIENT1: [00:07:23] Childcare costs, honestly. And taxes. It feels like we’re making good money but then a lot disappears.
+
+CLIENT2: [00:07:30] Emergency cash too. I don’t want to be too invested and then need money for something sudden.
+
+ADVISOR: [00:07:35] Right, so tax efficiency, keeping enough cash, and not taking more risk than you need. That lines up with what you’ve said so far. You mentioned taxes — are you mainly thinking about how to be more efficient with current income, like pre-tax retirement contributions and that sort of thing?
+
+CLIENT1: [00:07:49] Yes, exactly. Salary sacrifice, tax-efficient investing, anything like that. Just don’t want to overdo it and then feel squeezed.
+
+ADVISOR: [00:07:57] Totally fair. Better to do the efficient thing and still sleep at night. One thing I do want to confirm — are both of you comfortable with the current contribution levels, or do they feel tight at all?
+
+CLIENT2: [00:08:08] Mine’s okay.
+
+CLIENT1: [00:08:10] Mine’s okay too, but I’d say we’re close to the line some months, especially with the childcare.
+
+ADVISOR: [00:08:15] Okay. So the plan probably needs to preserve some cash flow flexibility rather than max everything out immediately.
+
+CLIENT1: [00:08:21] Yes.
+
+ADVISOR: [00:08:23] Makes sense. And just to check I’ve got the employment pieces right: Sandra, senior product manager at a tech company since 2018, and Omar, software engineer at a fintech firm since 2016. Both US tax residents. Sandra at about 165k base plus roughly 15 to 25k bonus, Omar around 145k base plus maybe 5 to 15k bonus. Does that sound right?
+
+CLIENT1: [00:08:44] Yep.
+
+CLIENT2: [00:08:45] Yep, that’s right.
+
+ADVISOR: [00:08:47] Great. I think that gives me enough to start shaping options. I’m going to pause there rather than machine-gun more questions at you. Does anything feel off, or anything you want me to make sure I focus on?
+
+CLIENT1: [00:08:58] Just the balance between saving for retirement and not starving the day-to-day budget.
+
+CLIENT2: [00:09:03] Yeah, and making sure we’re not taking silly investment risk.
+
+ADVISOR: [00:09:06] Perfect, that’s a good brief. We can work with that.

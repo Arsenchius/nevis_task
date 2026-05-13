@@ -1,0 +1,231 @@
+{
+  "example_id": "easy_018_inheritance_windfall",
+  "difficulty": "easy",
+  "archetype_id": "inheritance_windfall",
+  "challenge_tags": [
+    "numeric_approximate",
+    "numeric_exact",
+    "objectives_free_form"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "household_dependants",
+    "income",
+    "objectives",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/easy_018_inheritance_windfall.txt",
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Hassan",
+        "last_name": "Parker",
+        "date_of_birth": "1991-04-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Project manager",
+        "employer": "A regional construction firm",
+        "start_date": "2018",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": null,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": [
+        {
+          "name": "Amina Parker",
+          "relationship": "child",
+          "date_of_birth": "2019-09-12",
+          "age": 5.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Omar Parker",
+          "relationship": "child",
+          "date_of_birth": "2022-02-03",
+          "age": 3.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$92,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "Annual bonus",
+        "amount": {
+          "normalized_amount": 8000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$8,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "Inheritance windfall",
+        "amount": {
+          "normalized_amount": 250000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$250,000"
+        },
+        "frequency": "one_off",
+        "net_or_gross": "unknown"
+      }
+    ],
+    "expenses": [],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Local credit union",
+        "current_value": {
+          "normalized_amount": 60000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$60,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Online brokerage",
+        "current_value": {
+          "normalized_amount": 45000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$45,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "cash",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 150000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$150,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "savings",
+        "description": "Decide where to keep the inheritance and build an emergency fund without leaving too much in cash.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to keep some money accessible but is unsure how much should stay in savings."
+      },
+      {
+        "category": "investing",
+        "description": "Invest the inheritance tax-efficiently for long-term growth.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Open to a balanced portfolio but wants to avoid taking unnecessary risk."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Use the inheritance in a tax-efficient way and understand any tax implications of moving money into investments.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Needs guidance on the most tax-efficient account types and asset placement."
+      },
+      {
+        "category": "estate planning",
+        "description": "Review beneficiary nominations and make sure the inheritance is reflected properly in the family estate plan.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Has a basic will but wants to update it after the inheritance."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some investment risk for long-term growth, but wants to protect part of the windfall and avoid large losses.",
+      "preferred_strategy": "Keep a cash reserve, then invest the remainder in a diversified mix of funds with a moderate risk level.",
+      "key_concerns": [
+        "Inflation eroding the inheritance if it stays in cash",
+        "Making a poor investment decision with a lump sum",
+        "Keeping money available for the children and family needs",
+        "Minimizing tax drag"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Has a will and wants to update beneficiaries after the inheritance."
+    }
+  }
+}

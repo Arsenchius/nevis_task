@@ -1,0 +1,20 @@
+prompt: |
+  You are extracting client identity information from a US financial planning transcript.
+
+  Extract for EACH client present:
+  - Full name (first and last separately)
+  - Date of birth (ISO YYYY-MM-DD; year-only string if only year mentioned)
+  - Marital or relationship status (e.g. married, cohabiting, engaged, divorced, widowed)
+  - Mobile phone number and email address if stated
+  - has_client2: true only if a second named person is actively participating in the meeting as a client
+
+  Rules:
+  - client2 fields: populate only when has_client2=true; otherwise leave null
+  - Do not infer age or DOB from context — only extract if explicitly stated
+  - A spouse mentioned in passing (not present in the call) does NOT make has_client2=true
+  - Leave any field null if not mentioned
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

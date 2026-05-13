@@ -1,0 +1,236 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Daniel Price
+  - id: client
+    name: Martha Norris
+  - id: client
+    name: Riley Ortiz
+---
+ADVISOR: [00:00:02] Hi, thanks for making the time. This is Daniel Price. Am I speaking with Martha Norris and Riley Ortiz?
+
+CLIENT1: [00:00:08] Yes, that's us. Hi.
+
+CLIENT2: [00:00:10] Hi, Daniel.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got the basics right, Martha, can I take your date of birth first?
+
+CLIENT1: [00:00:18] Sure — 17 August 1964.
+
+ADVISOR: [00:00:21] Thank you. And Riley, yours?
+
+CLIENT2: [00:00:24] Yep, March 5th, 1962.
+
+ADVISOR: [00:00:27] Perfect. And you're married to each other, right?
+
+CLIENT1: [00:00:29] Yes.
+
+CLIENT2: [00:00:30] Married, yeah.
+
+ADVISOR: [00:00:32] Great. Martha, what are you doing for work at the moment?
+
+CLIENT1: [00:00:37] I'm an operations manager. I work for a regional logistics company.
+
+ADVISOR: [00:00:43] Okay. And how long have you been there?
+
+CLIENT1: [00:00:46] Since 2012.
+
+ADVISOR: [00:00:48] And are you still working full time?
+
+CLIENT1: [00:00:50] Yes, full time.
+
+ADVISOR: [00:00:52] And Riley, what about you?
+
+CLIENT2: [00:00:55] I'm a consultant. Self-employed, really. Part-time now.
+
+ADVISOR: [00:01:00] Self-employed consulting, part-time. And when did that start?
+
+CLIENT2: [00:01:04] 2019. I mean, I’d been doing bits before that, but properly since 2019.
+
+ADVISOR: [00:01:09] Got it. And just to confirm, both of you are US tax residents?
+
+CLIENT1: [00:01:14] Yes.
+
+CLIENT2: [00:01:15] Yes, definitely.
+
+ADVISOR: [00:01:18] Okay. I know retirement is probably the main thing here, but before we get into the money side, what does retirement actually look like for you two? Like, what are you hoping to be able to do?
+
+CLIENT1: [00:01:30] Honestly? Slow down. Travel a bit more, not have every week feel like we're rushing around. And I want to feel like we can cover the basics without worrying every month.
+
+CLIENT2: [00:01:42] Yeah, and not be tied to the calendar anymore. We'd like to do some trips, nothing crazy, but a couple of decent ones each year.
+
+ADVISOR: [00:01:50] Okay, that helps. So more of a dependable income floor, and then some flexibility on top for travel and life.
+
+CLIENT1: [00:01:55] Exactly.
+
+ADVISOR: [00:01:57] And are you thinking both of you would retire around the same time, or does one of you want to go earlier?
+
+CLIENT2: [00:02:03] We keep saying "in a few years," but... maybe me a little sooner, Martha a little later.
+
+CLIENT1: [00:02:08] I was thinking 65, maybe 66 if I need to. Not before then.
+
+ADVISOR: [00:02:13] Okay, so for you Martha, 65 is the target, maybe 2029?
+
+CLIENT1: [00:02:17] Yes, 2029 sounds right.
+
+ADVISOR: [00:02:20] And Riley, would 66 be about right for you, so around 2028?
+
+CLIENT2: [00:02:24] Yeah, that sounds right. 66 in 2028.
+
+ADVISOR: [00:02:27] Great. Are you both planning to stop completely, or is there a bit of consulting or part-time work after that?
+
+CLIENT2: [00:02:33] I could see myself keeping a little consulting on, but not something I have to do.
+
+CLIENT1: [00:02:38] Same for me, I might do nothing for a while first. [laughs]
+
+ADVISOR: [00:02:42] Fair enough. Can I ask roughly what your household income looks like at the moment? Doesn't need to be exact, just a ballpark.
+
+CLIENT1: [00:02:51] Mine's around 95 to 100 thousand gross. Maybe just under 100.
+
+ADVISOR: [00:02:57] Okay, about $95k to $100k from your salary.
+
+CLIENT1: [00:03:00] Yes.
+
+ADVISOR: [00:03:01] And Riley, from the consulting?
+
+CLIENT2: [00:03:05] It varies a lot. Roughly 20 to 30 thousand a year, gross. Some years a bit better, some not.
+
+ADVISOR: [00:03:12] Okay, roughly $20k to $30k. That’s helpful. And when you do retire, have you got a sense of what income would feel comfortable?
+
+CLIENT1: [00:03:22] We talked about it a lot. Maybe around 80 to 90 thousand a year together? Something like that.
+
+CLIENT2: [00:03:28] Yeah, around there.
+
+ADVISOR: [00:03:31] So roughly 70% of current household income, maybe. And is that mainly to cover essentials, or is that including travel and a bit of fun?
+
+CLIENT1: [00:03:39] I'd say it includes travel. The essentials are one thing, but I don't want to feel like we can't do anything.
+
+CLIENT2: [00:03:46] Right, and I want some cushion for inflation too. Everything keeps getting more expensive.
+
+ADVISOR: [00:03:52] Yeah, absolutely. Inflation can really eat into retirement plans. On the spending side, what are your regular household costs looking like? Just the big recurring ones.
+
+CLIENT1: [00:04:02] Property taxes and insurance are about 700 to 850 a month. It jumps around a bit.
+
+ADVISOR: [00:04:08] Okay, about $700 to $850 monthly for property taxes and insurance.
+
+CLIENT2: [00:04:12] And utilities plus internet, roughly 280 to 360 a month.
+
+ADVISOR: [00:04:16] Got it. Utilities and internet around $280 to $360 monthly.
+
+CLIENT1: [00:04:20] Then for travel, we’d like to budget around 10 to 14 thousand a year once we're retired.
+
+ADVISOR: [00:04:27] Nice, okay — so around $10k to $14k annually for retirement travel.
+
+CLIENT2: [00:04:31] Yeah, that’s the idea. Nothing extravagant, just enough to enjoy it.
+
+ADVISOR: [00:04:35] Makes sense. Let’s talk savings and investments now. Which accounts do you each have? Start wherever’s easiest.
+
+CLIENT1: [00:04:43] I have a 401(k) through my current employer plan. It's... I think around 520 to 560 thousand now.
+
+ADVISOR: [00:04:52] Okay, about $520k to $560k in the 401(k). And are you still contributing?
+
+CLIENT1: [00:04:57] Yes, 6% of salary, and they match 4%.
+
+ADVISOR: [00:05:02] Great. Any IRA as well?
+
+CLIENT1: [00:05:05] Yes, a traditional IRA at a custodial brokerage. Roughly 170 to 190 thousand.
+
+ADVISOR: [00:05:12] Okay. And do you have a Roth IRA too, or is that the wrong one?
+
+CLIENT1: [00:05:16] No, I do have a Roth IRA as well. That one's around 40 to 50 thousand.
+
+ADVISOR: [00:05:22] Perfect. Riley, what about you?
+
+CLIENT2: [00:05:25] I have an IRA at a custodial brokerage too. I think it's about 250 to 270 thousand.
+
+ADVISOR: [00:05:31] Okay, about $250k to $270k. And you mentioned an annuity as well?
+
+CLIENT2: [00:05:36] Yeah. It's through an insurance company. The last statement I saw had it close to 150 thousand.
+
+ADVISOR: [00:05:43] Okay, close to $150k. If you happen to have a statement handy later, that would be useful, but no rush.
+
+CLIENT2: [00:05:48] I do have the reference somewhere, yeah. I can dig it out.
+
+ADVISOR: [00:05:51] Great. And do you have any joint savings or brokerage accounts together?
+
+CLIENT1: [00:05:56] Yes, we do. We keep a high-yield savings account with an online bank. It's about 60 to 70 thousand.
+
+ADVISOR: [00:06:04] Okay, joint high-yield savings at the online bank, around $60k to $70k.
+
+CLIENT2: [00:06:09] And we also have a brokerage account with a discount broker. That's more like 200 to 220 thousand total.
+
+ADVISOR: [00:06:17] Right.
+
+CLIENT1: [00:06:18] But not all of that is invested. There's about 10 to 20 thousand in cash in there, and the rest is invested.
+
+ADVISOR: [00:06:26] Okay, so roughly $10k to $20k cash and the balance invested. That's helpful.
+
+ADVISOR: [00:06:31] Do you have any debt or mortgage payments we should be factoring in?
+
+CLIENT1: [00:06:35] No mortgage.
+
+CLIENT2: [00:06:37] No debt, really.
+
+ADVISOR: [00:06:39] Okay, no mortgage. That simplifies things a bit. And what do you own outside the accounts — house, cars, anything like that?
+
+CLIENT1: [00:06:48] Our primary residence. I think it's about 600 to 640 thousand.
+
+ADVISOR: [00:06:54] Okay, joint home value around $600k to $640k.
+
+CLIENT2: [00:06:58] And I have a 2019 SUV. Probably 25 to 30 thousand, if I'm being realistic.
+
+ADVISOR: [00:07:04] Got it, 2019 SUV around $25k to $30k.
+
+ADVISOR: [00:07:08] How do you two feel about the annuity versus drawing from the IRA and 401(k) first? That's usually the big decision point.
+
+CLIENT1: [00:07:16] That's exactly what we're unsure about. Part of me likes the idea of something guaranteed, because I hate the thought of markets dropping right when we retire.
+
+CLIENT2: [00:07:25] Yeah, sequence risk, right? If the market falls early on, that can really mess things up.
+
+ADVISOR: [00:07:31] Exactly. So a stable income floor matters to you.
+
+CLIENT1: [00:07:35] Yes. But I also don't want to lock everything up if we don't need to.
+
+CLIENT2: [00:07:39] And I worry about inflation too. If the guaranteed piece doesn't keep up, it can feel smaller every year.
+
+ADVISOR: [00:07:47] Right, so the tradeoff is security now versus flexibility and growth later. We can model both. Do you want the annuity to cover as much of the essentials as possible, and then use the market accounts for travel and extras?
+
+CLIENT1: [00:07:59] That's kind of what we were thinking, yes.
+
+CLIENT2: [00:08:02] As long as we still have enough cash available for emergencies. I don't want everything tied up.
+
+ADVISOR: [00:08:08] Totally fair. How much of a cash buffer would feel comfortable to you?
+
+CLIENT1: [00:08:13] The high-yield savings is there for that. We like having a decent amount sitting there.
+
+CLIENT2: [00:08:18] Yeah, enough that if the roof needed work or something came up, we're not scrambling.
+
+ADVISOR: [00:08:23] Makes sense. So if I were to summarize the goal, it sounds like: retire within the next few years, have around $80k to $90k a year of household income, keep a dependable base, and then use the rest more flexibly.
+
+CLIENT1: [00:08:34] Yes, that's right.
+
+CLIENT2: [00:08:36] That sounds good.
+
+ADVISOR: [00:08:38] And just on Social Security, have you thought about when you’d want to claim?
+
+CLIENT1: [00:08:44] We'd prefer not to take it too early.
+
+CLIENT2: [00:08:47] Ideally wait until 67 if the cash flow works.
+
+ADVISOR: [00:08:50] Okay, so aiming for full retirement age around 67, if possible.
+
+CLIENT1: [00:08:54] Yes, that would be best.
+
+CLIENT2: [00:08:56] We have an estimate that together it could be around 40 to 44 thousand a year.
+
+ADVISOR: [00:09:01] Around $40k to $44k combined. Great. That gives us a decent starting point.
+
+CLIENT1: [00:09:06] Good. I just don't want to make a mistake and then regret it later.
+
+ADVISOR: [00:09:10] Absolutely. That's the whole point of doing this carefully. We'll map out the annuity, the IRA and 401(k) drawdown, and the timing around Social Security, then see what gives you the best mix of comfort and flexibility.
+
+CLIENT2: [00:09:20] Okay. That actually feels a bit better.
+
+CLIENT1: [00:09:23] Yeah, same.

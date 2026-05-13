@@ -1,0 +1,212 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Melissa Hart
+  - id: client
+    name: Raj Walsh
+  - id: client
+    name: Stanley Gonzales
+---
+ADVISOR: [00:00:03] Hi Raj, hi Stanley — this is Melissa. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we're good.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got the right people, Raj Walsh and Stanley Gonzales?
+
+CLIENT1: [00:00:17] That's right.
+
+CLIENT2: [00:00:18] Yep.
+
+ADVISOR: [00:00:20] Perfect. Raj, I’m going to start with you. What’s your date of birth?
+
+CLIENT1: [00:00:26] April... 18th, 1991.
+
+ADVISOR: [00:00:30] Great. And Stanley, yours?
+
+CLIENT2: [00:00:34] November 2nd, 1989.
+
+ADVISOR: [00:00:37] Thanks. And you’re married to each other, right?
+
+CLIENT1: [00:00:40] Yes.
+
+CLIENT2: [00:00:41] Yep, spouses.
+
+ADVISOR: [00:00:43] Good. Raj, what’s the best mobile number for you?
+
+CLIENT1: [00:00:48] It’s 415-555-0198.
+
+ADVISOR: [00:00:52] Brilliant. I won't ask for email if you don't want to give it right now. What do you both do for work?
+
+CLIENT1: [00:00:59] I’m a product manager. I work at a tech startup.
+
+CLIENT2: [00:01:04] And I’m a high school teacher, public school district.
+
+ADVISOR: [00:01:08] Okay. Raj, how long have you been there?
+
+CLIENT1: [00:01:12] Since 2019. Early 2019.
+
+ADVISOR: [00:01:15] And Stanley?
+
+CLIENT2: [00:01:17] 2016.
+
+ADVISOR: [00:01:19] Got it. And are you both US tax residents?
+
+CLIENT1: [00:01:23] Yes.
+
+CLIENT2: [00:01:24] Yeah, US.
+
+ADVISOR: [00:01:27] Thanks. And thinking ahead, what age would each of you like to stop full-time work, roughly?
+
+CLIENT1: [00:01:34] I keep saying 65. That feels... reasonable.
+
+CLIENT2: [00:01:38] I’d say 67 for me.
+
+ADVISOR: [00:01:41] Okay. And kids — do you have any dependants at home?
+
+CLIENT1: [00:01:46] Two kids, yeah.
+
+CLIENT2: [00:01:47] Mila and Noah.
+
+ADVISOR: [00:01:50] Okay, can you tell me their names and ages?
+
+CLIENT1: [00:01:54] Mila Walsh, she’s seven... born June 14th, 2018.
+
+CLIENT2: [00:01:59] And Noah Walsh, born September 3rd, 2021. He’s four.
+
+ADVISOR: [00:02:05] Great. And both financially dependent at the moment?
+
+CLIENT1: [00:02:08] Yes, definitely.
+
+ADVISOR: [00:02:11] Okay. Let's talk cash flow a bit. Roughly what are the main household incomes right now?
+
+CLIENT1: [00:02:18] My salary is 132k.
+
+ADVISOR: [00:02:21] Gross, annually?
+
+CLIENT1: [00:02:23] Yeah, gross.
+
+CLIENT2: [00:02:25] Mine’s 68,000 gross.
+
+ADVISOR: [00:02:28] Okay, thanks. And then I understand there’s been a family inheritance coming in as well?
+
+CLIENT1: [00:02:34] Yeah. From my aunt's estate.
+
+ADVISOR: [00:02:36] Right. Is that fully received already or still in process?
+
+CLIENT1: [00:02:40] Still coming through. I expect it to be around... maybe 400 to 450, something like that.
+
+CLIENT2: [00:02:47] Yeah, he’s been saying about 4-ish hundred.
+
+CLIENT1: [00:02:50] I think the number we’re using is about 400k to 450k. Sorry, I keep rounding it.
+
+ADVISOR: [00:02:55] No, that’s fine — approximate is totally okay. And just so I’m clear, there’s also a separate amount you’re expecting personally from that estate?
+
+CLIENT1: [00:03:03] Yes, I’m expecting $250k specifically.
+
+ADVISOR: [00:03:06] Understood. So household windfall around 400 to 450, and Raj’s share about 250k. Got it.
+
+CLIENT2: [00:03:12] Yeah.
+
+ADVISOR: [00:03:14] What does your day-to-day spending look like? Just the big fixed pieces first.
+
+CLIENT2: [00:03:20] The house payment is 3,100 a month.
+
+CLIENT1: [00:03:24] Daycare is 1,800.
+
+CLIENT2: [00:03:26] Utilities and internet, about 420.
+
+ADVISOR: [00:03:30] Okay. Any sort of family travel or fun money that’s a meaningful line item?
+
+CLIENT1: [00:03:35] We usually do family trips — around 6k a year, maybe a bit more if we do something bigger.
+
+ADVISOR: [00:03:41] Nice. And with the kids, does that feel like something you want to keep doing, or are you hoping to redirect some of that money elsewhere?
+
+CLIENT1: [00:03:47] Keep doing it, honestly. The kids love it. We just don't want to overdo it.
+
+CLIENT2: [00:03:51] Yeah, balance.
+
+ADVISOR: [00:03:53] Makes sense. Let me ask about savings and investments. What do you currently have set aside in cash or investments?
+
+CLIENT1: [00:04:00] We’ve got a joint high-yield savings account. Around 80 to 90k, I think.
+
+ADVISOR: [00:04:06] Around 80 to 90, okay.
+
+CLIENT2: [00:04:08] Probably 86k if I had to pin it down.
+
+ADVISOR: [00:04:11] Good. Any brokerage accounts?
+
+CLIENT1: [00:04:14] Yeah, I have one at Vanguard.
+
+ADVISOR: [00:04:17] And what’s in that roughly?
+
+CLIENT1: [00:04:19] About 125k total. Around 15k is cash, and 110k is invested.
+
+ADVISOR: [00:04:25] Okay, helpful. Any college savings for the kids?
+
+CLIENT2: [00:04:29] Yes, a 529 plan through the state plan.
+
+ADVISOR: [00:04:33] And about how much is in there?
+
+CLIENT2: [00:04:35] 22k.
+
+ADVISOR: [00:04:38] Great. And the home itself — is that jointly owned?
+
+CLIENT1: [00:04:43] Yes, joint.
+
+CLIENT2: [00:04:44] Yeah.
+
+ADVISOR: [00:04:46] Roughly what would you say it’s worth today?
+
+CLIENT1: [00:04:50] About 780k.
+
+ADVISOR: [00:04:52] Okay. Thanks. I’m going to ask a more personal question now: what are you most hoping this inheritance can do for you both?
+
+CLIENT1: [00:05:01] Honestly, I want to use it in a tax-efficient way and not just let it sit there doing nothing.
+
+CLIENT2: [00:05:06] And we want to make sure we’re not taking on unnecessary tax drag, if that makes sense.
+
+ADVISOR: [00:05:10] Yeah, absolutely. So tax efficiency is a big one. Anything else?
+
+CLIENT1: [00:05:15] We’d like a diversified portfolio for long-term growth, but... not too aggressive.
+
+CLIENT2: [00:05:20] Right. We’re comfortable with some ups and downs, just not, like, throwing it into something wild.
+
+ADVISOR: [00:05:25] Sure. So maybe a cash buffer first, then invest the rest more broadly?
+
+CLIENT1: [00:05:30] Yes, that sounds like the general idea.
+
+CLIENT2: [00:05:32] Keep some cash back for near-term family stuff too.
+
+ADVISOR: [00:05:35] How much cash would feel comfortable to keep aside?
+
+CLIENT1: [00:05:39] About 50k.
+
+CLIENT2: [00:05:41] Yeah, that number feels right.
+
+ADVISOR: [00:05:44] Okay. And then, separate from the day-to-day and the inheritance, are there any estate-planning things you want to get in order?
+
+CLIENT1: [00:05:52] Yeah — we need to update wills and beneficiary stuff after this.
+
+CLIENT2: [00:05:56] Mostly just making sure the kids are protected.
+
+ADVISOR: [00:05:59] Understood. Any trust in place already, or is it more the will and beneficiary review side of things?
+
+CLIENT1: [00:06:05] More the review side. We just want to make sure everything’s set up properly.
+
+ADVISOR: [00:06:10] Okay, got it. And just to check one more time, Raj — your employer is a tech startup, and Stanley, public school district?
+
+CLIENT1: [00:06:17] Yep.
+
+CLIENT2: [00:06:18] Correct.
+
+ADVISOR: [00:06:20] Great. I think that gives me the main picture. You’ve got a decent cash reserve already, the inheritance is coming in a bit approximate, and the main goals are keep some cash, invest the rest in a diversified way, and update the family documents.
+
+CLIENT1: [00:06:34] Yeah, that’s basically it.
+
+CLIENT2: [00:06:36] Sounds right.
+
+ADVISOR: [00:06:38] Brilliant. We can talk through options next and keep it practical — no rush on any of it.

@@ -1,0 +1,152 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Violet Morgan
+  - id: client
+    name: Hazel Ellis
+---
+ADVISOR: [00:00:03] Hi both, thanks for making time today. I'm Megan Carter. Can you hear me okay?
+
+CLIENT1: [00:00:09] Yeah, loud and clear.
+
+CLIENT2: [00:00:11] Yep, we can hear you.
+
+ADVISOR: [00:00:14] Great. And just so I’ve got you straight, could I take your full names and dates of birth?
+
+CLIENT1: [00:00:21] Sure. I'm Violet Morgan... born April 17th, 1981.
+
+CLIENT2: [00:00:29] And I'm Hazel Ellis, September 3rd, 1979.
+
+ADVISOR: [00:00:34] Perfect, thank you. And you're married, is that right?
+
+CLIENT1: [00:00:37] Yes.
+
+CLIENT2: [00:00:38] Yeah, married.
+
+ADVISOR: [00:00:41] Okay. And Violet, what do you do for work at the moment?
+
+CLIENT1: [00:00:47] I'm an operations manager. It's for a regional logistics company.
+
+ADVISOR: [00:00:52] Got it. And how long have you been there?
+
+CLIENT1: [00:00:56] Since 2016. I started there in 2016.
+
+ADVISOR: [00:01:00] Okay, thanks. And Hazel, same question for you.
+
+CLIENT2: [00:01:05] I'm an elementary school teacher. Public school district.
+
+ADVISOR: [00:01:10] Nice. And how long have you been with the district?
+
+CLIENT2: [00:01:14] Since 2012.
+
+ADVISOR: [00:01:17] Great. And just thinking ahead a bit, when would each of you ideally like to stop working? Not exact, just a ballpark.
+
+CLIENT1: [00:01:28] I keep saying 65. That feels about right for me.
+
+CLIENT2: [00:01:33] For me it's a little earlier, maybe 63.
+
+ADVISOR: [00:01:38] Okay, that helps. And I understand there’s been an inheritance coming into the picture, so we should talk through that carefully. Roughly what sort of amount are we dealing with?
+
+CLIENT1: [00:01:49] It's... I mean, around three hundred to four hundred thousand. That's the best way I can put it right now.
+
+CLIENT2: [00:01:56] Yeah, somewhere in that range. Not a precise number yet.
+
+ADVISOR: [00:02:00] That's fine, approximate is okay. And is that something you're receiving as a household, or mainly in one name?
+
+CLIENT1: [00:02:07] As a household, really. We're trying to plan it together.
+
+CLIENT2: [00:02:11] Right, together.
+
+ADVISOR: [00:02:14] Makes sense. What's the main thing you want this money to do for you? If you had to put it in plain English.
+
+CLIENT1: [00:02:23] I don't want it sitting there doing nothing. I want it put to work, but not in some crazy way.
+
+CLIENT2: [00:02:29] Yeah, and we don't want to make a dumb mistake with taxes either. That's probably the biggest thing.
+
+ADVISOR: [00:02:35] Okay, so tax efficiency is a big concern, and you want some growth but not all of it tied up. Anything near-term you know you'll want to cover?
+
+CLIENT2: [00:02:46] We’d like to keep some aside for emergencies, and probably some home repairs. The house is... well, it always needs something.
+
+CLIENT1: [00:02:54] And travel, hopefully. Nothing extravagant, just maybe a couple trips we've been putting off.
+
+ADVISOR: [00:03:01] Yeah, that sounds sensible. Do you have a rough sense of how much you'd want to keep liquid versus invest?
+
+CLIENT1: [00:03:09] Not exact. I was thinking maybe enough that we don't feel squeezed if something comes up.
+
+CLIENT2: [00:03:14] Right. A buffer first, then invest the rest. I just don't want it all in cash forever.
+
+ADVISOR: [00:03:20] Understood. So some cash reserve, some longer-term investing. Are you comfortable with a balanced approach, where part stays accessible and part goes into a diversified portfolio?
+
+CLIENT1: [00:03:31] Yeah, balanced sounds right.
+
+CLIENT2: [00:03:33] Same. Moderate is probably the right word for us.
+
+ADVISOR: [00:03:37] Okay. And just to understand the bigger picture, do you already have savings or investments outside this inheritance?
+
+CLIENT1: [00:03:46] I do have a savings account at the credit union. It's about forty-eight thousand, give or take.
+
+ADVISOR: [00:03:52] Okay, about 48k. Thank you. Hazel, how about you?
+
+CLIENT2: [00:03:57] I have a brokerage account online. Roughly sixty-two thousand in there.
+
+ADVISOR: [00:04:03] Great, thanks. And you own your home, I believe?
+
+CLIENT1: [00:04:08] Yes, our primary residence.
+
+ADVISOR: [00:04:11] And roughly what do you think it's worth these days?
+
+CLIENT2: [00:04:15] Around five hundred forty thousand, maybe a bit either side of that.
+
+ADVISOR: [00:04:21] Okay, around 540k. Good. You mentioned wanting to make sure assets pass efficiently between you and then to family. Is that more about updating your wills and beneficiaries after the inheritance lands?
+
+CLIENT1: [00:04:34] Yes, exactly. We want to get that reviewed.
+
+CLIENT2: [00:04:38] We both have wills already, but they probably need a look. We want the beneficiaries checked and updated too.
+
+ADVISOR: [00:04:46] That makes sense. No need to overcomplicate it, but it is worth lining everything up. Are there any children or dependants we should factor in?
+
+CLIENT1: [00:04:55] No, none.
+
+CLIENT2: [00:04:57] Just the two of us, really.
+
+ADVISOR: [00:05:00] Okay. And for the inheritance itself, are you expecting it all at once, or is it already arrived?
+
+CLIENT2: [00:05:08] It's in process. We just know it's coming, so we're trying to plan ahead.
+
+CLIENT1: [00:05:13] Yeah, we don't want to wait until it's in the account and then panic.
+
+ADVISOR: [00:05:18] Fair enough. That's actually a good sign that you're thinking about it early. Just so I’m clear, Violet, your salary is about what currently?
+
+CLIENT1: [00:05:27] About ninety-two thousand gross.
+
+ADVISOR: [00:05:31] And Hazel?
+
+CLIENT2: [00:05:33] Roughly sixty-eight thousand gross.
+
+ADVISOR: [00:05:38] Great, thank you. And do either of you have any immediate concerns like, "I don't want to lose capital" or "I need this money available quickly"? I know you've touched on it already, but I want to hear it in your words.
+
+CLIENT1: [00:05:50] I don't want to lose a chunk of it in some downturn. That would make me really nervous.
+
+CLIENT2: [00:05:55] Same. We can take some risk, I think, but not all of it. And we want to be able to use some of it without jumping through hoops.
+
+ADVISOR: [00:06:04] Right, that helps. So the broad idea is keep a cash buffer for emergencies and near-term plans, invest the rest in a diversified way, and make sure the estate side is updated.
+
+CLIENT1: [00:06:15] Yes, that's basically it.
+
+CLIENT2: [00:06:17] Yeah, that sounds right.
+
+ADVISOR: [00:06:20] Okay. Last thing from me for now — if you had to pick, would you rather have a little more money set aside and feel safer, or push more into growth and accept a bit more movement?
+
+CLIENT1: [00:06:31] Probably safer, honestly. I don't want to be staring at it every day.
+
+CLIENT2: [00:06:35] I agree. Not super cautious, but definitely not all-in on growth.
+
+ADVISOR: [00:06:40] Perfect. That gives me a good starting point. We'll map out a plan that keeps some liquidity, looks at tax-efficient ways to structure it, and then we can talk through the estate paperwork review next time.
+
+CLIENT1: [00:06:50] Okay. Good.
+
+CLIENT2: [00:06:52] Yeah, thank you. That helps.

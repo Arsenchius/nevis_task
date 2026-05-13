@@ -1,0 +1,266 @@
+---
+title: N/A
+date: 2026-05-13
+participants:
+  - id: advisor
+    name: Sarah Bennett
+  - id: client
+    name: Miles Phillips
+  - id: client
+    name: Dorothy Wood
+---
+ADVISOR: [00:00:03] Hi Miles, hi Dorothy — Sarah Bennett here. Can you both hear me okay?
+
+CLIENT1: [00:00:07] Yeah, loud and clear.
+
+CLIENT2: [00:00:09] Yep, we’re good.
+
+ADVISOR: [00:00:12] Perfect. Sorry, my headset keeps cutting out today, so if I sound a bit odd just shout. First thing, can I get full names and dates of birth for both of you?
+
+CLIENT1: [00:00:22] Sure — Miles Phillips, and I was born on the 18th of April, 1991. So 1991-04-18.
+
+CLIENT2: [00:00:33] And I’m Dorothy Wood, 3rd of September, 1992. 1992-09-03.
+
+ADVISOR: [00:00:42] Great, thank you. And you’re married, right?
+
+CLIENT1: [00:00:46] Yeah, married.
+
+CLIENT2: [00:00:47] Yep.
+
+ADVISOR: [00:00:50] Okay. Miles, what’s your current role?
+
+CLIENT1: [00:00:54] I’m a project manager.
+
+ADVISOR: [00:00:56] And where are you working at the moment?
+
+CLIENT1: [00:00:59] Northstar Logistics.
+
+ADVISOR: [00:01:01] Got it. Full-time?
+
+CLIENT1: [00:01:03] Yeah, full-time.
+
+ADVISOR: [00:01:05] And when did you start there?
+
+CLIENT1: [00:01:08] 2018. I think it was spring... yeah, 2018.
+
+ADVISOR: [00:01:13] And are you a US tax resident?
+
+CLIENT1: [00:01:16] Yes.
+
+ADVISOR: [00:01:18] Dorothy, same set of questions for you. What do you do?
+
+CLIENT2: [00:01:22] I’m an elementary school teacher.
+
+ADVISOR: [00:01:25] Lovely. And employer?
+
+CLIENT2: [00:01:27] Oak Ridge Public Schools.
+
+ADVISOR: [00:01:29] Full-time there as well?
+
+CLIENT2: [00:01:31] Yes, full-time.
+
+ADVISOR: [00:01:33] When did you start with Oak Ridge?
+
+CLIENT2: [00:01:36] 2017.
+
+ADVISOR: [00:01:38] And US tax resident too?
+
+CLIENT2: [00:01:40] Yes.
+
+ADVISOR: [00:01:42] Great. Any email I should use for either of you, or just mobile is best?
+
+CLIENT1: [00:01:47] Mobile’s best.
+
+ADVISOR: [00:01:49] Okay — Miles, what’s your number?
+
+CLIENT1: [00:01:52] It’s +1-415-555-0138.
+
+ADVISOR: [00:01:57] Thanks. Dorothy, do you want to give me a mobile too, or is that not necessary?
+
+CLIENT2: [00:02:02] I don’t really have one I want to use for this, so no.
+
+ADVISOR: [00:02:06] No problem. And just so I’ve got the household picture, do you have any children or anyone financially dependent on you?
+
+CLIENT1: [00:02:14] Yeah, two kids.
+
+CLIENT2: [00:02:15] Liam and Nora.
+
+ADVISOR: [00:02:17] Okay — how old are they?
+
+CLIENT2: [00:02:20] Liam’s five. Nora’s three.
+
+ADVISOR: [00:02:24] Right, thanks. That’s helpful. I’m just going to jump around a bit, because this is easier than doing it in a neat order. What’s coming in each year roughly from work?
+
+CLIENT1: [00:02:35] Mine’s 92,000 gross.
+
+ADVISOR: [00:02:39] Ninety-two, okay.
+
+CLIENT2: [00:02:41] And mine is 61k gross.
+
+ADVISOR: [00:02:45] Got it. Any other regular income, bonuses, side work, anything like that?
+
+CLIENT2: [00:02:50] There’s the odd bonus from school stuff, but nothing steady. Just salary, really.
+
+ADVISOR: [00:02:56] Okay, so no real second income then — just the salary and maybe an occasional bonus?
+
+CLIENT2: [00:03:00] Yeah, exactly.
+
+ADVISOR: [00:03:03] And what does the monthly spending look like at the moment? I’m thinking the big fixed items first.
+
+CLIENT1: [00:03:10] Mortgage is 2,450 a month.
+
+ADVISOR: [00:03:14] Okay.
+
+CLIENT2: [00:03:15] Utilities and internet are kind of all over the place — about 350 to 410 a month.
+
+ADVISOR: [00:03:21] About 350 to 410, okay.
+
+CLIENT1: [00:03:24] Daycare is 1,600.
+
+ADVISOR: [00:03:27] Right.
+
+CLIENT2: [00:03:28] Groceries are around 900.
+
+ADVISOR: [00:03:31] Mm-hm.
+
+CLIENT1: [00:03:33] Fuel and car maintenance, maybe 260.
+
+ADVISOR: [00:03:36] Okay.
+
+CLIENT2: [00:03:38] Home and auto insurance, 190.
+
+ADVISOR: [00:03:41] And anything more optional — eating out, subscriptions, that kind of thing?
+
+CLIENT1: [00:03:46] Yeah, family eating out and subscriptions, about 220.
+
+ADVISOR: [00:03:51] Right, thanks. So the mortgage is a big one. I’m not going to go into property details, but just the payment is useful. Do you feel like you’re still able to save after all of that, or is it pretty tight?
+
+CLIENT1: [00:04:02] It’s... manageable, but tight some months.
+
+CLIENT2: [00:04:05] Especially with daycare. That’s the one that really bites.
+
+ADVISOR: [00:04:08] Yeah, that makes sense. Okay, let’s talk savings. Do you have cash set aside at the moment?
+
+CLIENT1: [00:04:15] Yeah, we’ve got a joint high-yield savings account at Cedar Bank.
+
+ADVISOR: [00:04:20] Okay.
+
+CLIENT1: [00:04:21] It’s around 25k to 30k... I’d say about 28k.
+
+ADVISOR: [00:04:27] Around 28, got it. Is that mostly your emergency reserve?
+
+CLIENT2: [00:04:31] Yeah, that’s the idea. We want to keep six to twelve months of expenses in cash, just so we’re not panicking if something happens.
+
+ADVISOR: [00:04:39] That’s sensible. And do you have any investing outside work, like a brokerage account?
+
+CLIENT1: [00:04:45] Yeah, I’ve got one with Vanguard.
+
+ADVISOR: [00:04:48] Vanguard, okay.
+
+CLIENT1: [00:04:50] It’s about 15,000.
+
+ADVISOR: [00:04:53] And Dorothy, anything in your name outside work?
+
+CLIENT2: [00:04:57] I’ve got a Roth IRA at Fidelity.
+
+ADVISOR: [00:05:00] Fidelity, okay.
+
+CLIENT2: [00:05:01] It’s about 12k.
+
+ADVISOR: [00:05:04] Great. And on the work side, do either of you have retirement accounts through your employers?
+
+CLIENT1: [00:05:09] Yeah, my Northstar Logistics plan — I think the statement’s in my email somewhere. It’s a 401(k).
+
+ADVISOR: [00:05:16] Okay, thanks. Roughly what’s in that one?
+
+CLIENT1: [00:05:20] About 84,000.
+
+ADVISOR: [00:05:23] And what are you putting in?
+
+CLIENT1: [00:05:25] Six percent from me, and they match four percent.
+
+ADVISOR: [00:05:30] Nice. Dorothy, and yours through Oak Ridge Public Schools?
+
+CLIENT2: [00:05:35] Yeah, that’s a 403(b). I put in 5% of salary.
+
+ADVISOR: [00:05:40] Okay. And what’s the value there roughly?
+
+CLIENT2: [00:05:43] 52,000.
+
+ADVISOR: [00:05:46] Great. So that gives me a decent picture. Any debts besides the mortgage and the car stuff?
+
+CLIENT1: [00:05:53] Just the car loan, really.
+
+ADVISOR: [00:05:55] Okay — what’s left on that?
+
+CLIENT1: [00:05:58] About 11,800.
+
+ADVISOR: [00:06:01] And the payment?
+
+CLIENT1: [00:06:03] 390 a month.
+
+ADVISOR: [00:06:06] Right. Any other loans, credit cards carried month to month, anything like that?
+
+CLIENT2: [00:06:11] No, nothing else.
+
+ADVISOR: [00:06:13] Okay. So, looking ahead, what are the big goals? What do you want the money to actually do for you?
+
+CLIENT2: [00:06:20] Honestly, we want to feel like we’re not always one surprise away from stress.
+
+CLIENT1: [00:06:24] Yeah. And we want to start a college fund for both kids — we haven’t started yet.
+
+ADVISOR: [00:06:30] Okay, both children. What sort of number are you thinking?
+
+CLIENT1: [00:06:34] We were thinking 50,000 total... or maybe per kid? No, wait — sorry, I mean we’d like to build toward 50,000 for each one if we can.
+
+CLIENT2: [00:06:43] Yeah, that’s more what we mean. We want to get something regular going each month.
+
+ADVISOR: [00:06:48] Okay, so regular monthly contributions toward education funding. That makes sense. Anything else on the wish list?
+
+CLIENT2: [00:06:55] The house needs work eventually.
+
+ADVISOR: [00:06:58] Right — what kind of work?
+
+CLIENT2: [00:07:00] Roof first, and then the kitchen.
+
+ADVISOR: [00:07:03] Okay. Any rough budget in mind?
+
+CLIENT1: [00:07:06] Probably 30k to 40k... maybe 35k as a working number.
+
+ADVISOR: [00:07:11] And when would you want to do that?
+
+CLIENT1: [00:07:14] In the next two to four years, ideally.
+
+ADVISOR: [00:07:18] Would you rather save for that than borrow for it?
+
+CLIENT2: [00:07:21] Definitely save if we can. I’d rather not add another payment if we can avoid it.
+
+ADVISOR: [00:07:26] Fair enough. And retirement — I know it’s a bit off, but what’s the rough target? When would you like to stop full-time work?
+
+CLIENT1: [00:07:34] I’d like to be somewhere around 67.
+
+CLIENT2: [00:07:37] I’m thinking 65, maybe a little flexible, but around there.
+
+ADVISOR: [00:07:42] So kind of mid-to-late 60s for both of you.
+
+CLIENT1: [00:07:45] Yeah, that’s right.
+
+ADVISOR: [00:07:47] And is the main question whether what you’ve got now is on track?
+
+CLIENT2: [00:07:51] Exactly. We just don’t want to be reckless. We want some growth, but not huge swings — especially with the mortgage and the kids.
+
+ADVISOR: [00:08:00] Mm-hm. So a balanced, long-term approach, but keeping a decent cash buffer and not taking on more risk than you need.
+
+CLIENT1: [00:08:07] Yeah, that sounds like us.
+
+ADVISOR: [00:08:10] Okay. One last thing — if you had to prioritise, is it emergency cash first, then education, then home improvements, or are you trying to split between them all?
+
+CLIENT2: [00:08:20] Emergency cash is already there to an extent, so I think we’d like to start the college fund first, then keep building savings for the house.
+
+CLIENT1: [00:08:28] Yeah, that feels right.
+
+ADVISOR: [00:08:30] Perfect. I’ve got enough to work with for now. I’ll pull this together and we can look at whether the current setup is doing enough or if there’s a cleaner way to split the monthly surplus between savings and investing.
+
+CLIENT2: [00:08:41] Okay, good.
+
+CLIENT1: [00:08:43] Yeah, thanks — that helps.

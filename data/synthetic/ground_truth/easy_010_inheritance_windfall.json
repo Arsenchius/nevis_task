@@ -1,0 +1,192 @@
+{
+  "example_id": "easy_010_inheritance_windfall",
+  "difficulty": "easy",
+  "archetype_id": "inheritance_windfall",
+  "challenge_tags": [
+    "numeric_approximate",
+    "numeric_exact",
+    "objectives_free_form"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "income",
+    "objectives",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "early_career_1996_2004",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Jin",
+        "last_name": "Clark",
+        "date_of_birth": "2001-04-18",
+        "marital_or_relationship_status": "single",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "software engineer",
+        "employer": "a tech company",
+        "start_date": "2023-06",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Iris",
+        "last_name": "Hunt",
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": null,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 92000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$92,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 8000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$8,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "online bank",
+        "current_value": {
+          "normalized_amount": 45000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$45,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "self-directed brokerage",
+        "current_value": {
+          "normalized_amount": 18000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$18,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "savings",
+        "description": "Keep the inheritance in a safe place for now and decide how much to keep as cash versus invest.",
+        "target_amount_or_income": {
+          "normalized_amount": 250000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$250,000"
+        },
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Recently received inheritance and has not decided on allocation yet."
+      },
+      {
+        "category": "investing",
+        "description": "Invest part of the inheritance for long-term growth with a diversified portfolio.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "long term",
+        "priority": "high",
+        "status_or_uncertainty": "Wants advice on suitable risk level and asset mix."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Use the inheritance in a tax-efficient way and understand any tax implications.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to avoid unnecessary tax drag."
+      },
+      {
+        "category": "estate planning",
+        "description": "Set up or review will and beneficiary arrangements after receiving the inheritance.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Has not updated estate documents yet."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable taking some investment risk for long-term growth, but wants to keep a meaningful cash reserve and avoid large losses.",
+      "preferred_strategy": "Diversified mix with a cash buffer and gradual investing of surplus funds.",
+      "key_concerns": [
+        "Protecting the inheritance from unnecessary risk",
+        "Tax efficiency",
+        "Keeping enough cash available for near-term needs",
+        "Making sure estate planning is up to date"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "not mentioned",
+      "power_of_attorney_status": "not mentioned",
+      "notes": null
+    }
+  }
+}

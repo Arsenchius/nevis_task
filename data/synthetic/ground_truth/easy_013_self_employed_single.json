@@ -1,0 +1,264 @@
+{
+  "example_id": "easy_013_self_employed_single",
+  "difficulty": "easy",
+  "archetype_id": "self_employed_single",
+  "challenge_tags": [
+    "numeric_approximate",
+    "numeric_exact",
+    "numeric_range"
+  ],
+  "section_targets": [
+    "personal_details",
+    "employment",
+    "income",
+    "expenses",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives"
+  ],
+  "age_band": "mid_career_1976_1985",
+  "include_mobile_phone": true,
+  "include_email": true,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Xavier",
+        "last_name": "Aguilar",
+        "date_of_birth": "1981-04-17",
+        "marital_or_relationship_status": "single",
+        "mobile_phone": "+1-415-555-0138",
+        "email": "xavier.aguilar@example.com"
+      },
+      "employment": {
+        "status": "self_employed",
+        "occupation": "Self-employed financial consultant",
+        "employer": "Own practice",
+        "start_date": "2016",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": false,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "Consulting income",
+        "amount": {
+          "normalized_amount": 120000.0,
+          "lower_bound": 100000.0,
+          "upper_bound": 140000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $100k to $140k a year"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "Occasional speaking fees",
+        "amount": {
+          "normalized_amount": 5000.0,
+          "lower_bound": 3000.0,
+          "upper_bound": 7000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $3,000-$7,000 per year"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "business expenses",
+        "owner": "client1",
+        "name": "Software, travel, and office costs",
+        "amount": {
+          "normalized_amount": 18000.0,
+          "lower_bound": 15000.0,
+          "upper_bound": 20000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $15,000 to $20,000 a year"
+        },
+        "frequency": "annual",
+        "is_essential": true
+      },
+      {
+        "category": "taxes",
+        "owner": "client1",
+        "name": "Quarterly estimated taxes",
+        "amount": {
+          "normalized_amount": 28000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$28,000"
+        },
+        "frequency": "annual",
+        "is_essential": true
+      },
+      {
+        "category": "housing",
+        "owner": "client1",
+        "name": "Rent",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "Utilities and internet",
+        "amount": {
+          "normalized_amount": 260.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$260"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 45000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$45,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": null,
+        "current_value": {
+          "normalized_amount": 85000.0,
+          "lower_bound": 80000.0,
+          "upper_bound": 90000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $80,000 to $90,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "credit card",
+        "provider": null,
+        "monthly_cost": {
+          "normalized_amount": 350.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$350"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 6200.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$6,200"
+        },
+        "interest_rate": null,
+        "no_debt": null
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "retirement planning",
+        "description": "Build a clearer retirement plan and know whether current savings are enough.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "67",
+        "priority": "high",
+        "status_or_uncertainty": "Uncertain about retirement readiness and income stability."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Reduce tax bill from self-employment income and improve estimated tax planning.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants help with quarterly tax planning and deductions."
+      },
+      {
+        "category": "savings",
+        "description": "Increase emergency savings beyond current cash reserve.",
+        "target_amount_or_income": {
+          "normalized_amount": 60000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$60,000"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Would like a larger buffer because income varies."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

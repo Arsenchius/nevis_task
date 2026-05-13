@@ -1,0 +1,314 @@
+{
+  "example_id": "easy_017_young_high_earner_family",
+  "difficulty": "easy",
+  "archetype_id": "young_high_earner_family",
+  "challenge_tags": [
+    "client2_present",
+    "numeric_exact",
+    "owner_attribution"
+  ],
+  "section_targets": [
+    "personal_details",
+    "household_dependants",
+    "employment",
+    "income",
+    "expenses",
+    "pensions_retirement",
+    "savings_investments",
+    "objectives",
+    "risk_profile_preferences"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": true,
+  "include_email": true,
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Grace",
+        "last_name": "Myers",
+        "date_of_birth": "1990-04-18",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": "+1-415-555-0184",
+        "email": "grace.myers@example.com"
+      },
+      "employment": {
+        "status": "full_time",
+        "occupation": "Senior Product Manager",
+        "employer": "Northstar Software",
+        "start_date": "2018-06",
+        "desired_retirement_age": 60,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Natalie",
+        "last_name": "Sanders",
+        "date_of_birth": "1989-11-02",
+        "marital_or_relationship_status": "cohabiting",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "full_time",
+        "occupation": "Marketing Director",
+        "employer": "BrightWave Media",
+        "start_date": "2017-09",
+        "desired_retirement_age": 62,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Natalie Sanders",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "partner",
+      "children_or_dependants": [
+        {
+          "name": "Liam Myers",
+          "relationship": "child",
+          "date_of_birth": "2020-03-14",
+          "age": 5.0,
+          "dependency_status": "in childcare"
+        },
+        {
+          "name": "Sophie Myers",
+          "relationship": "child",
+          "date_of_birth": "2023-08-09",
+          "age": 2.0,
+          "dependency_status": "in childcare"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 165000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$165,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 20000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$20,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 145000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$145,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "childcare",
+        "owner": "household",
+        "name": "daycare for two children",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$2,400"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "mortgage",
+        "owner": "household",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 3800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$3,800"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "household",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 420.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "household",
+        "name": "family travel and holidays",
+        "amount": {
+          "normalized_amount": 600.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$600"
+        },
+        "frequency": "monthly",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "Northstar Software plan",
+        "current_value": {
+          "normalized_amount": 185000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$185,000"
+        },
+        "contribution": "8% of salary",
+        "has_account_reference_mentioned": false
+      },
+      {
+        "owner": "client2",
+        "account_type": "401(k)",
+        "provider": "BrightWave Media plan",
+        "current_value": {
+          "normalized_amount": 132000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$132,000"
+        },
+        "contribution": "6% of salary",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 68000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$68,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 42000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$42,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "tax efficiency",
+        "description": "Use salary sacrifice and other tax-efficient saving strategies to reduce taxable income.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants to make better use of allowances and workplace retirement contributions."
+      },
+      {
+        "category": "retirement income",
+        "description": "Retire comfortably around age 60 to 62 while maintaining current lifestyle.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "60-62",
+        "priority": "high",
+        "status_or_uncertainty": "Both clients want to understand whether current savings and pension contributions are on track."
+      },
+      {
+        "category": "education funding",
+        "description": "Build and protect savings for childcare and future family costs.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Childcare costs are currently a major cash flow item."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some investment growth but wants to avoid taking unnecessary risk with money needed for the family and near-term goals.",
+      "preferred_strategy": "Balanced long-term investing with a cash reserve for emergencies and childcare costs.",
+      "key_concerns": [
+        "High childcare costs",
+        "Tax efficiency",
+        "Retirement contributions",
+        "Keeping enough accessible cash for the family"
+      ]
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

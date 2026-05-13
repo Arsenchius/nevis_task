@@ -1,0 +1,135 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Emma Collins
+  - id: client
+    name: Hassan Parker
+---
+
+ADVISOR: [00:00:03] Hi Hassan, it’s Emma Collins. Thanks for making time today — can you hear me okay?
+
+CLIENT1: [00:00:09] Yeah, hi Emma. I can hear you fine.
+
+ADVISOR: [00:00:12] Great. Just so I’ve got the basics right, you’re Hassan Parker, is that correct?
+
+CLIENT1: [00:00:17] Yep, that’s me.
+
+ADVISOR: [00:00:19] And what’s your date of birth, Hassan?
+
+CLIENT1: [00:00:23] Eighteenth of April, 1991.
+
+ADVISOR: [00:00:27] Perfect. And are you married, single, divorced…?
+
+CLIENT1: [00:00:31] Married.
+
+ADVISOR: [00:00:33] Okay. And are you working at the moment?
+
+CLIENT1: [00:00:37] Yeah, employed full-time.
+
+ADVISOR: [00:00:40] What do you do?
+
+CLIENT1: [00:00:42] I’m a project manager.
+
+ADVISOR: [00:00:45] Right, and who’s that with?
+
+CLIENT1: [00:00:48] A regional construction firm.
+
+ADVISOR: [00:00:51] Got it. How long have you been there?
+
+CLIENT1: [00:00:54] Since 2018. I think… yeah, 2018.
+
+ADVISOR: [00:00:58] Okay, thanks. And just to understand the family side, do you have any children?
+
+CLIENT1: [00:01:05] Yeah, two. Amina and Omar.
+
+ADVISOR: [00:01:09] Lovely. How old are they?
+
+CLIENT1: [00:01:12] Amina’s five… well, she’s just turned five, and Omar’s three.
+
+ADVISOR: [00:01:18] Okay. And are they both financially dependent on you right now?
+
+CLIENT1: [00:01:23] Yeah, completely.
+
+ADVISOR: [00:01:26] Thanks. And what brings you in today — I understand there’s been some money coming in?
+
+CLIENT1: [00:01:33] Yeah, an inheritance. It’s a bit of a lump sum, and I don’t want to just leave it sitting there doing nothing.
+
+ADVISOR: [00:01:41] Of course. Roughly how much are we talking about?
+
+CLIENT1: [00:01:45] It’s $250,000.
+
+ADVISOR: [00:01:49] Okay, that’s a meaningful amount. And have you already received it, or is it expected shortly?
+
+CLIENT1: [00:01:55] No, I’ve got it already.
+
+ADVISOR: [00:01:58] Right. And alongside that, what’s your day-to-day income looking like from work?
+
+CLIENT1: [00:02:05] Salary is $92,000 a year, gross.
+
+ADVISOR: [00:02:10] Okay.
+
+CLIENT1: [00:02:11] And I get a bonus too — usually around $8,000 a year, gross. Not guaranteed, but that’s the normal range.
+
+ADVISOR: [00:02:19] Got you. So base salary and then a bonus on top. That helps. Have you built up any savings already, or is most of this inheritance the main pot?
+
+CLIENT1: [00:02:29] I do have some savings. About $60,000 in a high-yield savings account at my credit union.
+
+ADVISOR: [00:02:36] Okay, nice. Anything else saved or invested?
+
+CLIENT1: [00:02:41] Yeah, there’s also about $45,000 in a brokerage account.
+
+ADVISOR: [00:02:47] Right.
+
+CLIENT1: [00:02:48] And then, uh, I keep around $150,000 in cash.
+
+ADVISOR: [00:02:53] Okay, thanks for being open. So the main question is really how much you want to keep liquid versus how much you want working harder for you.
+
+CLIENT1: [00:03:01] Exactly. I don’t want to be reckless, but I also don’t want inflation just eating it away.
+
+ADVISOR: [00:03:07] That makes sense. What are you hoping the money does for you over the next few years?
+
+CLIENT1: [00:03:13] Mainly I want to keep enough accessible for family stuff and emergencies, but then invest the rest for long-term growth. I just don’t know how much should stay in savings.
+
+ADVISOR: [00:03:24] Sure. So some cash reserve, then the remainder invested in a diversified way.
+
+CLIENT1: [00:03:29] Yeah, that sounds like what I want. I’m okay with some risk, just not big swings if I can avoid it.
+
+ADVISOR: [00:03:35] Understood. So probably not all-in on anything aggressive — more of a balanced approach.
+
+CLIENT1: [00:03:41] Right, balanced is probably the word.
+
+ADVISOR: [00:03:44] And what’s your thinking around retirement? I know you’re a long way off, but it helps me frame the planning.
+
+CLIENT1: [00:03:50] I’d like to retire at 65.
+
+ADVISOR: [00:03:53] Sixty-five, okay. No pressure to decide that today, but it gives us a target.
+
+CLIENT1: [00:03:58] Yeah, that’s the idea.
+
+ADVISOR: [00:04:00] Do you have a will in place already, or are you still getting that sorted?
+
+CLIENT1: [00:04:06] I do have one, yeah, but I want to update things now that this inheritance has come in.
+
+ADVISOR: [00:04:12] Okay, that’s sensible. And I’d want to make sure beneficiary nominations and the wider estate picture are aligned too.
+
+CLIENT1: [00:04:18] Yeah, exactly. I’ve been meaning to get that cleaned up.
+
+ADVISOR: [00:04:22] Any particular worries on your mind with all this?
+
+CLIENT1: [00:04:26] Mostly making a bad decision with a lump sum. And I want to make sure the kids are looked after, and that I’m not missing any tax issues if I move money around.
+
+ADVISOR: [00:04:36] Absolutely. We can look at the tax-efficient ways to structure it and make sure the money’s positioned sensibly. Nothing needs to be rushed.
+
+CLIENT1: [00:04:43] Good, because I’m a bit overwhelmed by it all, to be honest.
+
+ADVISOR: [00:04:47] Totally fair. We’ll keep it straightforward. I’ll map out a cash reserve, then we can look at a tax-efficient investment plan for the rest, and also make sure your estate documents and beneficiaries are up to date.
+
+CLIENT1: [00:04:58] Yeah, that would be helpful.
+
+ADVISOR: [00:05:00] Great. And just to confirm, you’re tax resident in the US, correct?
+
+CLIENT1: [00:05:05] Yeah, US resident.
+
+ADVISOR: [00:05:08] Perfect. Okay, I’ve got enough to work with for now.

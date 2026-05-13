@@ -1,0 +1,158 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Hao Kim
+  - id: client
+    name: Victoria Graham
+---
+ADVISOR: [00:00:03] Hi, this is Megan Patel. Thanks for jumping on. Am I speaking with Hao Kim and Victoria Graham?
+
+CLIENT1: [00:00:10] Yeah, hi — that's us.
+
+CLIENT2: [00:00:12] Hi.
+
+ADVISOR: [00:00:15] Great. Just so I get the basics right, Hao, can I take your date of birth first?
+
+CLIENT1: [00:00:21] Sure, it's April 18th, 1991.
+
+ADVISOR: [00:00:26] And Victoria, yours?
+
+CLIENT2: [00:00:29] September 3rd, 1992.
+
+ADVISOR: [00:00:33] Perfect. And you're both married, right?
+
+CLIENT1: [00:00:36] Yeah, married.
+
+CLIENT2: [00:00:37] Yep.
+
+ADVISOR: [00:00:40] Okay. Hao, what do you do for work these days?
+
+CLIENT1: [00:00:46] I'm an operations coordinator. I work for a logistics company.
+
+ADVISOR: [00:00:51] Got it. And how long have you been there?
+
+CLIENT1: [00:00:54] Since 2019.
+
+ADVISOR: [00:00:57] Okay. Victoria, how about you?
+
+CLIENT2: [00:01:01] I'm part-time at the public school district. I'm an elementary school aide.
+
+ADVISOR: [00:01:08] Nice, okay. And you've been there since 2021?
+
+CLIENT2: [00:01:12] Yeah, since 2021.
+
+ADVISOR: [00:01:15] And for both of you, are you US tax residents?
+
+CLIENT1: [00:01:19] Yes.
+
+CLIENT2: [00:01:20] Yes, definitely.
+
+ADVISOR: [00:01:23] Great. Let's talk income for a second. Hao, roughly what are you on before tax?
+
+CLIENT1: [00:01:30] It's $52,000 gross a year.
+
+ADVISOR: [00:01:34] Okay, $52k. Victoria, and yours?
+
+CLIENT2: [00:01:39] Mine's part-time, so it's about $1,800 a month gross.
+
+ADVISOR: [00:01:44] Right, monthly. Okay. That helps. And just so I don't assume anything, are there any retirement accounts at all — 401(k), IRA, anything like that?
+
+CLIENT1: [00:01:54] No, nothing right now.
+
+CLIENT2: [00:01:56] Yeah, no retirement account.
+
+ADVISOR: [00:02:00] Okay. No problem. What are the main things you want to tackle first? Usually it's debt, savings, that kind of thing.
+
+CLIENT1: [00:02:08] Debt, honestly. We want to get that under control as fast as we can without making things impossible every month.
+
+CLIENT2: [00:02:15] Yeah, and then after that, build up some savings.
+
+ADVISOR: [00:02:19] Makes sense. When you say savings, are you thinking more of an emergency fund?
+
+CLIENT2: [00:02:24] Yeah, exactly. Like, enough so we're not panicking if something comes up.
+
+CLIENT1: [00:02:28] We'd like to get to around $5,000 eventually.
+
+ADVISOR: [00:02:32] Okay, $5,000 as the target. And what do you have saved right now, roughly?
+
+CLIENT1: [00:02:38] Not much. We have a savings account at Local bank... I think it's about twelve hundred.
+
+CLIENT2: [00:02:43] Yeah, about $1,200.
+
+ADVISOR: [00:02:46] Okay, $1,200. Thanks. And monthly spending — what does the household look like for basics? Rent, utilities, groceries, transport, that sort of thing?
+
+CLIENT1: [00:02:58] Rent is $1,850.
+
+CLIENT2: [00:03:01] Utilities are around $260.
+
+CLIENT1: [00:03:04] Groceries, probably $650.
+
+CLIENT2: [00:03:07] And gas and transit together, like $220.
+
+ADVISOR: [00:03:11] Okay. Any other regular debt payments I should know about?
+
+CLIENT1: [00:03:17] Yeah... credit cards.
+
+ADVISOR: [00:03:19] Okay. Tell me a bit about those.
+
+CLIENT1: [00:03:23] Mine's with Visa. Balance is about $9,200.
+
+ADVISOR: [00:03:29] Okay, and what are you paying on that each month?
+
+CLIENT1: [00:03:32] Around $180 a month.
+
+ADVISOR: [00:03:35] And the rate on that card?
+
+CLIENT1: [00:03:38] 24.9%.
+
+ADVISOR: [00:03:41] Oof, yeah, that's a heavy one. Victoria, do you have anything similar?
+
+CLIENT2: [00:03:46] I have a personal loan through the credit union. Balance is $7,800.
+
+ADVISOR: [00:03:52] Okay, and what's the monthly payment on that?
+
+CLIENT2: [00:03:55] $250 a month.
+
+ADVISOR: [00:03:57] And the interest rate there?
+
+CLIENT2: [00:04:00] 11.5%.
+
+ADVISOR: [00:04:03] Got it. So the big goal is really to get the Visa paid down and the credit union loan handled, then start pushing that emergency fund higher. Is that fair?
+
+CLIENT1: [00:04:12] Yeah, that's exactly it.
+
+CLIENT2: [00:04:14] Yeah.
+
+ADVISOR: [00:04:16] And when you think about paying debt off faster, is the priority just the quickest path, or do you need to keep the monthly payment very steady for cash flow?
+
+CLIENT1: [00:04:25] We need it manageable. I mean, we'd love to pay it off fast, but we can't do something crazy.
+
+CLIENT2: [00:04:30] Right, we don't want to squeeze ourselves too hard.
+
+ADVISOR: [00:04:34] Understood. Just to be clear, you don't own a home right now, correct? No mortgage?
+
+CLIENT1: [00:04:39] No mortgage, yeah.
+
+CLIENT2: [00:04:40] No.
+
+ADVISOR: [00:04:43] Okay. And anything else major I should know about — cars, rental property, business assets, anything like that?
+
+CLIENT1: [00:04:50] No, nothing like that.
+
+CLIENT2: [00:04:52] Just trying to keep up with regular bills, honestly.
+
+ADVISOR: [00:04:56] Fair enough. I appreciate the honesty. It sounds like the immediate picture is pretty straightforward: a lot of income going to essentials and debt, limited savings, and the main thing is getting breathing room.
+
+CLIENT1: [00:05:06] Yeah, that's pretty much it.
+
+CLIENT2: [00:05:08] We just want to stop feeling behind all the time.
+
+ADVISOR: [00:05:12] Yeah, I hear that. Okay, I think I’ve got the key pieces. We can look at a plan that prioritizes the higher-interest debt first and still leaves a buffer so you’re not wiping out the savings you already have.
+
+CLIENT1: [00:05:23] That sounds good.
+
+CLIENT2: [00:05:24] Yeah, that would help a lot.

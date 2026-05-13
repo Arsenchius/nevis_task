@@ -1,0 +1,184 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Faith Hill
+  - id: client
+    name: Virginia Porter
+---
+ADVISOR: [00:00:04] Hi Faith, hi Virginia — Megan Carter here. Thanks for making time today. Can you both hear me okay?
+
+CLIENT1: [00:00:11] Yep, loud and clear.
+
+CLIENT2: [00:00:13] Yes, we can.
+
+ADVISOR: [00:00:15] Great. And just so I’ve got the basics right, Faith Hill and Virginia Porter?
+
+CLIENT1: [00:00:20] That’s right.
+
+CLIENT2: [00:00:21] Mm-hmm.
+
+ADVISOR: [00:00:24] Okay. Why don’t we start with what’s bringing you in. I know we spoke briefly on the intake, but in your own words what are you hoping to get sorted?
+
+CLIENT1: [00:00:33] Mostly retirement. I’m still working, Virginia’s already retired, and we just want to make sure we can... you know, have steady income and not be guessing every month.
+
+CLIENT2: [00:00:44] Yeah, we’d like it to feel simpler than it does now.
+
+ADVISOR: [00:00:48] Sure. That makes sense. Faith, what do you do currently?
+
+CLIENT1: [00:00:53] I’m an operations manager with a regional logistics company.
+
+ADVISOR: [00:00:58] Okay, and how long have you been there?
+
+CLIENT1: [00:01:01] Since 2012.
+
+ADVISOR: [00:01:04] Got it. And are you still full-time?
+
+CLIENT1: [00:01:07] Yes, full-time.
+
+ADVISOR: [00:01:09] And Virginia, you’re retired now?
+
+CLIENT2: [00:01:12] Yes. I used to be an elementary school teacher — public school district — and I’m done with that part of life, thankfully.
+
+ADVISOR: [00:01:20] [laughs lightly] I bet. How long were you teaching?
+
+CLIENT2: [00:01:24] Oh, a long time. I started in 1990.
+
+ADVISOR: [00:01:28] Wow, that’s a solid career. Okay. And just to make sure I’m not mixing dates up — Faith, when were you born?
+
+CLIENT1: [00:01:36] April 12th, 1968.
+
+ADVISOR: [00:01:40] And Virginia?
+
+CLIENT2: [00:01:42] September 3rd, 1966.
+
+ADVISOR: [00:01:46] Perfect. And you’re married, right?
+
+CLIENT1: [00:01:49] Yes.
+
+CLIENT2: [00:01:50] Yep, married.
+
+ADVISOR: [00:01:53] Thanks. Any children or other dependants at home?
+
+CLIENT1: [00:01:57] No, just the two of us.
+
+ADVISOR: [00:01:59] Okay. Let’s talk income for a minute. Faith, what’s your salary roughly?
+
+CLIENT1: [00:02:05] It’s $98,000 gross.
+
+ADVISOR: [00:02:09] $98,000, okay. And are there any other earnings from your side besides salary?
+
+CLIENT1: [00:02:14] No, that’s it for me.
+
+ADVISOR: [00:02:16] Virginia, do you have Social Security and pension coming in?
+
+CLIENT2: [00:02:20] Yes. Social Security is about $28,400 a year gross, and my pension is $18,600 a year.
+
+ADVISOR: [00:02:29] Okay, so about 28.4k and 18.6k. Got it. Does that feel stable enough for your day-to-day, or are you still dipping into savings some months?
+
+CLIENT2: [00:02:39] We’re okay day to day, but we want to be more intentional. Right now it’s kind of... a mix.
+
+CLIENT1: [00:02:44] Yeah, exactly.
+
+ADVISOR: [00:02:47] Understood. Let’s look at spending. What are your main monthly household expenses? Just the big ones first.
+
+CLIENT1: [00:02:55] Property taxes and insurance are $620 a month.
+
+CLIENT2: [00:02:59] Utilities are about $310.
+
+CLIENT1: [00:03:02] Groceries run around $850.
+
+CLIENT2: [00:03:05] And travel and dining out, we budget about $700 a month.
+
+ADVISOR: [00:03:12] Okay. So the essentials are housing, utilities, food — and then you’ve got a bit set aside for enjoying life, which is good. Do those numbers feel pretty steady or do they swing around a lot?
+
+CLIENT1: [00:03:22] Groceries swing a little, but not wildly.
+
+CLIENT2: [00:03:25] Travel can vary, depending on the year.
+
+ADVISOR: [00:03:28] Fair enough. Any mortgage on the house, or are you free and clear?
+
+CLIENT1: [00:03:33] No mortgage.
+
+ADVISOR: [00:03:35] Nice. That definitely helps. Let’s move to retirement accounts, because that’s the main piece here. Faith, do you have a 401(k) through work?
+
+CLIENT1: [00:03:45] Yes — current employer plan. It’s around $412,000.
+
+ADVISOR: [00:03:51] And are you still contributing?
+
+CLIENT1: [00:03:53] Yeah, 6% of salary.
+
+ADVISOR: [00:03:56] Great. Any IRA as well?
+
+CLIENT1: [00:03:59] Yes, with Vanguard. That one’s about $156,000.
+
+ADVISOR: [00:04:05] Okay. Virginia, what do you have in retirement accounts?
+
+CLIENT2: [00:04:09] I’ve got an IRA at Fidelity — about $238,000 — and an annuity through an insurance company, around $175,000.
+
+ADVISOR: [00:04:19] Okay, IRA at Fidelity for about 238k, and an annuity at about 175k. That’s helpful. Do you remember if the annuity is something you’re already using for income, or is it just sitting there for now?
+
+CLIENT2: [00:04:31] It’s there for now. We’re still trying to decide what to do with it.
+
+ADVISOR: [00:04:35] Right, that’s one of the big questions then. And do you have joint savings or brokerage accounts as well?
+
+CLIENT1: [00:04:42] Yes. We have a taxable brokerage with Schwab, about $92,000.
+
+CLIENT2: [00:04:48] And a high-yield savings account at the local credit union with about $48,000.
+
+ADVISOR: [00:04:54] Perfect. So brokerage at Schwab around 92k, savings around 48k. Any other debts besides the house?
+
+CLIENT1: [00:05:01] No, no debt.
+
+CLIENT2: [00:05:03] Thankfully.
+
+ADVISOR: [00:05:05] Good. That makes the planning a lot cleaner. Let me ask the more personal version of the retirement question — what does “retire in the next few years” actually mean to you? Is it about stopping work completely, or just having the freedom to choose?
+
+CLIENT1: [00:05:20] For me, I’d like to retire at 65. So... 2033.
+
+CLIENT2: [00:05:26] She says that now, anyway.
+
+CLIENT1: [00:05:28] [laughs] I mean, I’m serious. I just want to know we can do it safely.
+
+ADVISOR: [00:05:34] That’s fair. So Faith at 65, around 2033. And Virginia, since you’re already retired, are you mostly looking to coordinate around Faith’s timing?
+
+CLIENT2: [00:05:44] Yes, exactly. We want the household income to work once Faith stops.
+
+ADVISOR: [00:05:49] Okay. And what income level would feel comfortable for the two of you in retirement? I heard a target on the intake, but I want to understand what that means in real life.
+
+CLIENT1: [00:05:59] Around $90,000 a year total would feel comfortable.
+
+CLIENT2: [00:06:04] Yeah, that would cover our basics and let us still travel some.
+
+ADVISOR: [00:06:08] Okay, so roughly 90k household income. And the big decision is really how much should come from Social Security, pension, the annuity, and then portfolio withdrawals versus keeping flexibility in the brokerage. Is that the gist?
+
+CLIENT1: [00:06:22] Yes, exactly.
+
+CLIENT2: [00:06:24] That’s what we’re stuck on.
+
+ADVISOR: [00:06:27] Makes sense. I don’t want to overcomplicate it, but I do want to understand what matters most. If the annuity gives more certainty, that can be comforting — but sometimes people prefer to keep more control and pull from investments as needed. When you think about those two options, what feels more important to you?
+
+CLIENT2: [00:06:44] I like the idea of guaranteed income. It just feels... calmer.
+
+CLIENT1: [00:06:49] I’m okay with some flexibility, but I don’t want us to be stressed if the market’s weird right when I retire.
+
+ADVISOR: [00:06:56] Right, so some stability, but not everything locked up. That helps. And just to be clear, you’re both U.S. tax residents?
+
+CLIENT1: [00:07:03] Yes.
+
+CLIENT2: [00:07:04] Yes, US.
+
+ADVISOR: [00:07:07] Great. One last thing I want to make sure I captured correctly: Virginia, your teacher role ended after the public school district job, and Faith is still working with the logistics company. No mortgage, no other debts, and the main goal is to get to a reliable retirement income plan around Faith’s 65th birthday. Does that sound right?
+
+CLIENT1: [00:07:25] Yeah, that’s right.
+
+CLIENT2: [00:07:26] Yep, that’s us.
+
+ADVISOR: [00:07:28] Perfect. I think that gives me a solid base to work from. We can look at how the income pieces fit together and whether the annuity belongs in the plan as guaranteed income or as part of a broader drawdown strategy.
+
+CLIENT1: [00:07:39] Okay. That sounds good.
+
+CLIENT2: [00:07:41] Yeah, thank you.

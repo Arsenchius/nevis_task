@@ -1,0 +1,118 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Harper
+  - id: client
+    name: Anita Castillo
+---
+ADVISOR: [00:00:03] Hi Anita, it’s Megan Harper. Thanks for making the time today—how are you doing?
+
+CLIENT1: [00:00:09] Hi, Megan. I’m okay, a little... I guess a little overwhelmed, honestly. But okay.
+
+ADVISOR: [00:00:15] Yeah, that makes sense. We’ll keep it easy. I’ve got your name as Anita Castillo—did I say that right?
+
+CLIENT1: [00:00:21] Yes, that’s right.
+
+ADVISOR: [00:00:24] Great. And just so I’ve got the basics, what’s your date of birth?
+
+CLIENT1: [00:00:29] It’s April 18th, 1970.
+
+ADVISOR: [00:00:33] Perfect. And you’re single, correct?
+
+CLIENT1: [00:00:37] Yes, single.
+
+ADVISOR: [00:00:39] Okay. And best mobile number for you?
+
+CLIENT1: [00:00:43] It’s 415... 555-0198.
+
+ADVISOR: [00:00:47] Thanks. And are you still in the US for tax purposes?
+
+CLIENT1: [00:00:51] Yes, US.
+
+ADVISOR: [00:00:54] Great. Tell me a little bit about work—what do you do currently?
+
+CLIENT1: [00:00:59] I’m an operations manager. I work for Bayview Logistics.
+
+ADVISOR: [00:01:05] Okay, and how long have you been there?
+
+CLIENT1: [00:01:09] Since 2012. So, a while now.
+
+ADVISOR: [00:01:13] Right, got it. And roughly what do you earn there before tax? Salary plus anything regular, if there is any.
+
+CLIENT1: [00:01:21] Salary is ninety-eight thousand a year. And I usually get a bonus too... about eight thousand.
+
+ADVISOR: [00:01:30] Okay, so about $98,000 salary and around $8,000 bonus. That helps. And you were saying earlier this call is partly about a windfall?
+
+CLIENT1: [00:01:39] Yes. My aunt passed, and there’s an inheritance coming. I don’t have it yet, but it should be somewhere around two hundred thousand to three hundred thousand. I keep hearing different things, so I’m not sure exactly.
+
+ADVISOR: [00:01:53] Understood—so a range for now, somewhere in that $200k to $300k area.
+
+CLIENT1: [00:01:58] Yeah, that’s right. I’d rather be conservative than pretend I know the exact number.
+
+ADVISOR: [00:02:04] Fair enough. We can work with that. Before we get into what to do with it, can I ask about family—anyone financially depending on you?
+
+CLIENT1: [00:02:14] My daughter Sofia is independent now. She’s 22. And my son Mateo is 19, he’s still... yeah, he still needs help.
+
+ADVISOR: [00:02:25] Okay. Sofia is 22 and on her own, and Mateo is 19 and still financially dependent.
+
+CLIENT1: [00:02:31] Exactly.
+
+ADVISOR: [00:02:33] And just so I’m clear, Sofia’s full name is Sofia Castillo, and Mateo’s is Mateo Castillo?
+
+CLIENT1: [00:02:39] Yes.
+
+ADVISOR: [00:02:41] Got it. Looking at your current savings, do you already keep some cash aside?
+
+CLIENT1: [00:02:47] Yeah, I do. I have about forty-two thousand in a high-yield savings account at Ally.
+
+ADVISOR: [00:02:55] Okay, forty-two thousand at Ally in high-yield savings. Anything else in cash or savings?
+
+CLIENT1: [00:03:01] I also have a regular savings account at Chase with fifteen thousand.
+
+ADVISOR: [00:03:07] Okay. And any brokerage or investment account already?
+
+CLIENT1: [00:03:11] Yes, a Vanguard brokerage account. That one’s around one hundred eighty-five thousand.
+
+ADVISOR: [00:03:19] Great, thank you. So you’ve already got some investments in place, which is useful. What’s been on your mind most with the inheritance—what would a good outcome look like for you?
+
+CLIENT1: [00:03:30] I want to do it smartly. I don’t want to just let it sit there forever, but I also don’t want to do something reckless. I’d like growth, but I need to feel like some of it is safe. And I want to make sure I’m not creating a tax headache for myself.
+
+ADVISOR: [00:03:47] Yeah, that’s a very common way to think about it. So the balance is growth, but not too aggressive, and being tax-conscious.
+
+CLIENT1: [00:03:55] Right. And honestly I want some of it accessible too, because things come up. I don’t want to be cash-poor after getting this money.
+
+ADVISOR: [00:04:03] Of course. So keeping a portion liquid matters. When you think about the money, is there any near-term use for it, or is most of it really for the longer term?
+
+CLIENT1: [00:04:13] Mostly longer term. I mean, I’d like to hold some back for emergencies and maybe some family help if needed, but I’m not planning a big purchase or anything.
+
+ADVISOR: [00:04:24] Okay. And on the planning side, I know this is a lot to juggle after a loss, but do you want to review beneficiaries and make sure your estate documents and beneficiary designations are lined up with what you want?
+
+CLIENT1: [00:04:35] Yes, definitely. I want to get all of that in order. I just don’t want a mess later.
+
+ADVISOR: [00:04:41] Makes sense. Better to tidy that up now than leave it hanging. And retirement-wise, are you still thinking age 65?
+
+CLIENT1: [00:04:50] Yes, sixty-five is the goal. I don’t want to work forever.
+
+ADVISOR: [00:04:55] Right, 65. That gives us a useful horizon for how to think about the inheritance. I’m just checking—no spouse or partner I should be factoring in?
+
+CLIENT1: [00:05:04] No, just me.
+
+ADVISOR: [00:05:07] Okay. And one last thing on the inheritance itself: if it lands closer to the low end or the high end of that range, would that change how you’d feel about using some versus investing most of it?
+
+CLIENT1: [00:05:19] Yeah, it probably would. If it’s closer to two hundred, I’d want to be a little more careful. If it’s closer to three hundred, I’d feel better about putting more to work. But either way, I want guidance.
+
+ADVISOR: [00:05:31] That’s helpful. So we’re really talking about a moderate approach—some cash reserve, some diversified investing, and keeping taxes in mind.
+
+CLIENT1: [00:05:40] Yes, that sounds right. I don’t need to swing for the fences.
+
+ADVISOR: [00:05:45] Got it. And just to confirm, your current mobile is 415-555-0198, and you’re Anita Castillo, born April 18th, 1970.
+
+CLIENT1: [00:05:54] Yes.
+
+ADVISOR: [00:05:56] Perfect. I think that gives me the main picture. Next step I’d suggest is we map out what portion should stay liquid, what can be invested for growth, and then we look at the beneficiary and estate side together.
+
+CLIENT1: [00:06:08] Okay. That would be really helpful. I feel a little better having talked it through.
+
+ADVISOR: [00:06:13] Good. We’ll take it one step at a time.

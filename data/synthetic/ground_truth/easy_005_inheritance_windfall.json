@@ -1,0 +1,230 @@
+{
+  "example_id": "easy_005_inheritance_windfall",
+  "difficulty": "easy",
+  "archetype_id": "inheritance_windfall",
+  "challenge_tags": [
+    "numeric_approximate",
+    "numeric_exact",
+    "objectives_free_form"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "household_dependants",
+    "income",
+    "objectives",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "pre_retirement_1960_1975",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Anita",
+        "last_name": "Castillo",
+        "date_of_birth": "1970-04-18",
+        "marital_or_relationship_status": "single",
+        "mobile_phone": "(415) 555-0198",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "Bayview Logistics",
+        "start_date": "2012",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": null,
+        "last_name": null,
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": null,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": [
+        {
+          "name": "Sofia Castillo",
+          "relationship": "child",
+          "date_of_birth": "2002-09-14",
+          "age": 22.0,
+          "dependency_status": "independent"
+        },
+        {
+          "name": "Mateo Castillo",
+          "relationship": "child",
+          "date_of_birth": "2006-01-27",
+          "age": 19.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 98000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$98,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "annual bonus",
+        "amount": {
+          "normalized_amount": 8000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$8,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client1",
+        "source_name": "inheritance expected from aunt's estate",
+        "amount": {
+          "normalized_amount": 250000.0,
+          "lower_bound": 200000.0,
+          "upper_bound": 300000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $200,000 to $300,000"
+        },
+        "frequency": "one_off",
+        "net_or_gross": "unknown"
+      }
+    ],
+    "expenses": [],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 42000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$42,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage account",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 185000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$185,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "savings account",
+        "provider": "Chase",
+        "current_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "investing",
+        "description": "Invest the inheritance in a way that balances growth and safety.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants guidance on where to place the money after it is received."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Minimize taxes on the inheritance and future investment income.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Looking for tax-efficient options."
+      },
+      {
+        "category": "estate planning",
+        "description": "Update beneficiary designations and make sure the inheritance is passed on efficiently.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Wants to review estate planning alongside the windfall."
+      },
+      {
+        "category": "savings",
+        "description": "Keep part of the inheritance in accessible cash for emergencies and near-term needs.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Considering how much to hold back in savings."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable taking some investment risk for long-term growth, but wants to avoid being too aggressive with the inheritance.",
+      "preferred_strategy": "Use a diversified, tax-efficient portfolio with a cash reserve for short-term needs.",
+      "key_concerns": [
+        "Not wanting to lose the inheritance in a market downturn",
+        "Tax efficiency",
+        "Keeping enough cash available",
+        "Making sure beneficiaries and estate documents are up to date"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "not mentioned",
+      "power_of_attorney_status": "not mentioned",
+      "notes": null
+    }
+  }
+}

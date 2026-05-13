@@ -1,0 +1,9 @@
+prompt: |
+  Validate this CIF extraction against the transcript below.
+  Remove any extracted items or fields that are not supported by the transcript.
+
+  Transcript:
+  {transcript}
+
+  Extracted CIF (validate and correct this):
+  {extracted_json}

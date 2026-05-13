@@ -1,0 +1,252 @@
+---
+title: N/A
+date: 2025-06-18
+participants:
+  - id: advisor
+    name: Maya Thompson
+  - id: client
+    name: Eugene Nelson
+  - id: client
+    name: Felix Nash
+---
+ADVISOR: [00:00:03] Hi, is this Eugene and Felix? I’ve got you both on the line.
+
+CLIENT1: [00:00:08] Yeah, hi—this is Eugene.
+
+CLIENT2: [00:00:10] And Felix, yeah. Sorry, we were just—one sec, the dog’s doing something weird.
+
+ADVISOR: [00:00:15] No worries at all. Thanks both. I’m Maya, and I’ll just do a quick fact-find so I can understand the full picture. If I miss anything, just jump in and correct me. Sound okay?
+
+CLIENT1: [00:00:24] Yep, that’s fine.
+
+CLIENT2: [00:00:25] Yeah.
+
+ADVISOR: [00:00:28] Great. Eugene, can I start with you? Full name for me?
+
+CLIENT1: [00:00:32] Eugene Nelson.
+
+ADVISOR: [00:00:34] And Felix, same for you?
+
+CLIENT2: [00:00:36] Felix Nash.
+
+ADVISOR: [00:00:39] Perfect. And dates of birth—Eugene first?
+
+CLIENT1: [00:00:43] Uh, 18th of April, 2001.
+
+ADVISOR: [00:00:47] Got it. And Felix?
+
+CLIENT2: [00:00:50] Second of November, 1999.
+
+ADVISOR: [00:00:54] Thanks. And you two are living together, right?
+
+CLIENT1: [00:00:57] Yeah, cohabiting.
+
+CLIENT2: [00:00:59] Partner, yeah.
+
+ADVISOR: [00:01:02] Okay. Eugene, what’s the best email for you?
+
+CLIENT1: [00:01:06] eugene dot nelson at example dot com.
+
+ADVISOR: [00:01:10] Great, thanks. And Felix, do you want to share an email too, or leave that off for now?
+
+CLIENT2: [00:01:15] Leave it off for now.
+
+ADVISOR: [00:01:18] Fine. And just checking, no mobile number you want me to use today?
+
+CLIENT1: [00:01:22] Not today, no.
+
+ADVISOR: [00:01:24] Okay. So Eugene, are you both working at the moment?
+
+CLIENT1: [00:01:28] Yeah, both employed.
+
+ADVISOR: [00:01:30] Eugene, what do you do?
+
+CLIENT1: [00:01:33] I’m an operations analyst.
+
+ADVISOR: [00:01:36] And who are you with?
+
+CLIENT1: [00:01:38] A logistics firm.
+
+ADVISOR: [00:01:41] Right. How long have you been there?
+
+CLIENT1: [00:01:44] Since 2023.
+
+ADVISOR: [00:01:47] Okay. And ballpark salary before tax?
+
+CLIENT1: [00:01:51] Sixty-two thousand.
+
+ADVISOR: [00:01:53] 62k gross, got it. Any bonus?
+
+CLIENT1: [00:01:57] Yeah, about three grand a year.
+
+ADVISOR: [00:02:00] Nice. Felix, what about you?
+
+CLIENT2: [00:02:03] I’m a graphic designer. It’s kind of a mix—freelance and contract work.
+
+ADVISOR: [00:02:09] Okay, and roughly how long have you been doing that?
+
+CLIENT2: [00:02:12] Since 2022, I guess. Yeah, 2022.
+
+ADVISOR: [00:02:16] And the income from that, is it fairly steady or does it swing around?
+
+CLIENT2: [00:02:21] It swings a bit. I’d say about one point five to two grand a month, gross.
+
+ADVISOR: [00:02:27] About $1.5k to $2k a month, okay. That helps. Eugene, same question on tax residency—US resident for tax?
+
+CLIENT1: [00:02:35] Yeah, both of us are in the US.
+
+CLIENT2: [00:02:37] Yep.
+
+ADVISOR: [00:02:39] Good. Now, just talk me through monthly living costs as a household. Rent first?
+
+CLIENT1: [00:02:46] Rent’s 1,850.
+
+ADVISOR: [00:02:49] 1850 monthly, okay. Utilities?
+
+CLIENT2: [00:02:53] About 220.
+
+ADVISOR: [00:02:56] And groceries?
+
+CLIENT1: [00:02:58] Six hundred, give or take.
+
+ADVISOR: [00:03:01] Okay, 600. Felix, I’ve got a note here on a bit of everyday spending—rideshares and coffee?
+
+CLIENT2: [00:03:08] Yeah, too much coffee probably. Around 160 a month.
+
+ADVISOR: [00:03:12] That’s honest at least. Right, let’s talk savings. Do you have anything set aside together?
+
+CLIENT1: [00:03:18] Yeah, a high-yield savings account.
+
+ADVISOR: [00:03:21] Which provider?
+
+CLIENT2: [00:03:22] Ally.
+
+ADVISOR: [00:03:24] And roughly what’s in there?
+
+CLIENT1: [00:03:27] Twelve thousand six hundred.
+
+ADVISOR: [00:03:30] 12,600, got it. Eugene, any other investing accounts in your name?
+
+CLIENT1: [00:03:36] Yeah, a brokerage at Fidelity.
+
+ADVISOR: [00:03:39] Okay, and about how much is in that?
+
+CLIENT1: [00:03:42] Hmm—roughly four to six thousand. I think around five, but it moves.
+
+ADVISOR: [00:03:47] Roughly 4k to 6k, around 5k, fine. And retirement accounts—Eugene, do you have a 401(k) through work?
+
+CLIENT1: [00:03:55] Yeah, current employer plan.
+
+ADVISOR: [00:03:58] Any idea of the current balance?
+
+CLIENT1: [00:04:01] About 14,500.
+
+ADVISOR: [00:04:04] And what are you putting in?
+
+CLIENT1: [00:04:06] Five percent.
+
+ADVISOR: [00:04:08] Five percent, okay. Felix, what about you?
+
+CLIENT2: [00:04:12] I’ve got a Roth IRA with Vanguard.
+
+ADVISOR: [00:04:16] Great. Rough value?
+
+CLIENT2: [00:04:18] I think 8.2k.
+
+ADVISOR: [00:04:20] And contributions?
+
+CLIENT2: [00:04:22] Two-fifty a month.
+
+ADVISOR: [00:04:25] Perfect. Any other accounts like that—no need to go into every tiny thing, just the main ones?
+
+CLIENT1: [00:04:31] No, that’s basically it.
+
+CLIENT2: [00:04:33] Yeah.
+
+ADVISOR: [00:04:35] Okay. Debts next. Eugene, student loans at all?
+
+CLIENT1: [00:04:40] Yeah, federal student aid.
+
+ADVISOR: [00:04:43] Monthly payment?
+
+CLIENT1: [00:04:45] 210.
+
+ADVISOR: [00:04:47] And balance?
+
+CLIENT1: [00:04:49] Eighteen thousand seven hundred fifty.
+
+ADVISOR: [00:04:52] Okay. Interest rate on that?
+
+CLIENT1: [00:04:55] 4.5 percent.
+
+ADVISOR: [00:04:57] Got it. Any other debts you’re actively paying?
+
+CLIENT2: [00:05:01] We’ve got a Visa card.
+
+ADVISOR: [00:05:04] Joint card?
+
+CLIENT1: [00:05:05] Yeah, joint.
+
+ADVISOR: [00:05:07] Monthly payment on that?
+
+CLIENT2: [00:05:09] Ninety-five.
+
+ADVISOR: [00:05:11] And balance?
+
+CLIENT1: [00:05:13] Two thousand four hundred.
+
+ADVISOR: [00:05:16] Okay. Thanks. Let me ask a bit more about goals, because that’ll shape what we do. What’s the big thing you’re both trying to work toward?
+
+CLIENT1: [00:05:24] A first home, honestly.
+
+CLIENT2: [00:05:26] Yeah. We’d like to buy eventually.
+
+ADVISOR: [00:05:29] Okay. What sort of timeframe are you thinking?
+
+CLIENT1: [00:05:33] Maybe two to three years? I keep going back and forth.
+
+CLIENT2: [00:05:36] Yeah, same. We’re not sure if we should keep renting a bit longer or try sooner.
+
+ADVISOR: [00:05:41] That makes sense. And roughly what deposit number would feel realistic?
+
+CLIENT1: [00:05:46] Forty thousand.
+
+ADVISOR: [00:05:48] Forty grand, okay. That’s helpful. Anything else on the life side that’s important to get in order while you’re doing this—just the practical stuff, family, paperwork, that sort of thing?
+
+CLIENT2: [00:05:58] Yeah, we want to get our affairs in order, basically.
+
+CLIENT1: [00:06:01] Yeah, and make sure beneficiaries are right.
+
+ADVISOR: [00:06:05] Understood. And on retirement, Eugene, do you have a target age in mind?
+
+CLIENT1: [00:06:11] Sixty-five.
+
+ADVISOR: [00:06:13] Sixty-five, okay. And is the main question there just whether you’re on track?
+
+CLIENT1: [00:06:18] Exactly. I want a clearer projection. If we can do more, great, but I don’t want to overdo it and then feel squeezed.
+
+ADVISOR: [00:06:25] Right, that balance matters. Felix, anything similar for you, or are you mostly focused on the home side right now?
+
+CLIENT2: [00:06:32] Mostly the home side, but I’d like retirement to not be a panic later, you know?
+
+ADVISOR: [00:06:37] Yeah, absolutely. One thing I should ask: are you comfortable with a mix of cash and diversified investments for the longer-term stuff, as long as we keep enough accessible for the house goal?
+
+CLIENT1: [00:06:48] Yeah, that sounds about right.
+
+CLIENT2: [00:06:50] As long as we’re not doing anything wild.
+
+ADVISOR: [00:06:53] No, understood. We can keep it pretty balanced. And just to be clear, Eugene, you’re expecting to stay with the logistics firm for now?
+
+CLIENT1: [00:07:01] Yeah, for now. No plans to change.
+
+ADVISOR: [00:07:04] Okay. Felix, and your contract work—does that feel like the right setup at the moment?
+
+CLIENT2: [00:07:09] Yeah, it’s messy, but it works.
+
+ADVISOR: [00:07:12] Fair enough. Let me just check I’ve got the key pieces: Eugene Nelson, born 18 April 2001, Felix Nash, born 2 November 1999, you’re partners living together, both US tax residents, and you’ve got the home deposit, retirement, and getting your paperwork sorted as the main priorities. Does that sound right?
+
+CLIENT1: [00:07:28] Yeah, that sounds right.
+
+CLIENT2: [00:07:30] Yep.
+
+ADVISOR: [00:07:32] Great. I’ll use that to put together the next steps and we can go from there.

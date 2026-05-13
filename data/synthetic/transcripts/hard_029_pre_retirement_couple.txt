@@ -1,0 +1,224 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Keiko Griffin
+  - id: client
+    name: Jose Ingram
+---
+ADVISOR: [00:00:03] Hi Keiko, hi Jose — can you both hear me okay?
+
+CLIENT1: [00:00:07] Yeah, loud and clear.
+
+CLIENT2: [00:00:09] Yep, we're good.
+
+ADVISOR: [00:00:12] Great. I'm Megan. Thanks for making the time. I know these calls can feel a bit like a laundry list, so I'll try to keep it conversational. If I miss something, just jump in, okay?
+
+CLIENT1: [00:00:21] Sounds good.
+
+ADVISOR: [00:00:23] Perfect. Keiko, let's start with you. Full name is Keiko Griffin, right?
+
+CLIENT1: [00:00:28] Yes, Keiko Griffin.
+
+ADVISOR: [00:00:30] And your date of birth?
+
+CLIENT1: [00:00:33] Eighteen April, nineteen sixty-five. Sorry, I always say it the other way around — 4/18/65.
+
+ADVISOR: [00:00:40] Got it, 18 April 1965. And you're married, and Jose is here with you?
+
+CLIENT1: [00:00:46] Yes, married.
+
+CLIENT2: [00:00:47] That's me.
+
+ADVISOR: [00:00:49] Great. Jose, I'll come back to you in a second. Keiko, best mobile number for you?
+
+CLIENT1: [00:00:55] It's 415-555-0138.
+
+ADVISOR: [00:00:59] Thanks. And email?
+
+CLIENT1: [00:01:01] keiko dot griffin at example dot com.
+
+ADVISOR: [00:01:05] Perfect. And just to confirm, you're a US tax resident, right?
+
+CLIENT1: [00:01:10] Yes, US.
+
+ADVISOR: [00:01:12] Great. What do you do at the moment?
+
+CLIENT1: [00:01:15] I'm an operations manager. At Bayview Logistics.
+
+ADVISOR: [00:01:20] Bayview Logistics — and how long have you been there?
+
+CLIENT1: [00:01:23] Since 2008. So... quite a while.
+
+ADVISOR: [00:01:27] Yeah, that counts. And are you still working full-time?
+
+CLIENT1: [00:01:31] Yes, full-time.
+
+ADVISOR: [00:01:33] Okay. Roughly what does your salary look like?
+
+CLIENT1: [00:01:37] Um, about 95 to 100 thousand a year gross. It's around there.
+
+ADVISOR: [00:01:42] About 95 to 100k gross, got it. And when would you ideally like to retire?
+
+CLIENT1: [00:01:48] I'd like to aim for 67. So... 2032, if things go to plan.
+
+ADVISOR: [00:01:55] Okay. 67, around 2032. And Jose, if I can switch to you for a minute — full name Jose Ingram?
+
+CLIENT2: [00:02:01] Yep.
+
+ADVISOR: [00:02:02] And date of birth?
+
+CLIENT2: [00:02:04] November 2nd, 1963. Sixty-three.
+
+ADVISOR: [00:02:08] Thanks. And you're retired now, is that right?
+
+CLIENT2: [00:02:11] Yeah, retired now.
+
+ADVISOR: [00:02:13] What was your line of work?
+
+CLIENT2: [00:02:15] Electrician. Former electrician, mostly union contractor work.
+
+ADVISOR: [00:02:20] And how long were you doing that for?
+
+CLIENT2: [00:02:23] Since 1987. Long enough to know every bad crawl space in the city.  
+CLIENT1: [00:02:28] [laughs]
+
+ADVISOR: [00:02:29] I believe it. And just to confirm, Jose, you're also a US tax resident?
+
+CLIENT2: [00:02:34] Yes.
+
+ADVISOR: [00:02:36] Thanks. When did you stop working full-time, roughly?
+
+CLIENT2: [00:02:39] I was planning on 65. That was the target. Around 2028.
+
+ADVISOR: [00:02:44] Okay, 65 and around 2028. And for you, Jose, do you have a mobile or email you want us to use, or not needed?
+
+CLIENT2: [00:02:50] No, that's fine. You can just use Keiko's.
+
+ADVISOR: [00:02:53] No problem. Okay — I want to understand the household picture a bit. Any children or dependants at home?
+
+CLIENT1: [00:03:00] No, none.
+
+ADVISOR: [00:03:02] Okay, no dependants. Let's talk income and cash flow. Jose, you're already retired, so what does income look like for you now?
+
+CLIENT2: [00:03:10] Social Security and a pension. Social Security is around 2,800 to 2,900 a month... gross. And the pension is 1,200 a month.
+
+ADVISOR: [00:03:21] Around $2,800 to $2,900 a month from Social Security, and $1,200 a month pension. Great. Keiko, yours is the salary we talked about.
+
+CLIENT1: [00:03:28] Yeah.
+
+ADVISOR: [00:03:29] And roughly what are your regular monthly living costs? I'm thinking housing, utilities, the usual household spending.
+
+CLIENT1: [00:03:36] Housing is easy — we rent, so no mortgage.
+
+ADVISOR: [00:03:40] Okay, no mortgage.
+
+CLIENT2: [00:03:41] Yeah, just rent.
+
+ADVISOR: [00:03:43] And utilities, internet, that kind of thing?
+
+CLIENT1: [00:03:46] Roughly 400 to 450 a month. It varies a bit.
+
+ADVISOR: [00:03:50] Roughly 400 to 450 monthly, got it. Anything else that's a big planned cost, maybe travel or something you both want to do in retirement?
+
+CLIENT2: [00:03:58] Travel, definitely.
+
+CLIENT1: [00:03:59] Yeah, we want to do a bit more once I'm done working.
+
+ADVISOR: [00:04:02] Makes sense. What sort of number do you have in mind for that, even if it's a rough range?
+
+CLIENT1: [00:04:07] Maybe about 5k to 7k a year. Not crazy, just enough to actually go somewhere.
+
+ADVISOR: [00:04:13] About 5 to 7 thousand a year for travel. Okay. And if I asked the big question — what would a comfortable retirement income look like for the two of you together?
+
+CLIENT1: [00:04:24] I think... around 8,500 to 9,500 a month. Something in that zone.
+
+CLIENT2: [00:04:29] Yeah, that sounds about right.
+
+ADVISOR: [00:04:31] Okay, so around 8,500 to 9,500 a month to cover essentials and still have some room for travel. That helps. Now, on the assets side, let's start with Keiko's workplace plan. Do you have a 401(k) through Bayview?
+
+CLIENT1: [00:04:45] Yes, I do.
+
+ADVISOR: [00:04:47] And ballpark, what is it worth today?
+
+CLIENT1: [00:04:50] Um... I think around 400 to 420 thousand. Somewhere in there.
+
+ADVISOR: [00:04:56] Around 400 to 420k. And are you still contributing?
+
+CLIENT1: [00:04:59] Yes, I put in 6%, and they match 4%.
+
+ADVISOR: [00:05:03] Okay, 6% from you and 4% employer match. Any other retirement accounts in your name?
+
+CLIENT1: [00:05:09] I have an IRA at Vanguard. Roughly 180 to 190 thousand.
+
+ADVISOR: [00:05:15] Vanguard IRA, roughly 180 to 190k. Thanks. Jose, what about you — any retirement accounts in your name?
+
+CLIENT2: [00:05:22] Yeah, I have an IRA with Fidelity. I think it's about 250 to 270 thousand.
+
+ADVISOR: [00:05:28] About 250 to 270k in the Fidelity IRA.
+
+CLIENT2: [00:05:31] And there's an annuity too. Through an insurance company. That's close to 140 to 150 thousand.
+
+ADVISOR: [00:05:39] Okay, annuity with an insurance company, around 140 to 150k. Thanks. Any taxable investment accounts between the two of you?
+
+CLIENT1: [00:05:48] Yes, joint brokerage at Schwab. Around 90 to 100 thousand.
+
+ADVISOR: [00:05:53] Joint Schwab brokerage, around 90 to 100k. And any cash savings?
+
+CLIENT2: [00:05:58] We keep a high-yield savings account at the credit union. Roughly 35 to 40 thousand.
+
+ADVISOR: [00:06:05] Roughly 35 to 40k in the high-yield savings. Good. And your home — do you own the primary residence jointly?
+
+CLIENT1: [00:06:12] Yes, jointly.
+
+ADVISOR: [00:06:14] Roughly what do you think it's worth?
+
+CLIENT2: [00:06:16] Maybe 700 to 740 thousand. Somewhere around there.
+
+ADVISOR: [00:06:21] About 700 to 740k, okay. And just to be clear, no mortgage on that property, right?
+
+CLIENT1: [00:06:26] Right, no mortgage.
+
+ADVISOR: [00:06:28] Perfect. I want to ask a little about how you're thinking emotionally about retirement, because the numbers are only half of it. What worries you most — is it income being steady, inflation, not wanting to be locked in, or something else?
+
+CLIENT1: [00:06:41] Probably steady income. And inflation. I don't want to feel like we can take one trip and then suddenly everything's too tight.
+
+CLIENT2: [00:06:48] Yeah, and I don't want to be stuck if something comes up. That's the thing with annuities... I like the idea of guaranteed money, but I don't love losing flexibility.
+
+ADVISOR: [00:06:58] Right, so you want stability, but not at the cost of all your flexibility. That makes sense. Would it be fair to say you're both leaning toward a balanced setup — maybe some guaranteed income, some money still invested and drawing down gradually?
+
+CLIENT1: [00:07:11] Yeah, that's exactly the debate.
+
+CLIENT2: [00:07:13] We're not decided yet.
+
+ADVISOR: [00:07:15] Okay. And when it comes to the Social Security side, Jose, you mentioned 65 as the target. Keiko, you were thinking of waiting longer if cash flow allows?
+
+CLIENT1: [00:07:25] Yes. I'd rather wait if we can.
+
+CLIENT2: [00:07:27] I was thinking 65 because, you know, why not use it.
+
+CLIENT1: [00:07:31] Because you're impatient.  
+CLIENT2: [00:07:33] Hey — practical.
+
+ADVISOR: [00:07:35] [laughs] Fair enough. So Jose is considering claiming around 2028 at 65, and Keiko would prefer to wait longer if the household cash flow supports it. That's helpful. Anything else you want me to know about what a "successful" retirement looks like for you two?
+
+CLIENT1: [00:07:50] Honestly, just not having to worry every month.
+
+CLIENT2: [00:07:53] And being able to travel a bit, see our friends, maybe not go too wild but enough.
+
+ADVISOR: [00:07:58] That sounds reasonable. Last couple of things — do you want me to focus more on building a reliable paycheck, or keeping options open in case you change your mind later?
+
+CLIENT1: [00:08:07] Reliable paycheck first, but not at the expense of everything else.
+
+CLIENT2: [00:08:11] Yeah, stable income with some growth. That's probably the best way to say it.
+
+ADVISOR: [00:08:15] Okay. I think I’ve got the main picture. I’ll put together a comparison of the income side — what a more guaranteed approach might look like versus keeping more invested and drawing it down over time. Then we can talk through which tradeoff feels better.
+
+CLIENT1: [00:08:27] Good. I think that'll help.
+
+CLIENT2: [00:08:29] Yeah, because right now we're kind of halfway between the two.
+
+ADVISOR: [00:08:32] No problem. We'll work through it.

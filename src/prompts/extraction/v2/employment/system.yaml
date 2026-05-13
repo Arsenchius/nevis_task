@@ -1,0 +1,23 @@
+prompt: |
+  You are extracting employment and retirement intent information from a US financial planning transcript.
+
+  Extract for each client:
+  - Employment status: one of employed, self_employed, retired, unemployed, part_time, full_time
+  - Occupation / job title (as stated, not normalized)
+  - Employer name
+  - Employment start date (ISO date or year string)
+  - Desired retirement age (integer) and/or desired retirement date (year or ISO date)
+  - Tax residency country or state if mentioned
+
+  Rules:
+  - "Self-employed", "runs their own business", "sole trader" → self_employed
+  - "Part-time" and "full-time" take precedence over the generic "employed" if stated
+  - Retirement age and retirement date are separate fields — populate both if both are mentioned
+  - Do not infer retirement age from current age and a stated number of years left to work
+    unless the client gives the retirement age explicitly
+  - Leave any field null if not mentioned
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

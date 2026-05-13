@@ -1,0 +1,16 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "suppression_leak"
+  ],
+  "coverage_issues": [],
+  "suppression_leaks": [
+    {
+      "section": "loans_mortgages",
+      "timestamp": "00:03:26",
+      "offending_text": "The mortgage is 2,850 a month."
+    }
+  ],
+  "hallucinations": [],
+  "localization_issues": []
+}

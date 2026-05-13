@@ -1,0 +1,246 @@
+---
+title: N/A
+date: 2026-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Vikram Hayes
+  - id: client
+    name: Priya Sherman
+---
+ADVISOR: [00:00:03] Hi, it’s Megan Carter speaking — thanks for making the time. Am I speaking with Vikram and Priya?
+
+CLIENT1: [00:00:09] Yeah, hi — Vikram here.
+
+CLIENT2: [00:00:11] And Priya, yep. Sorry, one of the kids is banging a spoon, so if you hear noise…
+
+ADVISOR: [00:00:16] No problem at all, I’ve got two kids myself, so I’m used to the background soundtrack. Right, let’s just get the basics first. Vikram, can I take your full name and date of birth?
+
+CLIENT1: [00:00:27] Sure — Vikram Hayes. Date of birth is the 18th of April, 1991.
+
+ADVISOR: [00:00:35] Great. And Priya, same for you?
+
+CLIENT2: [00:00:39] Priya Sherman. I’m 3rd of September, 1992.
+
+ADVISOR: [00:00:45] Lovely. And you’re married, is that right?
+
+CLIENT1: [00:00:48] Yeah, married.
+
+CLIENT2: [00:00:49] Yep.
+
+ADVISOR: [00:00:52] And just to confirm, are you both US tax residents?
+
+CLIENT1: [00:00:56] Yes, definitely.
+
+CLIENT2: [00:00:57] Yes, US.
+
+ADVISOR: [00:01:01] Okay. What do you both do day to day? Vikram, maybe start with you.
+
+CLIENT1: [00:01:07] I’m a product manager. I work for a tech startup.
+
+ADVISOR: [00:01:12] Right, product manager at a tech startup. And how long have you been there?
+
+CLIENT1: [00:01:17] Since 2019. Started in 2019.
+
+ADVISOR: [00:01:21] Good. Priya?
+
+CLIENT2: [00:01:24] I’m a physical therapist at a hospital outpatient clinic.
+
+ADVISOR: [00:01:29] Nice. And when did you start there?
+
+CLIENT2: [00:01:32] 2020. Yeah, sometime in 2020.
+
+ADVISOR: [00:01:36] Great. And just so I’m clear, you’re both employed currently?
+
+CLIENT1: [00:01:40] Yes.
+
+CLIENT2: [00:01:41] Yep.
+
+ADVISOR: [00:01:44] Okay. Do either of you have a planned retirement age in mind? I know that can sound very far away, but it helps to know the shape of things.
+
+CLIENT1: [00:01:52] For me, probably 65. That feels... sensible.
+
+CLIENT2: [00:01:56] I haven’t really pinned mine down. I mean, not yet.
+
+ADVISOR: [00:02:00] Fair enough, no need to force it. Vikram, 65 noted. And Priya, we can leave yours open for now. Any children or dependants at home?
+
+CLIENT1: [00:02:10] Yeah, two kids.
+
+CLIENT2: [00:02:12] Aarav and Mina.
+
+ADVISOR: [00:02:14] Okay, and how old are they?
+
+CLIENT2: [00:02:17] Aarav is 4. Mina is 2.
+
+CLIENT1: [00:02:20] Yeah, 4 and 2.
+
+ADVISOR: [00:02:23] Got it. And they’re financially dependent on you both, obviously.
+
+CLIENT1: [00:02:28] Yeah.
+
+CLIENT2: [00:02:29] Absolutely.
+
+ADVISOR: [00:02:32] I can hear the family chaos in the background, so that all tracks. Let’s talk about income. Roughly what are you each bringing in before tax?
+
+CLIENT1: [00:02:42] Mine’s about 118k a year gross.
+
+ADVISOR: [00:02:46] 118,000 gross, okay.
+
+CLIENT2: [00:02:49] And mine is 92,000 gross.
+
+ADVISOR: [00:02:53] Great. Any other income sources, bonuses, side work, anything like that, or is it mainly salary?
+
+CLIENT1: [00:02:59] Mainly salary.
+
+CLIENT2: [00:03:00] Yeah, mostly salary.
+
+ADVISOR: [00:03:04] Okay. I’m going to ask about spending a bit now — not to be nosy, just so I can understand what’s fixed and what’s flexible. What are your main monthly outgoings?
+
+CLIENT1: [00:03:15] The big ones are housing, daycare, and then utilities and internet.
+
+ADVISOR: [00:03:20] Right. Housing first — I don’t need the whole story, just the monthly number if you know it.
+
+CLIENT1: [00:03:26] The mortgage is 2,850 a month.
+
+ADVISOR: [00:03:30] Okay, 2,850 monthly.
+
+CLIENT2: [00:03:33] Daycare is 1,800 a month. That one hurts a bit.
+
+ADVISOR: [00:03:37] Yeah, I can imagine. And utilities plus internet?
+
+CLIENT1: [00:03:41] About 420 a month.
+
+ADVISOR: [00:03:44] Great. Anything else that’s a regular must-pay, or are those the main essentials?
+
+CLIENT2: [00:03:49] Those are the main ones.
+
+ADVISOR: [00:03:52] And then on the more flexible side, do you spend much on travel as a family?
+
+CLIENT1: [00:03:59] Yeah, we try to. Probably around 5k to 7k a year.
+
+ADVISOR: [00:04:04] Around five to seven thousand annually, okay. That’s helpful. Now, I know the reason we’re talking is the inheritance — can you tell me roughly what came through?
+
+CLIENT1: [00:04:17] Yeah, from my aunt’s estate. It’s... I keep saying 300, but that’s not quite right.
+
+ADVISOR: [00:04:24] Okay, no worries.
+
+CLIENT1: [00:04:25] More like between 250 and 300k. About 275k, I’d say.
+
+CLIENT2: [00:04:31] Yeah, that’s the number we’ve been using.
+
+ADVISOR: [00:04:34] Got it — roughly 275,000, maybe a bit either side. And that’s in cash, correct?
+
+CLIENT1: [00:04:40] Yes, inherited cash from my aunt’s estate.
+
+ADVISOR: [00:04:44] Understood. That kind of windfall can be exciting and stressful at the same time. What’s the biggest thing on your mind with it?
+
+CLIENT2: [00:04:53] Honestly, not messing it up.
+
+CLIENT1: [00:04:55] Yeah. We don’t want to lose it by doing something stupid.
+
+ADVISOR: [00:05:00] Completely fair. So the goal is to be sensible, keep it tax-efficient, and not take unnecessary risk?
+
+CLIENT1: [00:05:08] Exactly.
+
+CLIENT2: [00:05:09] We want some growth, but not a roller coaster.
+
+ADVISOR: [00:05:13] Right, sensible and diversified, not swinging for the fences. Are you thinking of holding some back in cash for near-term needs?
+
+CLIENT1: [00:05:20] Yes. Definitely some in cash.
+
+CLIENT2: [00:05:22] We just don’t want to put all of it into the market on day one.
+
+ADVISOR: [00:05:26] That makes sense. How much of a cash buffer would feel comfortable for you as a family?
+
+CLIENT2: [00:05:33] We’ve been thinking bigger emergency fund. Maybe 60k?
+
+CLIENT1: [00:05:37] Yeah, around 60,000 would make me breathe easier.
+
+ADVISOR: [00:05:41] Okay, so a target emergency fund of about 60,000. You’ve currently got some savings already, right?
+
+CLIENT1: [00:05:49] Yes, about 48,000 in a high-yield savings account.
+
+ADVISOR: [00:05:53] 48,000 in high-yield savings, got it. And what about longer-term investing — do you already have anything set up there?
+
+CLIENT1: [00:06:01] I do have a brokerage account.
+
+ADVISOR: [00:06:04] Okay.
+
+CLIENT1: [00:06:05] It’s around 86k total. About 12,000 is cash, and 74,000 is invested.
+
+ADVISOR: [00:06:12] Perfect, that helps. Any provider name on that brokerage, or is it just with one of the big firms?
+
+CLIENT1: [00:06:18] I’ve got the statement for it, but I’d rather not get into the firm name right now unless we need it.
+
+ADVISOR: [00:06:23] That’s fine, no problem. And do you have anything set aside for the kids specifically?
+
+CLIENT2: [00:06:30] Yes, a 529 plan.
+
+ADVISOR: [00:06:33] Okay, a 529 plan. How much is in that roughly?
+
+CLIENT2: [00:06:36] About 22,000.
+
+ADVISOR: [00:06:39] Great. Any other assets I should know about — house, property, anything like that?
+
+CLIENT1: [00:06:46] Our primary residence.
+
+ADVISOR: [00:06:48] Okay.
+
+CLIENT1: [00:06:49] I think it’s worth about 640,000.
+
+ADVISOR: [00:06:52] 640,000 for the home, got it. And just so I’m not missing anything, do either of you have any retirement accounts you want to discuss today?
+
+CLIENT1: [00:07:00] No, not really.
+
+CLIENT2: [00:07:01] Yeah, not today.
+
+ADVISOR: [00:07:04] Fine, we can leave that alone. What I do want to understand is the family side and the paperwork side. Have you thought about wills and who should look after things if something happened?
+
+CLIENT1: [00:07:14] We need to update our wills.
+
+CLIENT2: [00:07:16] Yeah, definitely need to update them after this.
+
+ADVISOR: [00:07:20] Okay. And is the main reason just making sure the kids are protected?
+
+CLIENT2: [00:07:24] Exactly. We want to make sure everything passes properly and the children are covered.
+
+CLIENT1: [00:07:29] And beneficiaries, too — we need to review those.
+
+ADVISOR: [00:07:33] Right, beneficiary arrangements and wills both need a fresh look. Do you have a trust in place at the moment, or is that something you’re just exploring?
+
+CLIENT1: [00:07:41] No trust mentioned, not really something we’ve set up.
+
+CLIENT2: [00:07:45] We haven’t done that part yet.
+
+ADVISOR: [00:07:48] Okay. So, in plain English, the priorities are: keep some money liquid, invest the rest carefully, make sure it’s tax-efficient, and get the estate-planning bits tightened up.
+
+CLIENT1: [00:07:59] Yeah, that sounds right.
+
+CLIENT2: [00:08:01] That’s exactly it.
+
+ADVISOR: [00:08:04] And if we did move ahead, would you prefer a gradual approach into investments rather than putting it all in at once?
+
+CLIENT1: [00:08:11] Yes, gradual feels better.
+
+CLIENT2: [00:08:13] I’d sleep better with gradual.
+
+ADVISOR: [00:08:16] Good. You’re sounding pretty moderate to me — comfortable with some growth, but wanting to avoid a big drop after receiving the inheritance.
+
+CLIENT1: [00:08:24] Yeah, that’s us.
+
+CLIENT2: [00:08:25] Definitely.
+
+ADVISOR: [00:08:28] Okay. And just to check I’ve got the names right for the household, Priya Sherman is your spouse, Vikram?
+
+CLIENT1: [00:08:35] Yes, Priya is my wife.
+
+CLIENT2: [00:08:37] And Vikram is my husband, yes.
+
+ADVISOR: [00:08:41] Great. Anything else either of you is worried about that we haven’t touched on?
+
+CLIENT2: [00:08:46] Just making the wrong choice and then feeling stuck with it.
+
+CLIENT1: [00:08:50] And making sure we keep enough for emergencies, because with the kids there’s always something.
+
+ADVISOR: [00:08:55] Yep, that’s a very normal worry. Okay, I think that gives me a good picture to work from.

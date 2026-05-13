@@ -1,0 +1,242 @@
+---
+title: N/A
+date: 2026-02-14
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Walter Warren
+  - id: client
+    name: Elena Miller
+---
+ADVISOR: [00:00:03] Hi Walter, hi Elena — this is Megan. Can you both hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Yes, hi.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got the right people, I have Walter Warren and Elena Miller on the line?
+
+CLIENT1: [00:00:17] That’s right.
+
+CLIENT2: [00:00:18] Yep.
+
+ADVISOR: [00:00:21] Perfect. Walter, I’ve got your date of birth here as September 18th, 1964 — does that sound right?
+
+CLIENT1: [00:00:27] Yeah, that’s me.
+
+ADVISOR: [00:00:29] And Elena, yours is February 7th, 1966?
+
+CLIENT2: [00:00:33] Correct.
+
+ADVISOR: [00:00:35] Okay, thank you. And you’re married, living together, all that?
+
+CLIENT1: [00:00:39] Yeah, married.
+
+CLIENT2: [00:00:40] Yep.
+
+ADVISOR: [00:00:42] Good. Before we get into numbers, tell me a little bit about what you want this planning to do for you. What’s the big thing on your mind?
+
+CLIENT1: [00:00:51] Mostly… getting out in the early 2030s without feeling like we’re guessing. I don’t want to work forever, but I also don’t want to jump too early.
+
+CLIENT2: [00:00:59] Same. We want it to feel steady.
+
+ADVISOR: [00:01:02] Yeah, makes sense. Steady is a good word. You want the income to replace, what, a chunk of what you’re earning now?
+
+CLIENT1: [00:01:09] Around seventy percent, I’d say.
+
+CLIENT2: [00:01:11] That sounds about right.
+
+ADVISOR: [00:01:13] Okay. Early 2030s and roughly 70% of current household income. We’ll come back to that. Walter, what do you do currently?
+
+CLIENT1: [00:01:22] I’m an operations manager at a regional logistics company.
+
+ADVISOR: [00:01:27] And how long have you been there?
+
+CLIENT1: [00:01:29] Since 2008. Wow, yeah, a while.
+
+ADVISOR: [00:01:33] That’s a good run. And Elena?
+
+CLIENT2: [00:01:36] I’m a bookkeeper. Part-time now, at a local accounting firm.
+
+ADVISOR: [00:01:41] Got it. How long there?
+
+CLIENT2: [00:01:43] 2012, I think. Yeah, 2012.
+
+ADVISOR: [00:01:46] Okay. And are you both still working full-time-ish, or is Elena truly part-time now?
+
+CLIENT2: [00:01:52] Part-time. Definitely part-time.
+
+CLIENT1: [00:01:54] She’s keeping busy, though.
+
+CLIENT2: [00:01:55] [laughs] Just enough.
+
+ADVISOR: [00:01:58] Fair enough. Let me ask income. Walter, what’s your salary about?
+
+CLIENT1: [00:02:03] About ninety-five to a hundred thousand gross. Somewhere in there.
+
+ADVISOR: [00:02:08] Okay, roughly $95k to $100k a year gross. Elena, and yours?
+
+CLIENT2: [00:02:13] Mine’s lower — roughly twenty-two to twenty-six thousand a year gross.
+
+ADVISOR: [00:02:18] Got it. So about $22k to $26k. And Social Security — have you both gotten estimates yet?
+
+CLIENT1: [00:02:25] Yeah, mine was around twenty-seven hundred to twenty-nine hundred a month if I wait till sixty-seven.
+
+ADVISOR: [00:02:32] Around $2,700 to $2,900 monthly at 67. Elena?
+
+CLIENT2: [00:02:37] Mine was about eighteen hundred to two thousand monthly, at sixty-six.
+
+ADVISOR: [00:02:42] Okay, perfect. And I’m assuming you’d like to look at whether delaying helps, versus just taking it when you’re eligible?
+
+CLIENT1: [00:02:49] Exactly. We keep going back and forth on that.
+
+CLIENT2: [00:02:52] Yeah, it’s one of those things where if you pick wrong, you don’t get a do-over.
+
+ADVISOR: [00:02:56] Right, and that’s why we model it out. Let me ask about monthly spending so I can see what the retirement picture looks like. Roughly what are you spending on the basics — utilities, groceries, that kind of thing?
+
+CLIENT1: [00:03:09] Utilities and internet are about four-twenty a month.
+
+CLIENT2: [00:03:12] Groceries… about nine hundred monthly, give or take.
+
+ADVISOR: [00:03:18] Okay, $420 for utilities and internet, about $900 for groceries. Anything like travel or eating out that’s more of a nice-to-have?
+
+CLIENT2: [00:03:26] Yeah, travel and dining out — probably five hundred to seven hundred a month.
+
+CLIENT1: [00:03:31] Depends on the month, but yeah, around there.
+
+ADVISOR: [00:03:34] Okay. So not crazy, just some flexibility there. Any mortgage or other debt I should know about?
+
+CLIENT1: [00:03:40] No mortgage.
+
+CLIENT2: [00:03:41] No debt, really.
+
+ADVISOR: [00:03:43] Good, that helps a lot. Let’s talk retirement accounts. Walter, do you have a workplace plan?
+
+CLIENT1: [00:03:49] Yeah, a 401(k) through my current employer plan.
+
+ADVISOR: [00:03:53] And what’s that roughly worth today?
+
+CLIENT1: [00:03:56] Uh… about five-twenty to five-sixty. I think the last statement was somewhere in that range.
+
+ADVISOR: [00:04:03] About $520k to $560k, got it. And are you still contributing to it?
+
+CLIENT1: [00:04:08] Yeah, six percent of pay.
+
+ADVISOR: [00:04:10] Six percent. Okay. Any other retirement accounts in your name?
+
+CLIENT1: [00:04:14] I’ve got a traditional IRA too, about two hundred ten thousand.
+
+ADVISOR: [00:04:19] Okay, $210,000 in the traditional IRA. Elena, what about you?
+
+CLIENT2: [00:04:24] I have an IRA — around one-sixty to one-seventy, I think. Maybe one-sixty-five.
+
+ADVISOR: [00:04:30] Around $160k to $170k, okay. And anything else retirement-related?
+
+CLIENT2: [00:04:35] An annuity. Through an insurance company. That one’s about one twenty-five.
+
+ADVISOR: [00:04:40] $125,000, okay. Thanks. I’m going to ask about non-retirement savings too. Anything joint, or in cash, that you keep available?
+
+CLIENT1: [00:04:49] We have a brokerage account together — roughly one-eighty to one-ninety.
+
+CLIENT2: [00:04:54] And savings at the credit union, about sixty-two thousand.
+
+ADVISOR: [00:04:58] Okay, joint brokerage about $180k to $190k, and $62,000 in high-yield savings. Walter, do you have an HSA as well?
+
+CLIENT1: [00:05:06] Yeah, I do. About fourteen thousand in there.
+
+ADVISOR: [00:05:09] Great. And just to make sure I’m attributing things correctly — the brokerage and savings are joint, right?
+
+CLIENT2: [00:05:15] Yes, both of us.
+
+ADVISOR: [00:05:17] Perfect. Now, housing — you mentioned no mortgage, so I’m assuming the home is paid off?
+
+CLIENT1: [00:05:23] Yeah, no mortgage.
+
+ADVISOR: [00:05:25] Okay. And roughly what do you think the house is worth today?
+
+CLIENT2: [00:05:29] Maybe around seven-sixty to eight hundred?
+
+CLIENT1: [00:05:32] Yeah, about that. Call it around seven-eighty, maybe.
+
+ADVISOR: [00:05:36] Okay, about $760k to $800k. Any other big assets outside the accounts we’ve talked about?
+
+CLIENT2: [00:05:42] I have my car — a 2019 Toyota Camry.
+
+ADVISOR: [00:05:46] Okay.
+
+CLIENT2: [00:05:47] It’s probably worth about eighteen thousand.
+
+ADVISOR: [00:05:50] Got it. And just to ask the practical stuff — are you both U.S. tax residents?
+
+CLIENT1: [00:05:55] Yes.
+
+CLIENT2: [00:05:56] Yep.
+
+ADVISOR: [00:05:58] Okay. I want to ask a little about what matters most in retirement. When you picture it, is the priority more “maximize every dollar,” or “make sure there’s a stable floor and then let the rest grow,” or somewhere in between?
+
+CLIENT1: [00:06:12] Somewhere in between, definitely. I don’t want to be all-in on one thing.
+
+CLIENT2: [00:06:17] We’re comfortable with some market ups and downs, but not a ton. We don’t want to be too aggressive.
+
+ADVISOR: [00:06:23] Sure. So balanced, but not wild. That fits with what you’ve been saying. And one thing I hear a lot is people worry about the first few years of retirement — the sequence risk, if markets are bad right when you start drawing. Is that one of your concerns?
+
+CLIENT1: [00:06:36] Yeah, absolutely. That’s probably the biggest one.
+
+CLIENT2: [00:06:39] And inflation. And healthcare later on.
+
+ADVISOR: [00:06:42] Yep, those are the usual big ones, and they’re real. So we can look at a drawdown plan, maybe with part of the income floor covered some other way, and then keep some assets invested for growth.
+
+CLIENT1: [00:06:53] That sounds like what we were thinking.
+
+CLIENT2: [00:06:55] Yeah, that sounds good.
+
+ADVISOR: [00:06:57] Good. On the Social Security side, are you both basically deciding between claiming at the first eligible age versus waiting?
+
+CLIENT1: [00:07:04] Yeah. I’d like to wait if it makes sense, but I don’t want to overthink it.
+
+CLIENT2: [00:07:08] Same here. If waiting helps the lifetime income, we’d like to know that.
+
+ADVISOR: [00:07:13] Okay. And just to be clear, Walter, your target retirement age is 67?
+
+CLIENT1: [00:07:18] Yeah, 67. Well — maybe 66 and a half? No, 67. Let’s say 67.
+
+ADVISOR: [00:07:24] Okay, 67. And Elena, for you, around 66?
+
+CLIENT2: [00:07:28] Yes, 66.
+
+ADVISOR: [00:07:30] Great. So the plan is early 2030s, Walter around 2031, Elena around 2032, depending on exactly when you stop work.
+
+CLIENT1: [00:07:39] Yeah, that’s right.
+
+CLIENT2: [00:07:40] That’s the idea.
+
+ADVISOR: [00:07:42] Okay. One last area I usually check is planning documents and beneficiaries — just making sure things are aligned if something happened. It sounds like you’ve already got your affairs mostly in order, but we should review those designations as part of the process.
+
+CLIENT2: [00:07:55] Yeah, that would be good.
+
+CLIENT1: [00:07:57] We updated the wills a while back, but the beneficiary stuff probably needs a look.
+
+ADVISOR: [00:08:02] Okay, understood. We can handle that as part of the review. And for the best way to reach you, Walter, is the mobile ending in 0148?
+
+CLIENT1: [00:08:10] Yes, that’s mine.
+
+ADVISOR: [00:08:12] Great. Do you want to use email for anything, or just phone for now?
+
+CLIENT1: [00:08:16] Phone is fine.
+
+CLIENT2: [00:08:18] Yeah, phone’s easiest.
+
+ADVISOR: [00:08:20] Perfect. I think I’ve got the main picture. You’ve got a decent mix of retirement assets, some joint cash and brokerage, no mortgage, and the main question is how to turn that into a reliable income stream without giving up all the growth. Does that sound fair?
+
+CLIENT1: [00:08:35] Yeah, that’s exactly it.
+
+CLIENT2: [00:08:37] Mm-hmm. That’s what we need help with.
+
+ADVISOR: [00:08:40] Great. I’ll put this together and we can look at Social Security timing, retirement income options, and how much flexibility you want to keep. If anything comes to mind between now and then — numbers, old statements, whatever — send it over.
+
+CLIENT1: [00:08:52] Will do.
+
+CLIENT2: [00:08:53] Thanks, Megan.
+
+ADVISOR: [00:08:55] Of course. Talk soon.

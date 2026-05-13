@@ -1,0 +1,41 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss"
+  ],
+  "coverage_issues": [
+    {
+      "field": "incomes[0].amount.raw_text",
+      "expected_value": "about $95k-$100k",
+      "detail": "Scott's salary amount or range is never stated anywhere in the transcript, so this income figure has no direct support."
+    },
+    {
+      "field": "incomes[1].amount.raw_text",
+      "expected_value": "around $70k to $74k",
+      "detail": "Hannah's salary amount or range is never stated anywhere in the transcript, so this income figure has no direct support."
+    },
+    {
+      "field": "pensions_and_retirement_accounts[0].account_type",
+      "expected_value": "401(k)",
+      "detail": "No 401(k) or current employer retirement plan for Scott is mentioned in the transcript, so this account is unsupported."
+    },
+    {
+      "field": "pensions_and_retirement_accounts[0].current_value.raw_text",
+      "expected_value": "about $520k-$560k",
+      "detail": "No balance or value range for a 401(k) or similar employer plan for Scott is mentioned in the transcript."
+    },
+    {
+      "field": "pensions_and_retirement_accounts[0].contribution",
+      "expected_value": "6% of pay",
+      "detail": "No contribution rate for a 401(k) or employer retirement plan for Scott is discussed in the transcript."
+    },
+    {
+      "field": "pensions_and_retirement_accounts[1].contribution",
+      "expected_value": "5% of pay",
+      "detail": "Hannah's 403(b) balance is given, but no contribution rate or percentage of pay is mentioned in the transcript."
+    }
+  ],
+  "suppression_leaks": [],
+  "hallucinations": [],
+  "localization_issues": []
+}

@@ -1,0 +1,236 @@
+---
+title: N/A
+date: 2026-02-14
+participants:
+  - id: advisor
+    name: Melissa Grant
+  - id: client
+    name: Arjun O'Brien
+  - id: client
+    name: Jeffrey Murphy
+---
+ADVISOR: [00:00:03] Hi both, thanks for making the time. I’m Melissa. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Yeah, all good.
+
+ADVISOR: [00:00:12] Great. And just so I’ve got the basics right, Arjun O'Brien?
+
+CLIENT1: [00:00:17] That’s me, yeah.
+
+ADVISOR: [00:00:19] And Jeffrey Murphy on the call as well?
+
+CLIENT2: [00:00:22] Yep, hi.
+
+ADVISOR: [00:00:24] Perfect. We’ll do this pretty conversationally. I’ll ask about work, income, savings, what you’re trying to achieve, all that. If I miss something, just jump in. So Arjun, can I start with your date of birth?
+
+CLIENT1: [00:00:36] Sure — 18th of April, 1991.
+
+ADVISOR: [00:00:40] Thanks. And Jeffrey, yours?
+
+CLIENT2: [00:00:44] Second of September, 1990.
+
+ADVISOR: [00:00:48] Brilliant. And you’re living together, is that right?
+
+CLIENT1: [00:00:51] Yeah, cohabiting.
+
+CLIENT2: [00:00:53] Yep, partner situation.
+
+ADVISOR: [00:00:56] Okay. And just checking tax residency for both of you — are you both US tax residents?
+
+CLIENT1: [00:01:02] Yes.
+
+CLIENT2: [00:01:03] Yep, both of us.
+
+ADVISOR: [00:01:06] Great. Let’s do jobs next, because that usually drives the rest of the picture. Arjun, what do you do?
+
+CLIENT1: [00:01:13] I’m a senior software engineer.
+
+ADVISOR: [00:01:16] And you work full-time?
+
+CLIENT1: [00:01:18] Full-time, yeah.
+
+ADVISOR: [00:01:20] Who are you with at the moment?
+
+CLIENT1: [00:01:22] A tech firm. Been there since 2018.
+
+ADVISOR: [00:01:27] Okay, 2018. And roughly what are you earning there — base salary first?
+
+CLIENT1: [00:01:33] About 165k gross.
+
+ADVISOR: [00:01:37] And bonus on top of that?
+
+CLIENT1: [00:01:40] Yeah, usually roughly 10 to 20 grand. It varies a bit.
+
+ADVISOR: [00:01:45] Got it. Jeffrey, same for you — what’s your role?
+
+CLIENT2: [00:01:50] I’m a product manager.
+
+ADVISOR: [00:01:53] Full-time as well?
+
+CLIENT2: [00:01:55] Yeah, full-time.
+
+ADVISOR: [00:01:57] And employer?
+
+CLIENT2: [00:01:59] Healthcare company.
+
+ADVISOR: [00:02:01] Nice. How long have you been there?
+
+CLIENT2: [00:02:04] Since 2019.
+
+ADVISOR: [00:02:06] And salary-wise?
+
+CLIENT2: [00:02:08] Around 145k gross, and bonus maybe 5k to 15k, something like that.
+
+ADVISOR: [00:02:15] Okay, great. You’re both in a strong earning phase, which is helpful, but I’m guessing life’s not exactly cheap right now. Do you have kids?
+
+CLIENT1: [00:02:24] Yeah, two.
+
+CLIENT2: [00:02:25] Two little ones, yep.
+
+ADVISOR: [00:02:27] What are their names?
+
+CLIENT1: [00:02:29] Noah and Mia.
+
+ADVISOR: [00:02:31] And their ages?
+
+CLIENT2: [00:02:34] Noah’s four… well, he’ll be five soon.
+
+CLIENT1: [00:02:36] And Mia’s two.
+
+ADVISOR: [00:02:39] Right. Childcare is usually the big one there — what are you paying for that at the moment?
+
+CLIENT1: [00:02:46] About 2,400 a month for daycare for both of them.
+
+ADVISOR: [00:02:50] Okay. Any other big regular household costs you want me to note?
+
+CLIENT2: [00:02:55] The house stuff — utilities and internet are around 400 to 500 a month.
+
+CLIENT1: [00:03:01] Groceries are about 900.
+
+CLIENT2: [00:03:03] And commuting and fuel, roughly 300 to 400.
+
+ADVISOR: [00:03:08] Got it. And you mentioned the house — just to be clear, what’s the monthly mortgage payment?
+
+CLIENT1: [00:03:15] Roughly 3.2k.
+
+ADVISOR: [00:03:18] Thanks. So childcare, housing, groceries — that’s a pretty meaningful monthly outflow. Before we go into investments, tell me what’s been worrying you most. Is it more day-to-day cash flow, or longer-term retirement stuff?
+
+CLIENT2: [00:03:31] Honestly both. The childcare is heavy right now, but we also don’t want to look up in ten years and realize we should’ve saved more.
+
+CLIENT1: [00:03:39] Yeah, and I think tax too. We both feel like we’re earning a lot, but maybe not using it well.
+
+ADVISOR: [00:03:45] That makes sense. We can definitely look at tax efficiency. And when you say “using it well,” is that more about maximizing retirement accounts, or building a bigger buffer, or something else?
+
+CLIENT1: [00:03:56] Probably a mix. We want to be smart with salary and bonus, not just let it sit around.
+
+CLIENT2: [00:04:01] And keep enough liquid for the kids’ costs and surprises.
+
+ADVISOR: [00:04:05] Okay. Let’s talk accounts then. Arjun, do you have a 401(k) through your employer?
+
+CLIENT1: [00:04:11] Yeah, I do.
+
+ADVISOR: [00:04:13] Roughly what’s in it today?
+
+CLIENT1: [00:04:16] About 210k, I think.
+
+ADVISOR: [00:04:19] And what are you putting in?
+
+CLIENT1: [00:04:22] Eight percent from me, and the company does a four percent match.
+
+ADVISOR: [00:04:28] Great. Jeffrey, yours?
+
+CLIENT2: [00:04:31] Yeah, I’ve got one too. It’s around 145k.
+
+ADVISOR: [00:04:35] And contributions there?
+
+CLIENT2: [00:04:37] I do 6% employee contribution, plus the employer match.
+
+ADVISOR: [00:04:42] Perfect. Any other investments outside the retirement plans?
+
+CLIENT1: [00:04:47] Yeah, I have a brokerage account.
+
+ADVISOR: [00:04:50] With which firm?
+
+CLIENT1: [00:04:52] Discount brokerage.
+
+ADVISOR: [00:04:54] Okay. And roughly what’s in that?
+
+CLIENT1: [00:04:57] About 42k total.
+
+ADVISOR: [00:05:00] Is that mostly invested, or sitting in cash?
+
+CLIENT1: [00:05:03] There’s about 5k cash in there, and roughly 37k invested.
+
+ADVISOR: [00:05:08] Got it. And do you have joint cash savings as well?
+
+CLIENT2: [00:05:13] Yeah, at an online bank.
+
+ADVISOR: [00:05:16] Roughly how much?
+
+CLIENT1: [00:05:18] Somewhere in the 60 to 70k range. I’d say about 65k.
+
+ADVISOR: [00:05:23] Okay, thanks. Which online bank is it?
+
+CLIENT2: [00:05:26] Online bank — I mean, that’s the main savings place we use. It’s just our high-yield savings there.
+
+ADVISOR: [00:05:31] Perfect. And in terms of how you feel about investing, you don’t need a formal score from me right now, but just directionally — are you comfortable taking some ups and downs for long-term growth, as long as it’s sensible?
+
+CLIENT1: [00:05:43] Yeah, I think so. Not wild, but we’re not trying to be super conservative either.
+
+CLIENT2: [00:05:48] Right. We can handle some risk, we just don’t want a huge drop if we’re already juggling childcare and everything else.
+
+ADVISOR: [00:05:54] That’s helpful. So maybe moderate to moderately adventurous, but with a real eye on not overreaching.
+
+CLIENT1: [00:05:59] Yeah, that sounds fair.
+
+ADVISOR: [00:06:02] And what does retirement look like to you? When you picture the ideal version, what are you doing?
+
+CLIENT2: [00:06:08] Honestly? Not working forever. Maybe more time with the kids, travel a bit, not feeling chained to a paycheck.
+
+CLIENT1: [00:06:15] Same. Comfortable, early sixties ideally.
+
+ADVISOR: [00:06:18] Early sixties — do you have a rough age in mind?
+
+CLIENT1: [00:06:21] I’d like to be done by 60.
+
+CLIENT2: [00:06:24] I’m thinking closer to 62, maybe.
+
+ADVISOR: [00:06:27] Okay, so 60 to 62 is the broad target. And you want lifestyle to hold up — not a massive drop-off.
+
+CLIENT1: [00:06:34] Exactly.
+
+CLIENT2: [00:06:35] Yeah.
+
+ADVISOR: [00:06:37] Any other goals you’re trying to balance alongside retirement — school costs, for example?
+
+CLIENT1: [00:06:43] Yeah, we want to build savings for the kids. Childcare now, and then future school costs too.
+
+CLIENT2: [00:06:49] It’s not like we’ve got a number in mind yet, just… we want to be ready.
+
+ADVISOR: [00:06:54] That’s fine. So the priorities I’m hearing are: make the most of your income tax-wise, keep a decent cash buffer because of the kids, and make sure retirement is on track without taking silly risks.
+
+CLIENT1: [00:07:05] Yeah, that’s basically it.
+
+CLIENT2: [00:07:07] That’s exactly it, yeah.
+
+ADVISOR: [00:07:10] Okay. Last couple of bits from me — do either of you have any other accounts or assets you want me to know about, or is it really just the 401(k)s, the brokerage, and the joint savings?
+
+CLIENT1: [00:07:20] That’s basically the picture.
+
+CLIENT2: [00:07:22] Yeah, that’s all the main stuff.
+
+ADVISOR: [00:07:25] Perfect. And just so I’ve got the family side right — Noah and Mia are both in childcare at the moment?
+
+CLIENT2: [00:07:31] Yes, both in childcare.
+
+CLIENT1: [00:07:33] Yep.
+
+ADVISOR: [00:07:35] Great. Anything else you want to add before I pull this together?
+
+CLIENT1: [00:07:39] No, I think we’re good.
+
+CLIENT2: [00:07:41] Yeah, sounds good.
+
+ADVISOR: [00:07:43] Brilliant. I’ve got enough to work with now, and we can look at where the tax opportunities and retirement planning levers are.

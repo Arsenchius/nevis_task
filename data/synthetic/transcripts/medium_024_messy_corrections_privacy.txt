@@ -1,0 +1,242 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Zara Hansen
+  - id: client
+    name: Hiroshi Jackson
+---
+ADVISOR: [00:00:03] Hi Zara, hi Hiroshi — thanks for making time. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, yep, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we’re good.
+
+ADVISOR: [00:00:12] Great. So I’ve got the two of you on here. I’ll just work through the basics first, then we’ll talk through goals and what’s going on day to day. Zara, can I start with you?
+
+CLIENT1: [00:00:22] Sure.
+
+ADVISOR: [00:00:23] And full name for me?
+
+CLIENT1: [00:00:25] Zara Hansen.
+
+ADVISOR: [00:00:27] Thanks. And date of birth?
+
+CLIENT1: [00:00:30] Uh, 18th of April, 1991.
+
+ADVISOR: [00:00:35] Perfect. And best email to use?
+
+CLIENT1: [00:00:38] zara.hansen@example.com.
+
+ADVISOR: [00:00:42] Great. And you’re living with a partner, is that right?
+
+CLIENT1: [00:00:45] Yeah, cohabiting. We’re not married.
+
+ADVISOR: [00:00:48] Okay. And Hiroshi, can I grab your full name as well?
+
+CLIENT2: [00:00:52] Hiroshi Jackson.
+
+ADVISOR: [00:00:54] Thanks. Date of birth?
+
+CLIENT2: [00:00:57] November 2nd, 1989.
+
+ADVISOR: [00:01:00] And same household situation?
+
+CLIENT2: [00:01:02] Yeah, cohabiting.
+
+ADVISOR: [00:01:04] Okay, good. I’m going to ask about work next. Zara, what do you do currently?
+
+CLIENT1: [00:01:10] I’m a project manager.
+
+ADVISOR: [00:01:12] And who are you with?
+
+CLIENT1: [00:01:14] Northstar Logistics.
+
+ADVISOR: [00:01:16] Nice. How long have you been there?
+
+CLIENT1: [00:01:19] Since 2019. I think… yeah, 2019.
+
+ADVISOR: [00:01:23] And roughly what’s your gross pay like? I’m fine with a range if that’s easier.
+
+CLIENT1: [00:01:28] Um, about 90 to 95k. Base salary.
+
+ADVISOR: [00:01:32] Got it. Any bonus on top?
+
+CLIENT1: [00:01:35] Yeah, usually a bonus. It’s not huge — like 3 to 5k a year, gross.
+
+ADVISOR: [00:01:41] Perfect. And Hiroshi, what about you?
+
+CLIENT2: [00:01:44] I’m freelance — graphic designer.
+
+ADVISOR: [00:01:47] Okay. Self-employed then?
+
+CLIENT2: [00:01:49] Yep.
+
+ADVISOR: [00:01:50] And how long have you been doing that?
+
+CLIENT2: [00:01:53] Since 2021.
+
+ADVISOR: [00:01:55] And income-wise, what does that look like on average?
+
+CLIENT2: [00:01:59] It’s a bit messy, honestly. Roughly 4.2k a month, gross.
+
+ADVISOR: [00:02:04] Okay, that helps. Any other regular income streams either of you are relying on, or is that basically the main household income?
+
+CLIENT1: [00:02:11] That’s basically it.
+
+CLIENT2: [00:02:12] Yeah.
+
+ADVISOR: [00:02:14] All right. Kids or dependants in the household?
+
+CLIENT1: [00:02:18] Yeah, two kids.
+
+ADVISOR: [00:02:20] Okay — can you tell me their names and ages?
+
+CLIENT1: [00:02:23] Mila Hansen-Jackson, she’s four… born August 14th, 2020.
+
+ADVISOR: [00:02:30] Okay.
+
+CLIENT1: [00:02:31] And Noah Hansen-Jackson. He’s in childcare right now — I don’t have his exact birth date in front of me.
+
+ADVISOR: [00:02:38] No problem, that’s fine. So Mila is financially dependent, and Noah’s in childcare — got it.
+
+CLIENT2: [00:02:43] Yeah.
+
+ADVISOR: [00:02:44] Let’s talk monthly spending, just to get a sense of the shape of things. Housing first — do you have a mortgage?
+
+CLIENT1: [00:02:50] Yeah, mortgage.
+
+ADVISOR: [00:02:52] Rough monthly payment?
+
+CLIENT2: [00:02:55] Around 2.3 to 2.5k a month.
+
+ADVISOR: [00:02:59] Okay, and who’s the lender, if you know it?
+
+CLIENT1: [00:03:02] Wells Fargo.
+
+ADVISOR: [00:03:04] And about how much is left on it?
+
+CLIENT1: [00:03:07] Roughly 360 to 370k. I think it’s somewhere in there.
+
+ADVISOR: [00:03:12] And rate-wise?
+
+CLIENT2: [00:03:14] 6.1%.
+
+ADVISOR: [00:03:16] Okay. Day-to-day expenses — childcare, utilities, that kind of thing?
+
+CLIENT1: [00:03:21] Daycare is… ugh, expensive. I want to say like 1.6 to 2k a month.
+
+ADVISOR: [00:03:27] Yep, that sounds about right for a lot of families. Utilities and internet?
+
+CLIENT2: [00:03:31] About 300 to 350 a month.
+
+ADVISOR: [00:03:35] Okay. And Hiroshi, I’m seeing a bit of flexible spending on your side — anything like software, client travel, that sort of thing?
+
+CLIENT2: [00:03:43] Yeah, yeah. Studio software, some travel for work. Roughly 2 to 300 a month.
+
+ADVISOR: [00:03:49] Got it. And any credit cards or other debt besides the mortgage?
+
+CLIENT2: [00:03:54] I do have a credit card balance. Not crazy, but there is one.
+
+ADVISOR: [00:03:58] Okay — what’s the approximate balance and what are you paying monthly on it?
+
+CLIENT2: [00:04:03] Around 4.2k balance, and I pay about 100 to 200 a month toward it.
+
+ADVISOR: [00:04:08] Okay, thanks. Let me move to savings and retirement. Zara, do you have a workplace retirement plan?
+
+CLIENT1: [00:04:15] Yeah, a 401(k) through work.
+
+ADVISOR: [00:04:17] And roughly what’s in there right now?
+
+CLIENT1: [00:04:20] I think about 115 to 120k. Sorry, I’m looking at a statement and it’s, uh, around there.
+
+ADVISOR: [00:04:26] No, that’s fine. If you have a reference handy, just use that. And what are you contributing?
+
+CLIENT1: [00:04:31] I do 6% and they match 4%.
+
+ADVISOR: [00:04:35] Great. Hiroshi, how about you?
+
+CLIENT2: [00:04:38] I’ve got a SEP IRA with Vanguard.
+
+ADVISOR: [00:04:41] Okay. Roughly what’s the current value?
+
+CLIENT2: [00:04:44] Mid-40s, I’d say. Like 46k-ish.
+
+ADVISOR: [00:04:48] And how much are you putting in?
+
+CLIENT2: [00:04:51] $500 a month.
+
+ADVISOR: [00:04:53] Okay. Any other savings accounts between you?
+
+CLIENT1: [00:04:57] We’ve got a joint high-yield savings.
+
+ADVISOR: [00:04:59] With who?
+
+CLIENT1: [00:05:00] Ally.
+
+ADVISOR: [00:05:02] And roughly how much is sitting there?
+
+CLIENT2: [00:05:05] Um, maybe 25 to 30k.
+
+ADVISOR: [00:05:08] Okay. And separate savings?
+
+CLIENT2: [00:05:11] I’ve got some cash savings too — about 5 to 9k.
+
+ADVISOR: [00:05:15] Okay. Zara, any brokerage account?
+
+CLIENT1: [00:05:18] Yeah, Fidelity. Around 15k.
+
+ADVISOR: [00:05:22] All right. That’s helpful. Just so I’ve got the picture right — the joint savings is your emergency cushion, but you’d like to build that up more?
+
+CLIENT1: [00:05:31] Yeah, definitely. We’d like it higher. Like enough for a few months, because with kids it feels tight.
+
+ADVISOR: [00:05:37] Makes sense. If you had to put a number on the target, what would feel comfortable?
+
+CLIENT2: [00:05:42] Maybe 25 to 35k. Somewhere in that range.
+
+ADVISOR: [00:05:46] Okay, got it. And looking further ahead, what’s the big picture? What do you both want retirement to look like?
+
+CLIENT1: [00:05:54] Comfortable, honestly. I don’t want to be stressed about money.
+
+CLIENT2: [00:05:57] Same. I’d like to retire around 65… maybe 67 if needed.
+
+CLIENT1: [00:06:02] Yeah, around 65 to 67 sounds right.
+
+ADVISOR: [00:06:05] And when you say comfortable, do you mean mostly replacing current spending, or are you hoping to spend a lot more later on?
+
+CLIENT1: [00:06:11] Mostly replace what we spend now. Not necessarily more, just enough to keep our lifestyle steady.
+
+CLIENT2: [00:06:17] And keep options open. I don’t want us boxed in.
+
+ADVISOR: [00:06:20] Understood. And for the kids, are you thinking education savings as a priority too?
+
+CLIENT1: [00:06:26] Yeah, definitely. We want something set aside for them.
+
+CLIENT2: [00:06:30] We just haven’t decided whether to do a 529 or keep it more flexible.
+
+ADVISOR: [00:06:35] Right, that’s fair. Roughly what kind of target would you like to work toward there?
+
+CLIENT1: [00:06:40] Maybe 40 to 60k total, for both kids.
+
+ADVISOR: [00:06:44] Okay. That gives me a good sense. Anything else that feels like a major priority right now — reducing debt, building cash, retirement, kids — what’s most pressing?
+
+CLIENT2: [00:06:54] Probably the emergency fund first, then retirement, then education.
+
+CLIENT1: [00:06:58] Yeah, that’s about right.
+
+ADVISOR: [00:07:00] All right. And just to make sure I’ve got the household setup right, you’re both US tax residents?
+
+CLIENT1: [00:07:05] Yes.
+
+CLIENT2: [00:07:06] Yep.
+
+ADVISOR: [00:07:08] Great. I think that covers the main fact-find pieces I needed. If I’ve missed anything or if you want to correct any of the ranges later, just send it over — especially the balances since I know those can move around.
+
+CLIENT1: [00:07:18] Yeah, for sure. Some of it’s a little fuzzy.
+
+CLIENT2: [00:07:21] Yeah, but this is close enough to start.
+
+ADVISOR: [00:07:23] Perfect.

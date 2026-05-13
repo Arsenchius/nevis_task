@@ -1,0 +1,268 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Nancy Harris
+  - id: client
+    name: Lucia Hall
+---
+ADVISOR: [00:00:03] Hi Nancy, hi Lucia — can you both hear me okay?
+
+CLIENT1: [00:00:06] Yep, loud and clear.
+
+CLIENT2: [00:00:08] Yeah, hi.
+
+ADVISOR: [00:00:10] Perfect. I’m Megan Carter. Thanks for making time. I know these calls can be a bit of a juggle with work and everything.
+
+CLIENT1: [00:00:16] Oh, definitely.
+
+CLIENT2: [00:00:18] We’re just on the couch trying to keep the kids from barging in, so... yeah.
+
+ADVISOR: [00:00:22] No worries at all. Why don’t we start with basics. Nancy, can I take your full name and date of birth?
+
+CLIENT1: [00:00:28] Nancy Harris. And my birthday is... April 18th, 1991.
+
+ADVISOR: [00:00:35] Great, thank you. Lucia, same for you?
+
+CLIENT2: [00:00:39] Lucia Hall. November 2nd, 1989.
+
+ADVISOR: [00:00:44] Lovely. And you’re married, right?
+
+CLIENT1: [00:00:47] Yes.
+
+CLIENT2: [00:00:48] Yep, married.
+
+ADVISOR: [00:00:50] Okay. And just to confirm, Lucia, you’re Nancy’s spouse?
+
+CLIENT2: [00:00:54] Yes, that’s right.
+
+ADVISOR: [00:00:56] Great. Nancy, what do you do for work?
+
+CLIENT1: [00:01:01] I’m a project manager. I work for a regional healthcare company.
+
+ADVISOR: [00:01:06] Okay, project manager at a regional healthcare company. And when did you start there?
+
+CLIENT1: [00:01:12] 2018. I want to say, like, spring of 2018.
+
+ADVISOR: [00:01:16] Fine. And Lucia, yourself?
+
+CLIENT2: [00:01:20] I’m self-employed. Graphic designer.
+
+ADVISOR: [00:01:23] Got it. And roughly when did you go self-employed?
+
+CLIENT2: [00:01:27] 2020. Right before things got weird, honestly.
+
+ADVISOR: [00:01:31] Mm-hm. And are both of you US tax residents?
+
+CLIENT1: [00:01:35] Yes.
+
+CLIENT2: [00:01:36] Yeah, US.
+
+ADVISOR: [00:01:39] Great. And income-wise, Nancy, what are we looking at for salary?
+
+CLIENT1: [00:01:44] About... I’d say 95 to 100 thousand gross. Somewhere in there.
+
+ADVISOR: [00:01:49] Okay, about 95 to 100k gross annually. Lucia, and your self-employment income?
+
+CLIENT2: [00:01:55] It varies a lot. Roughly 50k to 58k a year gross. Some years better, some not.
+
+ADVISOR: [00:02:02] Sure, that makes sense. Any other regular income we should know about, or is that the main household income?
+
+CLIENT1: [00:02:08] That’s basically it.
+
+CLIENT2: [00:02:10] Yeah, just those.
+
+ADVISOR: [00:02:13] Okay. Tell me a little bit about the household then — any children or dependants?
+
+CLIENT1: [00:02:18] Two kids.
+
+CLIENT2: [00:02:19] Yeah, Eli and Mia.
+
+ADVISOR: [00:02:22] And their ages?
+
+CLIENT1: [00:02:24] Eli is five. Mia just turned two.
+
+ADVISOR: [00:02:28] Okay, five and two. Busy house then.
+
+CLIENT2: [00:02:31] Very busy. Constant snack requests.
+
+ADVISOR: [00:02:34] I bet. And living situation — are you in your own home?
+
+CLIENT1: [00:02:39] Yes, we own our house.
+
+CLIENT2: [00:02:41] And we also have a little vacation cabin.
+
+ADVISOR: [00:02:44] Oh, nice. We’ll come back to that. Before we do, can you walk me through your main monthly outgoings? Just the big ones.
+
+CLIENT1: [00:02:52] The mortgage is, um... around 2,400 to 2,500 a month.
+
+ADVISOR: [00:02:58] Okay.
+
+CLIENT2: [00:02:59] Daycare is another big one — about 1,700 to 1,900 a month.
+
+ADVISOR: [00:03:05] Right.
+
+CLIENT1: [00:03:06] Utilities and internet are roughly 300 to 340 a month.
+
+ADVISOR: [00:03:11] Got it. Anything else you’d call out as a regular family expense?
+
+CLIENT2: [00:03:15] Travel, I guess. We try to do family trips, maybe 5k to 7k a year.
+
+ADVISOR: [00:03:21] Okay, so you’re keeping some money aside for trips as well. That’s helpful.
+
+CLIENT1: [00:03:25] Yeah, it’s one of the few things we really protect.
+
+ADVISOR: [00:03:28] And on the savings side, what do you have set aside at the moment? Just roughly is fine.
+
+CLIENT1: [00:03:34] We’ve got about 40 to 45 thousand in a high-yield savings account.
+
+ADVISOR: [00:03:39] Okay, in a high-yield savings account. Which bank is that with?
+
+CLIENT2: [00:03:44] An online bank — I can pull the statement up if you need the exact name. It’s just our online bank account.
+
+ADVISOR: [00:03:49] That’s okay, I just wanted to make sure I understood the setup. And investments — do you have a brokerage account as well?
+
+CLIENT2: [00:03:56] Yeah, a discount brokerage. The total is around 80 to 90 thousand.
+
+ADVISOR: [00:04:02] And is that mostly invested, or is some of it sitting in cash?
+
+CLIENT2: [00:04:06] There’s about 10 to 15 thousand in cash in there, and the rest is invested.
+
+ADVISOR: [00:04:11] Okay, that’s helpful. Nancy, do you have any individual accounts in your name as well?
+
+CLIENT1: [00:04:16] I do have one account of my own, yeah. A Roth IRA.
+
+ADVISOR: [00:04:20] Okay. And roughly what’s in that?
+
+CLIENT1: [00:04:23] Roughly 18 to 20 thousand.
+
+ADVISOR: [00:04:27] And you’re not totally sure which provider that’s with?
+
+CLIENT1: [00:04:31] Not off the top of my head. I’d have to look at the paperwork.
+
+ADVISOR: [00:04:34] No problem. I just needed to know it exists. And you mentioned the cabin — what would you say that’s worth today?
+
+CLIENT2: [00:04:42] The cabin? Around 200 to 220 thousand, maybe.
+
+ADVISOR: [00:04:47] Okay.
+
+CLIENT1: [00:04:48] The main house is probably more like 590 to 630 thousand.
+
+ADVISOR: [00:04:53] Got it — primary residence about 590 to 630k, and the cabin around 200 to 220k. And are those both jointly owned?
+
+CLIENT2: [00:05:00] Yes, both of them are joint.
+
+ADVISOR: [00:05:03] Okay, thanks. So the big reason for today — I understand there’s an inheritance coming in?
+
+CLIENT1: [00:05:10] Yes. My aunt’s estate. It’s not in hand yet, but it’s coming.
+
+ADVISOR: [00:05:15] Right. And roughly what sort of amount are you expecting?
+
+CLIENT1: [00:05:19] Um... around 250 to 300 thousand, I think. Maybe 275-ish? It’s not exact yet.
+
+ADVISOR: [00:05:25] Okay, so somewhere in that 250 to 300k range. That’s a meaningful amount. How are you both feeling about that?
+
+CLIENT2: [00:05:33] Honestly? A little relieved, but also nervous.
+
+CLIENT1: [00:05:37] Yeah. We don’t want to do something dumb with it.
+
+ADVISOR: [00:05:40] That’s fair. A lot of people worry about making one bad move and watching a windfall disappear. What are the main things you want this money to do for you?
+
+CLIENT1: [00:05:49] We want to be tax efficient, first of all. Like, I don’t want a surprise tax bill because we put it in the wrong place.
+
+CLIENT2: [00:05:56] And we want some of it invested for long-term growth, but not all of it. We still want cash available.
+
+ADVISOR: [00:06:02] Okay.
+
+CLIENT1: [00:06:03] And our cash reserve has been a little lower than we’d like after some recent expenses, so building that back up matters.
+
+ADVISOR: [00:06:10] How much would feel comfortable for that reserve?
+
+CLIENT2: [00:06:13] Maybe 40 to 60 thousand. Somewhere in that zone.
+
+ADVISOR: [00:06:17] Okay, so roughly 40 to 60k as an emergency buffer. And aside from that, do you have any goals around the money, like home projects, family spending, anything like that?
+
+CLIENT1: [00:06:27] Mostly just keeping things stable. Childcare, home stuff, trips... we don’t need to get fancy.
+
+CLIENT2: [00:06:33] We just want to not be stressed every time something breaks.
+
+ADVISOR: [00:06:37] Totally understandable. And with the inheritance, are you thinking of taking it all at once into investments, or spreading it out over time?
+
+CLIENT2: [00:06:45] That’s the part we keep going back and forth on.
+
+CLIENT1: [00:06:48] I’m worried about putting it all in and then the market drops the next week.
+
+ADVISOR: [00:06:53] Right, so you’d rather protect part of it from short-term swings.
+
+CLIENT2: [00:06:57] Yeah. We’re okay with some risk, just not... not losing a big chunk in the first year.
+
+ADVISOR: [00:07:03] That makes sense. So somewhere in the middle — some growth, some safety.
+
+CLIENT1: [00:07:07] Exactly.
+
+ADVISOR: [00:07:09] And if I asked you what “success” looks like here, is it mainly peace of mind, or are you trying to maximize return?
+
+CLIENT2: [00:07:16] Peace of mind, honestly. We’d rather be a little less aggressive than regret it later.
+
+CLIENT1: [00:07:21] But still better than just letting it sit in cash forever.
+
+ADVISOR: [00:07:25] Sure. So moderate approach, diversified, keep a cash cushion, avoid a huge downside shock.
+
+CLIENT2: [00:07:31] Yeah, that sounds right.
+
+ADVISOR: [00:07:33] On the family side, because you’ve got young kids, I do want to ask about estate planning. Have you updated wills and beneficiary arrangements recently?
+
+CLIENT1: [00:07:42] We updated our wills about three years ago.
+
+CLIENT2: [00:07:45] But we haven’t really looked at beneficiaries since then. Probably need to.
+
+ADVISOR: [00:07:50] Okay. And do you have a trust set up, or not at this stage?
+
+CLIENT2: [00:07:54] No trust.
+
+ADVISOR: [00:07:56] Understood. And if something happened to both of you, have you already thought about guardianship for Eli and Mia?
+
+CLIENT1: [00:08:03] We have ideas, but nothing we’ve formally locked in with the new inheritance situation.
+
+CLIENT2: [00:08:08] Yeah, that’s one of the things that makes this feel real, and a little scary.
+
+ADVISOR: [00:08:12] I get that. It’s a lot. We’d want to make sure the paperwork lines up with what you actually want for the kids and the assets.
+
+CLIENT1: [00:08:19] Right.
+
+ADVISOR: [00:08:20] Just to circle back one more time on retirement timing — I know you’re both busy and this isn’t the only thing on your plate, but when would you ideally like to slow down or stop full-time work?
+
+CLIENT1: [00:08:31] For me, probably around 65.
+
+CLIENT2: [00:08:34] I’m thinking a little later... maybe 67.
+
+ADVISOR: [00:08:38] Okay, 65 for Nancy and 67 for Lucia. That gives us a decent horizon to think about.
+
+CLIENT1: [00:08:43] Yeah.
+
+ADVISOR: [00:08:44] And just so I’m not missing anything, are there any big debts or anything like that you want me to account for?
+
+CLIENT2: [00:08:49] No, nothing else really. Just the usual household stuff.
+
+CLIENT1: [00:08:53] Yeah, we’re not carrying anything unusual.
+
+ADVISOR: [00:08:56] Okay. And one last thing on the inheritance — do you already have the estate paperwork or a reference from the executor, or are you still waiting on that?
+
+CLIENT1: [00:09:05] We have the estate documents, yes. I can pull them up if needed.
+
+CLIENT2: [00:09:09] Yeah, we’ve got the reference with the estate attorney too, but I didn’t bring it into the call.
+
+ADVISOR: [00:09:14] That’s fine. We don’t need to go into the weeds today. I’ve got enough to start mapping out options.
+
+CLIENT1: [00:09:19] Okay.
+
+CLIENT2: [00:09:20] Good.
+
+ADVISOR: [00:09:22] And just to make sure I’ve got the broad picture: you’re both married, you’ve got two young kids, you’ve got a mix of cash and investments already, and the main focus is handling this inheritance sensibly without taking on unnecessary tax or market risk.
+
+CLIENT1: [00:09:35] Yeah, that’s exactly it.
+
+CLIENT2: [00:09:37] That’s the goal, yep.

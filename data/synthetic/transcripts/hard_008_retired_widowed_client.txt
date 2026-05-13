@@ -1,0 +1,202 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Howard Young
+  - id: client
+    name: Owen Moreno
+---
+ADVISOR: [00:00:03] Hi Howard, hi Owen — thanks for jumping on. I’m Megan. Can you hear me okay?
+
+CLIENT1: [00:00:09] Yep, loud and clear.
+
+CLIENT2: [00:00:11] Yeah, we’re good.
+
+ADVISOR: [00:00:14] Great. And just so I’ve got the basics right, Howard Young and Owen Moreno — is that correct?
+
+CLIENT1: [00:00:20] Yes, that’s right.
+
+CLIENT2: [00:00:21] Mm-hm.
+
+ADVISOR: [00:00:24] Perfect. Howard, can I start with you? What’s your date of birth?
+
+CLIENT1: [00:00:29] Eighteen April, 1956.
+
+ADVISOR: [00:00:33] 18th of April, 1956 — thanks. And your best mobile number for you?
+
+CLIENT1: [00:00:38] It’s 415-555-0138.
+
+ADVISOR: [00:00:42] Got it. And Howard, I’m going to ask a few personal details just to make sure the file’s right. What’s your relationship status at the moment?
+
+CLIENT1: [00:00:49] Widowed.
+
+ADVISOR: [00:00:51] Okay. I’m sorry. And Owen, can I take your date of birth as well?
+
+CLIENT2: [00:00:57] Sure — 2nd of September, 1958.
+
+ADVISOR: [00:01:01] Thank you. And Howard, Owen — are you living together?
+
+CLIENT1: [00:01:05] Yes, we are.
+
+CLIENT2: [00:01:06] Yeah.
+
+ADVISOR: [00:01:08] And would you describe Owen as your partner?
+
+CLIENT1: [00:01:11] Yes, partner.
+
+CLIENT2: [00:01:12] That’s right.
+
+ADVISOR: [00:01:15] Okay. Any children or dependants I should note?
+
+CLIENT1: [00:01:19] No, none.
+
+CLIENT2: [00:01:20] No.
+
+ADVISOR: [00:01:23] Right, thanks. Howard, are you retired now?
+
+CLIENT1: [00:01:27] Yeah, fully retired. Owen too.
+
+ADVISOR: [00:01:31] Okay, and you’re not working at all currently?
+
+CLIENT1: [00:01:34] No, no work.
+
+CLIENT2: [00:01:35] No, we’re done with that.
+
+ADVISOR: [00:01:38] Understood. Let’s talk cash flow then. What income is coming in each month? Start with the guaranteed stuff if that’s easiest.
+
+CLIENT1: [00:01:49] Social Security is mine — about two thousand four hundred and fifty a month.
+
+ADVISOR: [00:01:55] Okay, 2,450 monthly. Anything else in your name?
+
+CLIENT1: [00:02:00] Yeah, I have a pension too. It’s about... let me think... around 1,800 a month.
+
+ADVISOR: [00:02:07] About 1,800 monthly, got it.
+
+CLIENT2: [00:02:09] And I get a small pension, 950 a month.
+
+ADVISOR: [00:02:13] 950 monthly for you, Owen. Okay. And are those all monthly payments?
+
+CLIENT1: [00:02:17] Yes.
+
+CLIENT2: [00:02:18] Yep.
+
+ADVISOR: [00:02:21] Let’s talk about spending. What does the household run to each month for the essentials? I’m thinking housing, utilities, healthcare — that sort of thing.
+
+CLIENT1: [00:02:31] Property taxes and insurance are six hundred and twenty a month.
+
+ADVISOR: [00:02:36] Okay.
+
+CLIENT2: [00:02:37] Utilities and internet, that’s around two forty a month.
+
+ADVISOR: [00:02:42] Around 240. And healthcare?
+
+CLIENT1: [00:02:46] Medicare and prescriptions are about 310 a month.
+
+ADVISOR: [00:02:51] Okay, 310. Any regular big spending beyond that?
+
+CLIENT2: [00:02:56] We do travel some. Not crazy — maybe three to four trips a year? And cost-wise, roughly three thousand to four thousand two hundred a year, depending.
+
+ADVISOR: [00:03:08] Okay, so around 3,000 to 4,200 annually on trips. Nice. Nothing else major you want me to know about day-to-day spending?
+
+CLIENT1: [00:03:17] No, not really.
+
+ADVISOR: [00:03:19] All right. And do you have a mortgage still, or are you all set there?
+
+CLIENT1: [00:03:24] No mortgage. Paid off.
+
+ADVISOR: [00:03:27] Good, okay. That helps. Let’s move to savings and investments. What accounts do you have sitting outside the monthly income?
+
+CLIENT1: [00:03:36] My IRA’s at Vanguard. It’s about 410 thousand.
+
+ADVISOR: [00:03:42] Vanguard IRA, 410,000. Any contributions going in, or is that just left alone now?
+
+CLIENT1: [00:03:48] None — already retired.
+
+ADVISOR: [00:03:51] Right. And Owen, do you have a retirement account too?
+
+CLIENT2: [00:03:55] Yeah, a 401(k) at Fidelity. I think it’s about 265 thousand.
+
+ADVISOR: [00:04:01] About 265,000 at Fidelity, thanks. And also no new contributions now?
+
+CLIENT2: [00:04:06] No, none.
+
+ADVISOR: [00:04:08] Okay. Any other savings or investment accounts that we should include — cash savings, brokerage, that kind of thing?
+
+CLIENT1: [00:04:17] We’ve got a high-yield savings account at the credit union. That’s 78 thousand.
+
+ADVISOR: [00:04:23] 78,000 in savings, okay.
+
+CLIENT2: [00:04:26] And a Schwab brokerage. That one’s... I’d say around 140 to 160 thousand? We don’t check it every day.
+
+CLIENT1: [00:04:33] Yeah, somewhere in there. Closer to the middle maybe, but that range is fine.
+
+ADVISOR: [00:04:38] Around 140 to 160 thousand in brokerage, got it. And just to be clear, no other property, vehicles, business interests, anything like that I should account for?
+
+CLIENT1: [00:04:48] No, nothing else.
+
+CLIENT2: [00:04:49] No.
+
+ADVISOR: [00:04:52] Okay. I want to ask about what you’re hoping to get out of planning, because that helps me not overcomplicate things. What feels most important right now?
+
+CLIENT1: [00:05:01] Honestly? Keeping income steady. We don’t want to take big swings with the money.
+
+CLIENT2: [00:05:07] Yeah, we just want it to keep coming in without stressing about it.
+
+ADVISOR: [00:05:11] Makes sense. So more of a steady-income, lower-drama approach.
+
+CLIENT1: [00:05:15] Exactly. I’m not interested in gambling with retirement money.
+
+ADVISOR: [00:05:19] Understood. And when you think about the future, what worries you most?
+
+CLIENT1: [00:05:25] Outliving the savings, probably. And just keeping enough set aside for emergencies.
+
+CLIENT2: [00:05:31] And not making a mess of things for family later.
+
+ADVISOR: [00:05:35] Yeah, that’s a very normal concern. On the family side, are you mainly trying to make sure things pass cleanly between the two of you and then onward after that?
+
+CLIENT1: [00:05:45] Yes, exactly. We want it to go to Owen first, then to my nieces and nephews after that.
+
+CLIENT2: [00:05:51] Right.
+
+ADVISOR: [00:05:53] Okay. And have your wills been reviewed recently, or is that something that’s been sitting for a while?
+
+CLIENT1: [00:06:00] They’re old. We need to review them.
+
+CLIENT2: [00:06:03] Yeah, it’s been several years.
+
+ADVISOR: [00:06:06] Okay. And no trust in place currently?
+
+CLIENT1: [00:06:10] No trust.
+
+CLIENT2: [00:06:11] No.
+
+ADVISOR: [00:06:13] All right. That’s helpful. One more thing on the money side: when you’re drawing from the IRA and brokerage, are you looking for a simple withdrawal order that’s tax-smart, or is the main thing just ease and consistency?
+
+CLIENT1: [00:06:26] A simple order would be good. And if it avoids unnecessary taxes, even better.
+
+CLIENT2: [00:06:32] Yeah, we don’t want to do anything fancy. Just sensible.
+
+ADVISOR: [00:06:36] Right, sensible is good. And just so I’m not missing anything — you’d both describe yourselves as pretty cautious with investments?
+
+CLIENT1: [00:06:44] Very cautious.
+
+CLIENT2: [00:06:46] Definitely.
+
+CLIENT1: [00:06:47] We prefer stability. Low risk.
+
+ADVISOR: [00:06:50] Okay, so conservative, income-focused, keep a cash buffer, not much equity exposure unless there’s a reason.
+
+CLIENT1: [00:06:57] Yes, that sounds right.
+
+CLIENT2: [00:06:58] Mm-hm.
+
+ADVISOR: [00:07:01] Great. I think I’ve got the main picture. I’ll put together something that keeps things steady and also makes sure the estate side is lined up the way you want. If I have any follow-up on the withdrawal order, I’ll come back with a couple of options rather than a wall of jargon.
+
+CLIENT1: [00:07:15] Good.
+
+CLIENT2: [00:07:16] Appreciate that.
+
+ADVISOR: [00:07:18] Perfect. Thanks both — and Howard, again, I’m sorry for your loss. We’ll take it step by step.

@@ -1,0 +1,238 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Everly Flores
+  - id: client
+    name: Aaron Taylor
+---
+ADVISOR: [00:00:03] Hi Everly, hi Aaron — Megan Carter here. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Yeah, we’re good.
+
+ADVISOR: [00:00:12] Great. I’ve got you both on the line, which is helpful. Just so I’m not guessing, Everly Flores and Aaron Taylor, right?
+
+CLIENT1: [00:00:18] Yes, that’s us.
+
+CLIENT2: [00:00:19] Correct.
+
+ADVISOR: [00:00:21] Perfect. And Everly, what’s your date of birth?
+
+CLIENT1: [00:00:26] It’s... April 12th, 1968.
+
+ADVISOR: [00:00:30] Thanks. And Aaron?
+
+CLIENT2: [00:00:33] September 3rd, 1966.
+
+ADVISOR: [00:00:36] Got it. And you’re married, is that right?
+
+CLIENT1: [00:00:39] Yes.
+
+CLIENT2: [00:00:40] Yeah, married.
+
+ADVISOR: [00:00:43] Okay. Any children or dependants at home?
+
+CLIENT1: [00:00:48] Just one adult daughter, but she’s on her own now. So no dependants.
+
+ADVISOR: [00:00:54] All right. Tell me a little bit about work first, maybe Everly since you’re still employed. What do you do?
+
+CLIENT1: [00:01:01] I’m an operations manager. At a regional logistics company.
+
+ADVISOR: [00:01:06] Okay, operations manager at a regional logistics company. And how long have you been there?
+
+CLIENT1: [00:01:12] Since 2011. Wow, that feels like forever.
+
+CLIENT2: [00:01:15] Time flies.
+
+ADVISOR: [00:01:16] It does. And are you a US tax resident?
+
+CLIENT1: [00:01:20] Yes.
+
+ADVISOR: [00:01:21] Great. And roughly what kind of salary are we talking about?
+
+CLIENT1: [00:01:27] Um, about ninety... maybe ninety to ninety-five thousand gross. Somewhere in there.
+
+ADVISOR: [00:01:34] Perfect, about 90 to 95k gross. And when are you thinking about stopping work?
+
+CLIENT1: [00:01:40] I keep saying 67. That would be... 2035, I think.
+
+CLIENT2: [00:01:45] Yeah, that sounds right for her.
+
+ADVISOR: [00:01:47] Okay, 67 and around 2035. Aaron, how about you?
+
+CLIENT2: [00:01:52] I do consulting part time now. Self-employed consulting, really.
+
+ADVISOR: [00:01:57] Right, and when did that start?
+
+CLIENT2: [00:02:00] 2019. I kind of eased into it after full-time work.
+
+ADVISOR: [00:02:04] And are you a US tax resident as well?
+
+CLIENT2: [00:02:07] Yes, definitely.
+
+ADVISOR: [00:02:09] Good. And what’s the income look like from that, roughly?
+
+CLIENT2: [00:02:14] It varies a lot. Roughly twenty-five to thirty thousand a year, gross.
+
+ADVISOR: [00:02:20] Okay. And your own retirement timing?
+
+CLIENT2: [00:02:24] I’m leaning 66. Maybe 2032.
+
+CLIENT1: [00:02:27] He says that now.
+
+CLIENT2: [00:02:28] I know, I know.
+
+ADVISOR: [00:02:30] Fair enough. And you mentioned Social Security — are you thinking about claiming at 67?
+
+CLIENT2: [00:02:36] Yeah, that’s the plan. Around 67.
+
+ADVISOR: [00:02:39] Okay. Do you have a rough sense of what that might be annually?
+
+CLIENT2: [00:02:44] I think it was around thirty-two thousand a year. Give or take.
+
+ADVISOR: [00:02:49] Great, around 32k a year. Everly, are you thinking about Social Security at the same age or are you still undecided?
+
+CLIENT1: [00:02:57] I’m not decided yet. I keep going back and forth.
+
+ADVISOR: [00:03:00] That’s fine. We can look at that properly. Let’s talk about spending for a minute — what are the big fixed costs at the moment? Housing, utilities, anything like that.
+
+CLIENT1: [00:03:10] Property taxes and insurance are about seven-fifty to eight hundred a month.
+
+ADVISOR: [00:03:16] Okay.
+
+CLIENT2: [00:03:17] Utilities are around four hundred to four-fifty monthly, depending on the season.
+
+ADVISOR: [00:03:23] Got it. Anything else essential that tends to be pretty steady?
+
+CLIENT1: [00:03:28] Not really. We’re pretty stable otherwise.
+
+ADVISOR: [00:03:31] And for the fun stuff — travel, going out, that sort of thing — what does retirement look like to you both?
+
+CLIENT2: [00:03:39] Travel, definitely. Nothing crazy, but we’d like to do more of it once we’re not tied to schedules.
+
+CLIENT1: [00:03:45] Yeah, and not just weekend trips. Like actual trips.
+
+ADVISOR: [00:03:48] Roughly what do you think you’d spend on that in a year?
+
+CLIENT1: [00:03:53] Maybe ten to fourteen thousand a year. Somewhere in that range.
+
+ADVISOR: [00:03:58] Okay, roughly 10k to 14k annually. That helps. And if we think about retirement income, what would feel comfortable to you as a household — something that covers the essentials and still leaves room for travel?
+
+CLIENT1: [00:04:10] About nine thousand a month would feel good.
+
+CLIENT2: [00:04:13] Yeah, around there. That’s the number we keep coming back to.
+
+ADVISOR: [00:04:17] All right. So a reliable paycheck, but not necessarily every dollar locked in. More like a base layer plus some flexibility?
+
+CLIENT1: [00:04:24] Exactly. I don’t want to feel like we’re one bad year away from panic.
+
+CLIENT2: [00:04:29] Same. I just don’t want to be too exposed right near retirement.
+
+ADVISOR: [00:04:33] Understood. You want some certainty, but also some growth so inflation doesn’t eat you alive later.
+
+CLIENT1: [00:04:39] Yes, that’s it.
+
+ADVISOR: [00:04:41] Tell me about the accounts you’ve built up. Everly, do you have a current workplace retirement plan?
+
+CLIENT1: [00:04:47] Yeah, a 401(k) through my employer.
+
+ADVISOR: [00:04:50] And roughly what’s in there?
+
+CLIENT1: [00:04:53] About four hundred to four hundred twenty thousand. I checked not long ago.
+
+ADVISOR: [00:04:58] Okay, around 400k to 420k. And are you still contributing?
+
+CLIENT1: [00:05:02] Yes, six percent of salary.
+
+ADVISOR: [00:05:05] Great. Aaron, what about you — do you have an IRA?
+
+CLIENT2: [00:05:10] I do. A custodial brokerage holds it, I think that’s the right way to say it.
+
+ADVISOR: [00:05:15] That’s fine. Roughly what value are we talking about?
+
+CLIENT2: [00:05:18] Somewhere around one-eighty to one-ninety. I’d say roughly 185k.
+
+ADVISOR: [00:05:24] Okay, about 180 to 190k. And you’re not adding to that regularly?
+
+CLIENT2: [00:05:29] Not really, no.
+
+ADVISOR: [00:05:31] All right. Now I see there’s also a joint annuity in the mix. Is that right?
+
+CLIENT1: [00:05:37] Yes, that one.
+
+CLIENT2: [00:05:38] Yeah, the insurance company annuity.
+
+ADVISOR: [00:05:41] Okay. Do you have a reference or statement handy for that one, or at least a recent value?
+
+CLIENT2: [00:05:46] I’ve got the statement, yeah. It’s about a quarter million.
+
+ADVISOR: [00:05:50] Okay, about 250k. And that’s one of the things you’re trying to decide whether to keep or move away from?
+
+CLIENT1: [00:05:57] Exactly. We keep circling back to whether it’s worth keeping.
+
+CLIENT2: [00:06:00] It feels safe, but maybe too rigid?
+
+ADVISOR: [00:06:03] Right, that tradeoff. We can look at what it’s doing for you versus what flexibility you’d gain elsewhere.
+
+CLIENT1: [00:06:08] That would help.
+
+ADVISOR: [00:06:10] What other savings or investments do you have outside retirement accounts?
+
+CLIENT1: [00:06:15] We’ve got a taxable brokerage account jointly.
+
+ADVISOR: [00:06:19] Okay.
+
+CLIENT2: [00:06:20] Around one-forty to one-fifty thousand in there.
+
+ADVISOR: [00:06:24] Got it, roughly 140k to 150k. Anything in cash or savings?
+
+CLIENT1: [00:06:30] Yes, a high-yield savings account at the credit union.
+
+ADVISOR: [00:06:34] And roughly how much is in that?
+
+CLIENT2: [00:06:37] Around thirty-five to forty thousand.
+
+ADVISOR: [00:06:40] Okay, about 35k to 40k. That gives you some cushion.
+
+CLIENT1: [00:06:44] Yeah, we like having that there.
+
+ADVISOR: [00:06:46] Any mortgages or loans we need to factor in?
+
+CLIENT2: [00:06:50] No mortgage.
+
+CLIENT1: [00:06:51] No debt, really.
+
+ADVISOR: [00:06:53] Okay, no mortgage. And the home itself — is that your primary residence?
+
+CLIENT1: [00:06:58] Yes, our primary home.
+
+ADVISOR: [00:07:00] Do you have a rough market value for it?
+
+CLIENT2: [00:07:03] Probably about six hundred to six-forty. Somewhere around 620k.
+
+ADVISOR: [00:07:08] Okay, around 600k to 640k, about 620k. And you own it jointly?
+
+CLIENT1: [00:07:13] Yes, jointly.
+
+ADVISOR: [00:07:15] Good. Just to understand the bigger picture — what worries you most about retirement? Is it income running short, inflation, market volatility, something else?
+
+CLIENT1: [00:07:25] Probably income not stretching far enough. Especially if travel costs keep going up.
+
+CLIENT2: [00:07:30] And the market doing something ugly right when we stop working. That’s the part that keeps me up a bit.
+
+ADVISOR: [00:07:36] Right, sequence risk — the early years matter a lot. And you’d prefer to keep things fairly balanced, not overly aggressive?
+
+CLIENT1: [00:07:43] Yes. We’re comfortable with some market exposure, just not huge swings.
+
+CLIENT2: [00:07:48] Balanced sounds right.
+
+ADVISOR: [00:07:50] Okay. So the broad picture is: build a dependable retirement income stream, compare the annuity against a drawdown approach, coordinate Social Security timing, and keep enough flexibility for travel and inflation. Does that sound like the main job?
+
+CLIENT1: [00:08:02] Yeah, that’s exactly what we need.
+
+CLIENT2: [00:08:04] Yep. That’s it.

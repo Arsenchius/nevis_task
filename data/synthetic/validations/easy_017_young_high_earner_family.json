@@ -1,0 +1,21 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss"
+  ],
+  "coverage_issues": [
+    {
+      "field": "pensions_and_retirement_accounts[0].account_type",
+      "expected_value": "401(k)",
+      "detail": "The transcript refers to Grace's plan only as a 'work retirement plan' / 'Northstar plan' and never explicitly identifies it as a 401(k)."
+    },
+    {
+      "field": "pensions_and_retirement_accounts[1].account_type",
+      "expected_value": "401(k)",
+      "detail": "The transcript refers to Natalie's plan only as a workplace/ BrightWave Media retirement plan and never explicitly identifies it as a 401(k)."
+    }
+  ],
+  "suppression_leaks": [],
+  "hallucinations": [],
+  "localization_issues": []
+}

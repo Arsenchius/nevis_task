@@ -1,0 +1,23 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss",
+    "suppression_leak"
+  ],
+  "coverage_issues": [
+    {
+      "field": "risk_profile_and_preferences.key_concerns[4]",
+      "expected_value": "balancing joint assets and individual accounts",
+      "detail": "The transcript never mentions any concern about balancing or managing joint versus individual accounts; joint assets are only mentioned factually without being framed as a concern."
+    }
+  ],
+  "suppression_leaks": [
+    {
+      "section": "loans_mortgages",
+      "timestamp": "00:02:58",
+      "offending_text": "And then we do have housing costs — I mean, the mortgage payment is 4,100 a month."
+    }
+  ],
+  "hallucinations": [],
+  "localization_issues": []
+}

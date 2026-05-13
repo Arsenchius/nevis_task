@@ -1,0 +1,114 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Xavier Aguilar
+---
+ADVISOR: [00:00:03] Hi Xavier, thanks for making the time today. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear. Sorry, I was just juggling a coffee and my notes.
+
+ADVISOR: [00:00:13] No worries at all. So to start off, can you just tell me your full name and date of birth?
+
+CLIENT1: [00:00:19] Sure, it's Xavier Aguilar. Date of birth is April 17th, 1981.
+
+ADVISOR: [00:00:27] Great, thanks. And what's the best mobile number and email for you?
+
+CLIENT1: [00:00:33] Mobile is 415-555-0138. And email is xavier dot aguilar at example dot com.
+
+ADVISOR: [00:00:43] Perfect. And are you single, married, partnered?
+
+CLIENT1: [00:00:47] Single.
+
+ADVISOR: [00:00:49] Got it. And you're based in the US for tax purposes, right?
+
+CLIENT1: [00:00:53] Yeah, US resident.
+
+ADVISOR: [00:00:56] Okay. Tell me a bit about work then. What do you do currently?
+
+CLIENT1: [00:01:01] I'm self-employed. I run my own practice as a financial consultant.
+
+ADVISOR: [00:01:07] Right, own practice. And how long have you been doing that?
+
+CLIENT1: [00:01:12] Since 2016, so... yeah, a while now.
+
+ADVISOR: [00:01:16] Okay, that helps. And income-wise, roughly what does that look like in a normal year?
+
+CLIENT1: [00:01:23] It varies a lot. Consulting income is probably, I don't know, about a hundred to one-forty a year. Somewhere in that range.
+
+ADVISOR: [00:01:35] About 100k to 140k gross, okay.
+
+CLIENT1: [00:01:38] Yeah, gross. Before taxes and business costs.
+
+ADVISOR: [00:01:42] And do you have any other income on top of that, like speaking or side work?
+
+CLIENT1: [00:01:48] A little. I do occasional speaking fees. Not huge, maybe roughly three to seven thousand a year. Depends on the year.
+
+ADVISOR: [00:01:58] Okay, so a smaller add-on stream. Makes sense. And then on the business side, what sort of costs are you running each year?
+
+CLIENT1: [00:02:08] Software, travel, office stuff... around fifteen to twenty thousand a year. It can swing a bit.
+
+ADVISOR: [00:02:17] Sure. And estimated taxes — are you paying those quarterly?
+
+CLIENT1: [00:02:22] Yeah, quarterly. Last year it was about twenty-eight thousand. That's the number I've been using.
+
+ADVISOR: [00:02:31] Okay, about 28k annually in estimated taxes. And what about your living expenses outside the business — rent, utilities, that kind of thing?
+
+CLIENT1: [00:02:41] Rent is 2,400 a month. Utilities and internet are about 260.
+
+ADVISOR: [00:02:49] Great. Thanks. Do you have any children or dependants at home?
+
+CLIENT1: [00:02:54] No, none.
+
+ADVISOR: [00:02:56] Okay. And just to understand the bigger picture, what are you hoping to do over the next few years? Anything specific you're trying to solve?
+
+CLIENT1: [00:03:06] Mostly I want a clearer retirement plan. I keep thinking, am I actually on track or am I just kind of hoping for the best? And I also want to get better at planning around taxes, because self-employment makes that messy.
+
+ADVISOR: [00:03:20] Yeah, that makes sense. A lot of people in your situation feel like the tax side is the thing that sneaks up on them. And with retirement, do you have a rough age in mind where you'd like to stop or slow down?
+
+CLIENT1: [00:03:32] I'd like 67. I mean, if I can. That's the target.
+
+ADVISOR: [00:03:37] Okay, 67. And with the income swings, what would make you feel more comfortable day to day? More cash buffer, more predictable tax planning, that sort of thing?
+
+CLIENT1: [00:03:47] Honestly, more buffer. I have some savings, but I want a bigger emergency cushion. I think sixty thousand would feel better. Right now I'm not there.
+
+ADVISOR: [00:03:58] Understood. So building emergency savings is part of it too.
+
+CLIENT1: [00:04:01] Yeah, exactly.
+
+ADVISOR: [00:04:04] What do you have set aside at the moment, roughly? Just cash-type savings.
+
+CLIENT1: [00:04:09] I've got about 45,000 in a high-yield savings account.
+
+ADVISOR: [00:04:15] Okay, 45k there. Anything else in brokerage or taxable investments that you use as longer-term money?
+
+CLIENT1: [00:04:23] Yeah, I have a brokerage account. It's around 80 to 90 thousand. I don't check it every day, so that's the range I'd give you.
+
+ADVISOR: [00:04:33] That's helpful, around 80k to 90k. Any other savings or investment accounts you want me to know about?
+
+CLIENT1: [00:04:39] No, that's basically it.
+
+ADVISOR: [00:04:42] Okay. And debt-wise, do you have any credit cards or loans you're carrying right now?
+
+CLIENT1: [00:04:49] Just one credit card balance. It's about 6,200.
+
+ADVISOR: [00:04:54] And what are you paying on that each month?
+
+CLIENT1: [00:04:57] Around 350 a month.
+
+ADVISOR: [00:05:00] Okay. No mortgage or anything like that?
+
+CLIENT1: [00:05:03] No mortgage.
+
+ADVISOR: [00:05:05] Got it. Just to make sure I’ve got the picture: self-employed financial consultant, own practice since 2016, income varies quite a bit, and you want to tighten up the retirement and tax side while also building the cash reserve.
+
+CLIENT1: [00:05:19] Yeah, that's pretty much it. I just don't want to be guessing all the time.
+
+ADVISOR: [00:05:24] Totally fair. And the next step from my side will be to map out the cash flow and see where the quarterly estimates and savings target fit best. Does that sound okay?
+
+CLIENT1: [00:05:33] Yeah, that sounds good. I think I need a plan more than anything.
+
+ADVISOR: [00:05:38] Great. We'll keep it practical and not overcomplicate it.

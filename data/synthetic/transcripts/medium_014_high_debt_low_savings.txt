@@ -1,0 +1,192 @@
+---
+title: N/A
+date: 2026-05-13
+participants:
+  - id: advisor
+    name: Megan Ellis
+  - id: client
+    name: Lauren Ward
+  - id: client
+    name: Donald Perez
+---
+ADVISOR: [00:00:03] Hi, thanks for calling in today. I’m Megan. Can you hear me okay?
+
+CLIENT1: [00:00:07] Yeah, loud and clear.
+
+CLIENT2: [00:00:08] Yep, all good.
+
+ADVISOR: [00:00:10] Perfect. And just so I’ve got the right people, am I speaking with Lauren Ward and Donald Perez?
+
+CLIENT1: [00:00:15] Yes, Lauren Ward.
+
+CLIENT2: [00:00:17] Donald Perez, yeah.
+
+ADVISOR: [00:00:19] Great. Lauren, can I start with your date of birth?
+
+CLIENT1: [00:00:24] Uh, yeah — 18th of April, 1991. So 1991-04-18.
+
+ADVISOR: [00:00:31] धन्यवाद—sorry, I mean thank you. And Donald, yours?
+
+CLIENT2: [00:00:35] November 2nd, 1989. 1989-11-02.
+
+ADVISOR: [00:00:40] Lovely. And are you both US tax residents?
+
+CLIENT1: [00:00:44] Yes.
+
+CLIENT2: [00:00:45] Yeah, US.
+
+ADVISOR: [00:00:48] Okay. And I understand you’re married?
+
+CLIENT1: [00:00:52] Yeah, married.
+
+CLIENT2: [00:00:53] Yep.
+
+ADVISOR: [00:00:55] And what do you both do day to day at the moment?
+
+CLIENT1: [00:01:00] I’m an operations coordinator at North Bay Logistics.
+
+CLIENT2: [00:01:04] And I’m a warehouse supervisor, same place — North Bay Logistics too.
+
+ADVISOR: [00:01:09] Okay, got it. How long have you each been there?
+
+CLIENT1: [00:01:13] Me since 2019.
+
+CLIENT2: [00:01:15] I started in 2018.
+
+ADVISOR: [00:01:18] Right. And just to confirm, you’re both full-time employed?
+
+CLIENT1: [00:01:22] Yes.
+
+CLIENT2: [00:01:23] Yeah.
+
+ADVISOR: [00:01:25] And what does take-home look like each month, roughly?
+
+CLIENT1: [00:01:30] Mine’s $3,200 net a month.
+
+CLIENT2: [00:01:34] And mine’s $4,100 net.
+
+ADVISOR: [00:01:37] Okay, so household net about 7,300 a month. That helps. Can we talk through regular spending? Just the main fixed stuff first.
+
+CLIENT1: [00:01:45] Sure.
+
+CLIENT2: [00:01:46] Yeah.
+
+ADVISOR: [00:01:48] Housing first — what are you paying for rent?
+
+CLIENT1: [00:01:52] $2,450.
+
+ADVISOR: [00:01:54] Okay. Utilities?
+
+CLIENT2: [00:01:58] Around $320 a month.
+
+ADVISOR: [00:02:01] And do you have any childcare or after-school costs?
+
+CLIENT1: [00:02:06] Yeah, that’s $680 a month for daycare and after-school care.
+
+ADVISOR: [00:02:10] Okay. Groceries?
+
+CLIENT2: [00:02:13] About $900.
+
+ADVISOR: [00:02:16] Gas and commuting?
+
+CLIENT1: [00:02:19] $260.
+
+ADVISOR: [00:02:21] And I know this is always the bit people hate, but any credit card minimums or debt payments you’re juggling?
+
+CLIENT2: [00:02:28] Yeah… credit card minimums are $430 a month.
+
+ADVISOR: [00:02:33] Okay. Thanks. Any other regular debt payments besides that?
+
+CLIENT1: [00:02:38] I’ve got a personal loan too.
+
+ADVISOR: [00:02:40] Okay, let’s take that one at a time. How much is the payment on your personal loan?
+
+CLIENT1: [00:02:45] $215 a month.
+
+ADVISOR: [00:02:47] And who’s that with?
+
+CLIENT1: [00:02:49] Community Bank.
+
+ADVISOR: [00:02:52] Community Bank, got it. Do you know roughly what’s left on it and the rate?
+
+CLIENT1: [00:02:57] Yeah, about $7.6k left... and 11.2%.
+
+ADVISOR: [00:03:03] Okay. And Donald, you’ve got the car loan, right?
+
+CLIENT2: [00:03:07] Yeah.
+
+ADVISOR: [00:03:08] What’s the monthly payment on that?
+
+CLIENT2: [00:03:11] $390.
+
+ADVISOR: [00:03:13] And provider?
+
+CLIENT2: [00:03:15] Auto Finance.
+
+ADVISOR: [00:03:17] Do you know the balance and interest rate?
+
+CLIENT2: [00:03:20] Balance is $15,400, and the rate is 6.8%.
+
+ADVISOR: [00:03:26] Great, thank you. And the credit card — who’s that with?
+
+CLIENT1: [00:03:30] Visa.
+
+ADVISOR: [00:03:32] Okay. And what’s the balance there?
+
+CLIENT1: [00:03:35] $12,800.
+
+ADVISOR: [00:03:37] And the rate?
+
+CLIENT1: [00:03:39] 24.9%.
+
+ADVISOR: [00:03:42] Oof, yeah, that’s the one that tends to bite. Okay. Do you have any savings at the moment, even if it’s not much?
+
+CLIENT2: [00:03:50] Not a lot. We’ve got like... actually, no, I was going to say more, but it’s only about $1,800 in savings.
+
+ADVISOR: [00:03:58] Okay, thanks for being straight about it. Is that with a bank or credit union?
+
+CLIENT1: [00:04:02] Local credit union.
+
+ADVISOR: [00:04:05] Local credit union, got it. Anything else in savings or investments, or is that basically the cash buffer?
+
+CLIENT1: [00:04:10] Just that, really.
+
+CLIENT2: [00:04:12] Yeah, that’s pretty much it.
+
+ADVISOR: [00:04:15] Okay. I’m going to ask a slightly personal question now — what’s the main thing you want to get sorted first? If we were talking a year from now, what would make you feel like, “right, that was worth it”?
+
+CLIENT1: [00:04:28] Honestly, the credit cards. I can’t keep juggling minimum payments. I want a clear payoff plan.
+
+CLIENT2: [00:04:34] Same. And then the personal loan after that.
+
+ADVISOR: [00:04:37] Okay, so credit cards first, then the personal loan. That makes sense. And what would you like the plan to do for your month-to-month cash flow?
+
+CLIENT1: [00:04:46] Just free up some room. We’re kind of stuck right now.
+
+CLIENT2: [00:04:49] Yeah, if we could reduce spending without cutting the essentials, that would help a lot.
+
+ADVISOR: [00:04:54] Right. So practical budget changes, not anything extreme.
+
+CLIENT1: [00:04:58] Exactly. We’re not trying to do anything fancy.
+
+ADVISOR: [00:05:01] And if you had a small emergency fund, what would feel like a good first target?
+
+CLIENT2: [00:05:06] Five grand would be huge, honestly.
+
+CLIENT1: [00:05:09] Yeah, $5,000. Just so we’re not back to zero after paying debt.
+
+ADVISOR: [00:05:14] Okay, that’s helpful. So the order is: get the high-interest card under control, then the loan, and build back up to about $5,000 in cash.
+
+CLIENT2: [00:05:22] Yeah, that’s it.
+
+ADVISOR: [00:05:24] And just so I don’t miss anything, Lauren, you said your mobile number is the best contact for you?
+
+CLIENT1: [00:05:29] Yes, it’s (415) 555-0138.
+
+ADVISOR: [00:05:33] Great. I won’t keep you much longer. Before we wrap, is there anything that’s been keeping you up at night financially — like the rent, the debt, just not having much of a cushion?
+
+CLIENT1: [00:05:44] Mostly the cushion. And if one of us had a bad month at work, it’d feel tight fast.
+
+CLIENT2: [00:05:49] Yeah, that’s the worry. We’re okay, but not by much.
+
+ADVISOR: [00:05:53] Understood. Okay — I’ve got enough to put together the next steps, and we can look at where the budget leaks are without touching the essentials.

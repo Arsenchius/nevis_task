@@ -1,0 +1,60 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Foster
+  - id: client
+    name: Jin Clark
+---
+ADVISOR: [00:00:03] Hi Jin, thanks for making the time today. I’m Megan. How are you doing?
+CLIENT1: [00:00:08] Yeah, good, thanks. A little bit overwhelmed, honestly, but good.
+ADVISOR: [00:00:13] Totally fair. We’ll keep it straightforward. First thing, can I just take your full name for me?
+CLIENT1: [00:00:18] Jin Clark.
+ADVISOR: [00:00:21] And your date of birth?
+CLIENT1: [00:00:24] Uh, yeah—April 18th, 2001.
+ADVISOR: [00:00:29] Perfect, 18 April 2001. And you’re single, is that right?
+CLIENT1: [00:00:33] Yeah, single.
+ADVISOR: [00:00:35] Great. And are you in the US for tax purposes?
+CLIENT1: [00:00:39] Yes, US tax resident.
+ADVISOR: [00:00:43] Okay. What do you do day to day?
+CLIENT1: [00:00:47] I’m a software engineer. I work for a tech company.
+ADVISOR: [00:00:52] Nice. How long have you been there?
+CLIENT1: [00:00:55] Since June 2023.
+ADVISOR: [00:00:59] Got it. And roughly what’s your base salary before tax?
+CLIENT1: [00:01:04] It’s $92,000.
+ADVISOR: [00:01:08] Okay, and do you get any bonus on top of that?
+CLIENT1: [00:01:12] Yeah, annual bonus. Usually about $8,000.
+ADVISOR: [00:01:17] Perfect. I’m going to ask about the money you’ve got set aside now, because I understand there’s been a recent inheritance?
+CLIENT1: [00:01:24] Yeah. That’s kind of why I’m here.
+ADVISOR: [00:01:27] Right. And before we get into what to do with it, can you tell me what you’ve got in savings and investments at the moment?
+CLIENT1: [00:01:34] Sure. I’ve got about $45,000 in a high-yield savings account with an online bank.
+ADVISOR: [00:01:41] Okay.
+CLIENT1: [00:01:42] And then around $18,000 in a self-directed brokerage account.
+ADVISOR: [00:01:48] Right, self-directed brokerage. And the inheritance itself — what are you hoping it can do for you?
+CLIENT1: [00:01:55] Mostly I want to keep it somewhere safe for now. I don’t want to rush into anything. Then I’d like to decide how much should stay in cash and how much should be invested.
+ADVISOR: [00:02:06] That makes sense. If you had to put a rough number on the inheritance, what are we talking about?
+CLIENT1: [00:02:12] It’s $250,000.
+ADVISOR: [00:02:15] Okay, that’s helpful. And when you think about investing some of it, what’s the main goal there — growth over time, income, just not letting it sit there?
+CLIENT1: [00:02:24] Growth, mainly. Long term. I’d like to invest part of it for the future, but I still want a decent cash buffer.
+ADVISOR: [00:02:33] Yeah, that balance is really common. Not all in one place, not all out of the market either.
+CLIENT1: [00:02:38] Exactly. I just don’t want to make a stupid mistake with it.
+ADVISOR: [00:02:42] Totally understandable. And what worries you most — losing money, tax stuff, or just making the wrong call too quickly?
+CLIENT1: [00:02:50] Probably all of that, honestly. Taxes especially. I want to use it in a tax-efficient way and not create unnecessary drag.
+ADVISOR: [00:02:58] Sure. We can look at that carefully. On the investing side, do you see yourself as more cautious, more comfortable taking some risk, or somewhere in the middle?
+CLIENT1: [00:03:08] Somewhere in the middle, I think. I’m okay with some risk for long-term growth, but I really don’t want big losses.
+ADVISOR: [00:03:16] Right, so a moderate approach with a cash buffer.
+CLIENT1: [00:03:19] Yeah, that sounds right.
+ADVISOR: [00:03:22] And just thinking ahead, when would you like to retire?
+CLIENT1: [00:03:27] Ideally 65.
+ADVISOR: [00:03:30] Okay, 65. No pressure on that right now, just helps frame things.
+CLIENT1: [00:03:34] Yeah.
+ADVISOR: [00:03:35] One other thing I like to ask after a windfall like this is whether you want to get your affairs in order a bit more generally — make sure beneficiary details and your will are up to date, that sort of thing.
+CLIENT1: [00:03:47] Yeah, I do want to do that. I haven’t really sorted it out yet, but it’s on my list.
+ADVISOR: [00:03:52] That’s sensible. Nothing urgent today, just something to keep in mind.
+CLIENT1: [00:03:56] Right.
+ADVISOR: [00:03:58] And just so I’ve got it right — you’re not looking at any debt or anything I need to factor in here?
+CLIENT1: [00:04:04] No, nothing like that.
+ADVISOR: [00:04:07] Okay, great. So the broad picture is: keep a chunk safe for now, invest part of the inheritance for long-term growth, and do it in a tax-efficient way.
+CLIENT1: [00:04:16] Yeah, that’s exactly it. And I’d like to think it through before I move anything.
+ADVISOR: [00:04:21] Absolutely. We can take it step by step.

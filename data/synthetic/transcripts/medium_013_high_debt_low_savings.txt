@@ -1,0 +1,152 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Jasmine Peterson
+  - id: client
+    name: Adam Allen
+---
+ADVISOR: [00:00:03] Hi, thanks for making the time today. This is Megan Carter. I’ve got Jasmine and Adam on the line, right?
+
+CLIENT1: [00:00:10] Yep, Jasmine Peterson here.
+
+CLIENT2: [00:00:12] And Adam Allen, yeah.
+
+ADVISOR: [00:00:15] Perfect. Just so I’ve got the basics straight, you’re married, correct?
+
+CLIENT1: [00:00:20] Yeah, married.
+
+CLIENT2: [00:00:21] Yep.
+
+ADVISOR: [00:00:24] Great. And Jasmine, can we start with you? What’s your date of birth?
+
+CLIENT1: [00:00:30] Uh, 4/17/81.
+
+ADVISOR: [00:00:34] Thanks. And Adam?
+
+CLIENT2: [00:00:37] 9/3/79.
+
+ADVISOR: [00:00:40] Got it. And you’re both in the US, tax resident here?
+
+CLIENT1: [00:00:45] Yes.
+
+CLIENT2: [00:00:46] Yeah, US.
+
+ADVISOR: [00:00:50] Okay. Tell me what you’re both doing for work at the moment.
+
+CLIENT1: [00:00:56] I’m an operations coordinator. I work for a logistics company.
+
+ADVISOR: [00:01:02] Okay, logistics company, operations coordinator — and how long have you been there?
+
+CLIENT1: [00:01:07] Since 2019.
+
+ADVISOR: [00:01:10] Right. And Adam?
+
+CLIENT2: [00:01:13] I’m a maintenance supervisor at a manufacturing plant.
+
+ADVISOR: [00:01:18] Nice. And how long have you been there?
+
+CLIENT2: [00:01:21] Since 2017.
+
+ADVISOR: [00:01:24] Okay, thanks. And just to understand the household cash flow, what’s coming in after tax each month? Jasmine, maybe start with your take-home.
+
+CLIENT1: [00:01:35] Mine’s 4,200 a month, net.
+
+ADVISOR: [00:01:39] 4,200, okay. Adam?
+
+CLIENT2: [00:01:42] Mine is 5,100 net each month.
+
+ADVISOR: [00:01:46] Great. So combined about 9,300. And then the boring part — what are the fixed bills looking like? Rent first maybe.
+
+CLIENT1: [00:01:55] Rent is 1,850.
+
+ADVISOR: [00:01:58] Okay.
+
+CLIENT2: [00:02:00] Utilities and internet is... about 320.
+
+ADVISOR: [00:02:05] About 320, got it. And transportation — gas, car stuff?
+
+CLIENT2: [00:02:12] Around 450 a month.
+
+ADVISOR: [00:02:16] Okay. Groceries?
+
+CLIENT1: [00:02:19] Ugh, that one’s around 900.
+
+ADVISOR: [00:02:23] Right, groceries are brutal lately. Anything else regular that’s not just essentials?
+
+CLIENT2: [00:02:30] We’ve got eating out and subscriptions, like 180 a month.
+
+ADVISOR: [00:02:35] Okay, so not crazy, just some room there. And I’m going to ask this directly because it matters for planning — do you have any savings set aside right now?
+
+CLIENT1: [00:02:45] Yeah, but not much. We’ve got about 2,800 in savings.
+
+ADVISOR: [00:02:51] 2,800, okay. Is that in one joint account?
+
+CLIENT2: [00:02:55] Yeah, just a savings account at the local credit union.
+
+ADVISOR: [00:03:00] Perfect, thanks. And debt-wise, what are we dealing with?
+
+CLIENT2: [00:03:07] We have a Visa card. Balance is, uh... 11.8k.
+
+ADVISOR: [00:03:13] 11.8 thousand, okay.
+
+CLIENT1: [00:03:15] Yeah, and the payment’s 260 a month.
+
+ADVISOR: [00:03:19] Right. Do you know the rate on that card?
+
+CLIENT1: [00:03:22] It’s high. 24.9%.
+
+ADVISOR: [00:03:25] Oof, okay. And Adam, anything else in your name?
+
+CLIENT2: [00:03:30] Yeah, a personal loan through an online lender.
+
+ADVISOR: [00:03:35] Okay. What’s the monthly payment on that?
+
+CLIENT2: [00:03:38] 340 a month.
+
+ADVISOR: [00:03:41] And the balance, roughly?
+
+CLIENT2: [00:03:44] About 14,500.
+
+ADVISOR: [00:03:47] Got it. No mortgage or anything like that, just rent, correct?
+
+CLIENT1: [00:03:51] Yep, no mortgage.
+
+ADVISOR: [00:03:54] Okay. I’m hearing the main pressure point is debt and a low cash buffer. What feels most urgent to you day to day — the card, the loan, or just making the month work?
+
+CLIENT1: [00:04:06] Honestly, all of it. But the credit card bugs me the most because the interest feels like it’s just... disappearing money.
+
+CLIENT2: [00:04:13] Yeah, same. We want to stop carrying balances.
+
+ADVISOR: [00:04:18] That makes sense. And if we could free up some monthly cash flow, what would that do for you? More breathing room, less stress, maybe build savings faster?
+
+CLIENT1: [00:04:28] All of that. Mostly less stress. I hate feeling one surprise away from a problem.
+
+CLIENT2: [00:04:34] Yeah, we’d like a real emergency fund. Like, not just “hope the car holds up.”
+
+ADVISOR: [00:04:40] Right. If we put a number on that, what would feel like a decent starter emergency fund to you?
+
+CLIENT1: [00:04:47] Maybe 5,000. Not huge, just enough to stop panicking.
+
+ADVISOR: [00:04:52] Okay, 5,000 as a first target. That’s helpful. And just so I’m not missing anything, do either of you have any retirement accounts through work or anything separate like an IRA?
+
+CLIENT2: [00:05:03] No, nothing like that right now.
+
+CLIENT1: [00:05:06] Yeah, none.
+
+ADVISOR: [00:05:09] Okay. No problem. Then really it sounds like the priorities are: get a workable monthly budget, pay down the Visa and the personal loan faster, and build that emergency fund. Is that fair?
+
+CLIENT1: [00:05:21] Yeah, that’s exactly it.
+
+CLIENT2: [00:05:23] Yep, that’s the goal.
+
+ADVISOR: [00:05:26] Great. And one last thing — are you looking for something super strict, like every dollar assigned, or more of a practical budget that gives you a little flexibility?
+
+CLIENT1: [00:05:36] Practical. If it’s too strict, we won’t stick to it.
+
+CLIENT2: [00:05:39] Yeah, we need something we can actually live with.
+
+ADVISOR: [00:05:43] Fair enough. That’s usually the right answer, honestly. I’ll work with what you’ve got and we can map out the debt payoff and savings order from there.

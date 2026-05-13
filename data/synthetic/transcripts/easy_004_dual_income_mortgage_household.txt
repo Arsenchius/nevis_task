@@ -1,0 +1,202 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Ellie Fox
+  - id: client
+    name: Isaac Johnson
+---
+ADVISOR: [00:00:03] Hi Ellie, hi Isaac — thanks for jumping on. I’ve got you both here, right?
+
+CLIENT1: [00:00:08] Yep, hi.
+
+CLIENT2: [00:00:10] Hi, yeah, we’re both here.
+
+ADVISOR: [00:00:13] Great. I’m Megan. Just so I’ve got everyone straight, Ellie Fox and Isaac Johnson?
+
+CLIENT1: [00:00:18] That’s right.
+
+CLIENT2: [00:00:19] Yep.
+
+ADVISOR: [00:00:22] Perfect. Let’s start with basics. Ellie, can I take your date of birth?
+
+CLIENT1: [00:00:28] Sure — 12 April 1981.
+
+ADVISOR: [00:00:32] And Isaac?
+
+CLIENT2: [00:00:34] 3rd of September, 1979.
+
+ADVISOR: [00:00:38] Thanks. And you’re married, I believe?
+
+CLIENT1: [00:00:41] Yes, married.
+
+CLIENT2: [00:00:42] Yep.
+
+ADVISOR: [00:00:45] Okay. Ellie, what do you do at the moment?
+
+CLIENT1: [00:00:50] I’m a marketing manager. I work for Northstar Retail Group.
+
+ADVISOR: [00:00:56] Northstar Retail Group, got it. And how long have you been there?
+
+CLIENT1: [00:01:00] Since 2016.
+
+ADVISOR: [00:01:02] Right. And are you a US tax resident?
+
+CLIENT1: [00:01:06] Yes.
+
+ADVISOR: [00:01:08] Isaac, same questions for you. What’s your role?
+
+CLIENT2: [00:01:12] Software engineer. I’m with BrightWave Systems.
+
+ADVISOR: [00:01:16] BrightWave Systems — okay. And you started there when?
+
+CLIENT2: [00:01:20] 2014.
+
+ADVISOR: [00:01:22] And US tax resident as well?
+
+CLIENT2: [00:01:25] Yes, US.
+
+ADVISOR: [00:01:28] Thanks. Do either of you have a target age for retirement in mind, or is that still a bit up in the air?
+
+CLIENT1: [00:01:36] No, we’ve talked about around 65.
+
+CLIENT2: [00:01:39] Yeah, 65 sounds about right.
+
+ADVISOR: [00:01:41] Okay, around 65 for both of you. Good. And just household-wise, are there children at home?
+
+CLIENT1: [00:01:48] Yes, two.
+
+CLIENT2: [00:01:50] Lily and Noah.
+
+ADVISOR: [00:01:52] Lily and Noah — can I take their dates of birth? I’m just building the family picture.
+
+CLIENT1: [00:01:58] Lily was 18 June 2012… and Noah is 2 November 2015.
+
+ADVISOR: [00:02:05] Great. So they’re both still financially dependent, I’d assume.
+
+CLIENT2: [00:02:09] Yeah, definitely.
+
+ADVISOR: [00:02:11] Alright. Let’s talk through income and the monthly picture. Roughly what are you each earning before tax?
+
+CLIENT1: [00:02:19] Mine is 82 thousand a year.
+
+CLIENT2: [00:02:22] And I’m 118 thousand.
+
+ADVISOR: [00:02:25] 118, okay. Any bonus on top of that, Isaac?
+
+CLIENT2: [00:02:29] Yeah, I usually get a bonus — 12 thousand a year.
+
+ADVISOR: [00:02:33] Nice, thanks. Ellie, just salary for you?
+
+CLIENT1: [00:02:36] Yeah, just salary.
+
+ADVISOR: [00:02:38] And monthly spending — I’m going to ask broad buckets, not every coffee. What’s the mortgage running at?
+
+CLIENT1: [00:02:47] It’s 2,450 a month.
+
+ADVISOR: [00:02:50] Okay. And just so I’m clear, that mortgage is through HomeFirst Mortgage, right?
+
+CLIENT2: [00:02:55] Yes, HomeFirst.
+
+ADVISOR: [00:02:57] And do you know the balance and rate offhand?
+
+CLIENT1: [00:03:01] The balance is about 312 thousand… no, actually that’s right, 312,000. And the rate is 5.25%.
+
+ADVISOR: [00:03:09] Got it. Thanks. Then household costs — utilities?
+
+CLIENT2: [00:03:14] Around 320 a month.
+
+ADVISOR: [00:03:17] Groceries?
+
+CLIENT1: [00:03:19] About 900.
+
+ADVISOR: [00:03:21] Child-related stuff, after-school care, activities, that sort of thing?
+
+CLIENT2: [00:03:26] Yeah, around 450 a month.
+
+ADVISOR: [00:03:29] And transport — fuel, commuting?
+
+CLIENT1: [00:03:33] Roughly 260.
+
+ADVISOR: [00:03:36] Okay. That’s helpful. Do you feel like the main pressure point right now is just getting a bit more breathing room, or is it more the kids’ future, retirement, that kind of thing?
+
+CLIENT1: [00:03:47] Honestly, a bit of both. We want more of a cushion.
+
+CLIENT2: [00:03:50] And we keep thinking about college.
+
+ADVISOR: [00:03:53] Right. So emergency buffer, family comfort, and education planning. On the savings side, what do you have set aside together at the moment?
+
+CLIENT2: [00:04:03] We’ve got a high-yield savings account at Cedar Bank.
+
+ADVISOR: [00:04:07] Okay.
+
+CLIENT1: [00:04:08] It’s about 38 thousand in there.
+
+ADVISOR: [00:04:11] 38,000, got it. Any other joint investments?
+
+CLIENT2: [00:04:15] Yeah, a brokerage account with Vanguard.
+
+ADVISOR: [00:04:19] Vanguard brokerage — what’s in that roughly?
+
+CLIENT1: [00:04:22] About 27 thousand.
+
+ADVISOR: [00:04:25] Okay. And for retirement accounts, Ellie, do you have a workplace 401(k)?
+
+CLIENT1: [00:04:31] I do, yeah, through the Northstar Retirement Plan.
+
+ADVISOR: [00:04:35] And about what’s in there today?
+
+CLIENT1: [00:04:38] 146 thousand.
+
+ADVISOR: [00:04:40] And what are you contributing?
+
+CLIENT1: [00:04:43] Six percent of salary.
+
+ADVISOR: [00:04:46] Okay. Isaac, yours?
+
+CLIENT2: [00:04:49] Mine’s with BrightWave — the BrightWave 401(k) Plan.
+
+ADVISOR: [00:04:53] And current value?
+
+CLIENT2: [00:04:55] 214 thousand.
+
+ADVISOR: [00:04:58] And contribution rate?
+
+CLIENT2: [00:05:00] Eight percent of salary.
+
+ADVISOR: [00:05:03] Great. That gives me a decent picture. When you say you want more breathing room, Ellie, what does that mean in practice — more cash on hand, less stress month to month, something specific?
+
+CLIENT1: [00:05:16] More cash on hand, definitely. I’d feel better if we had a bigger buffer for surprises.
+
+CLIENT2: [00:05:21] And for the kids too — school stuff, braces, whatever comes up.
+
+ADVISOR: [00:05:25] Sure. If you had to put a number on that buffer, what would feel comfortable?
+
+CLIENT1: [00:05:31] We were thinking 50 thousand.
+
+ADVISOR: [00:05:34] Okay, 50,000. And is that something you’d like to build over the next couple of years?
+
+CLIENT2: [00:05:39] Yeah, within two years would be ideal.
+
+ADVISOR: [00:05:43] Understood. And on education, are you thinking more of a dedicated account for the kids, or just earmarking part of the savings for now?
+
+CLIENT1: [00:05:50] We haven’t set up anything dedicated yet.
+
+CLIENT2: [00:05:53] Not yet, no. We just know we need to start.
+
+ADVISOR: [00:05:56] Fair enough. And do you have a sense of what you’d like retirement to look like — same lifestyle, travel, helping the kids, that sort of thing?
+
+CLIENT1: [00:06:06] Mostly same lifestyle. Nothing extravagant, just comfortable.
+
+CLIENT2: [00:06:10] Yeah, we’d like to keep things pretty similar to how we live now.
+
+ADVISOR: [00:06:14] That makes sense. So the main priorities I’m hearing are: build the emergency fund closer to 50 grand, start planning for both children’s education, and make sure retirement at 65 feels on track.
+
+CLIENT1: [00:06:25] Yes, exactly.
+
+CLIENT2: [00:06:27] That’s right.
+
+ADVISOR: [00:06:29] Okay. That’s a good starting point. I’ll work from there and we can look at how the cash flow and workplace plans line up.

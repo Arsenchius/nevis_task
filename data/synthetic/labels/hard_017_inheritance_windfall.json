@@ -1,0 +1,350 @@
+{
+  "example_id": "hard_017_inheritance_windfall",
+  "difficulty": "hard",
+  "archetype_id": "inheritance_windfall",
+  "challenge_tags": [
+    "advisor_noise",
+    "correction",
+    "estate_planning",
+    "joint_assets",
+    "missing_fields",
+    "multiple_products",
+    "numeric_approximate",
+    "numeric_shorthand",
+    "objectives_free_form",
+    "owner_attribution",
+    "risk_preferences"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "household_dependants",
+    "income",
+    "objectives",
+    "other_assets",
+    "personal_details",
+    "risk_profile_preferences",
+    "savings_investments"
+  ],
+  "age_band": "young_family_1986_1995",
+  "include_mobile_phone": true,
+  "include_email": false,
+  "transcript_path": "data/synthetic/transcripts/hard_017_inheritance_windfall.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Raj",
+        "last_name": "Walsh",
+        "date_of_birth": "1991-04-18",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": "+1-415-555-0198",
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Product manager",
+        "employer": "Tech startup",
+        "start_date": "2019",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Stanley",
+        "last_name": "Gonzales",
+        "date_of_birth": "1989-11-02",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "High school teacher",
+        "employer": "Public school district",
+        "start_date": "2016",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": "Stanley Gonzales",
+      "partner_or_spouse_is_client2": true,
+      "partner_or_spouse_relationship": "spouse",
+      "children_or_dependants": [
+        {
+          "name": "Mila Walsh",
+          "relationship": "child",
+          "date_of_birth": "2018-06-14",
+          "age": 7.0,
+          "dependency_status": "financially dependent"
+        },
+        {
+          "name": "Noah Walsh",
+          "relationship": "child",
+          "date_of_birth": "2021-09-03",
+          "age": 4.0,
+          "dependency_status": "financially dependent"
+        }
+      ]
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 132000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$132k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "salary",
+        "amount": {
+          "normalized_amount": 68000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$68,000"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "household",
+        "source_name": "inheritance windfall",
+        "amount": {
+          "normalized_amount": 425000.0,
+          "lower_bound": 400000.0,
+          "upper_bound": 450000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $400k-$450k"
+        },
+        "frequency": "one_off",
+        "net_or_gross": "unknown"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "mortgage",
+        "owner": "joint",
+        "name": "mortgage payment",
+        "amount": {
+          "normalized_amount": 3100.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$3,100"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "childcare",
+        "owner": "joint",
+        "name": "daycare",
+        "amount": {
+          "normalized_amount": 1800.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$1,800"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "joint",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 420.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$420"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "travel",
+        "owner": "joint",
+        "name": "family trips",
+        "amount": {
+          "normalized_amount": 6000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$6k"
+        },
+        "frequency": "annual",
+        "is_essential": false
+      }
+    ],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "high-yield savings",
+        "provider": "Online bank",
+        "current_value": {
+          "normalized_amount": 86000.0,
+          "lower_bound": 80000.0,
+          "upper_bound": 90000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $80k-$90k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 125000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$125,000"
+        },
+        "cash_value": {
+          "normalized_amount": 15000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$15k cash"
+        },
+        "invested_value": {
+          "normalized_amount": 110000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$110k invested"
+        }
+      },
+      {
+        "owner": "joint",
+        "account_type": "529 plan",
+        "provider": "State plan",
+        "current_value": {
+          "normalized_amount": 22000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$22,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [],
+    "other_assets": [
+      {
+        "owner": "joint",
+        "description": "Primary residence",
+        "current_value": {
+          "normalized_amount": 780000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$780,000"
+        },
+        "ownership_share": 50.0
+      },
+      {
+        "owner": "client1",
+        "description": "Inherited cash expected from aunt's estate",
+        "current_value": {
+          "normalized_amount": 250000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$250k"
+        },
+        "ownership_share": 100.0
+      }
+    ],
+    "objectives": [
+      {
+        "category": "tax efficiency",
+        "description": "Use the inheritance in a tax-efficient way and avoid unnecessary tax drag.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants guidance on whether to keep cash, invest, or use tax-advantaged accounts first."
+      },
+      {
+        "category": "investing",
+        "description": "Build a diversified portfolio for long-term growth with an appropriate risk level.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Unsure how much of the windfall should stay in cash versus be invested."
+      },
+      {
+        "category": "estate planning",
+        "description": "Update wills and beneficiary designations after the inheritance.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "No trust currently mentioned; wants to make sure children are protected."
+      },
+      {
+        "category": "savings",
+        "description": "Keep an emergency reserve while deciding what to do with the windfall.",
+        "target_amount_or_income": {
+          "normalized_amount": 50000.0,
+          "lower_bound": null,
+          "upper_bound": null,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$50,000"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Wants to hold some cash back for near-term family needs."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some market volatility for long-term growth, but wants to avoid taking too much risk with the inheritance.",
+      "preferred_strategy": "Keep a cash buffer, then invest the remainder in a diversified mix of funds.",
+      "key_concerns": [
+        "Protecting the inheritance from unnecessary tax",
+        "Balancing growth with capital preservation",
+        "Funding children's needs",
+        "Updating estate documents"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "has will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "Wills exist but need updating after the inheritance. No trust mentioned. Beneficiary designations should be reviewed."
+    }
+  }
+}

@@ -1,0 +1,290 @@
+---
+title: N/A
+date: 2026-05-13
+participants:
+  - id: advisor
+    name: Melissa Grant
+  - id: client
+    name: Steven Butler
+  - id: client
+    name: Thomas Watson
+---
+ADVISOR: [00:00:03] Hi Steven, hi Thomas — thanks for jumping on. I’m Melissa. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, loud and clear.
+
+CLIENT2: [00:00:10] Yep, we’re good.
+
+ADVISOR: [00:00:12] Great. Um, and just so I’ve got the right people, Steven Butler and Thomas Watson?
+
+CLIENT1: [00:00:17] That’s right.
+
+CLIENT2: [00:00:18] Yep.
+
+ADVISOR: [00:00:20] Perfect. Steven, I’ll start with you. What’s your date of birth?
+
+CLIENT1: [00:00:26] It’s April 17th, 1981.
+
+ADVISOR: [00:00:30] April 17, 1981 — got it. And Thomas, yours?
+
+CLIENT2: [00:00:35] September 3rd, 1980.
+
+ADVISOR: [00:00:38] Thanks. And just for contact, Steven, what’s the best mobile for you?
+
+CLIENT1: [00:00:43] It’s 415-555-0138.
+
+ADVISOR: [00:00:47] Great. And I don’t think I have an email for either of you yet — if you’d rather not give it over the call, that’s fine. We can leave that for later.
+
+CLIENT1: [00:00:54] Yeah, we can do that later.
+
+CLIENT2: [00:00:56] Same.
+
+ADVISOR: [00:00:58] No problem. And just to confirm, you’re married, right?
+
+CLIENT1: [00:01:02] Yeah, married.
+
+CLIENT2: [00:01:03] Yep.
+
+ADVISOR: [00:01:05] Okay. Thomas, you’re Steven’s spouse, correct?
+
+CLIENT2: [00:01:08] Correct.
+
+ADVISOR: [00:01:10] Good. And Steven, what do you do day to day?
+
+CLIENT1: [00:01:15] I’m an operations manager.
+
+ADVISOR: [00:01:17] And where are you working at the moment?
+
+CLIENT1: [00:01:20] North Bay Logistics.
+
+ADVISOR: [00:01:22] North Bay Logistics, okay. How long have you been there?
+
+CLIENT1: [00:01:26] Since 2012.
+
+ADVISOR: [00:01:29] Right, so a while. And Thomas, what about you?
+
+CLIENT2: [00:01:33] I’m self-employed. Contract IT consultant.
+
+ADVISOR: [00:01:37] Contract IT consultant — got it. And when did you go out on your own?
+
+CLIENT2: [00:01:41] 2018, I think. Yeah, 2018.
+
+ADVISOR: [00:01:44] Okay. And are you a US tax resident, both of you?
+
+CLIENT1: [00:01:49] Yeah, US.
+
+CLIENT2: [00:01:50] Yes, US tax resident.
+
+ADVISOR: [00:01:53] Perfect. I’m going to bounce around a bit, just because these calls tend to do that. Any children or anyone financially depending on you?
+
+CLIENT1: [00:02:01] Yeah, two kids.
+
+CLIENT2: [00:02:03] Ella and Noah.
+
+ADVISOR: [00:02:05] Ella and Noah — okay. How old are they?
+
+CLIENT1: [00:02:09] Ella’s 13… actually, 13 and a bit. Noah’s 10.
+
+ADVISOR: [00:02:13] Right, so Ella’s 13 and Noah’s 10. Good. And they’re both still financially dependent?
+
+CLIENT2: [00:02:18] Yes, definitely.
+
+ADVISOR: [00:02:21] Okay. Tell me a little bit about what’s coming in at the household level. Steven, what’s your salary?
+
+CLIENT1: [00:02:30] Ninety-eight thousand gross.
+
+ADVISOR: [00:02:33] $98,000 gross, thanks. Thomas, your contract income can be a bit variable I imagine — what’s a normal month like?
+
+CLIENT2: [00:02:40] Um, about six to seven grand a month before tax. So maybe... I don’t know, around 72 a year? Give or take.
+
+ADVISOR: [00:02:49] Yeah, that works. So roughly $6k to $7k a month, about $72,000 a year gross. Does that feel fair?
+
+CLIENT2: [00:02:55] Yeah, that’s fair.
+
+ADVISOR: [00:02:58] And I know there’s been a lot going on with the inheritance piece. Before we get into what to do with it, can you just tell me what’s expected?
+
+CLIENT1: [00:03:07] My aunt passed, and there’s a rental condo in the estate. It’s probably going to be sold.
+
+CLIENT2: [00:03:12] Yeah, and the money from that — well, the estate money — we’re expecting something in the couple-hundred-thousand range.
+
+ADVISOR: [00:03:20] Okay, when you say couple-hundred-thousand, are we talking like 200-ish, 300-ish?
+
+CLIENT1: [00:03:25] More like somewhere between 200 and 300. Maybe around 250, but we don’t know exactly yet.
+
+ADVISOR: [00:03:31] Right, so roughly $200,000 to $300,000, maybe around $250,000. That’s helpful. And Thomas, is the condo in your name now, or is it still tied up in the estate?
+
+CLIENT2: [00:03:41] It’s mine now. Inherited rental condo. I’m expecting to sell it rather than keep it.
+
+ADVISOR: [00:03:46] Understood. And do you have a sense of what it might sell for?
+
+CLIENT2: [00:03:50] About 310,000, I think.
+
+ADVISOR: [00:03:52] Okay, about $310,000. Got it. We’ll come back to the tax side in a minute. First, can you walk me through regular monthly spending — the big stuff?
+
+CLIENT1: [00:04:03] Sure. We’ve got the mortgage, obviously.
+
+ADVISOR: [00:04:06] Yep, housing first, absolutely. Anything else that’s a fixed monthly thing?
+
+CLIENT1: [00:04:10] Utilities and internet are about 420 a month.
+
+ADVISOR: [00:04:14] Utilities and internet at $420 monthly.
+
+CLIENT2: [00:04:17] And after-school care is 650 a month.
+
+ADVISOR: [00:04:20] After-school care, $650. Anything else major?
+
+CLIENT1: [00:04:24] Not really major. We do travel as a family, but that’s more on and off.
+
+ADVISOR: [00:04:29] Sure. Roughly what does that run you over a year?
+
+CLIENT2: [00:04:33] Around five to seven thousand a year. Probably six on average.
+
+ADVISOR: [00:04:38] Okay, around $5,000 to $7,000 a year, call it $6,000. That gives me a decent picture.
+
+CLIENT1: [00:04:44] Yeah.
+
+ADVISOR: [00:04:46] And just because this is often where people feel a bit torn — what’s the main thing you want the inheritance to do for you? Is it more about safety, growth, or just getting some breathing room?
+
+CLIENT1: [00:04:57] Honestly, all three, which is annoying.
+
+CLIENT2: [00:05:00] Yeah, we don’t want to do anything stupid with it.
+
+ADVISOR: [00:05:03] No, fair enough. That’s very normal. If I boil it down, what seems to matter most is: don’t create a tax headache this year, keep some cash back, and then invest part of it without taking a huge hit if markets wobble. Is that about right?
+
+CLIENT1: [00:05:17] Exactly. The tax bill is the thing I’m worried about.
+
+CLIENT2: [00:05:20] And the market stuff, yeah — I don’t want to see it drop a ton and panic.
+
+ADVISOR: [00:05:25] Right. So not reckless, but not sitting in cash forever either.
+
+CLIENT1: [00:05:29] Yeah.
+
+ADVISOR: [00:05:31] On the cash side, do you already have an emergency reserve, or would this inheritance be the thing that really builds that up?
+
+CLIENT1: [00:05:38] We’ve got some savings, but not enough for what I’d like.
+
+CLIENT2: [00:05:41] We’d like to ring-fence about 50 grand, just for emergencies and house stuff.
+
+ADVISOR: [00:05:46] Okay, $50,000 set aside. That feels like a clear target. And when you say house stuff, do you mean repairs, maintenance, things like that?
+
+CLIENT2: [00:05:54] Yeah, exactly. Roof, appliances, whatever comes up.
+
+ADVISOR: [00:05:58] Makes sense. And then beyond that, what would you want the rest of the inheritance to do? Pay down anything, invest, keep some liquid — how are you thinking?
+
+CLIENT1: [00:06:08] I think keep some liquid, invest some, and maybe use some for the kids and future school costs.
+
+CLIENT2: [00:06:14] And not lock it away too aggressively. I want access if we need it.
+
+ADVISOR: [00:06:18] Okay. So a cash reserve, some medium-term growth, and flexibility. That’s a pretty balanced ask.
+
+CLIENT1: [00:06:24] Yeah, balanced is probably the word.
+
+ADVISOR: [00:06:27] Let me ask a slightly personal one — what does “medium-term” mean for you? Like three years, five years, ten?
+
+CLIENT2: [00:06:35] Probably five-ish years. Maybe a bit longer for some of it.
+
+CLIENT1: [00:06:38] Yeah, not touching all of it right away.
+
+ADVISOR: [00:06:41] Okay. And how do you two generally feel about ups and downs in investments? I’m not trying to box you in, just trying to understand how much wobble you can live with.
+
+CLIENT1: [00:06:49] I can handle some, but not a lot.
+
+CLIENT2: [00:06:52] Same. Moderate, I guess. I’m okay with growth, just not huge losses.
+
+ADVISOR: [00:06:57] That’s helpful — so moderate overall, with a preference for protecting the inheritance from a big drop.
+
+CLIENT1: [00:07:03] Yes.
+
+ADVISOR: [00:07:05] And on the estate planning side, I’m not going to get too deep into legal stuff, but are your wills and beneficiary nominations up to date, or is that something you know needs a look?
+
+CLIENT1: [00:07:15] They need a look.
+
+CLIENT2: [00:07:16] Yeah, definitely outdated.
+
+ADVISOR: [00:07:19] Okay. So the main thing there is getting your affairs updated so the kids are covered properly.
+
+CLIENT1: [00:07:24] Exactly.
+
+ADVISOR: [00:07:26] Good. And retirement timing — not the whole plan, just the rough age you’d each like to stop full-time work. Steven?
+
+CLIENT1: [00:07:35] Sixty-five would be the goal.
+
+ADVISOR: [00:07:38] Sixty-five. Thomas?
+
+CLIENT2: [00:07:41] Sixty-seven, probably. Unless work gets weird.
+
+ADVISOR: [00:07:45] Okay, 65 for Steven and 67 for Thomas. That gives me a sense of the horizon.
+
+CLIENT1: [00:07:50] Yeah.
+
+ADVISOR: [00:07:52] Do you want to keep the inheritance completely separate, or are you thinking of blending it into the household pot and making decisions together?
+
+CLIENT2: [00:08:00] Together. It’s all household money in the end, really.
+
+CLIENT1: [00:08:03] Yeah, agreed.
+
+ADVISOR: [00:08:05] Okay. And just to make sure I’m not missing anything obvious — do you have any other big assets I should know about besides the home and the condo?
+
+CLIENT1: [00:08:13] Our primary home, yes.
+
+ADVISOR: [00:08:15] Right — roughly what’s that worth today?
+
+CLIENT1: [00:08:19] About 780,000.
+
+ADVISOR: [00:08:22] $780,000, got it. And the condo at about $310,000, as you said. Anything else significant?
+
+CLIENT2: [00:08:28] Not really. Mostly cash and investments.
+
+ADVISOR: [00:08:31] Speaking of which, do you keep any money in savings at the moment?
+
+CLIENT1: [00:08:35] Yeah, we’ve got a high-yield savings account at Cedar Bank.
+
+ADVISOR: [00:08:39] Cedar Bank, okay. Roughly how much is in there?
+
+CLIENT2: [00:08:43] Eighty-six thousand.
+
+ADVISOR: [00:08:45] $86,000 in the high-yield savings. Great. And Steven, do you have investments outside that?
+
+CLIENT1: [00:08:52] I do. A brokerage account.
+
+ADVISOR: [00:08:54] Okay. About how much is in that?
+
+CLIENT1: [00:08:57] Um, roughly fifty to sixty thousand. I think the total’s around 54.
+
+ADVISOR: [00:09:02] Okay, roughly $50,000 to $60,000, around $54,000. Is any of that sitting in cash?
+
+CLIENT1: [00:09:08] Yeah, about 12,000 cash and 42,000 invested.
+
+ADVISOR: [00:09:12] Perfect. And Thomas, do you have any separate investment account?
+
+CLIENT2: [00:09:16] Just a Roth IRA — sorry, just that one account. It’s around 39,000.
+
+ADVISOR: [00:09:21] Okay, about $39,000. Thanks. And I know you said you don’t want to lock things away too aggressively — that fits with what you’ve told me so far. Anything else worrying you about this inheritance that we haven’t touched on?
+
+CLIENT1: [00:09:34] Just making the wrong choice and then regretting it later.
+
+CLIENT2: [00:09:37] And tax. I keep coming back to tax. I really don’t want a big bill this year.
+
+ADVISOR: [00:09:42] Yeah, that makes sense. So the priorities are: keep it tax-efficient, don’t overexpose it to market swings, keep a healthy cash buffer, and make sure the kids and the household are protected. Does that sound right?
+
+CLIENT1: [00:09:54] Yeah, that’s basically it.
+
+CLIENT2: [00:09:56] Yep, that’s it.
+
+ADVISOR: [00:09:58] Good. I think that’s enough for me to start mapping options. We can look at a staged approach so you’re not forced into one big decision all at once.
+
+CLIENT1: [00:10:06] That would be helpful.
+
+CLIENT2: [00:10:08] Yeah, definitely.
+
+ADVISOR: [00:10:10] Great. And just so I’ve got the basics right before we wrap, Steven Butler, DOB 17th of April 1981, mobile ending 0138, employed at North Bay Logistics since 2012. Thomas Watson, DOB 3rd of September 1980, self-employed IT consultant since 2018, and you’re both US tax residents. Did I get that all right?
+
+CLIENT1: [00:10:30] Yeah, that’s right.
+
+CLIENT2: [00:10:31] Yep.
+
+ADVISOR: [00:10:33] Okay — and I’ll note the house, the Cedar Bank savings, Steven’s brokerage, Thomas’s Roth IRA, and the inheritance from the aunt’s estate. We’ll take it from there.
+
+CLIENT1: [00:10:42] Sounds good.
+
+CLIENT2: [00:10:43] Thanks.

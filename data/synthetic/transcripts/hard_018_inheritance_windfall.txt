@@ -1,0 +1,204 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Daniel Mercer
+  - id: client
+    name: Fatima Diaz
+  - id: client
+    name: Christine Gutierrez
+---
+ADVISOR: [00:00:03] Hi Fatima, hi Christine — Daniel Mercer here. Thanks for making time. Can you both hear me okay?
+
+CLIENT1: [00:00:09] Yeah, we can. Sorry, one sec, Mateo's banging on the door... okay, hi.
+
+CLIENT2: [00:00:15] Hi, yeah, we’re good.
+
+ADVISOR: [00:00:18] No worries at all. I know these calls can be a little chaotic. So just to start, I’ve got the inheritance piece on my side, and I want to make sure I’m pronouncing everything right. Fatima Diaz?
+
+CLIENT1: [00:00:28] Yep, that’s me.
+
+ADVISOR: [00:00:30] And Christine Gutierrez?
+
+CLIENT2: [00:00:32] That’s right.
+
+ADVISOR: [00:00:34] Great. And you two are spouses, right?
+
+CLIENT1: [00:00:37] Yeah, married.
+
+CLIENT2: [00:00:38] Yep.
+
+ADVISOR: [00:00:40] Perfect. Why don’t we just do a little bit of background first. Fatima, what’s your date of birth?
+
+CLIENT1: [00:00:46] Uh, April eighteenth, nineteen ninety-one. So 4/18/91.
+
+ADVISOR: [00:00:52] Got it. And Christine?
+
+CLIENT2: [00:00:55] November second, nineteen eighty-nine. I always have to think for a second... 11/2/89.
+
+ADVISOR: [00:01:01] Perfect. And emails, so I have Fatima dot Diaz at... is it example dot com?
+
+CLIENT1: [00:01:08] Yeah, fatima.diaz@example.com.
+
+ADVISOR: [00:01:12] Thanks. Christine, do you want to give me yours too, or is it better to skip it for now?
+
+CLIENT2: [00:01:17] Uh, actually I don’t really use that one much, so let’s skip mine.
+
+ADVISOR: [00:01:21] Totally fine. So tell me a little bit about what each of you is doing work-wise right now.
+
+CLIENT1: [00:01:27] I’m a marketing manager at Northstar Health.
+
+ADVISOR: [00:01:31] Okay.
+
+CLIENT1: [00:01:32] Been there since... 2019, I think. Yeah, 2019.
+
+ADVISOR: [00:01:36] And is that full-time salaried?
+
+CLIENT1: [00:01:38] Yeah, salaried. About ninety-eight thousand a year gross.
+
+ADVISOR: [00:01:43] Got it, 98k. And Christine?
+
+CLIENT2: [00:01:47] I’m self-employed. Freelance graphic designer.
+
+ADVISOR: [00:01:51] Nice. How long have you been doing that?
+
+CLIENT2: [00:01:54] Since 2021. I mean, I did bits before that, but full-time since 2021.
+
+ADVISOR: [00:02:00] And your income is kind of variable, I assume.
+
+CLIENT2: [00:02:03] Yeah, pretty variable. Usually about four to five grand a month before tax. So... maybe 48 to 60 a year? Somewhere in there.
+
+ADVISOR: [00:02:13] Okay, so roughly 4k to 5k monthly, that makes sense. And are you both based in the US for tax purposes?
+
+CLIENT1: [00:02:19] Yeah.
+
+CLIENT2: [00:02:20] Yep, US.
+
+ADVISOR: [00:02:22] Great. And any kids or dependants I should know about?
+
+CLIENT1: [00:02:26] Yeah, two kids. Sofia and Mateo.
+
+ADVISOR: [00:02:29] Okay, Sofia and Mateo. Ages?
+
+CLIENT1: [00:02:32] Sofia’s seven... well, she’ll be seven? No, wait, she is seven now. Born June 12th, 2018.
+
+CLIENT2: [00:02:40] And Mateo’s four. September 3rd, 2021.
+
+ADVISOR: [00:02:44] Got it. And they’re both financially dependent on you?
+
+CLIENT1: [00:02:47] Yeah, absolutely.
+
+ADVISOR: [00:02:49] Thanks. Let’s talk through the inheritance piece, because that’s really the main event here. What happened, and what are you working with?
+
+CLIENT1: [00:02:57] My aunt passed away earlier this year, and she left me her brokerage account. It’s... a lot more money than we’ve ever had sitting around.
+
+CLIENT2: [00:03:06] Yeah, it’s kind of been sitting there making us both nervous.
+
+ADVISOR: [00:03:09] I can imagine. Roughly what size are we talking?
+
+CLIENT1: [00:03:13] Two-fifty, I think. Like 250k.
+
+ADVISOR: [00:03:16] Okay, so about $250,000. And just to be clear, that’s the inherited brokerage account itself?
+
+CLIENT1: [00:03:22] Yeah, exactly. It came over from my aunt.
+
+ADVISOR: [00:03:25] Understood. And are you thinking of keeping all of that invested, or are you trying to carve some out for cash needs?
+
+CLIENT2: [00:03:31] We definitely want some cash. We just don’t want to leave the whole thing idle.
+
+CLIENT1: [00:03:36] Yeah, we were thinking maybe thirty thousand or so just to have a cushion.
+
+ADVISOR: [00:03:41] Okay, so around 30k held back. That’s helpful. What’s the biggest worry with it right now — and don’t worry, there’s no wrong answer — is it taxes, losing principal, just not knowing where to put it?
+
+CLIENT1: [00:03:53] Taxes, honestly. I keep thinking there’s going to be some giant tax bill and I’m going to mess it up.
+
+CLIENT2: [00:03:59] And then also, like, what if we invest it wrong and it drops right when we need it for the kids.
+
+ADVISOR: [00:04:05] Right, so tax efficiency and keeping it protected enough to sleep at night. That makes sense. Have you already moved the money anywhere, or is it still in the inherited account?
+
+CLIENT1: [00:04:13] It’s still there for now.
+
+ADVISOR: [00:04:15] Okay. And you mentioned wanting to keep some accessible. In practical terms, what would that cash be for? Emergency fund, home stuff, school, family trips... what’s the real life use?
+
+CLIENT2: [00:04:26] Mostly emergency reserve, and then just stuff with the kids. Like if daycare goes up, or a trip, or something unexpected.
+
+CLIENT1: [00:04:33] Yeah, we’ve got the usual monthly stuff too, so we don’t want to stretch ourselves.
+
+ADVISOR: [00:04:37] Sure. What are the fixed monthly expenses like, roughly? Just the ones that always show up.
+
+CLIENT1: [00:04:43] Mortgage is 2400 a month.
+
+CLIENT2: [00:04:45] Daycare is brutal — 1800 a month.
+
+CLIENT1: [00:04:49] Utilities and internet are around 320.
+
+ADVISOR: [00:04:52] Okay, so 2,400 mortgage, 1,800 daycare, 320 utilities and internet. Any other big recurring costs, or are those the main ones?
+
+CLIENT2: [00:04:59] Those are the main essentials. We also try to do family trips once a year.
+
+ADVISOR: [00:05:04] Oh nice. What does that look like budget-wise?
+
+CLIENT1: [00:05:07] Usually around five to seven thousand a year. I think last year was closer to six.
+
+ADVISOR: [00:05:12] Got it, so roughly 5k to 7k annually for family trips. And just so I understand the household picture, do you already have some savings outside the inheritance?
+
+CLIENT1: [00:05:22] Yeah, we do. We’ve got a high-yield savings account at Ally with about forty-two thousand.
+
+ADVISOR: [00:05:29] Okay.
+
+CLIENT2: [00:05:30] And I have around twelve thousand in cash savings too.
+
+ADVISOR: [00:05:34] Great. So there’s some liquidity already. And Fatima, do you have any other investments besides the inherited account?
+
+CLIENT1: [00:05:41] Yeah, I’ve got a Vanguard brokerage account. Around seventy-eight thousand.
+
+ADVISOR: [00:05:47] Okay, 78k at Vanguard. Christine, any investments on your side, or mostly cash for now?
+
+CLIENT2: [00:05:53] Mostly cash. Just the 12k savings.
+
+ADVISOR: [00:05:56] Got it. And just to check, no other loans or debts we need to factor in today?
+
+CLIENT1: [00:06:01] No, nothing like that.
+
+CLIENT2: [00:06:03] Yeah, no debt stuff.
+
+ADVISOR: [00:06:05] Okay. That makes the planning a little cleaner. On the inheritance itself, have you thought about whether you want to invest it all at once versus kind of easing in over time?
+
+CLIENT2: [00:06:15] We’ve gone back and forth. I think all at once feels scary.
+
+CLIENT1: [00:06:19] Yeah. I keep thinking if we put it all in and the market drops, I’ll panic.
+
+ADVISOR: [00:06:24] That’s fair. A lot of people feel that way. We can talk through a staged approach if that helps. And longer term, what are you both hoping this money does for your family?
+
+CLIENT1: [00:06:35] I want it to actually help the kids. Like, not just sit there.
+
+CLIENT2: [00:06:40] And I want us to be smart about it, not just spend it because it feels like found money.
+
+ADVISOR: [00:06:46] Right. So preserve it, grow it sensibly, and make sure it’s useful for the children later. Is that fair?
+
+CLIENT1: [00:06:52] Yeah, exactly.
+
+ADVISOR: [00:06:54] And on the estate side, have you two done any updates around wills or beneficiaries since receiving the inheritance?
+
+CLIENT1: [00:07:00] We updated our will in 2022.
+
+CLIENT2: [00:07:03] Yeah, and we want to make sure everything passes cleanly to the kids if something happened to either of us.
+
+ADVISOR: [00:07:09] Okay, that’s helpful. No trust in place then, just the will update?
+
+CLIENT1: [00:07:13] Right, no trust.
+
+ADVISOR: [00:07:15] Understood. And one last thing I should ask — not to get too far ahead of ourselves — when do you each want to think about retirement? Age-wise, just your rough target.
+
+CLIENT1: [00:07:25] I’d say sixty-five. That feels about right.
+
+CLIENT2: [00:07:29] I’m not as sure. I haven’t really picked an age yet.
+
+ADVISOR: [00:07:33] That’s okay. Fatima, 65 for you, and Christine, we can leave yours open for now. Anything else you want me to know about the inheritance or what’s keeping you up at night?
+
+CLIENT2: [00:07:43] Just... not making a dumb mistake, honestly.
+
+CLIENT1: [00:07:46] Yeah. And we’d like it to be tax efficient if possible.
+
+ADVISOR: [00:07:50] Absolutely. That’s exactly the kind of thing we can map out. I’ll pull this together and we can look at a structure that keeps a reserve, invests the rest thoughtfully, and stays aligned with the kids and your estate plan.

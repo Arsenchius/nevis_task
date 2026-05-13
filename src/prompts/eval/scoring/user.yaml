@@ -1,0 +1,11 @@
+prompt: |
+  Score this CIF extraction against its ground truth.
+
+  Example ID: {example_id}
+
+  Section-by-section comparison (ground truth vs extracted):
+  {sections_json}
+
+  For each section listed above, assign a score of 1 (correct/matches GT) or 0 (missing/wrong/hallucinated).
+  Follow the rules in the system prompt exactly.
+  Return the JSON score object only.

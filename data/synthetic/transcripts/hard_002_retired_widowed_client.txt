@@ -1,0 +1,214 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Marco Jimenez
+  - id: client
+    name: Kathleen Long
+---
+ADVISOR: [00:00:04] Hi, this is Megan. I’ve got Marco and Kathleen on the line, right?
+
+CLIENT1: [00:00:09] Yeah, Marco Jimenez here.
+
+CLIENT2: [00:00:11] And Kathleen Long. Hi.
+
+ADVISOR: [00:00:14] Great, thanks both. Just to make sure I’ve got the basics, Marco, can I start with your date of birth?
+
+CLIENT1: [00:00:22] Sure. It’s April 18th, 1956.
+
+ADVISOR: [00:00:28] Perfect. And you’re married—well, widowed, sorry—?
+
+CLIENT1: [00:00:32] Widowed, yes.
+
+CLIENT2: [00:00:34] Same here.
+
+ADVISOR: [00:00:36] Okay. And Kathleen, your date of birth?
+
+CLIENT2: [00:00:40] September 2nd, 1958.
+
+ADVISOR: [00:00:44] Got it. Thanks. And I’ll need contact details for Marco first—mobile and email, if you’re okay sharing those.
+
+CLIENT1: [00:00:52] Yeah. Mobile is 415-555-0138. And email is marco.jimenez at example dot com.
+
+ADVISOR: [00:01:02] Perfect. I’m going to say that back just to make sure I heard it right—marco.jimenez@example.com?
+
+CLIENT1: [00:01:08] Yep, that’s the one.
+
+ADVISOR: [00:01:10] Great. Kathleen, I don’t need to push if you’d rather not, but is there a good way to reach you too?
+
+CLIENT2: [00:01:16] No, not really, I usually just go through Marco. That’s fine.
+
+ADVISOR: [00:01:21] Okay, no problem. And just so I understand the household, you’re together and you’ve both been widowed, correct?
+
+CLIENT2: [00:01:28] Yes.
+
+CLIENT1: [00:01:29] Yeah.
+
+ADVISOR: [00:01:31] And children or dependants?
+
+CLIENT1: [00:01:35] Two kids. Elena and Luis.
+
+ADVISOR: [00:01:38] Elena and Luis—okay.
+
+CLIENT1: [00:01:40] Elena’s 32. Luis is 29. They’re both on their own, independent.
+
+ADVISOR: [00:01:47] Got it. Thank you. So let’s talk income a bit. What’s coming in reliably each month right now?
+
+CLIENT1: [00:01:55] Social Security is the big one, for both of us together. It’s about forty-two hundred a month.
+
+ADVISOR: [00:02:01] Four thousand two hundred, net?
+
+CLIENT1: [00:02:04] Yeah, net.
+
+CLIENT2: [00:02:06] Right.
+
+ADVISOR: [00:02:08] And then pensions—do you each have one?
+
+CLIENT1: [00:02:12] I do. Mine’s 1,850 a month, gross.
+
+ADVISOR: [00:02:17] Okay.
+
+CLIENT2: [00:02:18] And mine… I always forget the exact number. It’s around eight hundred to a thousand a month, gross.
+
+ADVISOR: [00:02:26] Around 800 to 1,000. That’s helpful. If you had to pick a middle, is 900 fair?
+
+CLIENT2: [00:02:31] Yeah, 900 sounds right.
+
+ADVISOR: [00:02:34] Okay. And what are the main regular expenses you’re covering from that income?
+
+CLIENT1: [00:02:40] Property taxes and insurance together are about 950 a month.
+
+ADVISOR: [00:02:45] Okay.
+
+CLIENT2: [00:02:46] Utilities are around 320.
+
+ADVISOR: [00:02:50] Got it.
+
+CLIENT1: [00:02:51] And Medicare and prescriptions—some months it’s lower, some months higher. I’d say around 350 to 450.
+
+ADVISOR: [00:02:58] Around 350 to 450 monthly, okay.
+
+CLIENT2: [00:03:01] Travel is the fun one, I guess. We try to keep a budget for that.
+
+ADVISOR: [00:03:05] Sure, and that matters. What does that look like in a year?
+
+CLIENT1: [00:03:09] Roughly five to seven thousand a year. Maybe six on average.
+
+ADVISOR: [00:03:14] Okay, that makes sense. Just thinking out loud here, with the steady income and those expenses, the goal is probably to keep things comfortable without having to dip into savings too fast, right?
+
+CLIENT2: [00:03:25] Exactly. We don’t want to be stressed every month.
+
+CLIENT1: [00:03:27] Yeah, and I’d rather not draw things down quickly.
+
+ADVISOR: [00:03:31] Understood. Let me ask about accounts next. Marco, do you have an IRA or anything like that?
+
+CLIENT1: [00:03:38] Yes, a traditional IRA at Vanguard.
+
+ADVISOR: [00:03:42] Okay, and roughly what’s in there today?
+
+CLIENT1: [00:03:45] About 380,000.
+
+ADVISOR: [00:03:48] Got it.
+
+CLIENT2: [00:03:49] I’ve got a 401(k) at Fidelity.
+
+ADVISOR: [00:03:52] Okay, and do you happen to have a recent statement handy? I don’t need the exact account number, just the value.
+
+CLIENT2: [00:03:58] Yeah, I’ve got a reference on the statement. The balance is 240,000.
+
+ADVISOR: [00:04:03] Perfect, thank you. And both of those are no longer being contributed to, since you’re retired?
+
+CLIENT1: [00:04:09] Right, none.
+
+CLIENT2: [00:04:10] None, yeah.
+
+ADVISOR: [00:04:12] Any annuity income or annuity contract I should know about?
+
+CLIENT1: [00:04:17] Yes, there’s a joint annuity with New York Life.
+
+ADVISOR: [00:04:21] Okay. What’s the value on that, roughly?
+
+CLIENT2: [00:04:24] It’s about 120,000 to 130,000.
+
+ADVISOR: [00:04:28] So maybe around 125,000?
+
+CLIENT1: [00:04:31] Yeah, that sounds right.
+
+ADVISOR: [00:04:33] Great. Any savings or brokerage accounts?
+
+CLIENT1: [00:04:37] We have a high-yield savings account at Ally. That’s joint.
+
+ADVISOR: [00:04:41] And about how much is sitting there?
+
+CLIENT2: [00:04:43] Eighty-six thousand.
+
+ADVISOR: [00:04:45] Okay.
+
+CLIENT1: [00:04:47] And I also have a brokerage account at Schwab.
+
+ADVISOR: [00:04:50] Sure.
+
+CLIENT1: [00:04:51] That one’s 145,000 total. About 20,000 is just cash, and the rest is invested.
+
+ADVISOR: [00:04:58] Okay, so around 125,000 invested and 20,000 in cash.
+
+CLIENT1: [00:05:02] Yeah, exactly.
+
+ADVISOR: [00:05:04] Great. Any mortgage or housing debt still hanging around?
+
+CLIENT2: [00:05:08] No mortgage.
+
+ADVISOR: [00:05:10] Okay, no mortgage. Any other debts?
+
+CLIENT1: [00:05:14] Just a credit card balance. It’s not huge, but it’s there.
+
+ADVISOR: [00:05:18] Roughly how much?
+
+CLIENT2: [00:05:20] Around two to three thousand.
+
+ADVISOR: [00:05:23] Okay, so maybe about 2,400?
+
+CLIENT1: [00:05:26] Yeah, around there.
+
+ADVISOR: [00:05:28] All right. I want to ask about priorities now. What feels most important to you both—keeping income steady, leaving things to the kids, simplifying things, that kind of thing?
+
+CLIENT2: [00:05:39] Honestly, all of it, but especially not messing up the income.
+
+CLIENT1: [00:05:43] Yeah. We want the bills covered and to still travel a little.
+
+ADVISOR: [00:05:48] Okay.
+
+CLIENT1: [00:05:49] And after that, I want the assets to pass smoothly to Elena and Luis. I don’t want a mess.
+
+CLIENT2: [00:05:56] No, exactly. We’ve both had enough paperwork already.
+
+ADVISOR: [00:06:00] I hear you. And on the tax side, are you looking for a cleaner withdrawal order or anything to help reduce taxes as you take money out?
+
+CLIENT1: [00:06:08] Yes, that too. I’d like something simpler. I don’t want to overthink every withdrawal.
+
+ADVISOR: [00:06:14] Makes sense. And just on the estate side, without getting too deep into details today, do you want me to make sure beneficiary designations and paperwork are part of the follow-up?
+
+CLIENT2: [00:06:23] Yes, please. That’s one of the things we want help with.
+
+CLIENT1: [00:06:26] Definitely.
+
+ADVISOR: [00:06:28] Okay. Last thing from me is just how you like to invest overall—more steady and conservative, or are you comfortable with the ups and downs if it might grow more over time?
+
+CLIENT1: [00:06:39] Oh, steady. Definitely steady.
+
+CLIENT2: [00:06:42] Yeah, we’re not looking to gamble with it.
+
+ADVISOR: [00:06:45] Understood. So more of an income-focused, cautious setup with some cash available and not a lot of moving parts.
+
+CLIENT1: [00:06:52] That sounds like us, yes.
+
+CLIENT2: [00:06:54] Definitely.
+
+ADVISOR: [00:06:56] Great. I think that gives me a solid picture. I’ll pull everything together and we can talk through options that keep income predictable and make the transfer side cleaner for the kids.
+
+CLIENT1: [00:07:06] Good. That’s what we want.
+
+CLIENT2: [00:07:08] Yeah, thank you.

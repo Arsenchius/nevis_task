@@ -1,0 +1,204 @@
+---
+title: N/A
+date: 2026-02-18
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Carolyn White
+  - id: client
+    name: Mark Russell
+---
+ADVISOR: [00:00:03] Hi Carolyn, hi Mark — thanks for jumping on. I’m Megan Carter. Can you both hear me okay?
+
+CLIENT1: [00:00:09] Yep, loud and clear.
+
+CLIENT2: [00:00:11] Yeah, we’re good.
+
+ADVISOR: [00:00:13] Great. And Carolyn, I’ve got your name as Carolyn White — is that right?
+
+CLIENT1: [00:00:18] That’s right.
+
+ADVISOR: [00:00:20] And Mark Russell with you there as well?
+
+CLIENT2: [00:00:23] Yep, that’s me.
+
+ADVISOR: [00:00:25] Perfect. Just so I’ve got the basics, Carolyn, what’s your date of birth?
+
+CLIENT1: [00:00:31] It’s April 17th, 1968.
+
+ADVISOR: [00:00:35] April 17, 1968 — thank you. And Mark, yours?
+
+CLIENT2: [00:00:40] September 2nd, 1966.
+
+ADVISOR: [00:00:43] Got it, 1966-09-02. And just to confirm, you’re both married to each other?
+
+CLIENT1: [00:00:49] Yes.
+
+CLIENT2: [00:00:50] Yeah, spouse, yep.
+
+ADVISOR: [00:00:52] Okay. Carolyn, what do you do for work at the moment?
+
+CLIENT1: [00:00:57] I’m an operations manager. I work for North Valley Logistics.
+
+ADVISOR: [00:01:02] North Valley Logistics, okay. And how long have you been there?
+
+CLIENT1: [00:01:06] Since 2014. So, yeah, a while now.
+
+ADVISOR: [00:01:10] And your income there is about 92 thousand a year, gross?
+
+CLIENT1: [00:01:15] Yes, $92,000 gross.
+
+ADVISOR: [00:01:18] Great. And Mark, what about you — self-employed, right?
+
+CLIENT2: [00:01:23] Yeah, landscape contractor. Been doing that since 2008.
+
+ADVISOR: [00:01:29] Since 2008, okay. And your income is a bit variable, I’m guessing?
+
+CLIENT2: [00:01:34] Very. I’d say about 70k to 85k a year gross, depending on the season.
+
+ADVISOR: [00:01:40] About 70 to 85 thousand, got it. And are you a US tax resident, both of you?
+
+CLIENT1: [00:01:46] Yes.
+
+CLIENT2: [00:01:47] Yep, US.
+
+ADVISOR: [00:01:49] Thanks. Any mobile number I should have for Carolyn, or just email is best?
+
+CLIENT1: [00:01:54] Email’s better. It’s carolyn.white@example.com.
+
+ADVISOR: [00:01:59] Perfect. And Mark, do you want to give me an email too, or not necessary?
+
+CLIENT2: [00:02:03] No, that’s fine — I don’t really use one for this stuff.
+
+ADVISOR: [00:02:07] No problem. So, tell me what’s prompted the call. I know there’s been some inheritance money?
+
+CLIENT1: [00:02:14] Yeah… my aunt passed and left us a distribution. It’s 250 thousand.
+
+CLIENT2: [00:02:21] Yeah, $250,000. We don’t want to mess it up.
+
+ADVISOR: [00:02:25] Understood. That’s a meaningful amount. And is that already received, or expected soon?
+
+CLIENT1: [00:02:31] Already received.
+
+ADVISOR: [00:02:33] Okay. Before we get into what to do with it, can I ask about your regular household setup? Any kids or anyone depending on you financially?
+
+CLIENT1: [00:02:41] We have two kids. Evan and Lily.
+
+CLIENT2: [00:02:44] Evan’s 22 now, so he’s on his own mostly.
+
+CLIENT1: [00:02:48] Evan Russell, born November 8th, 2002. He’s independent.
+
+ADVISOR: [00:02:53] Got it.
+
+CLIENT1: [00:02:54] And Lily Russell — June 14th, 2006. She’s 18 and still partly dependent while she’s in college.
+
+ADVISOR: [00:03:02] Okay, thank you. And just to map out the household, what are the big ongoing expenses you’re dealing with?
+
+CLIENT1: [00:03:08] The mortgage is $2,400 a month.
+
+CLIENT2: [00:03:12] And utilities plus internet run about $420 monthly.
+
+ADVISOR: [00:03:17] Mortgage at 2,400, utilities and internet 420 — okay. Any travel or lifestyle spending we should know about?
+
+CLIENT1: [00:03:24] We usually do family travel around five to seven grand a year. Somewhere in there.
+
+CLIENT2: [00:03:30] Yeah, probably around $6,000 if I had to pin it down.
+
+ADVISOR: [00:03:34] Around 6k annually, okay. And what do you currently have set aside — savings, brokerage, that sort of thing?
+
+CLIENT1: [00:03:41] We’ve got a joint high-yield savings at RiverBank. It’s about 98 thousand.
+
+ADVISOR: [00:03:48] RiverBank high-yield savings, 98 thousand. Anything else in cash or investments?
+
+CLIENT1: [00:03:54] I have a brokerage account with Summit Investments.
+
+ADVISOR: [00:03:58] Summit Investments, okay.
+
+CLIENT1: [00:03:59] It’s about 162 thousand total. Around 12 thousand is cash, and the rest — 150 thousand — is invested.
+
+ADVISOR: [00:04:08] Right, so 162 total with 12 cash and 150 invested. Anything else in savings?
+
+CLIENT2: [00:04:13] We also have CDs, about 50 thousand total.
+
+ADVISOR: [00:04:17] Okay, CDs around 50k. Any other property or assets outside that?
+
+CLIENT1: [00:04:22] There’s a rental condo we inherited from my aunt too. It’s worth about 320 thousand.
+
+ADVISOR: [00:04:29] A rental condo inherited from your aunt, valued around 320 thousand. Anything on Mark’s side?
+
+CLIENT2: [00:04:35] I’ve got my pickup truck for work. Probably worth 28 thousand.
+
+ADVISOR: [00:04:40] Pickup truck used for business, about 28k. Okay. And just so I’m not missing anything obvious — no retirement accounts to discuss here?
+
+CLIENT1: [00:04:48] No, nothing like that.
+
+CLIENT2: [00:04:50] Yeah, no retirement accounts.
+
+ADVISOR: [00:04:53] All right. Let me ask a bit about what you’re hoping to do with the inheritance. What’s the main concern?
+
+CLIENT1: [00:05:00] Honestly, taxes. I don’t want to create a huge tax bill by moving it around the wrong way.
+
+CLIENT2: [00:05:06] And we don’t want to lose principal either. That’s the big thing for me.
+
+ADVISOR: [00:05:11] Sure. So tax efficiency and protecting the money. Are you thinking you want to keep some in cash, or invest most of it?
+
+CLIENT1: [00:05:19] I’m not sure. Part of me wants to keep it safe in cash because it feels easier, but I also don’t want it sitting there doing nothing.
+
+CLIENT2: [00:05:27] I’m okay with some market exposure, just not a big hit. Like, I don’t want to watch it drop and panic.
+
+ADVISOR: [00:05:34] That makes sense. So probably somewhere in the middle — not all-in on growth, not all cash.
+
+CLIENT1: [00:05:39] Yeah, that sounds right.
+
+ADVISOR: [00:05:41] If I heard you correctly, moderate approach, maybe a blend of cash reserve and diversified investments?
+
+CLIENT2: [00:05:47] Yeah, that sounds like us.
+
+CLIENT1: [00:05:49] And maybe something that’s tax-efficient, if possible. I’ve heard municipal bond funds mentioned, but I don’t know if that’s even the right thing.
+
+ADVISOR: [00:05:58] It could be one piece, depending on the rest of the picture. We can look at taxable versus tax-efficient options and decide what actually fits. Are you more worried about liquidity first, or maximizing return?
+
+CLIENT1: [00:06:08] Liquidity, probably. I want enough available for emergencies and just peace of mind.
+
+CLIENT2: [00:06:14] Same. And I don’t want to lock everything up.
+
+ADVISOR: [00:06:17] Fair. And on the estate side, have you reviewed your wills and beneficiary nominations recently?
+
+CLIENT1: [00:06:25] We have a will, yes. It was updated in 2021.
+
+CLIENT2: [00:06:29] We haven’t really looked at it since then, though.
+
+ADVISOR: [00:06:32] Okay, 2021 update. Do you also have power of attorney documents in place?
+
+CLIENT1: [00:06:37] Yes, we do.
+
+ADVISOR: [00:06:39] Good. With the new assets and the condo, it probably makes sense to review everything and make sure beneficiaries still line up with what you want.
+
+CLIENT1: [00:06:48] Yeah, that’s exactly what we need. I keep thinking we should get our affairs in order and just make sure it’s all current.
+
+CLIENT2: [00:06:55] I’d feel better with that, honestly.
+
+ADVISOR: [00:06:58] And on retirement — I know you said you’re not there yet, but are you hoping this inheritance might let you step back a little earlier?
+
+CLIENT1: [00:07:07] Maybe. I’m aiming for 65, ideally.
+
+CLIENT2: [00:07:11] I’m thinking 67. I’d like to keep working a bit longer if I can.
+
+ADVISOR: [00:07:16] Okay, Carolyn at 65 and Mark at 67. That gives us a horizon to think around. Does the idea of retiring a little earlier feel exciting, or more like a maybe-if-it-works-out thing?
+
+CLIENT1: [00:07:27] More like maybe if it works out. I’m not trying to force it.
+
+CLIENT2: [00:07:31] Same. I just want to know we’re not going to regret using the inheritance the wrong way.
+
+ADVISOR: [00:07:37] Totally fair. And just so I’ve got the account names right, your cash is at RiverBank, the brokerage is Summit Investments, and the condo is the inherited rental in your household name. Anything else you want to make sure we factor in?
+
+CLIENT1: [00:07:50] Just that we want to be careful. Not overly conservative, but not reckless either.
+
+CLIENT2: [00:07:55] Yeah — protect it, use it wisely, and don’t blow it on taxes.
+
+ADVISOR: [00:08:00] Understood. That gives me a good starting point. I’ll put together a couple of ways to think about the inheritance — keeping enough liquid, looking at tax-aware investment options, and then we can also talk through the will review.
+
+CLIENT1: [00:08:11] Okay. That sounds good.
+
+CLIENT2: [00:08:13] Yeah, thanks.

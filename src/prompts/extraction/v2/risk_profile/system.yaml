@@ -1,0 +1,21 @@
+prompt: |
+  You are extracting risk profile and investment preference information from a US financial planning transcript.
+
+  Extract:
+  - risk_score_or_label: any risk score or label discussed (e.g. "moderate", "5 out of 10",
+    "cautious", "adventurous", "balanced")
+  - attitude_summary: a short summary of the client's stated attitude to investment risk and volatility
+  - preferred_strategy: any investment or retirement strategy the client expresses a preference for
+    (e.g. "income-focused", "capital preservation", "diversified", "ethical / ESG")
+  - key_concerns: a list of specific concerns the client raises (e.g. "running out of money",
+    "inflation eroding savings", "market crash", "leaving something for children")
+
+  Rules:
+  - Only extract what the client actually says — do not assign a risk label from their age or wealth
+  - key_concerns should be short phrases, not full sentences
+  - If risk tolerance is not discussed at all, return null / empty for all fields
+
+  Output schema:
+  {schema}
+
+  Return only valid JSON matching the schema. No commentary.

@@ -1,0 +1,218 @@
+---
+title: N/A
+date: 2026-05-13
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Addison Strickland
+  - id: client
+    name: Grace Green
+---
+ADVISOR: [00:00:03] Hi Addison, hi Grace — thanks for making time. I’m Megan Patel. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yep, loud and clear.
+
+CLIENT2: [00:00:10] Hi, yes, we can hear you.
+
+ADVISOR: [00:00:12] Perfect. And just so I’ve got the basics right, Addison Strickland — is that your full name?
+
+CLIENT1: [00:00:18] Yeah, Addison Strickland.
+
+ADVISOR: [00:00:20] Great. And Grace Green for you?
+
+CLIENT2: [00:00:23] That’s right.
+
+ADVISOR: [00:00:25] Brilliant. Can I take dates of birth for both of you? I know it’s a bit formal, sorry.
+
+CLIENT1: [00:00:31] Addison’s April 18th, 1990.
+
+CLIENT2: [00:00:35] And I’m September 7th, 1991.
+
+ADVISOR: [00:00:39] Thank you. And Addison, what’s the best mobile number for you?
+
+CLIENT1: [00:00:44] It’s +1-415-555-0138.
+
+ADVISOR: [00:00:49] Great. No email needed unless you want to give me one later. And you’re married, is that right?
+
+CLIENT1: [00:00:54] Yeah, married.
+
+CLIENT2: [00:00:55] Yep.
+
+ADVISOR: [00:00:57] Okay. And are you both US tax residents?
+
+CLIENT1: [00:01:01] Yes.
+
+CLIENT2: [00:01:02] Yeah, both of us.
+
+ADVISOR: [00:01:05] Perfect. Addison, what are you doing work-wise at the moment?
+
+CLIENT1: [00:01:10] I’m a senior software engineer at Northstar Analytics.
+
+ADVISOR: [00:01:14] Northstar Analytics — got it. And how long have you been there?
+
+CLIENT1: [00:01:18] Since 2018. So… seven, eight years now? Yeah, 2018.
+
+ADVISOR: [00:01:24] Yep, that works. And Grace?
+
+CLIENT2: [00:01:27] I’m a product manager at Brightline Health.
+
+ADVISOR: [00:01:31] Nice. And you started there when?
+
+CLIENT2: [00:01:34] 2019.
+
+ADVISOR: [00:01:36] Great. Just roughly, what are your gross incomes looking like? Doesn’t need to be exact to the penny.
+
+CLIENT1: [00:01:42] Mine’s 185k base, and then bonus on top — about 25k a year.
+
+ADVISOR: [00:01:49] Okay, so $185,000 and around $25k bonus. And Grace?
+
+CLIENT2: [00:01:54] My base is 145,000.
+
+ADVISOR: [00:01:57] Great. Any email you want on file, either of you, or just keep it to phone for now?
+
+CLIENT1: [00:02:02] Phone’s fine for now.
+
+ADVISOR: [00:02:04] Fine. And household-wise, do you have any kids or dependants at home?
+
+CLIENT1: [00:02:10] Yeah, two kids.
+
+CLIENT2: [00:02:12] Noah and Mila.
+
+ADVISOR: [00:02:14] Okay — and their ages?
+
+CLIENT2: [00:02:17] Noah is 5… actually, he just turned 5. Mila is 2.
+
+ADVISOR: [00:02:22] Got it. Noah 5, Mila 2. Are they both in childcare right now?
+
+CLIENT1: [00:02:27] Yeah, both in childcare.
+
+ADVISOR: [00:02:30] Okay. And just to understand the monthly picture a bit, what are your main household expenses? Start with the big ones.
+
+CLIENT1: [00:02:38] Childcare is… ugh, it’s a lot. About 3,200 a month for both kids.
+
+CLIENT2: [00:02:44] Yeah, that’s right.
+
+ADVISOR: [00:02:46] Okay, $3,200 monthly for childcare. Anything else that feels material?
+
+CLIENT1: [00:02:51] Utilities and internet are about 450 a month. Roughly.
+
+ADVISOR: [00:02:56] About $450, okay.
+
+CLIENT2: [00:02:58] And then we do have housing costs — I mean, the mortgage payment is 4,100 a month.
+
+ADVISOR: [00:03:05] Right, thanks. So $4,100 monthly there. Any other recurring spending you want me to know about?
+
+CLIENT1: [00:03:11] Travel, mostly family trips and weekends away. That’s probably, I dunno, 6 to 10k a year? Maybe closer to 8k.
+
+CLIENT2: [00:03:19] Yeah, around there.
+
+ADVISOR: [00:03:22] Okay, so roughly $6k to $10k a year, maybe around $8k. That sounds like a proper family budget, not just a random weekend here and there.
+
+CLIENT1: [00:03:29] [laughs] Yeah, pretty much.
+
+ADVISOR: [00:03:31] Let’s talk about savings and investments. Do you have cash set aside separately from day-to-day spending?
+
+CLIENT1: [00:03:37] Yeah, we’ve got a high-yield savings account with Ally Bank. It’s around 68k.
+
+ADVISOR: [00:03:44] Around $68,000 in Ally Bank, okay. And anything invested jointly?
+
+CLIENT2: [00:03:50] We have a taxable brokerage at Vanguard.
+
+ADVISOR: [00:03:54] Vanguard — okay.
+
+CLIENT1: [00:03:55] That one’s about 125k total. I think 25k of that is cash and the rest is invested.
+
+ADVISOR: [00:04:02] So $125,000 total, with about $25,000 cash and $100,000 invested. Got it. That’s helpful.
+
+CLIENT2: [00:04:09] Yeah.
+
+ADVISOR: [00:04:10] Now, retirement planning — I want to ask about that because it sounds like it’s a big part of what you’re thinking about. Addison, what’s your current retirement saving looking like?
+
+CLIENT1: [00:04:20] I’m in the Northstar Analytics plan. It’s a 401(k), about 310k right now.
+
+ADVISOR: [00:04:27] Okay, Northstar Analytics plan, 401(k), around $310,000. And what are you putting in?
+
+CLIENT1: [00:04:33] 12%, plus the 4% employer match.
+
+ADVISOR: [00:04:37] Great. And Grace, yours?
+
+CLIENT2: [00:04:40] Brightline Health plan — 401(k) there. It’s around 185k.
+
+ADVISOR: [00:04:46] Okay, $185,000. And contribution rate?
+
+CLIENT2: [00:04:50] 10%.
+
+ADVISOR: [00:04:52] Perfect. And just so I’m clear, you’re both thinking about retiring earlier than the standard age, right? What does that look like in your heads?
+
+CLIENT1: [00:05:00] Yeah. I’d love to be done by 60.
+
+CLIENT2: [00:05:04] I’m a little more flexible — maybe 62.
+
+ADVISOR: [00:05:07] Okay, so a window of about 60 to 62. Not “stop working tomorrow,” but not waiting forever either.
+
+CLIENT1: [00:05:12] Exactly.
+
+ADVISOR: [00:05:13] And what does “retire early” mean for you in real life? Like, are you picturing travel, more time with the kids, less stress, some mix?
+
+CLIENT2: [00:05:22] Honestly, all of that. We want to be comfortable, not pinching pennies, but also not taking silly risks.
+
+CLIENT1: [00:05:29] Yeah, we want flexibility. Like, if one of us wants to work part-time or take a break, that’d be ideal.
+
+ADVISOR: [00:05:35] That makes sense. And what worries you most about the next few years — tax bill, childcare, markets, something else?
+
+CLIENT1: [00:05:43] Taxes, probably. We feel like we’re earning a lot and not always using the right buckets.
+
+CLIENT2: [00:05:49] And childcare. It’s just… a lot every month. It adds up fast.
+
+CLIENT1: [00:05:53] Also, if something happened to one of us, I want the kids protected and everything to be straightforward.
+
+ADVISOR: [00:06:00] Yeah, absolutely. That’s an important one. And on the tax side, are you mainly trying to figure out whether to put more into pre-tax retirement savings or do something like a backdoor Roth?
+
+CLIENT1: [00:06:10] Yeah, exactly. We keep going back and forth on that.
+
+CLIENT2: [00:06:13] We just don’t want to make a dumb tax move.
+
+ADVISOR: [00:06:16] No, fair. And when it comes to investing, would you say you’re pretty growth-oriented long term, but you want enough liquidity and stability for the near-term stuff?
+
+CLIENT1: [00:06:25] Yeah, that’s a good way to put it.
+
+CLIENT2: [00:06:27] We’re okay with growth, just not with taking unnecessary risk on money we might need soon.
+
+ADVISOR: [00:06:33] Right. So diversified, growth-focused, but with a cash cushion for the stuff that’s coming up.
+
+CLIENT1: [00:06:38] Exactly.
+
+ADVISOR: [00:06:40] On the family protection side, you mentioned wanting things to be straightforward if something happened. Are your wills and beneficiaries up to date, or is that something you want to revisit?
+
+CLIENT2: [00:06:50] We want to revisit it. I think the last time we looked at everything was before Mila was born.
+
+CLIENT1: [00:06:56] Yeah, so it’s probably not current enough.
+
+ADVISOR: [00:06:58] Okay, got it. So there’s some estate-planning cleanup to do there.
+
+CLIENT2: [00:07:02] Yeah.
+
+ADVISOR: [00:07:04] And just so I’m not missing anything, if you had to name the biggest priorities, would it be tax efficiency, kids’ future education costs, and that earlier retirement window?
+
+CLIENT1: [00:07:14] Yeah, that’s basically it.
+
+CLIENT2: [00:07:16] And the family protection piece too.
+
+ADVISOR: [00:07:19] Of course. Education costs — are you thinking just generally at this stage, or do you have any target number in mind yet?
+
+CLIENT1: [00:07:26] No specific number yet. We’re still in the “we should probably start planning” stage.
+
+CLIENT2: [00:07:31] Yeah, very much that.
+
+ADVISOR: [00:07:33] Fair enough. Better to start early than panic later. And just to double-check, Addison, your phone number is +1-415-555-0138 — correct?
+
+CLIENT1: [00:07:41] Yep, that’s right.
+
+ADVISOR: [00:07:43] Great. Anything else you want me to know before I pull this together?
+
+CLIENT2: [00:07:48] I think that’s most of it.
+
+CLIENT1: [00:07:50] Yeah, just… we want a plan that doesn’t overcomplicate things.
+
+ADVISOR: [00:07:54] Totally fair. Simple where it can be, smart where it matters.

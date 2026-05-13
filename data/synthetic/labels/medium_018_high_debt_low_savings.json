@@ -1,0 +1,345 @@
+{
+  "example_id": "medium_018_high_debt_low_savings",
+  "difficulty": "medium",
+  "archetype_id": "high_debt_low_savings",
+  "challenge_tags": [
+    "joint_assets",
+    "missing_fields",
+    "negation",
+    "numeric_range",
+    "numeric_shorthand",
+    "objectives_free_form",
+    "owner_attribution"
+  ],
+  "section_targets": [
+    "personal_details",
+    "employment",
+    "income",
+    "expenses",
+    "savings_investments",
+    "loans_mortgages",
+    "objectives"
+  ],
+  "age_band": "mid_career_1976_1985",
+  "include_mobile_phone": true,
+  "include_email": true,
+  "transcript_path": "data/synthetic/transcripts/medium_018_high_debt_low_savings.txt",
+  "expected": {
+    "has_client2": true,
+    "client1": {
+      "personal": {
+        "first_name": "Ryan",
+        "last_name": "Robinson",
+        "date_of_birth": "1981-04-17",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": "+1-415-555-0198",
+        "email": "ryan.robinson@example.com"
+      },
+      "employment": {
+        "status": "employed",
+        "occupation": "Operations manager",
+        "employer": "Logistics company",
+        "start_date": "2018",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Jessica",
+        "last_name": "Moore",
+        "date_of_birth": "1983-09-02",
+        "marital_or_relationship_status": "married",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "part_time",
+        "occupation": "Part-time school administrator",
+        "employer": "Local school district",
+        "start_date": "2020",
+        "desired_retirement_age": 65,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": null,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "base salary",
+        "amount": {
+          "normalized_amount": 72000.0,
+          "lower_bound": 70000.0,
+          "upper_bound": 75000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $70k-$75k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      },
+      {
+        "owner": "client2",
+        "source_name": "part-time wages",
+        "amount": {
+          "normalized_amount": 18000.0,
+          "lower_bound": 15000.0,
+          "upper_bound": 20000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $15k-$20k"
+        },
+        "frequency": "annual",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "housing",
+        "owner": "joint",
+        "name": "rent",
+        "amount": {
+          "normalized_amount": 2200.0,
+          "lower_bound": 2100.0,
+          "upper_bound": 2300.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $2.1k-$2.3k"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "joint",
+        "name": "utilities",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": 300.0,
+          "upper_bound": 350.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $300-$350"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transportation",
+        "owner": "client1",
+        "name": "car payment",
+        "amount": {
+          "normalized_amount": 410.0,
+          "lower_bound": 400.0,
+          "upper_bound": 420.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $410"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "debt_repayment",
+        "owner": "joint",
+        "name": "credit card minimums",
+        "amount": {
+          "normalized_amount": 650.0,
+          "lower_bound": 600.0,
+          "upper_bound": 700.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "$600-$700"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "groceries",
+        "owner": "joint",
+        "name": "groceries",
+        "amount": {
+          "normalized_amount": 850.0,
+          "lower_bound": 800.0,
+          "upper_bound": 900.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $800-$900"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [],
+    "savings_and_investments": [
+      {
+        "owner": "joint",
+        "account_type": "joint savings account",
+        "provider": "Local bank",
+        "current_value": {
+          "normalized_amount": 3500.0,
+          "lower_bound": 3000.0,
+          "upper_bound": 4000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $3k-$4k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "401(k)",
+        "provider": "Current employer plan",
+        "current_value": {
+          "normalized_amount": 28000.0,
+          "lower_bound": 25000.0,
+          "upper_bound": 30000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $25k-$30k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client2",
+        "account_type": "IRA",
+        "provider": "Online brokerage",
+        "current_value": {
+          "normalized_amount": 6000.0,
+          "lower_bound": 5000.0,
+          "upper_bound": 7000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $5k-$7k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "joint",
+        "debt_type": "credit card",
+        "provider": "Major card issuer",
+        "monthly_cost": {
+          "normalized_amount": 650.0,
+          "lower_bound": 600.0,
+          "upper_bound": 700.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "$600-$700 minimums"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 18500.0,
+          "lower_bound": 17000.0,
+          "upper_bound": 20000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $17k-$20k"
+        },
+        "interest_rate": 24.9,
+        "no_debt": false
+      },
+      {
+        "owner": "client1",
+        "debt_type": "personal loan",
+        "provider": "Credit union",
+        "monthly_cost": {
+          "normalized_amount": 290.0,
+          "lower_bound": 280.0,
+          "upper_bound": 300.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $290"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 9400.0,
+          "lower_bound": 9000.0,
+          "upper_bound": 9800.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $9k-$9.8k"
+        },
+        "interest_rate": 11.5,
+        "no_debt": false
+      },
+      {
+        "owner": "client1",
+        "debt_type": "car loan",
+        "provider": "Auto lender",
+        "monthly_cost": {
+          "normalized_amount": 410.0,
+          "lower_bound": 400.0,
+          "upper_bound": 420.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $410"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 13200.0,
+          "lower_bound": 12500.0,
+          "upper_bound": 14000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $12.5k-$14k"
+        },
+        "interest_rate": 6.2,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [],
+    "objectives": [
+      {
+        "category": "debt repayment",
+        "description": "Pay off the credit cards first, then the personal loan, and get monthly outgoings back under control.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants a clear repayment plan; cash flow is tight and savings are limited."
+      },
+      {
+        "category": "emergency fund",
+        "description": "Build a small emergency fund once the high-interest debt is reduced.",
+        "target_amount_or_income": {
+          "normalized_amount": 5000.0,
+          "lower_bound": 4000.0,
+          "upper_bound": 6000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $5k"
+        },
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "Currently only has a few thousand in joint savings."
+      },
+      {
+        "category": "budgeting",
+        "description": "Tighten the household budget so they can keep up with bills without using credit cards.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Looking for help prioritizing debt repayments versus saving."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": null,
+      "attitude_summary": null,
+      "preferred_strategy": null,
+      "key_concerns": []
+    },
+    "estate_planning": {
+      "will_status": null,
+      "power_of_attorney_status": null,
+      "notes": null
+    }
+  }
+}

@@ -1,0 +1,149 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Daniel Mercer
+  - id: client
+    name: Leila Delgado
+---
+
+ADVISOR: [00:00:03] Hi Leila, thanks for making time today. I’m Daniel Mercer. How are you doing?
+
+CLIENT1: [00:00:09] Oh, I’m all right. A little scattered this morning, but okay.
+
+ADVISOR: [00:00:13] No worries at all. We’ll keep it easy. I just want to get a sense of your situation and what you want to focus on. If I ask something and you’re not sure, just say so.
+
+CLIENT1: [00:00:21] Sure, yeah.
+
+ADVISOR: [00:00:24] Great. And just to confirm, I have Leila Delgado on the file—does that sound right?
+
+CLIENT1: [00:00:28] Yes, that’s me.
+
+ADVISOR: [00:00:30] Thanks. And what’s your date of birth?
+
+CLIENT1: [00:00:34] April 18th, 1956.
+
+ADVISOR: [00:00:37] Okay, 1956. And are you currently working, retired, something in between?
+
+CLIENT1: [00:00:43] Retired. Fully retired.
+
+ADVISOR: [00:00:46] Got it. What did you do before retirement?
+
+CLIENT1: [00:00:49] I was a school administrator. Retired school administrator, to be exact. It was a long run.
+
+ADVISOR: [00:00:56] That sounds like a busy career. And are you married, single, widowed—what’s your current status?
+
+CLIENT1: [00:01:03] Widowed.
+
+ADVISOR: [00:01:05] I’m sorry. Thank you for sharing that. Do you have a mobile number we should use if we need to reach you?
+
+CLIENT1: [00:01:12] Yes, it’s (415) 555-0198.
+
+ADVISOR: [00:01:17] Perfect. And just one quick admin thing—are you a US tax resident?
+
+CLIENT1: [00:01:21] Yes, US.
+
+ADVISOR: [00:01:24] Okay. Let’s talk about income first, because that usually helps frame everything else. What comes in each month now?
+
+CLIENT1: [00:01:33] Social Security is $2,400 a month.
+
+ADVISOR: [00:01:38] Gross, before anything comes out, right?
+
+CLIENT1: [00:01:41] Yes, gross.
+
+ADVISOR: [00:01:43] And do you have any pension income as well?
+
+CLIENT1: [00:01:47] I do. That’s $1,800 a month.
+
+ADVISOR: [00:01:50] Okay, $1,800 monthly. Anything else—part-time work, rental income, investment income?
+
+CLIENT1: [00:01:57] Not really work income. I mean, there’s some interest and dividends. It’s about $3,000 a year. Not a ton.
+
+ADVISOR: [00:02:07] About three thousand a year, got it. And that’s fine if it varies a little.
+
+CLIENT1: [00:02:11] Yeah, it does a bit.
+
+ADVISOR: [00:02:14] Let’s move to your regular spending. What do your basic monthly expenses look like?
+
+CLIENT1: [00:02:21] The condo stuff—HOA and property taxes—comes to around $900 a month.
+
+ADVISOR: [00:02:28] Around nine hundred. Okay.
+
+CLIENT1: [00:02:31] Utilities are about $220 monthly. Sometimes a little more in summer, but around there.
+
+ADVISOR: [00:02:38] Sure. And anything for fun or travel, eating out, that kind of thing?
+
+CLIENT1: [00:02:44] Yeah, travel and dining out, roughly $400 a month. I like to keep some life in retirement, you know?
+
+ADVISOR: [00:02:51] Absolutely. That matters. And do you have any mortgage or other debt payments right now?
+
+CLIENT1: [00:02:58] No mortgage. No debt.
+
+ADVISOR: [00:03:01] Okay, good. That simplifies things. Can I ask about savings and investments next?
+
+CLIENT1: [00:03:06] Sure.
+
+ADVISOR: [00:03:08] Do you have any retirement accounts still invested?
+
+CLIENT1: [00:03:12] Yes. I have a traditional IRA at Vanguard. It’s around $420,000.
+
+ADVISOR: [00:03:20] Okay, $420,000 in the IRA at Vanguard. Any other retirement plans?
+
+CLIENT1: [00:03:26] There’s a 401(k) from my former employer plan. I think it’s about $165,000.
+
+ADVISOR: [00:03:33] About $165,000 in the old 401(k), got it. And you said former employer plan—that’s the one you still have sitting there?
+
+CLIENT1: [00:03:39] Yes, that’s the one.
+
+ADVISOR: [00:03:42] Do you have any regular savings or brokerage accounts outside retirement?
+
+CLIENT1: [00:03:47] Yes. I keep some cash in a high-yield savings account at Ally Bank. That one has $85,000.
+
+ADVISOR: [00:03:56] Nice. And any taxable investing account?
+
+CLIENT1: [00:04:00] Yes, at Fidelity. It’s a brokerage account. I’d say about $120,000.
+
+ADVISOR: [00:04:07] About $120,000. Okay. So you’ve got a mix of cash and invested assets. No real estate or other business assets to include here?
+
+CLIENT1: [00:04:15] No, nothing like that.
+
+ADVISOR: [00:04:17] All right. Let me ask the bigger-picture stuff. What are you hoping this money does for you over the next several years?
+
+CLIENT1: [00:04:26] Mostly I want reliable income. I don’t want to do anything dramatic. I’d rather not take unnecessary chances.
+
+ADVISOR: [00:04:33] That makes sense. So covering living costs first, and being careful with principal.
+
+CLIENT1: [00:04:38] Yes, exactly. I want to sleep at night.
+
+ADVISOR: [00:04:41] Fair enough. Anything about family or beneficiaries that’s on your mind?
+
+CLIENT1: [00:04:47] Just making sure things pass smoothly. My paperwork is a little outdated, honestly, and I want to get that in order.
+
+ADVISOR: [00:04:55] Okay. So getting your affairs updated and making sure the beneficiaries line up the way you want.
+
+CLIENT1: [00:05:01] Yes.
+
+ADVISOR: [00:05:03] And longer term, is there anything you’re worried about specifically? Health care costs, inflation, running low on cash, that sort of thing?
+
+CLIENT1: [00:05:11] I do worry about needing care later on. I want to keep enough liquid money available if that happens.
+
+ADVISOR: [00:05:18] Right, having accessible funds for possible care needs. That’s helpful. Anything else that would make you feel more comfortable—more guaranteed income, more cash on hand, anything like that?
+
+CLIENT1: [00:05:29] More guaranteed income would be nice. I’m not trying to chase growth. I just don’t want to outlive what I have.
+
+ADVISOR: [00:05:38] Understood. That’s a very clear priority. And just to make sure I’m not missing anything, you don’t have a spouse or partner we need to coordinate with, correct?
+
+CLIENT1: [00:05:47] No, just me.
+
+ADVISOR: [00:05:49] Okay. And no children or dependants you’re supporting financially?
+
+CLIENT1: [00:05:54] No, none.
+
+ADVISOR: [00:05:56] Got it. Last thing—if we were to put together a plan, would you say your preference is more about stability and income, with some cash reserve for emergencies?
+
+CLIENT1: [00:06:06] Yes, that sounds right. Conservative. I don’t want surprises.
+
+ADVISOR: [00:06:11] Okay. That gives me a good picture. I’ll work from the income needs, the cash reserve, and the estate update angle, and then we can talk through options next time.
+
+CLIENT1: [00:06:20] Sounds good. Thank you.

@@ -1,0 +1,132 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Martin Hayes
+  - id: client
+    name: Eleanor Fisher
+---
+ADVISOR: [00:00:03] Hi Eleanor, it’s Martin Hayes here. Thanks for making the time today — can you hear me okay?
+
+CLIENT1: [00:00:09] Yes, I can. Sorry, I was just fiddling with the speaker for a second.
+
+ADVISOR: [00:00:13] No problem at all. And just to start us off, can I confirm your full name?
+
+CLIENT1: [00:00:18] Eleanor Fisher.
+
+ADVISOR: [00:00:21] Great, thank you. And your date of birth — I’ve got a note here, but I’d rather hear it from you.
+
+CLIENT1: [00:00:28] It’s April 18th, 1955.
+
+ADVISOR: [00:00:31] Perfect. And are you married, single, divorced, widowed — how would you describe your status?
+
+CLIENT1: [00:00:39] Widowed.
+
+ADVISOR: [00:00:41] I’m sorry for your loss. Okay. Let’s take this at a sensible pace. You mentioned on the form you’re looking to make sure income stays steady and the money lasts. Can you talk me through what income is coming in each month right now?
+
+CLIENT1: [00:00:57] Sure. Social Security is $2,400 a month, net. That one’s pretty straightforward.
+
+ADVISOR: [00:01:05] Okay, $2,400 from Social Security. Anything else?
+
+CLIENT1: [00:01:09] Yes, there’s a pension too. I always forget whether to call it monthly or… well, it comes every month. It’s about $1,800 to $1,900 monthly, gross.
+
+ADVISOR: [00:01:19] Got it — about eighteen to nineteen hundred gross. And you said “about,” so I’ll keep that as a range. Any part-time work or anything like that?
+
+CLIENT1: [00:01:28] No, no, I’m retired. That’s it for income.
+
+ADVISOR: [00:01:33] Right. And then on spending — just so I can get a feel for the monthly picture — what are your regular essentials running at?
+
+CLIENT1: [00:01:41] Groceries and utilities together are about $1,200 a month.
+
+ADVISOR: [00:01:48] Okay.
+
+CLIENT1: [00:01:49] And then insurance — Medicare supplement and property insurance — that’s $260 monthly.
+
+ADVISOR: [00:01:57] Understood. Any other regular spending you’d want me to know about? Travel, eating out, that sort of thing.
+
+CLIENT1: [00:02:05] Not a lot. Maybe around $300 a month for occasional trips and dining out. Some months less, honestly.
+
+ADVISOR: [00:02:13] That sounds sensible. So the big picture is fairly covered, but you still want enough flexibility for the fun stuff and not to feel pinched.
+
+CLIENT1: [00:02:21] Exactly. I don’t want to be worrying every month.
+
+ADVISOR: [00:02:25] Makes sense. Let’s talk about the assets side. You’ve got a retirement account with Vanguard — can you tell me what’s in there, roughly?
+
+CLIENT1: [00:02:36] The IRA? Yes. It’s somewhere in the four hundred to four hundred and fifty thousand range. I’d say roughly $400k to $450k.
+
+ADVISOR: [00:02:46] Okay, roughly four hundred to four hundred and fifty thousand. And you’re not adding to that now, since you’re already retired?
+
+CLIENT1: [00:02:53] Right, no contributions anymore.
+
+ADVISOR: [00:02:56] Got it. Anything else in retirement-type accounts?
+
+CLIENT1: [00:03:01] There’s an annuity too. I have a statement somewhere — I can read the reference if you need it, but not the whole number off the top of my head.
+
+ADVISOR: [00:03:10] If you’ve got the reference handy, that’s helpful, but we don’t need the number from the reference itself. What’s the approximate value?
+
+CLIENT1: [00:03:17] It’s $95,000.
+
+ADVISOR: [00:03:20] Great, thank you. And outside of retirement accounts, what are we looking at for savings or investments?
+
+CLIENT1: [00:03:28] There’s a joint high-yield savings account at our local credit union. That’s got $68,000 in it.
+
+ADVISOR: [00:03:36] Okay, joint savings at the credit union, $68,000. Anything in a brokerage account?
+
+CLIENT1: [00:03:44] Yes, with Fidelity. That one’s about $200k to $220k total — and I think around $15,000 of that is cash, the rest is invested.
+
+ADVISOR: [00:03:56] About two hundred to two hundred twenty thousand, with fifteen thousand cash and the rest invested. Okay.
+
+CLIENT1: [00:04:02] And there are CDs too, jointly held. Those are about $40,000.
+
+ADVISOR: [00:04:10] Got it. You mentioned joint a couple times — is that with a spouse or partner?
+
+CLIENT1: [00:04:16] It was with my husband. He passed away, so now it’s just me, but the accounts are still joint in some places.
+
+ADVISOR: [00:04:24] Understood. We’ll keep that straight. Any debts or loans I should note? Mortgage, credit cards, anything like that?
+
+CLIENT1: [00:04:33] No mortgage. Thankfully.
+
+ADVISOR: [00:04:36] Good. And credit cards?
+
+CLIENT1: [00:04:39] Yes, a little balance. About $2,200, and I pay around $150 a month on it.
+
+ADVISOR: [00:04:47] Okay, about twenty-two hundred outstanding and roughly one-fifty a month. No other loans?
+
+CLIENT1: [00:04:53] No, that’s it.
+
+ADVISOR: [00:04:56] All right. Let’s switch to what you want to accomplish. You said the main thing is keeping income steady and making savings last. If you had to put it in plain English, what would “a good outcome” look like for you over the next few years?
+
+CLIENT1: [00:05:11] Just not having to worry about running short. I’d like a conservative withdrawal plan, something that doesn’t make me feel like I’m gambling with what I have left.
+
+ADVISOR: [00:05:22] Okay, so stability first, and you’d rather give up some upside than take unnecessary chances.
+
+CLIENT1: [00:05:28] Yes, exactly.
+
+ADVISOR: [00:05:30] And beyond income, what else is on your mind? Sometimes people have one or two big personal priorities that sit underneath the numbers.
+
+CLIENT1: [00:05:38] Well, I want my affairs in order. I need to update my will and make sure everything passes smoothly to the right people. I’ve been meaning to get that sorted for a while.
+
+ADVISOR: [00:05:49] That’s a really common one, and it’s important. So making sure beneficiaries are reviewed and the paperwork is up to date.
+
+CLIENT1: [00:05:56] Yes. It’s a little embarrassing how long I’ve put it off.
+
+ADVISOR: [00:06:00] Not at all. It happens. And on the tax side, are you mainly looking for help with the timing of withdrawals and trying not to pay more than you need to?
+
+CLIENT1: [00:06:10] Yes, that’s right. I’d like guidance on when to take money from the IRA and how to keep taxes down if possible.
+
+ADVISOR: [00:06:18] Okay. That gives me a good sense of the planning angle. One last thing — just to be sure I’m not missing anyone who depends on you, are there any children or dependants we should be thinking about?
+
+CLIENT1: [00:06:28] No dependants.
+
+ADVISOR: [00:06:30] All right. And just stepping back a bit, is there anything about all this that makes you nervous — not in a technical sense, just personally, what keeps you up at night?
+
+CLIENT1: [00:06:41] Honestly? Outliving the money. And I like having cash available for emergencies. I don’t want everything tied up where I can’t reach it.
+
+ADVISOR: [00:06:50] Understood. That’s helpful. So the plan needs to respect that need for liquidity, plus the estate side and keeping withdrawals sensible.
+
+CLIENT1: [00:06:58] Yes, that’s the whole thing.
+
+ADVISOR: [00:07:01] Great. I think I’ve got the main pieces. I’ll put together a conservative, income-focused picture and we can talk through options from there.
+
+CLIENT1: [00:07:09] Okay. Thank you — that feels a bit better already.

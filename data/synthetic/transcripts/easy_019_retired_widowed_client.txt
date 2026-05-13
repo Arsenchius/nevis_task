@@ -1,0 +1,154 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Collins
+  - id: client
+    name: Ezra Bryant
+---
+ADVISOR: [00:00:03] Hi Ezra, this is Megan Collins. Thanks for making the time today.
+
+CLIENT1: [00:00:08] Sure, yeah. No problem.
+
+ADVISOR: [00:00:11] Great. I’m just going to do a bit of a fact find, keep it conversational. If I miss something, just jump in and correct me, okay?
+
+CLIENT1: [00:00:18] Yeah, absolutely.
+
+ADVISOR: [00:00:21] And just to start simple, your full name is Ezra Bryant, right?
+
+CLIENT1: [00:00:25] That's right.
+
+ADVISOR: [00:00:27] Perfect. And what’s the best email for you?
+
+CLIENT1: [00:00:31] It’s ezra.bryant@example.com.
+
+ADVISOR: [00:00:36] Thanks. And I’m showing you as retired now — is that right?
+
+CLIENT1: [00:00:40] Yes, retired. I taught for years, so... retired teacher now.
+
+ADVISOR: [00:00:46] Okay, retired teacher. And just for my notes, are you still doing any part-time work at all, or fully retired?
+
+CLIENT1: [00:00:52] No, fully retired. I’m done with that chapter.
+
+ADVISOR: [00:00:56] Got it. And your date of birth — I have April 18th, 1955. Does that sound correct?
+
+CLIENT1: [00:01:02] Yes, April 18th, 1955.
+
+ADVISOR: [00:01:05] Thank you. And your tax residency is the US, correct?
+
+CLIENT1: [00:01:09] Yes, US.
+
+ADVISOR: [00:01:12] Okay. I’m sorry to ask, but are you married, single, widowed... how would you describe your situation?
+
+CLIENT1: [00:01:19] Widowed.
+
+ADVISOR: [00:01:21] I’m sorry for your loss. And are you on your own at the moment?
+
+CLIENT1: [00:01:26] Yes, just me.
+
+ADVISOR: [00:01:29] Okay. Any children or dependants I should be aware of?
+
+CLIENT1: [00:01:34] No, none.
+
+ADVISOR: [00:01:37] Thanks. Let’s talk income first. What are you living on these days — Social Security, pension, anything like that?
+
+CLIENT1: [00:01:46] Mostly Social Security and my pension. That’s really the backbone of it.
+
+ADVISOR: [00:01:51] Sure. Roughly what does Social Security come to each month?
+
+CLIENT1: [00:01:57] It’s $2,400 a month, gross.
+
+ADVISOR: [00:02:01] Okay, $2,400 monthly gross. And the pension?
+
+CLIENT1: [00:02:06] $1,800 a month, also gross.
+
+ADVISOR: [00:02:10] Great, thank you. That gives me a better picture. What do your regular living costs look like? Just a rough sense is fine.
+
+CLIENT1: [00:02:18] I’d say about $900 a month for utilities and groceries, maybe a little wiggle room depending on the month.
+
+ADVISOR: [00:02:25] About $900 monthly for utilities and groceries. Anything else that’s more of a planned spending item? Travel, hobbies, that sort of thing?
+
+CLIENT1: [00:02:33] I do like to take occasional trips. Nothing extravagant. Around $3,000 a year, probably.
+
+ADVISOR: [00:02:41] Around $3,000 annually, okay. And is that something you want to keep doing, or is that more of a nice-to-have if the budget allows?
+
+CLIENT1: [00:02:49] I’d like to keep doing it. It’s one of the few things I really enjoy now.
+
+ADVISOR: [00:02:54] Yeah, fair enough. Let’s talk about savings and retirement accounts. Do you have any old employer retirement plans still sitting around?
+
+CLIENT1: [00:03:03] Yes, I have my 401(k) from my former employer plan.
+
+ADVISOR: [00:03:08] Okay. Do you know roughly what that’s worth?
+
+CLIENT1: [00:03:12] Last statement showed about $420,000.
+
+ADVISOR: [00:03:16] About 420k, got it. And are you contributing to that at all still?
+
+CLIENT1: [00:03:20] No, none. I’m retired, so nothing going in.
+
+ADVISOR: [00:03:24] Right, makes sense. Any IRA accounts as well?
+
+CLIENT1: [00:03:29] Yes, an IRA through a local brokerage.
+
+ADVISOR: [00:03:33] And what’s the approximate value there?
+
+CLIENT1: [00:03:36] $165,000.
+
+ADVISOR: [00:03:39] Thank you. Also not contributing to that now, I assume?
+
+CLIENT1: [00:03:43] Correct, none. Retired.
+
+ADVISOR: [00:03:46] Okay. Any regular savings or investment accounts outside retirement plans?
+
+CLIENT1: [00:03:52] I have a high-yield savings account at my community bank.
+
+ADVISOR: [00:03:56] Roughly how much is in there?
+
+CLIENT1: [00:03:59] $78,000.
+
+ADVISOR: [00:04:02] Okay. And any brokerage account as well?
+
+CLIENT1: [00:04:06] Yes, an online brokerage. That one’s roughly $125,000.
+
+ADVISOR: [00:04:12] Roughly 125k. Great. Any mortgage or other debt I should know about?
+
+CLIENT1: [00:04:18] No mortgage. No debt, really.
+
+ADVISOR: [00:04:22] Perfect. That’s helpful. I want to ask a little about what matters most to you in retirement. If you had to pick the big priorities, is it mainly keeping income steady, keeping things simple, or leaving something organized for family?
+
+CLIENT1: [00:04:37] Honestly... all of those. But steady income is probably the biggest one. I don’t want to worry every month.
+
+ADVISOR: [00:04:44] Yeah, that makes sense. So predictable income, and not having to take unnecessary chances.
+
+CLIENT1: [00:04:49] Exactly. I’m not looking to swing for the fences.
+
+ADVISOR: [00:04:52] Right. And for the money you’ve got, what’s your bigger fear — spending too much too soon, or the markets taking a hit and setting you back?
+
+CLIENT1: [00:05:01] The markets, really. I’ve seen enough ups and downs to know I don’t like big surprises.
+
+ADVISOR: [00:05:07] Understood. So you’d rather protect what you have and keep things more stable.
+
+CLIENT1: [00:05:12] Yes, that’s right.
+
+ADVISOR: [00:05:14] And on the family side, you mentioned wanting things organized. Is that more about just making life easier for whoever handles things later?
+
+CLIENT1: [00:05:22] Yes. I want my affairs simple. No mess for anybody.
+
+ADVISOR: [00:05:27] Okay, that helps. I’m also noting an email for you, and no mobile number on file right now — that’s fine. If you want to add one later, we can.
+
+CLIENT1: [00:05:36] Yeah, email is usually enough for me.
+
+ADVISOR: [00:05:39] Great. And just so I’m clear, you’re not making any contributions now to the retirement accounts, since you’re fully retired?
+
+CLIENT1: [00:05:46] Correct. Nothing going in.
+
+ADVISOR: [00:05:49] Okay. I think I’ve got the main picture. You’ve got Social Security at $2,400 a month, pension at $1,800, modest monthly spending, and then the retirement and savings accounts we discussed.
+
+CLIENT1: [00:06:01] Yeah, that sounds right.
+
+ADVISOR: [00:06:04] Good. Next step, we can look at how to structure the income so it stays dependable and doesn’t feel too exposed. We can keep it conservative.
+
+CLIENT1: [00:06:12] That would be good. I’d appreciate that.
+
+ADVISOR: [00:06:15] Perfect. We’ll take it from there.

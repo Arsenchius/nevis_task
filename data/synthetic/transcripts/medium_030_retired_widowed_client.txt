@@ -1,0 +1,224 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: George Alvarez
+  - id: client
+    name: Ana Mendoza
+---
+ADVISOR: [00:00:03] Hi George, hi Ana — thanks for making time today. I’m Megan Carter. Can you hear me okay?
+
+CLIENT1: [00:00:10] Yeah, loud and clear.
+
+CLIENT2: [00:00:12] Yes, we can hear you.
+
+ADVISOR: [00:00:15] Great. And just so I’ve got the basics right, George Alvarez and Ana Mendoza?
+
+CLIENT1: [00:00:20] That’s right.
+
+CLIENT2: [00:00:21] Mm-hm.
+
+ADVISOR: [00:00:24] Okay. And George, what’s your date of birth?
+
+CLIENT1: [00:00:29] April 18th, 1956.
+
+ADVISOR: [00:00:33] Perfect. And Ana?
+
+CLIENT2: [00:00:36] September 3rd, 1958.
+
+ADVISOR: [00:00:39] Thanks. And I’m sorry to ask, but what’s your relationship status today?
+
+CLIENT1: [00:00:45] Widowed.
+
+CLIENT2: [00:00:47] Yeah, both of us are widowed.
+
+ADVISOR: [00:00:50] Understood. Thank you. George, what’s the best mobile number for you?
+
+CLIENT1: [00:00:56] It’s 415-555-0198.
+
+ADVISOR: [00:01:00] Great, got it. And Ana, I don’t think I have a mobile for you yet — is there one you want me to use?
+
+CLIENT2: [00:01:07] No, not right now. I usually just use George’s phone if needed.
+
+ADVISOR: [00:01:12] Okay, no problem. And email — either of you use one regularly for planning stuff?
+
+CLIENT1: [00:01:18] Not really. I mean, I have one somewhere, but I don’t use it much.
+
+CLIENT2: [00:01:22] Same here. Better by phone.
+
+ADVISOR: [00:01:26] Fine by me. So tell me a little bit about what you’d like help with. What’s most important to you both right now?
+
+CLIENT1: [00:01:35] Mostly making sure the money lasts. We’re retired, so it’s... you know, steady income. I don’t want to be guessing every month.
+
+CLIENT2: [00:01:44] And the paperwork side too. We want things simple for the kids.
+
+ADVISOR: [00:01:49] Okay, steady income and keeping things simple. That makes sense. Before we get into the accounts, do you have children?
+
+CLIENT1: [00:01:56] Two. Luis and Marisol.
+
+CLIENT2: [00:01:58] Luis is thirty-one.
+
+CLIENT1: [00:02:00] And Marisol’s twenty-eight.
+
+ADVISOR: [00:02:03] Got it — both independent adults?
+
+CLIENT1: [00:02:06] Yeah, yes.
+
+ADVISOR: [00:02:08] Thanks. And just to understand the household a bit, are you two living together and sharing the main bills?
+
+CLIENT2: [00:02:15] Yes, together. Same place, same bills.
+
+CLIENT1: [00:02:18] Rent, utilities, all that.
+
+ADVISOR: [00:02:20] Okay. Roughly what are you bringing in each month now from guaranteed sources?
+
+CLIENT1: [00:02:27] Mine is Social Security, $2,450 a month net.
+
+CLIENT2: [00:02:33] Mine’s $1,825 a month net.
+
+ADVISOR: [00:02:37] And do you have anything else coming in on top of that?
+
+CLIENT1: [00:02:41] Yeah, a small pension. It’s about nine hundred a month... maybe right around there.
+
+CLIENT2: [00:02:48] Yeah, about $900 monthly.
+
+ADVISOR: [00:02:51] Okay, about 900. And on the spending side, what does the household run you?
+
+CLIENT2: [00:02:58] Rent is around two thousand to twenty-two hundred a month. It moves a little.
+
+CLIENT1: [00:03:03] Yeah, somewhere in that range.
+
+ADVISOR: [00:03:06] Mm-hm.
+
+CLIENT2: [00:03:07] Utilities and internet are about $320 a month.
+
+CLIENT1: [00:03:12] And Medicare premiums, prescriptions... roughly $410 a month.
+
+ADVISOR: [00:03:18] Okay. Any regular travel or bigger non-monthly spending you want to keep in the plan?
+
+CLIENT1: [00:03:24] We do occasional trips to see family. Probably about eighteen hundred a year.
+
+CLIENT2: [00:03:30] Yeah, not crazy, just visits.
+
+ADVISOR: [00:03:33] Got it. I’m going to ask about accounts now. First, retirement accounts — do you have an IRA in your name, George?
+
+CLIENT1: [00:03:41] Yes, with Vanguard. It’s about two-eighty-five, maybe 285k.
+
+ADVISOR: [00:03:47] Okay, about $285,000. And you’re not adding to it now, I assume?
+
+CLIENT1: [00:03:52] No, retired. Nothing going in.
+
+ADVISOR: [00:03:55] Right. Ana, do you have a former employer plan still sitting somewhere?
+
+CLIENT2: [00:04:01] Yes, a 401(k) from my old job. I think it’s around 162k.
+
+ADVISOR: [00:04:07] Around $162,000 — okay. Do you remember the provider, or is it just through the old employer plan?
+
+CLIENT2: [00:04:13] It’s just the former employer plan. I don’t really deal with it much.
+
+ADVISOR: [00:04:17] Okay, that’s fine. Any contributions going in?
+
+CLIENT2: [00:04:20] No, none. Retired.
+
+ADVISOR: [00:04:23] Understood. And do you have anything joint that’s set up like an annuity or income contract?
+
+CLIENT1: [00:04:30] Yes, there’s an annuity. With an insurance company.
+
+CLIENT2: [00:04:34] Close to ninety-eight thousand, I think.
+
+ADVISOR: [00:04:37] Close to $98,000. Okay. And that’s joint, correct?
+
+CLIENT1: [00:04:41] Yes, jointly held.
+
+ADVISOR: [00:04:44] Thanks. What about savings — do you keep an emergency fund or cash reserve together?
+
+CLIENT2: [00:04:50] Yes, in a high-yield savings account at the local credit union. Roughly sixty-four thousand.
+
+ADVISOR: [00:04:56] Roughly $64,000, got it.
+
+CLIENT1: [00:04:58] Yeah, that’s the one we keep liquid.
+
+ADVISOR: [00:05:01] And George, do you also have a brokerage account in your own name?
+
+CLIENT1: [00:05:06] Yes, at Schwab. About $87k total.
+
+ADVISOR: [00:05:11] Okay.
+
+CLIENT1: [00:05:12] Though, let me think... about twelve thousand of that is just cash sitting there, and the rest, like seventy-five thousand, is invested.
+
+ADVISOR: [00:05:20] Perfect, thanks — that helps. So about $12,000 cash and $75,000 invested inside the brokerage.
+
+CLIENT1: [00:05:25] Yeah.
+
+ADVISOR: [00:05:27] Any mortgage or home loan payments I should know about?
+
+CLIENT2: [00:05:31] No mortgage.
+
+CLIENT1: [00:05:33] No mortgage, no.
+
+ADVISOR: [00:05:36] Okay. Any other debts — credit cards, personal loans, anything like that?
+
+CLIENT1: [00:05:42] I’ve got a Visa card. Balance is around 4.2k.
+
+ADVISOR: [00:05:47] Okay, around $4,200. And what’s the monthly payment roughly?
+
+CLIENT1: [00:05:52] About ninety-five a month, give or take.
+
+ADVISOR: [00:05:56] Got it. Any other debts anywhere else?
+
+CLIENT2: [00:05:59] No, that’s it.
+
+ADVISOR: [00:06:01] Okay. Let me ask a little bit about the bigger picture. You mentioned wanting the money to last — if you had to choose, would you rather have a little more upside, or would you rather keep things very steady even if that means growth is slower?
+
+CLIENT1: [00:06:14] Steady. Definitely steady.
+
+CLIENT2: [00:06:17] Yeah, we’d rather sleep at night.
+
+ADVISOR: [00:06:19] Fair enough. So more income-focused, less moving around.
+
+CLIENT1: [00:06:23] Exactly. I don’t like surprises.
+
+ADVISOR: [00:06:26] And on the tax side, are you trying to figure out which accounts to draw from first, that sort of thing?
+
+CLIENT2: [00:06:32] Yes. That’s one of the things we’re not sure about.
+
+CLIENT1: [00:06:35] We just don’t want to pay more than we need to.
+
+ADVISOR: [00:06:38] Right. We can look at that. And for the estate side, what are you hoping to accomplish there?
+
+CLIENT2: [00:06:45] Mainly update the beneficiaries and make sure it all passes to the children smoothly.
+
+CLIENT1: [00:06:50] Without a bunch of court stuff, if possible.
+
+ADVISOR: [00:06:53] Okay, keep it simple and avoid probate where you can.
+
+CLIENT2: [00:06:56] Yes, exactly.
+
+ADVISOR: [00:06:58] Have you already got the basic documents in place, like a will and power of attorney?
+
+CLIENT1: [00:07:04] Yes, both of those.
+
+CLIENT2: [00:07:06] The will was updated a few years back — maybe three years ago.
+
+ADVISOR: [00:07:10] Okay, about three years. And no trust set up at this point?
+
+CLIENT2: [00:07:14] No trust.
+
+CLIENT1: [00:07:16] No, just the basics.
+
+ADVISOR: [00:07:18] Understood. And one thing I want to make sure we don’t miss — beneficiary designations on the retirement accounts. Do you know if those need a review?
+
+CLIENT1: [00:07:26] Yeah, probably. We haven’t looked at them in a while.
+
+CLIENT2: [00:07:30] That’s part of why we called.
+
+ADVISOR: [00:07:33] Makes sense. You’ve got a pretty clear picture overall: steady retirement income, a conservative approach, some cash reserve, and then cleaning up the beneficiary and account-draw order. Is there anything else you’re worried about that we haven’t touched?
+
+CLIENT1: [00:07:46] Just... not outliving the savings.
+
+CLIENT2: [00:07:49] And keeping the joint money easy to access if one of us needs it.
+
+ADVISOR: [00:07:53] Okay. Those are both very reasonable concerns. We can work through that carefully.

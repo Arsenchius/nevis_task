@@ -1,0 +1,351 @@
+{
+  "example_id": "medium_004_self_employed_single",
+  "difficulty": "medium",
+  "archetype_id": "self_employed_single",
+  "challenge_tags": [
+    "estate_planning",
+    "missing_fields",
+    "numeric_approximate",
+    "numeric_exact",
+    "numeric_range",
+    "objectives_free_form",
+    "owner_attribution"
+  ],
+  "section_targets": [
+    "employment",
+    "estate_planning",
+    "expenses",
+    "income",
+    "loans_mortgages",
+    "objectives",
+    "other_assets",
+    "personal_details",
+    "savings_investments"
+  ],
+  "age_band": "mid_career_1976_1985",
+  "include_mobile_phone": false,
+  "include_email": false,
+  "expected": {
+    "has_client2": false,
+    "client1": {
+      "personal": {
+        "first_name": "Peter",
+        "last_name": "Richardson",
+        "date_of_birth": "1981-04-17",
+        "marital_or_relationship_status": "single",
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": "self_employed",
+        "occupation": "self-employed financial consultant",
+        "employer": "Richardson Advisory Services",
+        "start_date": "2014",
+        "desired_retirement_age": 67,
+        "desired_retirement_date": null,
+        "tax_residency": "US"
+      }
+    },
+    "client2": {
+      "personal": {
+        "first_name": "Carter",
+        "last_name": "Wright",
+        "date_of_birth": null,
+        "marital_or_relationship_status": null,
+        "mobile_phone": null,
+        "email": null
+      },
+      "employment": {
+        "status": null,
+        "occupation": null,
+        "employer": null,
+        "start_date": null,
+        "desired_retirement_age": null,
+        "desired_retirement_date": null,
+        "tax_residency": null
+      }
+    },
+    "household": {
+      "partner_or_spouse_name": null,
+      "partner_or_spouse_is_client2": null,
+      "partner_or_spouse_relationship": null,
+      "children_or_dependants": []
+    },
+    "incomes": [
+      {
+        "owner": "client1",
+        "source_name": "business income after expenses",
+        "amount": {
+          "normalized_amount": 145000.0,
+          "lower_bound": 120000.0,
+          "upper_bound": 170000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $120k to $170k a year after business expenses"
+        },
+        "frequency": "annual",
+        "net_or_gross": "net"
+      },
+      {
+        "owner": "client1",
+        "source_name": "quarterly consulting retainers",
+        "amount": {
+          "normalized_amount": 18000.0,
+          "lower_bound": 15000.0,
+          "upper_bound": 20000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $15,000-$20,000 per quarter"
+        },
+        "frequency": "monthly",
+        "net_or_gross": "gross"
+      }
+    ],
+    "expenses": [
+      {
+        "category": "housing",
+        "owner": "client1",
+        "name": "rent",
+        "amount": {
+          "normalized_amount": 2400.0,
+          "lower_bound": 2300.0,
+          "upper_bound": 2500.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $2,300 to $2,500 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "utilities",
+        "owner": "client1",
+        "name": "utilities and internet",
+        "amount": {
+          "normalized_amount": 320.0,
+          "lower_bound": 300.0,
+          "upper_bound": 350.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $300-$350 monthly"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "transport",
+        "owner": "client1",
+        "name": "car payment",
+        "amount": {
+          "normalized_amount": 480.0,
+          "lower_bound": 480.0,
+          "upper_bound": 480.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$480"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "business expenses",
+        "owner": "client1",
+        "name": "software, travel, and home office costs",
+        "amount": {
+          "normalized_amount": 1100.0,
+          "lower_bound": 1000.0,
+          "upper_bound": 1200.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $1,000 to $1,200 a month"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      },
+      {
+        "category": "taxes",
+        "owner": "client1",
+        "name": "estimated quarterly tax payments",
+        "amount": {
+          "normalized_amount": 18000.0,
+          "lower_bound": 15000.0,
+          "upper_bound": 21000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $15,000-$21,000 per quarter"
+        },
+        "frequency": "monthly",
+        "is_essential": true
+      }
+    ],
+    "pensions_and_retirement_accounts": [
+      {
+        "owner": "client1",
+        "account_type": "SEP IRA",
+        "provider": "Vanguard",
+        "current_value": {
+          "normalized_amount": 265000.0,
+          "lower_bound": 260000.0,
+          "upper_bound": 270000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $260,000 to $270,000"
+        },
+        "contribution": "20% of net self-employment income",
+        "has_account_reference_mentioned": true
+      },
+      {
+        "owner": "client1",
+        "account_type": "Roth IRA",
+        "provider": "Fidelity",
+        "current_value": {
+          "normalized_amount": 78000.0,
+          "lower_bound": 78000.0,
+          "upper_bound": 78000.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$78,000"
+        },
+        "contribution": "$7,000 per year",
+        "has_account_reference_mentioned": false
+      }
+    ],
+    "savings_and_investments": [
+      {
+        "owner": "client1",
+        "account_type": "high-yield savings",
+        "provider": "Ally Bank",
+        "current_value": {
+          "normalized_amount": 42000.0,
+          "lower_bound": 40000.0,
+          "upper_bound": 45000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $40,000-$45,000"
+        },
+        "cash_value": null,
+        "invested_value": null
+      },
+      {
+        "owner": "client1",
+        "account_type": "brokerage",
+        "provider": "Schwab",
+        "current_value": {
+          "normalized_amount": 91000.0,
+          "lower_bound": 90000.0,
+          "upper_bound": 95000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $90k to $95k"
+        },
+        "cash_value": null,
+        "invested_value": null
+      }
+    ],
+    "loans_and_mortgages": [
+      {
+        "owner": "client1",
+        "debt_type": "credit card",
+        "provider": "unknown",
+        "monthly_cost": {
+          "normalized_amount": 350.0,
+          "lower_bound": 300.0,
+          "upper_bound": 400.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "around $300-$400 a month"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 8600.0,
+          "lower_bound": 8000.0,
+          "upper_bound": 9000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "about $8,000 to $9,000"
+        },
+        "interest_rate": null,
+        "no_debt": false
+      },
+      {
+        "owner": "client1",
+        "debt_type": "auto loan",
+        "provider": "Toyota Financial",
+        "monthly_cost": {
+          "normalized_amount": 480.0,
+          "lower_bound": 480.0,
+          "upper_bound": 480.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$480"
+        },
+        "outstanding_balance": {
+          "normalized_amount": 16200.0,
+          "lower_bound": 16200.0,
+          "upper_bound": 16200.0,
+          "is_approximate": false,
+          "currency": "USD",
+          "raw_text": "$16,200"
+        },
+        "interest_rate": 5.9,
+        "no_debt": false
+      }
+    ],
+    "other_assets": [
+      {
+        "owner": "client1",
+        "description": "primary residence equity",
+        "current_value": {
+          "normalized_amount": 185000.0,
+          "lower_bound": 180000.0,
+          "upper_bound": 190000.0,
+          "is_approximate": true,
+          "currency": "USD",
+          "raw_text": "roughly $180,000-$190,000 of equity"
+        },
+        "ownership_share": 100.0
+      }
+    ],
+    "objectives": [
+      {
+        "category": "retirement income",
+        "description": "Build enough retirement income to stop working around age 67 and maintain current lifestyle.",
+        "target_amount_or_income": null,
+        "target_date_or_age": "67",
+        "priority": "high",
+        "status_or_uncertainty": "Not sure SEP IRA contributions are enough given variable income."
+      },
+      {
+        "category": "tax efficiency",
+        "description": "Reduce tax bill from self-employment income and improve estimated tax planning.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "high",
+        "status_or_uncertainty": "Wants help with quarterly tax estimates and deductions."
+      },
+      {
+        "category": "estate planning",
+        "description": "Get a will in place and make sure beneficiaries are up to date.",
+        "target_amount_or_income": null,
+        "target_date_or_age": null,
+        "priority": "medium",
+        "status_or_uncertainty": "No will currently; has not set up power of attorney."
+      }
+    ],
+    "risk_profile_and_preferences": {
+      "risk_score_or_label": "moderate",
+      "attitude_summary": "Comfortable with some market volatility for long-term growth but wants to avoid taking unnecessary risk with retirement savings.",
+      "preferred_strategy": "Balanced growth portfolio with a cash reserve for taxes and emergencies.",
+      "key_concerns": [
+        "variable income",
+        "tax planning",
+        "retirement readiness",
+        "estate planning"
+      ]
+    },
+    "estate_planning": {
+      "will_status": "no will",
+      "power_of_attorney_status": "not mentioned",
+      "notes": "No will currently. No trust mentioned. Beneficiaries need review."
+    }
+  }
+}

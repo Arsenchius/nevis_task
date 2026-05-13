@@ -1,0 +1,210 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Yuki Garcia
+  - id: client
+    name: Richard King
+---
+ADVISOR: [00:00:03] Hi, thanks for making time today — this is Megan Patel. Am I speaking with Yuki Garcia and Richard King?
+
+CLIENT1: [00:00:10] Yes, that's us. Hi Megan.
+
+CLIENT2: [00:00:12] Hi.
+
+ADVISOR: [00:00:14] Great. Just so I’ve got the right notes, can I start with dates of birth for both of you? Yuki first maybe?
+
+CLIENT1: [00:00:22] Sure — Yuki Garcia, April 12th, 1968.
+
+ADVISOR: [00:00:27] And Richard?
+
+CLIENT2: [00:00:30] September 3rd, 1965.
+
+ADVISOR: [00:00:34] Perfect. And Yuki, what’s the best mobile number for you in case we get cut off?
+
+CLIENT1: [00:00:40] It’s (415) 555-0138.
+
+ADVISOR: [00:00:45] Thank you. And just to confirm, you’re both married, right?
+
+CLIENT1: [00:00:49] Yes, married.
+
+CLIENT2: [00:00:50] Yep.
+
+ADVISOR: [00:00:53] Okay. And are you both US tax residents?
+
+CLIENT1: [00:00:57] Yes, definitely.
+
+CLIENT2: [00:00:58] Yes, US.
+
+ADVISOR: [00:01:02] Great. Tell me a little bit about what’s going on and what you’d like to get out of the call.
+
+CLIENT1: [00:01:08] We’re getting close to retirement, or at least close enough that it feels real now. We want to make sure the income side makes sense.
+
+CLIENT2: [00:01:16] Yeah, we don’t want to guess and then find out later we should’ve done something different.
+
+ADVISOR: [00:01:21] That makes sense. Yuki, what do you do currently?
+
+CLIENT1: [00:01:26] I’m an operations manager at Bayview Logistics.
+
+ADVISOR: [00:01:30] And how long have you been there?
+
+CLIENT1: [00:01:33] Since 2012.
+
+ADVISOR: [00:01:36] Okay. And your salary there is about what at the moment?
+
+CLIENT1: [00:01:41] Ninety-eight thousand a year gross.
+
+ADVISOR: [00:01:45] Got it. And Richard, same kind of question for you.
+
+CLIENT2: [00:01:50] I’m a mechanical engineer at Pacific Manufacturing.
+
+ADVISOR: [00:01:55] And you’ve been there since...?
+
+CLIENT2: [00:01:58] 2010.
+
+ADVISOR: [00:02:00] And your gross salary?
+
+CLIENT2: [00:02:03] One twenty-four thousand.
+
+ADVISOR: [00:02:06] Great. Still working full-time, both of you?
+
+CLIENT1: [00:02:09] Yes.
+
+CLIENT2: [00:02:10] Yep.
+
+ADVISOR: [00:02:13] And what are you each thinking in terms of retirement age? It doesn’t have to be exact.
+
+CLIENT1: [00:02:19] I’ve been thinking 65. That feels like a good target.
+
+CLIENT2: [00:02:24] I’m a little later — probably 66 for me.
+
+ADVISOR: [00:02:29] Okay, 65 and 66. That helps. And do you have any strong feelings about timing, like wanting to stop as soon as you can, or more of a gradual transition?
+
+CLIENT1: [00:02:38] I think we’d like to stop around then, but only if the income looks steady. I don’t want to be anxious every month.
+
+CLIENT2: [00:02:46] Same. Steady is the word.
+
+ADVISOR: [00:02:50] Right. Let’s talk about your spending a bit. What are the core household costs right now?
+
+CLIENT1: [00:02:56] Housing is about $1,800 a month for property taxes, insurance, utilities, and maintenance.
+
+ADVISOR: [00:03:03] Okay.
+
+CLIENT2: [00:03:04] And then for retirement travel, we’ve been thinking about about $12,000 a year. Nothing crazy, just enough to actually enjoy it.
+
+ADVISOR: [00:03:12] That’s helpful. So the big thing is keeping the essential bills covered, and then having a travel budget on top.
+
+CLIENT1: [00:03:18] Exactly.
+
+ADVISOR: [00:03:20] Do you have a mortgage at the moment?
+
+CLIENT2: [00:03:23] No mortgage.
+
+ADVISOR: [00:03:25] Okay, that simplifies things a bit. Now, in terms of retirement income, have you got a sense of what you’d like that to look like?
+
+CLIENT1: [00:03:34] We were hoping Social Security and our savings together could get us to around fifty-two thousand a year combined.
+
+ADVISOR: [00:03:42] Fifty-two thousand combined, got it. Is that something you’ve already estimated from Social Security statements, or is that more of a rough target?
+
+CLIENT2: [00:03:49] It’s based on what we’ve seen, pretty much. We’re trying to build around that.
+
+ADVISOR: [00:03:54] And is the concern that you’re trying to decide how much should come from the annuity versus drawing from investments?
+
+CLIENT1: [00:04:01] Yes — exactly that. We keep going back and forth.
+
+CLIENT2: [00:04:05] We don’t want to make the wrong call there.
+
+ADVISOR: [00:04:08] Understood. Tell me about the accounts you’ve got set up. I’m going to ask a few direct questions just to make sure I don’t miss anything.
+
+CLIENT1: [00:04:15] Sure.
+
+ADVISOR: [00:04:17] Yuki, do you have a 401(k) through your employer?
+
+CLIENT1: [00:04:21] Yes, through the current employer plan.
+
+ADVISOR: [00:04:24] And roughly what’s in that today?
+
+CLIENT1: [00:04:27] About four hundred ten thousand.
+
+ADVISOR: [00:04:30] Okay. And how are you contributing?
+
+CLIENT1: [00:04:33] Six percent of salary.
+
+ADVISOR: [00:04:36] And you also mentioned an IRA somewhere?
+
+CLIENT1: [00:04:39] Yeah, with Vanguard. That one’s around one hundred forty-five thousand.
+
+ADVISOR: [00:04:45] Great. Vanguard IRA, about $145,000. Richard, same for you — do you have a 401(k) at Pacific Manufacturing?
+
+CLIENT2: [00:04:53] I do.
+
+ADVISOR: [00:04:54] And the current value?
+
+CLIENT2: [00:04:57] About five hundred sixty thousand.
+
+ADVISOR: [00:05:00] And your contribution rate?
+
+CLIENT2: [00:05:02] Eight percent of salary.
+
+ADVISOR: [00:05:05] Okay. Any IRA outside that?
+
+CLIENT2: [00:05:08] Yes, Fidelity. That’s around ninety-eight thousand.
+
+ADVISOR: [00:05:13] Perfect. Fidelity IRA, about $98,000. And you mentioned an annuity as well — is that something you hold together?
+
+CLIENT1: [00:05:21] Yes, it’s a household thing. North American Company.
+
+ADVISOR: [00:05:25] And what’s the value there?
+
+CLIENT2: [00:05:28] About two hundred twenty thousand.
+
+ADVISOR: [00:05:31] Got it. So that’s North American Company, around $220,000. Anything else in investments or savings that you want me to know about?
+
+CLIENT1: [00:05:39] We have a joint Schwab brokerage account.
+
+ADVISOR: [00:05:43] Okay, Schwab taxable brokerage. Roughly how much is in there?
+
+CLIENT2: [00:05:48] One seventy-five thousand.
+
+ADVISOR: [00:05:52] And any cash savings?
+
+CLIENT1: [00:05:55] Yes, an Ally Bank high-yield savings account. About sixty-eight thousand.
+
+ADVISOR: [00:06:01] Great, Ally Bank savings around $68,000. That gives me the picture. Any debt other than the mortgage — credit cards, car loans, anything like that?
+
+CLIENT2: [00:06:10] No, nothing else.
+
+ADVISOR: [00:06:12] Okay, no other debt. Helpful. Let me ask a couple of softer questions now — when you think about retirement, what matters most to you? Is it travel, flexibility, helping family, just peace of mind?
+
+CLIENT1: [00:06:23] Honestly, peace of mind. And being able to travel a bit without worrying.
+
+CLIENT2: [00:06:28] Yeah, and not seeing the portfolio drop right before we retire would be pretty stressful.
+
+ADVISOR: [00:06:33] Right, that makes sense. So you want some growth, but not a big shock as you get close.
+
+CLIENT1: [00:06:38] Exactly. We’re cautious, but we don’t want to sit in cash forever either.
+
+ADVISOR: [00:06:43] Understood. So I’m hearing a moderate approach overall — growth matters, but stability matters too.
+
+CLIENT2: [00:06:49] That sounds right.
+
+ADVISOR: [00:06:51] And just to check I’ve got the retirement timing right: Yuki, you’re aiming for 65, and Richard, 66?
+
+CLIENT1: [00:06:58] Yes.
+
+CLIENT2: [00:06:59] Yep.
+
+ADVISOR: [00:07:01] Great. And the income target we’re thinking about is about $52,000 a year combined from Social Security plus the rest of the retirement assets, with the annuity part still under discussion.
+
+CLIENT1: [00:07:12] Yes, that’s the big question for us.
+
+CLIENT2: [00:07:15] We’d like to see a plan that doesn’t feel tight.
+
+ADVISOR: [00:07:19] Absolutely. I’ll pull this together and we can look at what kind of drawdown or income mix would support that. If anything changes on the retirement date or the spending side, just let me know.
+
+CLIENT1: [00:07:28] Will do.
+
+CLIENT2: [00:07:29] Thanks, Megan.

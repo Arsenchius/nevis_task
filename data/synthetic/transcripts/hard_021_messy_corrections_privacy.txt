@@ -1,0 +1,270 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Patel
+  - id: client
+    name: Genesis Christensen
+  - id: client
+    name: Rachel Brooks
+---
+ADVISOR: [00:00:03] Hi both, thanks for joining. I’m Megan. Can you hear me okay?
+
+CLIENT1: [00:00:07] Yeah, we can hear you.
+
+CLIENT2: [00:00:09] Yep, loud and clear.
+
+ADVISOR: [00:00:12] Perfect. And just so I’ve got the right people, am I speaking with Genesis Christensen and Rachel Brooks?
+
+CLIENT1: [00:00:18] Yes, that’s us.
+
+CLIENT2: [00:00:19] Right.
+
+ADVISOR: [00:00:22] Great. Genesis, can I start with your date of birth?
+
+CLIENT1: [00:00:27] Uh, yeah — April 18th, 2001.
+
+ADVISOR: [00:00:31] And Rachel, yours?
+
+CLIENT2: [00:00:34] November 2nd, 1999.
+
+ADVISOR: [00:00:37] Thanks. And are you both based in the US for tax purposes?
+
+CLIENT1: [00:00:42] Yeah, US.
+
+CLIENT2: [00:00:43] Yep, US tax residents.
+
+ADVISOR: [00:00:46] Brilliant. And what’s the best mobile number for you, Genesis?
+
+CLIENT1: [00:00:52] It’s 415-555-0187.
+
+ADVISOR: [00:00:56] Thank you. I’ll keep that on file. And you two are partners, living together?
+
+CLIENT2: [00:01:01] Yeah, cohabiting.
+
+CLIENT1: [00:01:02] Partner, yeah.
+
+ADVISOR: [00:01:05] Okay. Any kids or dependants in the picture?
+
+CLIENT1: [00:01:08] No.
+
+CLIENT2: [00:01:09] No dependants.
+
+ADVISOR: [00:01:12] Got it. Genesis, what do you do day to day?
+
+CLIENT1: [00:01:17] I’m a marketing coordinator.
+
+ADVISOR: [00:01:20] Okay, and where are you working?
+
+CLIENT1: [00:01:23] Northstar Retail Group.
+
+ADVISOR: [00:01:25] And how long have you been there?
+
+CLIENT1: [00:01:28] Since... 2023. I started in 2023.
+
+ADVISOR: [00:01:31] Nice. Rachel, what about you?
+
+CLIENT2: [00:01:35] I’m a registered nurse.
+
+ADVISOR: [00:01:38] At a hospital, I assume?
+
+CLIENT2: [00:01:40] Yeah, Mercy General Hospital.
+
+ADVISOR: [00:01:43] And you started there when?
+
+CLIENT2: [00:01:46] 2021.
+
+ADVISOR: [00:01:48] Okay. Are you both still fully employed there, no big changes coming up?
+
+CLIENT1: [00:01:53] Yeah, I’m employed.
+
+CLIENT2: [00:01:55] Same.
+
+ADVISOR: [00:01:57] Genesis, roughly what are you earning before tax? I’m just after a ballpark.
+
+CLIENT1: [00:02:03] Uh, about 60 to 65k.
+
+ADVISOR: [00:02:07] Okay, about 60–65 thousand gross. And Rachel?
+
+CLIENT2: [00:02:12] Mine’s around 90 to 95k gross.
+
+ADVISOR: [00:02:16] Great. And do you get overtime as well, Rachel?
+
+CLIENT2: [00:02:20] Yeah, some. It varies, but maybe 5 to 7k a year, something like that.
+
+ADVISOR: [00:02:26] Okay, helpful. Genesis, anything like overtime or bonus on your side?
+
+CLIENT1: [00:02:30] No, not really.
+
+ADVISOR: [00:02:33] Right. Let’s talk monthly spending. Rent first — what are you paying together?
+
+CLIENT2: [00:02:39] Roughly 2.4 to 2.5k a month.
+
+ADVISOR: [00:02:43] Okay, so about 2,450-ish. Utilities?
+
+CLIENT1: [00:02:47] About 200 to 250.
+
+ADVISOR: [00:02:50] And groceries?
+
+CLIENT2: [00:02:53] Around 600 to 700 a month.
+
+ADVISOR: [00:02:57] Okay. Genesis, what about transport costs for you?
+
+CLIENT1: [00:03:01] Gas and parking, maybe 150 to 200 a month.
+
+ADVISOR: [00:03:05] Got it. Any regular subscriptions or apps you want me to note?
+
+CLIENT2: [00:03:10] Yeah, streaming and apps, like 45 a month.
+
+ADVISOR: [00:03:14] Cool. Nothing else big jumping out for now?
+
+CLIENT1: [00:03:17] Not really, no.
+
+ADVISOR: [00:03:20] Okay. Savings — do you have money set aside at the moment? I’m not looking for exact pennies, just rough figures.
+
+CLIENT2: [00:03:27] We’ve got a joint high-yield savings with Ally Bank.
+
+ADVISOR: [00:03:31] Okay, Ally Bank. About how much is in there?
+
+CLIENT1: [00:03:35] Around 10 to 14k... maybe 12k? I keep forgetting if it’s closer to ten or fourteen.
+
+CLIENT2: [00:03:40] I think twelve is fair.
+
+ADVISOR: [00:03:42] Fine, we’ll call it about twelve thousand. Any other savings accounts?
+
+CLIENT2: [00:03:47] I have a Chase savings account too.
+
+ADVISOR: [00:03:50] And roughly what’s in that one?
+
+CLIENT2: [00:03:53] 3.5k.
+
+ADVISOR: [00:03:56] Okay. Genesis, do you have any investing account outside retirement?
+
+CLIENT1: [00:04:01] Yeah, a brokerage with Vanguard.
+
+ADVISOR: [00:04:04] Vanguard, got it. And what’s that worth roughly?
+
+CLIENT1: [00:04:07] About 7 to 9k... maybe 8k.
+
+ADVISOR: [00:04:11] Okay, around eight thousand. Rachel, anything similar on your side?
+
+CLIENT2: [00:04:16] Not really, just the Chase savings.
+
+ADVISOR: [00:04:19] Okay. Now, retirement stuff — Genesis, do you have a workplace plan through Northstar Retail Group?
+
+CLIENT1: [00:04:26] Yeah, their 401(k) plan.
+
+ADVISOR: [00:04:28] And about how much is in it?
+
+CLIENT1: [00:04:31] About 18 to 19k.
+
+ADVISOR: [00:04:34] Okay. And you’re contributing what percent?
+
+CLIENT1: [00:04:37] Six percent.
+
+ADVISOR: [00:04:39] Great. Rachel, same question for you at Mercy General Hospital?
+
+CLIENT2: [00:04:44] Yeah, 401(k) there too.
+
+ADVISOR: [00:04:46] Rough value?
+
+CLIENT2: [00:04:48] Roughly 40 to 45k.
+
+ADVISOR: [00:04:51] And contribution rate?
+
+CLIENT2: [00:04:53] Eight percent.
+
+ADVISOR: [00:04:55] Okay, thanks. Just thinking out loud, do you both have a rough age in mind for retirement, or is that still a bit fluid?
+
+CLIENT1: [00:05:03] I’d say 67.
+
+CLIENT2: [00:05:05] I’m more like 65.
+
+ADVISOR: [00:05:08] Okay, so somewhere around 65 to 67. And is the idea to keep a similar lifestyle, just with enough income coming in?
+
+CLIENT2: [00:05:15] Yeah, exactly. I don’t want to feel like we have to cut everything back.
+
+CLIENT1: [00:05:18] Same. I just want to know if what we’re doing now is enough.
+
+ADVISOR: [00:05:22] That makes sense. What’s the biggest thing you’re hoping to do over the next few years?
+
+CLIENT1: [00:05:28] Save for a first home deposit.
+
+CLIENT2: [00:05:30] Yeah, definitely.
+
+ADVISOR: [00:05:32] Okay. Are you thinking of staying in the city you’re in now, or moving first?
+
+CLIENT1: [00:05:37] That’s the part we’re not sure about.
+
+CLIENT2: [00:05:39] Yeah, we keep going back and forth.
+
+ADVISOR: [00:05:42] Fair enough. And what sort of deposit number are you aiming at, roughly?
+
+CLIENT2: [00:05:47] Maybe 50 to 70k.
+
+CLIENT1: [00:05:49] Yeah, somewhere in there.
+
+ADVISOR: [00:05:52] Okay. Anything else you’d like to tackle, like debt or cash flow?
+
+CLIENT1: [00:05:58] Yeah, we’d like to pay off debt faster.
+
+ADVISOR: [00:06:01] What debt do you have?
+
+CLIENT2: [00:06:03] We’ve got student loans, joint, and Genesis has a credit card.
+
+ADVISOR: [00:06:08] Okay. For the student loans, what’s the monthly payment and roughly what balance are we talking?
+
+CLIENT2: [00:06:13] It’s 210 a month.
+
+CLIENT1: [00:06:15] And the balance is about 18 to 19k.
+
+ADVISOR: [00:06:18] Federal student loan servicer, right?
+
+CLIENT2: [00:06:20] Yeah, federal servicer.
+
+ADVISOR: [00:06:23] Okay. And Genesis, the credit card?
+
+CLIENT1: [00:06:27] Visa. I pay 75 a month on it.
+
+ADVISOR: [00:06:30] And the balance there?
+
+CLIENT1: [00:06:32] Roughly 2 to 3k... maybe around 2.4k.
+
+ADVISOR: [00:06:36] Okay, thanks. Any interest rate on either of those you know off the top of your head?
+
+CLIENT2: [00:06:41] Not offhand, no.
+
+CLIENT1: [00:06:42] Yeah, I don’t know it.
+
+ADVISOR: [00:06:45] No worries. I’m also hearing a few things around how to keep cash safe versus where to invest it. Do you feel pretty comfortable with some growth, as long as it’s not bouncing around too much?
+
+CLIENT1: [00:06:55] Yeah, that sounds right. I’m okay with some growth, just not huge swings.
+
+CLIENT2: [00:06:59] Same. We don’t want to panic if it drops a lot.
+
+ADVISOR: [00:07:03] Understood. So more of a balanced setup — some cash reserve, diversified funds, not overly spicy.
+
+CLIENT1: [00:07:09] Yeah, balanced is probably the word.
+
+CLIENT2: [00:07:11] Definitely.
+
+ADVISOR: [00:07:14] And the joint savings — do you want that kept clearly separate from individual money, or are you thinking of combining more of it?
+
+CLIENT2: [00:07:21] We’re not sure. That’s part of why we wanted help.
+
+CLIENT1: [00:07:24] Yeah, we keep asking if joint should just stay joint or if we should move things around.
+
+ADVISOR: [00:07:29] Okay, that’s helpful. Just so I’ve got the main themes: home deposit in the next few years, retirement around mid-to-late 60s, and getting the debt down without being too aggressive. Is that fair?
+
+CLIENT1: [00:07:40] Yeah, that’s it.
+
+CLIENT2: [00:07:41] Pretty much, yeah.
+
+ADVISOR: [00:07:44] Great. We can build a plan around that. And if I send anything over, I’ll use the contact details we’ve got for Genesis, unless you’d rather I loop Rachel in another way.
+
+CLIENT2: [00:07:53] That’s fine, you can send it through Genesis.
+
+CLIENT1: [00:07:55] Yeah, that works.
+
+ADVISOR: [00:07:58] Perfect. Thanks both — I’ll put this together and we can talk through options next time.

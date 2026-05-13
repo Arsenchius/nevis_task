@@ -1,0 +1,31 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "coverage_miss"
+  ],
+  "coverage_issues": [
+    {
+      "field": "loans_and_mortgages[0].provider",
+      "expected_value": "First National Mortgage",
+      "detail": "The lender name for the household mortgage is never mentioned in the transcript."
+    },
+    {
+      "field": "loans_and_mortgages[0].outstanding_balance",
+      "expected_value": "{\"normalized_amount\": 412000.0, \"lower_bound\": null, \"upper_bound\": null, \"is_approximate\": false, \"currency\": \"USD\", \"raw_text\": \"$412,000\"}",
+      "detail": "The outstanding balance on the household mortgage is not stated anywhere in the transcript."
+    },
+    {
+      "field": "loans_and_mortgages[0].interest_rate",
+      "expected_value": "6.125",
+      "detail": "No mortgage interest rate is mentioned in the transcript."
+    },
+    {
+      "field": "loans_and_mortgages[1].provider",
+      "expected_value": "Auto Finance Co.",
+      "detail": "The provider/lender name for the car loan is not given in the transcript; it is only referred to as a car loan."
+    }
+  ],
+  "suppression_leaks": [],
+  "hallucinations": [],
+  "localization_issues": []
+}

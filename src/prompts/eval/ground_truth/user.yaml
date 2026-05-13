@@ -1,0 +1,33 @@
+prompt: |
+  Create one CIFExtraction ground-truth JSON object.
+
+  Example ID: {example_id}
+  Difficulty: {difficulty}
+  Archetype: {archetype_description}
+  Target sections: {section_targets}
+  Challenge tags to include: {challenge_tags}
+  Client age band / DOB target: {age_band}
+  Include mobile phone: {include_mobile_phone}
+  Include email: {include_email}
+  Suggested client 1 name: {client1_name}
+  Suggested client 2 name (if applicable): {client2_name}
+
+  Schema:
+  {schema_json}
+
+  Generation requirements:
+  - Make the data realistic for a US financial-advice fact-find.
+  - Use the suggested names above as-is for client1 and client2. Do not substitute common defaults such as Michael Turner, Maya Chen, Daniel Reed, or Ethan Henderson.
+  - Only populate sections listed in Target sections. Do not add data for sections not in that list, even if the archetype normally includes them. If a section is absent, leave its list empty or its object fields null.
+  - For every target section, provide either concrete values or an explicit absence/unknown state that the transcript can support. For household_dependants, no spouse/partner and no dependants is acceptable when represented by null partner fields and an empty children_or_dependants list.
+  - For easy examples, use clear explicit facts and fewer repeated rows.
+  - For medium examples, include a few approximate/ranged values or ownership challenges.
+  - For hard examples, include corrections, ambiguous ownership, shorthand amounts, negations, or advisor noise.
+  - Every monetary value must use MoneyAmount with normalized_amount, optional bounds, is_approximate, currency, and raw_text.
+  - MoneyAmount consistency rules: set is_approximate=true whenever raw_text contains approximate wording (about, around, roughly, maybe, close to) or whenever lower_bound or upper_bound is set. Do not set bounds and leave is_approximate=false.
+  - The estate_planning.notes field must contain only facts an extractor should produce (e.g. "Will last updated two years ago; no trust."). Do not include meta-commentary such as "Advisor noise:" or descriptions of how the fact was mentioned.
+  - Section-objective consistency: every objective you write must be backed by data in the corresponding section. Specifically — do not write an objective with category "estate_planning" unless the estate_planning section is populated (at minimum will_status must be non-null). Do not write risk-preference or investment-attitude content in objectives unless risk_profile_and_preferences is populated. In general: if a section is absent from Target sections, do not write objectives whose category or status_or_uncertainty text reveals facts about that section. An objective that names a goal is only valid when the structured section contains the facts that support it.
+  - Respect the DOB target. Some examples should involve younger adults born after 2000 when the age band asks for it.
+  - If Include mobile phone is True, provide a realistic synthetic US mobile number in client1.personal.mobile_phone.
+  - If Include email is True, provide a realistic synthetic email in client1.personal.email.
+  - If Include mobile phone/email is False, leave that field null unless client2 needs it for the scenario.

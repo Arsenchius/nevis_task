@@ -1,0 +1,158 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Robert Watts
+---
+ADVISOR: [00:00:03] Hi Robert, it’s Megan Carter here. Thanks for making the time today — can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, I can. Sorry, I’m just… I was juggling a client email when you rang.
+
+ADVISOR: [00:00:13] No worries at all. We’ll keep it pretty conversational. I’ve got you as Robert Watts — is that right?
+
+CLIENT1: [00:00:18] Yep, that’s me.
+
+ADVISOR: [00:00:20] Great. And just so I’ve got the basics, when’s your date of birth?
+
+CLIENT1: [00:00:25] Uh, it’s April 18th, 1990. I always have to think about the year for a second.
+
+ADVISOR: [00:00:31] No problem. So you’re single at the moment, is that right?
+
+CLIENT1: [00:00:35] Yeah, single.
+
+ADVISOR: [00:00:37] And are you based in the US for tax purposes?
+
+CLIENT1: [00:00:40] Yes, US tax resident.
+
+ADVISOR: [00:00:43] Perfect. So talk me through work first — what do you do these days?
+
+CLIENT1: [00:00:49] I’m self-employed. Financial consulting, mostly for small businesses and a few independent operators.
+
+ADVISOR: [00:00:56] Okay, self-employed financial consultant. And how long have you been doing that for?
+
+CLIENT1: [00:01:01] Since 2018. I went out on my own then.
+
+ADVISOR: [00:01:05] Right, 2018. And is it just you, or do you have a company name you trade through?
+
+CLIENT1: [00:01:10] It’s just me, really. I mean, I use my own business name, but it’s basically self-employed.
+
+ADVISOR: [00:01:16] Got it. And your income can be a bit variable, I imagine?
+
+CLIENT1: [00:01:20] Yeah, definitely. After expenses, I’d say it’s about 85 to 105 grand a year, something in that range. It moves around.
+
+ADVISOR: [00:01:31] Okay, so roughly eighty-five to one-oh-five net after business expenses. Any extra bits on top of that — maybe one-off consulting work, bonuses, that kind of thing?
+
+CLIENT1: [00:01:41] Yeah, occasionally. Some years I pick up bonus consulting work, and that’s maybe three to seven thousand. Not every year though.
+
+ADVISOR: [00:01:50] Fine, that’s helpful. And what are your main business costs like each month?
+
+CLIENT1: [00:01:55] Software, licensing, office stuff… around 1,200 a month.
+
+ADVISOR: [00:02:01] Around twelve hundred monthly. And taxes — do you set money aside for quarterly estimated payments?
+
+CLIENT1: [00:02:08] Yeah. Roughly 16k to 20k a year, depending on how the year goes. Sometimes I over-save a bit because I hate getting caught short.
+
+ADVISOR: [00:02:19] That makes sense. Better to be a bit cautious there. What about your living costs — rent, utilities, that sort of thing?
+
+CLIENT1: [00:02:27] Rent is 2,200.
+
+ADVISOR: [00:02:30] Monthly?
+
+CLIENT1: [00:02:31] Yeah, monthly. Utilities and internet are about 240 to 280 a month. Call it 260-ish.
+
+ADVISOR: [00:02:40] Okay. And day-to-day spending — eating out, travel, that kind of stuff?
+
+CLIENT1: [00:02:47] I don’t go crazy, but travel and dining out is around 400 to 500 a month. Probably 450 on average.
+
+ADVISOR: [00:02:56] Right. So there’s some flexibility there. Do you have any kids or anyone financially dependent on you?
+
+CLIENT1: [00:03:02] No, none.
+
+ADVISOR: [00:03:05] Okay. Any partner or spouse we should be thinking about in the household?
+
+CLIENT1: [00:03:10] No, just me.
+
+ADVISOR: [00:03:13] Got it. Now, on savings — what have you built up so far?
+
+CLIENT1: [00:03:20] I’ve got a high-yield savings account at Ally. It’s roughly 30 to 35 thousand.
+
+ADVISOR: [00:03:28] Okay, around thirty to thirty-five in cash savings. Anything else invested elsewhere?
+
+CLIENT1: [00:03:34] Yeah, a brokerage account at Schwab. The total is 18,000.
+
+ADVISOR: [00:03:40] Eighteen thousand total there — is that all invested, or is some sitting in cash?
+
+CLIENT1: [00:03:45] Some cash, some invested. About 2,000 cash and 16,000 invested.
+
+ADVISOR: [00:03:52] Perfect, that helps. Any other assets tied to the business, equipment, laptop, that sort of thing?
+
+CLIENT1: [00:03:59] Yeah, business equipment and my laptop. Maybe six to eight grand, something like that. I’d probably say seven.
+
+ADVISOR: [00:04:08] Sure, about seven thousand. And just checking on debt — any student loans?
+
+CLIENT1: [00:04:15] Yeah, unfortunately. Nelnet. I still owe 28,000.
+
+ADVISOR: [00:04:21] Okay. And what’s that costing you each month?
+
+CLIENT1: [00:04:25] About 300 to 320 a month. I think it’s 310-ish.
+
+ADVISOR: [00:04:31] And do you know the rate on that?
+
+CLIENT1: [00:04:34] 4.8 percent.
+
+ADVISOR: [00:04:36] Right. Any credit card balances carrying over?
+
+CLIENT1: [00:04:40] No, credit cards are paid off.
+
+ADVISOR: [00:04:44] Good. So if I’m hearing you right, the big picture is variable self-employed income, enough cash to cover a few bumps, but you’d like that to be a bit bigger?
+
+CLIENT1: [00:04:54] Yeah, exactly. I’d like a bigger emergency fund. Something like 40 to 60 thousand would feel a lot better.
+
+ADVISOR: [00:05:03] Okay, that makes sense. And is that mainly because of the income swings, or more of a general peace-of-mind thing?
+
+CLIENT1: [00:05:10] Mostly the income swings. If a couple of clients pay late, it gets annoying fast. I just don’t want to be stressed every quarter.
+
+ADVISOR: [00:05:19] Right, fair enough. On the long-term side, what are you hoping for retirement-wise? If you could pick an age, what feels realistic?
+
+CLIENT1: [00:05:28] I keep coming back to 67. I’m not totally sure, though. I mean, if things go well maybe earlier, but 67 feels like the number.
+
+ADVISOR: [00:05:37] Okay, so 67 is the target for now, but you’re not married to it.
+
+CLIENT1: [00:05:41] Exactly. I just want to know if I’m on track, honestly. With income being up and down, I’m never fully sure whether I’m doing enough.
+
+ADVISOR: [00:05:50] That’s a very normal worry. And when you say “on track,” is that more about being able to cover basics comfortably, or being able to keep your current lifestyle?
+
+CLIENT1: [00:05:59] Comfortable, definitely. Not fancy. I’d like to be able to live decently, maybe travel a bit, not worry about bills.
+
+ADVISOR: [00:06:08] Okay. And just so I don’t miss it, is there anything about taxes that’s especially frustrating right now?
+
+CLIENT1: [00:06:14] Yeah, the quarterly estimates. They’re just hard to predict. I’d love to make them more predictable and maybe reduce the bill where I can, legally obviously.
+
+ADVISOR: [00:06:24] Of course. So tax efficiency and smoothing out those estimated payments is a big priority.
+
+CLIENT1: [00:06:29] Yeah, very much.
+
+ADVISOR: [00:06:31] And when you think about investing the money you don’t need immediately, are you okay with some ups and downs if it’s for long-term growth, as long as the emergency money stays safe?
+
+CLIENT1: [00:06:40] Yeah, that sounds right. I’m fine with some volatility if it’s long term. I just don’t want money I might need for taxes or emergencies getting risky.
+
+ADVISOR: [00:06:50] Right, keep the near-term stuff in cash, and the longer-term money working harder.
+
+CLIENT1: [00:06:55] Exactly.
+
+ADVISOR: [00:06:57] One more thing — do you have any other loans or mortgages I should know about?
+
+CLIENT1: [00:07:02] No mortgage, no. Just the student loan.
+
+ADVISOR: [00:07:06] Okay. And no other big obligations or dependants?
+
+CLIENT1: [00:07:10] No, just me.
+
+ADVISOR: [00:07:13] Great. I think I’ve got the main picture. You’ve got a decent cash buffer already, some brokerage money, self-employed income that swings around, and you’re mainly trying to get the taxes and emergency fund under control while checking whether 67 is realistic.
+
+CLIENT1: [00:07:26] Yeah, that’s pretty much it. I just don’t want to make a dumb mistake with the cash I do have.
+
+ADVISOR: [00:07:32] Totally fair. We can work through it step by step.

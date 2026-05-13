@@ -1,0 +1,118 @@
+---
+title: N/A
+date: 2025-05-13
+participants:
+  - id: advisor
+    name: Megan Carter
+  - id: client
+    name: Shirley Brown
+---
+ADVISOR: [00:00:03] Hi Shirley, good morning — Megan Carter here. Can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, I can. Hi.
+
+ADVISOR: [00:00:10] Great. Thanks for making time today. I’m just going to get a feel for your situation and what you want to do, and then we can go from there. First off, can I confirm your full name?
+
+CLIENT1: [00:00:18] Shirley Brown.
+
+ADVISOR: [00:00:20] Perfect. And your date of birth?
+
+CLIENT1: [00:00:23] It’s April 18th, 1956.
+
+ADVISOR: [00:00:27] Okay, April 18, 1956. And the best mobile number for you — I’ve got something ending in 0198, is that right?
+
+CLIENT1: [00:00:34] Yes, that’s right. It’s 415-555-0198.
+
+ADVISOR: [00:00:39] Lovely. Any email you want me to use, or are you happier just by phone?
+
+CLIENT1: [00:00:42] No email, phone is fine.
+
+ADVISOR: [00:00:45] Okay. And just so I’ve got the basic picture, you’re widowed, correct?
+
+CLIENT1: [00:00:49] Yes. Widowed.
+
+ADVISOR: [00:00:52] Right, thanks. I’m sorry. Let’s talk about income first, because that usually drives the planning. What comes in each month now?
+
+CLIENT1: [00:01:01] Social Security is about two thousand four hundred a month, net. And I get a pension too.
+
+ADVISOR: [00:01:09] Okay — pension from your old school district, I think you mentioned on the intake?
+
+CLIENT1: [00:01:13] Yes, former school district. That one is eighteen hundred a month, gross.
+
+ADVISOR: [00:01:19] Got it. So $2,400 Social Security net, and $1,800 pension gross. Anything else that comes in regularly — interest, dividends, that sort of thing?
+
+CLIENT1: [00:01:28] Yeah, a little. Maybe about five to seven thousand a year from interest and dividends. It’s not exact exact, but around there.
+
+ADVISOR: [00:01:36] That’s helpful. So roughly $5,000 to $7,000 annually, okay. And are those from your investments, or just cash accounts and things?
+
+CLIENT1: [00:01:43] Mostly investments. I mean, some cash earns a little, but mostly investments.
+
+ADVISOR: [00:01:48] Okay. Let me ask about your monthly spending so I can see what the income needs to cover. What are your main fixed costs?
+
+CLIENT1: [00:01:56] Well, property taxes and insurance are about nine hundred a month. Utilities are around two hundred sixty. Medicare supplement and prescriptions, that’s about three hundred ten.
+
+ADVISOR: [00:02:08] Okay, property taxes and insurance $900, utilities $260, healthcare $310. Any flexible spending — travel, eating out, that kind of thing?
+
+CLIENT1: [00:02:18] Yes, definitely. I’d say around four hundred to five hundred a month. Occasionally trips and dining out. I like to leave room for that.
+
+ADVISOR: [00:02:28] Sure, that makes sense. And home repairs or surprises — do you keep a cash buffer for those?
+
+CLIENT1: [00:02:35] I do. I’d like to keep about fifty thousand available, just in case something comes up.
+
+ADVISOR: [00:02:42] Okay, a $50,000 reserve. That’s a very reasonable comfort level. Where do you keep your cash right now?
+
+CLIENT1: [00:02:49] At my local credit union — a high-yield savings account. I’ve got about sixty-eight thousand there.
+
+ADVISOR: [00:02:56] Local credit union, high-yield savings, about $68,000. Good. Any mortgage or other housing debt I should know about?
+
+CLIENT1: [00:03:04] No mortgage.
+
+ADVISOR: [00:03:06] Okay, no mortgage. That simplifies things a bit. How about retirement accounts or investments — what are we working with there?
+
+CLIENT1: [00:03:14] I have an IRA at Vanguard. It’s about four hundred twenty thousand.
+
+ADVISOR: [00:03:19] Vanguard IRA, about $420,000. Anything else in retirement-type money?
+
+CLIENT1: [00:03:24] There’s an annuity too, through an insurance company. It’s joint, actually. I think it’s roughly one hundred forty to one hundred sixty thousand. I don’t look at it all the time.
+
+ADVISOR: [00:03:35] Okay, joint annuity with an insurance company, roughly $140,000 to $160,000. And then outside retirement accounts, any brokerage or investment account?
+
+CLIENT1: [00:03:44] Yes, Fidelity. There’s a joint brokerage account there. Total is about one hundred eighty-five thousand, and I think around twenty-five thousand of that is just sitting in cash.
+
+ADVISOR: [00:03:56] Right, so Fidelity joint brokerage about $185,000 total, with about $25,000 cash and about $160,000 invested. That helps. Do you own any other assets we should factor in — property, vehicles, business interests?
+
+CLIENT1: [00:04:07] No, nothing like that.
+
+ADVISOR: [00:04:10] Okay. I want to ask a couple of planning questions, not to be nosy, just so I understand what matters. What’s the main thing you want this money to do for you?
+
+CLIENT1: [00:04:19] Honestly? I want steady income. I don’t want to be forced to sell things when the market is down. I’ve seen that happen and I hate the idea of it.
+
+ADVISOR: [00:04:29] Yeah, that’s fair. So income first, and avoiding big swings. Are you generally pretty cautious with investing?
+
+CLIENT1: [00:04:35] Very cautious, yes. I’d rather have stability than chase growth. I just don’t sleep well when things bounce around.
+
+ADVISOR: [00:04:42] Understood. So more conservative income-focused, limited stock exposure, keep some cash on hand. That seems to fit what you’re saying. Any particular worries — besides market swings — that keep you up?
+
+CLIENT1: [00:04:54] Outliving the income, really. And taxes, too. I don’t want to lose money to taxes if I can avoid it.
+
+ADVISOR: [00:05:01] Right, minimizing taxes and making sure income lasts. That makes sense. On the legacy side, are you wanting to keep things simple for beneficiaries and make sure paperwork is up to date?
+
+CLIENT1: [00:05:12] Yes, absolutely. I want things to pass smoothly and not be a mess for anybody.
+
+ADVISOR: [00:05:18] Okay. And just so I’m clear, do you already have your estate documents in place?
+
+CLIENT1: [00:05:23] Yes, I do have a will. It was updated maybe six years ago, and I also have a durable power of attorney.
+
+ADVISOR: [00:05:31] Got it — will in place, last updated around six years ago, and durable power of attorney. Helpful. We’ll want to review beneficiaries and make sure everything lines up, especially with the joint accounts and the annuity.
+
+CLIENT1: [00:05:42] Yes, that’s exactly the kind of thing I want to look at.
+
+ADVISOR: [00:05:46] Perfect. And just one last thing for today — are you hoping to retire at a certain age, or are you already retired?
+
+CLIENT1: [00:05:53] I’m already retired.
+
+ADVISOR: [00:05:55] Okay, that’s fine. Then we’ll focus on preserving income and keeping a comfortable cash cushion. I think I’ve got the main pieces. Anything else you’re worried about that we haven’t touched?
+
+CLIENT1: [00:06:07] No, I think that’s the big stuff. I just want it to be steady and simple.
+
+ADVISOR: [00:06:12] Yeah, steady and simple. That’s a good goal. We can work with that.

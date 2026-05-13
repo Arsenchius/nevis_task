@@ -1,0 +1,155 @@
+---
+title: N/A
+date: 2025-05-12
+participants:
+  - id: advisor
+    name: Daniel Brooks
+  - id: client
+    name: Wei Simmons
+---
+
+ADVISOR: [00:00:03] Hi Wei, it’s Daniel Brooks. Thanks for making time today — can you hear me okay?
+
+CLIENT1: [00:00:08] Yeah, I can. Sorry, I was just looking for my glasses. Okay, yes, I’m here.
+
+ADVISOR: [00:00:14] No worries at all. And just to make sure I’ve got the right person, you’re Wei Simmons?
+
+CLIENT1: [00:00:19] That’s right.
+
+ADVISOR: [00:00:21] Great. And your date of birth, just so I’m matching the file correctly?
+
+CLIENT1: [00:00:26] April 18th, 1956.
+
+ADVISOR: [00:00:29] Perfect. And are you still at the same mobile number ending in 0198?
+
+CLIENT1: [00:00:34] Yes, that’s the one. Please don’t say the whole thing out loud, but yes.
+
+ADVISOR: [00:00:39] Of course — I’ve got it. And I understand you’re widowed?
+
+CLIENT1: [00:00:44] Yes. My husband passed away a while back. It’s still strange saying that out loud.
+
+ADVISOR: [00:00:50] I’m sorry. That’s hard. We’ll go at your pace. What I’d like to do today is get a sense of your income, spending, and what you’d like the money to do for you. Sound okay?
+
+CLIENT1: [00:01:00] Yes, that’s fine.
+
+ADVISOR: [00:01:02] Okay. Let’s start with regular income. What comes in each month that you rely on?
+
+CLIENT1: [00:01:09] Social Security is the main one. That’s about twenty-four hundred a month, net.
+
+ADVISOR: [00:01:18] Okay, $2,400 net monthly from Social Security. Anything else steady?
+
+CLIENT1: [00:01:25] I get a teacher pension too. That’s $1,850 a month. Gross, before taxes.
+
+ADVISOR: [00:01:33] Got it — teacher pension, $1,850 gross monthly. And are you taking anything from investments right now?
+
+CLIENT1: [00:01:40] A little, yes. Not a set amount. Maybe about two hundred to four hundred a month from interest and dividends. It goes up and down.
+
+ADVISOR: [00:01:49] Sure, so roughly $200 to $400 a month, depending on what the accounts are doing.
+
+CLIENT1: [00:01:54] Right.
+
+ADVISOR: [00:01:56] And on the spending side, what are your main monthly expenses? The big fixed ones first.
+
+CLIENT1: [00:02:03] Property taxes and insurance together are about nine hundred a month.
+
+ADVISOR: [00:02:08] Okay.
+
+CLIENT1: [00:02:09] Utilities run around two sixty. Sometimes a little more in the summer, but that’s the usual.
+
+ADVISOR: [00:02:16] And healthcare?
+
+CLIENT1: [00:02:19] Medicare supplement and prescriptions are about three twenty a month.
+
+ADVISOR: [00:02:25] Mm-hm. Anything discretionary you like to keep room for — travel, eating out, that sort of thing?
+
+CLIENT1: [00:02:32] Yes, I do want to keep doing that. Around four-fifty a month for travel and dining out, maybe not every single month exactly, but around there.
+
+ADVISOR: [00:02:41] Okay, around $450. That helps. And do you have any mortgage or other debt payments?
+
+CLIENT1: [00:02:47] No mortgage. No debt, actually.
+
+ADVISOR: [00:02:50] Okay, good. That makes things simpler. Let me ask about your accounts now. Do you have any retirement accounts from work?
+
+CLIENT1: [00:02:58] Yes. I still have my old 401(k) from my former employer plan. It’s about four hundred twenty thousand.
+
+ADVISOR: [00:03:07] Okay, $420,000 in the former employer 401(k). And are you still contributing to that, or is that just sitting there now?
+
+CLIENT1: [00:03:14] No, none. I’m retired, so nothing going in.
+
+ADVISOR: [00:03:18] Understood. Any IRA accounts?
+
+CLIENT1: [00:03:22] Yes, one IRA at Vanguard. I have the statement here somewhere — I wrote it down because I always forget the exact number. It’s about two hundred fifteen thousand.
+
+ADVISOR: [00:03:33] Perfect, thank you. So Vanguard IRA, $215,000. And also no new contributions there, I assume?
+
+CLIENT1: [00:03:40] Right, none. I’m not putting anything in.
+
+ADVISOR: [00:03:44] Any annuities or insurance-type retirement income products?
+
+CLIENT1: [00:03:48] Yes, one annuity. I think it’s through an insurance company. It’s roughly ninety-eight thousand, give or take.
+
+ADVISOR: [00:03:57] Got it — roughly $98,000. Do you remember if that one pays anything out now, or is it just the value sitting there?
+
+CLIENT1: [00:04:04] It’s just there right now.
+
+ADVISOR: [00:04:07] Okay. What about savings or non-retirement investments — cash reserves, brokerage, that kind of thing?
+
+CLIENT1: [00:04:14] I keep money at the local credit union in a high-yield savings account. That’s sixty-eight thousand.
+
+ADVISOR: [00:04:22] Okay.
+
+CLIENT1: [00:04:23] And I have a brokerage account at Fidelity. That one’s a little messy because some of it’s in cash. I’d say about one-twenty to one-seventy total.
+
+ADVISOR: [00:04:35] About $120,000 to $170,000 total in the Fidelity brokerage, okay.
+
+CLIENT1: [00:04:40] Yes — and I know roughly fifteen thousand of that is just cash, and about one-thirty is actually invested.
+
+ADVISOR: [00:04:48] That’s helpful. So around $15,000 in cash and about $130,000 invested inside the brokerage.
+
+CLIENT1: [00:04:54] Yes, that sounds right.
+
+ADVISOR: [00:04:57] I want to ask a little about what matters most to you. If we were to make one or two changes, what would you want to improve first?
+
+CLIENT1: [00:05:05] Mostly I want the income to stay steady. I don’t want to have to worry every month about whether I’m spending too much. And I don’t want to draw down savings too fast.
+
+ADVISOR: [00:05:16] That makes sense — predictable income, not burning through assets. Anything else?
+
+CLIENT1: [00:05:22] I also want my affairs to pass smoothly to the people I care about. After my husband died, I realized I need to make sure the beneficiary forms are all in order.
+
+ADVISOR: [00:05:33] Mm-hm. So some estate-planning cleanup, basically.
+
+CLIENT1: [00:05:36] Yes, exactly. I’d like that reviewed, because I don’t want a mess for anyone later.
+
+ADVISOR: [00:05:41] Totally understandable. And where do taxes fit into the picture — is that something you’re actively worried about, or more of a “if we can improve it, great” thing?
+
+CLIENT1: [00:05:51] More the second one, but I do care. If there’s a way to keep taxes lower when I take money out, I’d like that. I just don’t want to do something clever and then regret it.
+
+ADVISOR: [00:06:01] Right, fair enough. Steady income, smoother transfer to beneficiaries, and being tax-aware without taking unnecessary risk.
+
+CLIENT1: [00:06:09] Yes, that’s it.
+
+ADVISOR: [00:06:11] I’m also checking one more personal item, just for the file — I have your phone number, and I don’t think I have an email address on record. Do you want to use one, or is phone best?
+
+CLIENT1: [00:06:22] Phone is best. I don’t really use email much, so let’s leave that off.
+
+ADVISOR: [00:06:27] Okay, no email then. And just so I’m not assuming anything — any children or dependants we should be thinking about in planning?
+
+CLIENT1: [00:06:35] No, none.
+
+ADVISOR: [00:06:37] Okay. That helps. You mentioned your husband earlier — was there a power of attorney or will situation already handled, or do you want to leave that part for another time?
+
+CLIENT1: [00:06:47] I do have those documents in place. The will was updated a few years ago, but I need to review the beneficiary designations now that he’s gone.
+
+ADVISOR: [00:06:57] Got it. So the main action item is reviewing beneficiaries and making sure everything still lines up.
+
+CLIENT1: [00:07:03] Yes, exactly.
+
+ADVISOR: [00:07:06] Okay, Wei. That’s a really solid picture. You’ve got enough income to cover the basics, and then some flexibility for travel and dining, but I can hear why you’d want to keep things steady.
+
+CLIENT1: [00:07:17] Mm-hm. I just want to feel like I’m not guessing all the time.
+
+ADVISOR: [00:07:21] Absolutely. We can work with that. I’ll put together a review focused on income stability, account drawdown order, and the beneficiary checkup.
+
+CLIENT1: [00:07:30] Good. Thank you. That already makes me feel a little better.
+
+ADVISOR: [00:07:34] Of course. We’ll take it one step at a time.

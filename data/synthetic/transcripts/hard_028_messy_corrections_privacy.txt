@@ -1,0 +1,242 @@
+---
+title: N/A
+date: 2025-06-18
+participants:
+  - id: advisor
+    name: Melissa Grant
+  - id: client
+    name: Andrew Edwards
+  - id: client
+    name: Austin Soto
+---
+ADVISOR: [00:00:03] Hi, can you hear me okay?
+
+CLIENT1: [00:00:05] Yeah, loud and clear.
+
+CLIENT2: [00:00:06] Yep, we’re here.
+
+ADVISOR: [00:00:09] Great. Thanks both. I’m Melissa Grant. I’ll just run through the fact-find stuff conversationally, nothing too formal. And just so I’ve got the right people, I’ve got Andrew Edwards and Austin Soto on the call?
+
+CLIENT1: [00:00:19] That’s right.
+
+CLIENT2: [00:00:20] Yep.
+
+ADVISOR: [00:00:22] Perfect. Andrew, can I start with you—what’s your date of birth?
+
+CLIENT1: [00:00:27] Seventeenth of April, 1981.
+
+ADVISOR: [00:00:31] 17 April 1981, okay. And Austin, same question for you?
+
+CLIENT2: [00:00:36] Second of September, 1983.
+
+ADVISOR: [00:00:39] Great, 2 September 1983. And just to confirm, you’re married, yeah?
+
+CLIENT1: [00:00:44] Yeah.
+
+CLIENT2: [00:00:45] Married, yep.
+
+ADVISOR: [00:00:47] And you’re both US tax residents?
+
+CLIENT1: [00:00:50] Yes.
+
+CLIENT2: [00:00:51] Yeah, US.
+
+ADVISOR: [00:00:54] Brilliant. Andrew, what do you do day to day?
+
+CLIENT1: [00:00:59] I’m an operations manager. I work for a regional logistics firm.
+
+ADVISOR: [00:01:04] Okay. And how long have you been there?
+
+CLIENT1: [00:01:07] Since 2016. Started there in 2016.
+
+ADVISOR: [00:01:10] Got it. Austin, what about you?
+
+CLIENT2: [00:01:13] I’m self-employed. Graphic designer. Been doing that full-time since... 2019, I guess.
+
+ADVISOR: [00:01:20] Since 2019, okay. Self-employed graphic designer. Nice. And Andrew, roughly what’s your pay like before tax—salary and anything variable?
+
+CLIENT1: [00:01:30] Salary’s 92k.
+
+ADVISOR: [00:01:33] 92,000, thanks.
+
+CLIENT1: [00:01:35] And bonus is, uh, about 5k a year. Not guaranteed, but usually around there.
+
+ADVISOR: [00:01:40] About five grand bonus, got it. Austin, how about your income—what’s a normal year look like?
+
+CLIENT2: [00:01:47] It varies a lot. I’d say... 60 to 80k gross, depending on projects.
+
+ADVISOR: [00:01:54] Okay, so somewhere in that 60 to 80 range. That makes sense for self-employed work.
+
+CLIENT2: [00:01:58] Yeah, it’s a bit messy sometimes.
+
+ADVISOR: [00:02:00] No, that’s fine. And just household-wise, are there any dependants at home?
+
+CLIENT1: [00:02:05] No.
+
+CLIENT2: [00:02:06] No kids, no.
+
+ADVISOR: [00:02:08] Okay. And what’s the main thing you want help with today? I know people usually have a few moving parts.
+
+CLIENT1: [00:02:15] Mostly retirement, honestly. We want to know if we’re on track.
+
+CLIENT2: [00:02:19] And the debt stuff. We keep going back and forth on whether to pay things off faster or keep investing.
+
+ADVISOR: [00:02:26] Right, that old tug-of-war. And when you say retirement, what does that picture look like for you?
+
+CLIENT1: [00:02:31] Ideally around 65. I’d like to keep our current lifestyle, not have to cut back too much.
+
+CLIENT2: [00:02:37] Yeah, and not burn through savings too quickly. That’s the big fear, I think.
+
+ADVISOR: [00:02:42] Okay, so around 65 and you want the income to feel stable enough that you’re not worrying every month.
+
+CLIENT1: [00:02:47] Exactly.
+
+ADVISOR: [00:02:49] And Austin, are you thinking the same age, or a bit different?
+
+CLIENT2: [00:02:53] Maybe a little later. I’d say 67 for me.
+
+ADVISOR: [00:02:56] 67, okay. So Andrew around 65, Austin around 67. That’s helpful.
+
+CLIENT1: [00:03:01] Yeah.
+
+ADVISOR: [00:03:03] On the savings side, do you have cash set aside for emergencies or near-term plans?
+
+CLIENT2: [00:03:08] We do. There’s a joint savings account at Ally.
+
+ADVISOR: [00:03:12] Ally, okay.
+
+CLIENT1: [00:03:13] I think it’s about 38k.
+
+ADVISOR: [00:03:16] 38,000 in the high-yield savings, got it.
+
+CLIENT2: [00:03:18] Yeah, that sounds right.
+
+ADVISOR: [00:03:20] And is that the main buffer you want to keep intact?
+
+CLIENT1: [00:03:24] Yeah, definitely. We don’t want to wipe that out.
+
+CLIENT2: [00:03:27] That’s kind of our safety net.
+
+ADVISOR: [00:03:30] Understood. Andrew, do you have any retirement plan through work?
+
+CLIENT1: [00:03:35] Yeah, I’ve got the 401(k) through my employer.
+
+ADVISOR: [00:03:38] Okay, and do you know roughly what that’s worth?
+
+CLIENT1: [00:03:42] Uh, I checked it this morning actually. It was around 214k.
+
+ADVISOR: [00:03:46] 214,000. And are you still contributing to it?
+
+CLIENT1: [00:03:49] Yeah, 6% from me, and they match 4%.
+
+ADVISOR: [00:03:53] Right, 6% employee and 4% employer match. And you mentioned you had the plan reference handy?
+
+CLIENT1: [00:03:58] Yeah, I’ve got the reference from the statement, but I don’t think I need to read the whole thing out.
+
+ADVISOR: [00:04:02] No, that’s fine, just wanted to make sure we’d captured the account correctly.
+
+CLIENT2: [00:04:06] I’ve got one too, but mine’s not through work.
+
+ADVISOR: [00:04:10] Okay—tell me about yours.
+
+CLIENT2: [00:04:12] It’s a SEP IRA with Vanguard.
+
+ADVISOR: [00:04:15] Vanguard, got it. And what’s the current value roughly?
+
+CLIENT2: [00:04:19] 87k.
+
+ADVISOR: [00:04:21] 87,000, thanks. And what are you putting in there?
+
+CLIENT2: [00:04:25] About 700 a month.
+
+ADVISOR: [00:04:28] Okay, 700 per month. Good. Any other investing accounts outside those?
+
+CLIENT1: [00:04:34] I’ve got a brokerage account at Fidelity.
+
+ADVISOR: [00:04:37] Fidelity, okay.
+
+CLIENT1: [00:04:39] It’s... roughly 100 to 150k. Sorry, I’m trying to remember the exact split.
+
+ADVISOR: [00:04:44] No worries, we can work with a range.
+
+CLIENT1: [00:04:46] There’s about 15k in cash in there, and the rest is invested.
+
+ADVISOR: [00:04:50] So roughly 125k total, with 15k cash and about 110k invested. That’s helpful.
+
+CLIENT2: [00:04:55] I’ve also got a Schwab investment fund.
+
+ADVISOR: [00:04:58] Schwab, okay. And around what value is that?
+
+CLIENT2: [00:05:01] 24k.
+
+ADVISOR: [00:05:03] 24,000, got it. Thanks. Let’s talk through debts, because that’s part of the tradeoff you mentioned. Do you have a mortgage?
+
+CLIENT1: [00:05:11] Yeah, joint mortgage. Wells Fargo.
+
+ADVISOR: [00:05:14] Wells Fargo, okay. Roughly what’s the payment and balance?
+
+CLIENT1: [00:05:18] Payment’s 2,450 a month.
+
+CLIENT2: [00:05:21] Balance is about 412k.
+
+ADVISOR: [00:05:24] 412,000 outstanding. And the rate?
+
+CLIENT1: [00:05:27] 6.125%.
+
+ADVISOR: [00:05:29] Okay, 6.125. Thanks. Andrew, any car finance?
+
+CLIENT1: [00:05:34] Yeah, Toyota Financial.
+
+ADVISOR: [00:05:36] Okay.
+
+CLIENT1: [00:05:37] It’s 410 a month, balance is 16.8k... sorry, 16.8 thousand.
+
+ADVISOR: [00:05:43] No, that’s fine. And rate on that one?
+
+CLIENT1: [00:05:46] 5.9%.
+
+ADVISOR: [00:05:48] Great. Austin, anything in your name?
+
+CLIENT2: [00:05:52] Yeah, a Chase credit card.
+
+ADVISOR: [00:05:55] Okay. What’s that at?
+
+CLIENT2: [00:05:57] About 7,200.
+
+ADVISOR: [00:05:59] 7,200 outstanding. And what do you pay toward it monthly?
+
+CLIENT2: [00:06:03] Usually 250 a month.
+
+ADVISOR: [00:06:05] Got it. No need to go line by line, but that helps. You mentioned you’re torn between paying debt down and investing—what’s the emotional part of that for you? Is it the interest cost, or just wanting more breathing room?
+
+CLIENT1: [00:06:18] Breathing room, mostly. I hate feeling stretched.
+
+CLIENT2: [00:06:22] And if the market drops, I get nervous thinking we should’ve just paid stuff off instead.
+
+ADVISOR: [00:06:27] Yeah, that makes sense. So it’s not about chasing huge returns, more about balance and not wanting big swings.
+
+CLIENT2: [00:06:32] Exactly. I’m okay with some ups and downs, just not aggressive.
+
+CLIENT1: [00:06:36] Balanced feels right.
+
+ADVISOR: [00:06:38] Okay, balanced growth with a cash buffer. That’s a pretty sensible middle ground. Are there any other regular monthly costs that matter a lot—things you always want to keep in view?
+
+CLIENT2: [00:06:48] Utilities are about 320 a month.
+
+ADVISOR: [00:06:51] 320 for utilities, okay.
+
+CLIENT2: [00:06:53] And then I usually set aside maybe 5 to 7 hundred a month for travel and, well, some activities we do... I mean, trips and that sort of thing.
+
+ADVISOR: [00:07:02] Okay, so around 500 to 700 a month for travel and activities. That’s useful. Anything else you want to make sure we understand before I start pulling this together?
+
+CLIENT1: [00:07:12] Just... we don’t want to overcomplicate it. I want to know if we’re doing the right things.
+
+CLIENT2: [00:07:17] And if we should change anything with taxes or accounts, because I feel like we might be missing something.
+
+ADVISOR: [00:07:23] Yep, that’s fair. So the main themes I’m hearing are retirement at 65 and 67, keeping the emergency cash intact, deciding whether extra money goes to debt or investing, and making the account mix a bit more tax-efficient.
+
+CLIENT1: [00:07:35] Yeah, that’s it.
+
+CLIENT2: [00:07:37] Sounds right.
+
+ADVISOR: [00:07:39] Great. We’ll take it from there.

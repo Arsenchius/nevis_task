@@ -1,0 +1,118 @@
+---
+title: N/A
+date: 2026-05-13
+participants:
+  - id: advisor
+    name: Megan Hart
+  - id: client
+    name: Connor Mitchell
+---
+ADVISOR: [00:00:03] Hi Connor, it’s Megan Hart. Thanks for making the time today — can you hear me okay?
+
+CLIENT1: [00:00:09] Yeah, loud and clear.
+
+ADVISOR: [00:00:12] Great. And just to start us off, can I take your full name and date of birth?
+
+CLIENT1: [00:00:18] Sure — Connor Mitchell. Date of birth is 4/17/81.
+
+ADVISOR: [00:00:25] Perfect, thanks. And what’s the best mobile number for you?
+
+CLIENT1: [00:00:29] It’s 415-555-0198.
+
+ADVISOR: [00:00:33] Thanks. Are you single, married, partnered — what’s your current relationship status?
+
+CLIENT1: [00:00:39] Single.
+
+ADVISOR: [00:00:41] Okay. And you’re the only person on the call today, right? No spouse or partner joining in?
+
+CLIENT1: [00:00:46] Right, just me.
+
+ADVISOR: [00:00:49] Got it. What do you do for work these days?
+
+CLIENT1: [00:00:54] I’m an operations manager.
+
+ADVISOR: [00:00:57] And who are you with?
+
+CLIENT1: [00:00:59] Northstar Logistics.
+
+ADVISOR: [00:01:01] Okay, Northstar Logistics. How long have you been there?
+
+CLIENT1: [00:01:06] Since 2017. Yeah, started in 2017.
+
+ADVISOR: [00:01:10] And are you a US tax resident?
+
+CLIENT1: [00:01:13] Yes.
+
+ADVISOR: [00:01:15] Good. Thanks. What’s your pay like currently — just your base salary, and then if there’s any bonus on top?
+
+CLIENT1: [00:01:24] Base is 72 grand a year. And bonus is usually about 3k a year. Not huge, but it’s something.
+
+ADVISOR: [00:01:33] Yeah, sure. So about $72,000 salary and around $3,000 bonus annually, gross?
+
+CLIENT1: [00:01:39] Yeah, gross.
+
+ADVISOR: [00:01:41] Okay. Talk me through your monthly spending a bit — what are the big fixed costs you’re carrying right now?
+
+CLIENT1: [00:01:49] Rent is 1850 a month. Utilities are about 240. Groceries, maybe 520. Gas and commuting, around 180.
+
+ADVISOR: [00:02:00] Okay, that helps. Anything else that’s a regular essential cost?
+
+CLIENT1: [00:02:05] Uh... yeah, minimum payments on my credit cards. That’s 430 a month.
+
+ADVISOR: [00:02:11] Right, got it. So the debt payment is part of the monthly essentials for now. And just to be clear, you don’t have a mortgage or anything like that, correct?
+
+CLIENT1: [00:02:18] No mortgage, no.
+
+ADVISOR: [00:02:20] Okay. Let’s talk about savings for a second — what do you have set aside at the moment?
+
+CLIENT1: [00:02:27] Not much, honestly. I’ve got about 1800 in savings.
+
+ADVISOR: [00:02:32] Okay, $1,800. Thanks for being straight about it — a lot of people are in the same boat. Any other cash accounts or investments you’re using day to day?
+
+CLIENT1: [00:02:41] No, just that savings account.
+
+ADVISOR: [00:02:44] Okay. And you mentioned the debt payments — can you tell me what’s behind those? Roughly how much is on the credit cards, and is there anything else like a personal loan?
+
+CLIENT1: [00:02:56] Yeah, there’s credit card debt. It’s about 16,800 total. The minimum is 430 a month.
+
+ADVISOR: [00:03:04] Okay.
+
+CLIENT1: [00:03:05] And I’ve also got a personal loan. That one’s 9200 left, and I pay 285 a month on it.
+
+ADVISOR: [00:03:12] Got it. Do you know the rate on either of those, or at least the card rate?
+
+CLIENT1: [00:03:17] The card’s nasty — 24.9%. The personal loan is 11.5%.
+
+ADVISOR: [00:03:23] Oof, yeah, that card rate is heavy. No judgment — just means we’ll want to be pretty deliberate about what gets tackled first. What’s the main thing you want to achieve right now?
+
+CLIENT1: [00:03:34] Honestly? Pay off the credit card and the loan as fast as possible. I’m tired of the monthly drain.
+
+ADVISOR: [00:03:40] Yeah, that makes sense. Is the goal mainly to free up cash flow, or is it more that you don’t want to take on any new debt at all?
+
+CLIENT1: [00:03:48] Both, really. I want the monthly burden down, and I really don’t want to borrow more.
+
+ADVISOR: [00:03:54] Understood. And once the debt’s under control, what would you want to do next with the money that frees up?
+
+CLIENT1: [00:04:01] I’d like to build a small emergency fund. Maybe 5k. I know that’s not huge, but it would make me feel better.
+
+ADVISOR: [00:04:08] No, that’s a very sensible target. So about $5,000 in emergency savings after the debt is sorted.
+
+CLIENT1: [00:04:14] Yeah.
+
+ADVISOR: [00:04:15] When you think about the debt, what worries you most — the interest, the monthly pressure, or just feeling stuck?
+
+CLIENT1: [00:04:23] Mostly feeling stuck. Like I’m working and still not getting ahead.
+
+ADVISOR: [00:04:28] Yeah, I hear that. And just so I’m not missing anything — no other loans, no car finance, nothing like that?
+
+CLIENT1: [00:04:35] No, nothing else.
+
+ADVISOR: [00:04:37] Okay. And you don’t need to think about retirement stuff today, we can leave that aside for now.
+
+CLIENT1: [00:04:42] Yeah, that’s fine. I just want to get the debt under control first.
+
+ADVISOR: [00:04:46] Absolutely. And if I’m hearing you right, you’re working, stable income, but cash flow’s tight because of the debt and you’ve only got a small cushion.
+
+CLIENT1: [00:04:54] That’s exactly it.
+
+ADVISOR: [00:04:56] All right. That gives me a clear picture, Connor. We can work with that.

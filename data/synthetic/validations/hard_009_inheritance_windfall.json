@@ -1,0 +1,26 @@
+{
+  "is_valid": false,
+  "failure_reasons": [
+    "suppression_leak"
+  ],
+  "coverage_issues": [],
+  "suppression_leaks": [
+    {
+      "section": "pensions_retirement",
+      "timestamp": "00:09:16",
+      "offending_text": "CLIENT2: Just a Roth IRA — sorry, just that one account. It’s around 39,000."
+    },
+    {
+      "section": "pensions_retirement",
+      "timestamp": "00:09:21",
+      "offending_text": "ADVISOR: Okay, about $39,000. Thanks."
+    },
+    {
+      "section": "pensions_retirement",
+      "timestamp": "00:10:33",
+      "offending_text": "ADVISOR: Okay — and I’ll note the house, the Cedar Bank savings, Steven’s brokerage, Thomas’s Roth IRA, and the inheritance from the aunt’s estate."
+    }
+  ],
+  "hallucinations": [],
+  "localization_issues": []
+}
